@@ -1,0 +1,100 @@
+
+html
+{
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  min-width: 960px;
+}
+
+.badge
+{
+  height: 200px;
+  position: relative;
+}
+
+.logo
+{
+  background-image: url('../images/logo.png');
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 140px;
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 185px;
+}
+
+.contact-info
+{
+  display: inline-block;
+  margin-top: 90px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+.nav
+{
+  position: relative;
+}
+
+.secondary-nav
+{
+  margin-left: 150px;
+  margin-top: 20px;
+  height: 70px;
+  width: 405px;
+}
+
+.secondary-nav-bar
+{
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  height: 2em;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.secondary-nav-bar a
+{
+  display: inline-block;
+  padding-top: 0.5em;
+  padding-left: 1.3em;
+}
+
+.primary-nav
+{
+  margin-left: 20px;
+  margin-top: 50px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.primary-nav .divider
+{
+  background-color: black;
+  display: inline-block;
+  height: 0.85em;
+  margin-left: 0.3em;
+  margin-right: 0.3em;
+  width: 1px;
+}
+
+.main
+{
+  background-color: #BAD5EB;
+}
+
+h2
+{
+  color: #4B90DE;
+}
+
+.events
+{
+  margin-left: 40px;
+}
+
+.info-bar a
+{
+  display: block;
+}
