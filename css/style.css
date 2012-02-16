@@ -3,7 +3,7 @@ html
 {
   font-family: Arial, sans-serif;
   font-size: 12px;
-  min-width: 960px;
+  min-width: 1024px;
 }
 
 .badge
@@ -17,10 +17,10 @@ html
   background-image: url('../images/logo.png');
   background-repeat: no-repeat;
   display: inline-block;
-  height: 140px;
-  margin-left: 50px;
-  margin-top: 50px;
-  width: 185px;
+  height: 139px;
+  margin-left: 20px;
+  margin-top: 30px;
+  width: 325px;
 }
 
 .contact-info
@@ -38,17 +38,16 @@ html
 
 .secondary-nav
 {
-  margin-left: 150px;
   margin-top: 20px;
-  height: 70px;
-  width: 405px;
+  height: 150px;
+  width: 95%;
 }
 
 .secondary-nav-bar
 {
-  background-color: black;
   color: white;
-  font-size: 14px;
+  font-size: 10px;
+  font-weight: bold;
   height: 2em;
   margin-bottom: 10px;
   position: relative;
@@ -56,27 +55,40 @@ html
 
 .secondary-nav-bar a
 {
+  background-color: black;
   display: inline-block;
+  padding-bottom: 0.5em;
+  padding-left: 0.6em;
   padding-top: 0.5em;
-  padding-left: 1.3em;
+  padding-right: 0.6em;
+}
+
+.secondary-nav-bar a:first-of-type
+{
+  padding-left: 1.5em;
+}
+
+.secondary-nav-bar a+a
+{
+  margin-left: -0.3em;
+}
+
+.secondary-nav .login
+{
+  background-color: white;
+  color: black;
+  margin-left: 1em;
 }
 
 .primary-nav
 {
-  margin-left: 20px;
-  margin-top: 50px;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: bold;
 }
 
-.primary-nav .divider
+.primary-nav a+a
 {
-  background-color: black;
-  display: inline-block;
-  height: 0.85em;
-  margin-left: 0.3em;
-  margin-right: 0.3em;
-  width: 1px;
+  margin-left: 1.5em;
 }
 
 .main
