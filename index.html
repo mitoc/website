@@ -29,8 +29,8 @@
     <div class="primary-nav">
       <a>JOIN A TRIP</a>
       <a>LEAD A TRIP</a>
-      <a>EVENTS</a>
-      <a>ACTIVITIES</a>
+      <a id="events">EVENTS</a>
+      <a id="activities">ACTIVITIES</a>
       <a>RENTALS</a>
     </div>
   </div>
@@ -42,7 +42,15 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript">
   jQuery(function($) {
-    $('.main').load('html/winter.html');
+    $('#events').on('click', function() {
+      $('.main').load('html/winter.html');
+    });
+
+    $('#activities').on('click', function() {
+      $('.main').load('html/hiking.html');
+    });
+
+    $('#events').trigger('click');
   });
 </script>
 </body>

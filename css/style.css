@@ -91,12 +91,17 @@ html
   margin-left: 1.5em;
 }
 
-.main
+.winter
 {
   background-color: #BAD5EB;
 }
 
-h2
+.hiking
+{
+  background-color: #DDDFD5;
+}
+
+.winter h2
 {
   color: #4B90DE;
 }
