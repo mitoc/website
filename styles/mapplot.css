@@ -1,0 +1,93 @@
+
+
+div#whole_map
+{
+	border: 1px solid black; 
+	padding-top: 6px; 
+	padding-bottom: 2px; 
+	padding-left: 2px; 
+	width: 600px;
+	margin: auto;
+	-moz-box-shadow: 3px 3px 4px #000;
+	-webkit-box-shadow: 3px 3px 4px #000;
+	box-shadow: 3px 3px 4px #000;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+div#sidebar
+{
+	width: 200px;
+	height: 458px;
+	overflow: auto;
+	float: left;
+}
+
+div#sidebar div
+{
+	overflow: auto;
+	font-size: 14px;
+	color: #000000;
+}
+
+div#sidebar div div a
+{
+	font-size: 12px;
+	color: blue;
+	text-decoration: none;
+}
+
+div.map_popup
+{
+	width: 250px;
+}
+
+div#sidebar div.state
+{
+	margin-bottom: 6px;
+}
+
+div#sidebar div div.state-label
+{
+	border-bottom: 1px solid black;
+}
+
+div#sidebar div div div.entry
+{
+	padding-left: 4px;
+}
+
+div#sidebar div div span.parking
+{
+	font-size: 11px;
+}
+
+div#sidebar div div a
+{
+	color: blue;
+	text-decoration: none;
+}
+
+
+div#sidebar div a:hover
+{
+	color: red;
+	text-decoration: underline;
+}
+
+div#map_border
+{
+	width: 390px;
+	font-family: Arial, sans-serif;
+	font-size: 11px;
+	border: 1px solid black; 
+	float: left;
+}
+
+div#g_map
+{
+	width:390px;
+	height:450px
+}

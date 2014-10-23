@@ -1,0 +1,25 @@
+
+<div class='summer'>
+
+<div class="info-bar yui3-u-1-3">
+<!--#include virtual="/mitoc/web/activities/paddle/sidebar.html" -->
+</div>
+
+<div class="content yui3-u-7-12">
+
+<h1>Float Form</h1>
+<div class="pic_bar">
+  <div class="pic"><img src="activities/paddle/canoeing-pic/canoe1.jpg" alt=""></img></div>
+  <div class="pic"><img src="activities/paddle/whitewater-pic/pic2.jpg" alt=""></img></div>
+  <div class="pic"><img src="activities/paddle/seakayaking-pic/pic3.jpg" alt=""></img></div>
+  <div class="pic"><img src="activities/paddle/canoeing-pic/canoe4.jpg" alt=""></img></div>
+    <div style="clear: both"></div>
+</div>
+
+<p>In order to lead a paddling trip it is required that you fill out the following form
+and obtain approval from the floating committee.
+</p>
+
+<p>
+<iframe src="https://docs.google.com/forms/d/1k0xeCgShE5cr1ET8lLdr1ncBQgk9AkuHrO7apj1nZrI/viewform?embedded=true" width="650" height="800" frameborder="1" marginheight="0" marginwidth="0" id="leader_form_frame" name="leader_form_frame" >Loading...</iframe>
+</p>

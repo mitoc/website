@@ -1,0 +1,112 @@
+span.trip_name
+{
+  color: black;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+span.trip_name a
+{
+  color: black;
+}
+
+div.tripsignup table
+{
+	border: 1px solid black;
+}
+
+div.tripsignup table td , div.tripsignup table th
+{
+	border: 1px solid black;
+}
+
+div.tripsignup table.email_table
+{
+	border: 0px;
+}
+
+div.tripsignup table.email_table td , div.tripsignup table.email_table th
+{
+	border: 0px;
+}
+
+div.tripsignup hr
+{
+  margin-bottom: 10px;
+}
+
+div.tripsignup th
+{
+	text-align: left;
+	font-size:14px;
+	width: 140px;
+}
+
+div.tripsignup td
+{
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 11px;
+}
+
+div.tripsignup div.content
+{
+}
+
+table.signed_up th.remove , table.signed_up td.remove
+{
+	text-align: center;
+	color: green;
+	font-size: 10px;
+	width: 4%;
+}
+
+table.signed_up td.remove a
+{
+	color: green;
+	font-size: 10px;
+}
+
+table.signed_up th.email , table.signed_up td.email
+{
+	padding-left: 5px;
+	color: blue;
+	width: 28%;
+}
+
+table.signed_up td.email a
+{
+	color: blue;
+}
+
+table.signed_up th.time , table.signed_up td.time
+{
+/*	text-align: center; */
+	padding-left: 4px;
+	width: 20%;
+}
+
+table.signed_up th.notes , table.signed_up td.notes
+{
+	width: 48%;
+	padding-left: 4px;
+}
+
+/*
+table.signed_up {	border: groove #183b66;
+			border-collapse: collapse;
+			font: small sans-serif;
+}		
+table.signed_up th {	border: thin solid #183b66;
+			color: #122b4b;
+			text-align: center;		
+}
+table.signed_up td {	border: thin solid #183b66;
+			color: black;
+			text-align: center;		
+}
+	*/
+/*table.signed_up td.justify {text-align: justify;} */
+
+

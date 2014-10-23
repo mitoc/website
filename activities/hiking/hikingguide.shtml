@@ -1,0 +1,168 @@
+<link rel="stylesheet" type="text/css" href="styles/mapplot.css" />
+<script type="text/javascript" src="javascript/hikingmapplot.js"></script>
+
+<div class='summer'>
+
+<!--#include virtual="/mitoc/web/activities/hiking/sidebar.html" -->
+
+<div class="content yui3-u-7-12">
+<h1>Hiking Guide</h1>
+<div class="pic_bar">
+  <div class="pic"><img src="activities/hiking/hiking-pic/pic1.jpg" alt=""></img></div>
+  <div class="pic"><img src="activities/hiking/hiking-pic/pic2.jpg" alt=""></img></div>
+  <div class="pic"><img src="activities/hiking/hiking-pic/pic3.jpg" alt=""></img></div>
+  <div class="pic"><img src="activities/hiking/hiking-pic/pic4.jpg" alt=""></img></div>
+    <div style="clear: both"></div>
+</div>
+
+<h2>MITOC Leaders' Top Hikes</h2>
+<div id="whole_map">
+	<div id="sidebar"></div>
+	<div id="map_border" ><div id="g_map" ></div></div>
+	<div style="clear: both"></div>
+</div>
+<script type="text/javascript">
+	var param_wsId = "1";
+	var param_ssKey = "0AgyR4F97hjpXdHppbmFnYWFHS2Q3TW9CWkFkRWQ5cVE"
+	setTimeout("initialize_hiking_map('g_map');", 750);
+</script>
+
+<h2>White Mountains</h2>
+
+<p>Several White Mountains trips are documented above.
+The standard guide to the Whites is the AMC (Appalachian Mountain Club)
+<a href="http://www.outdoors.org/publications/books/wmg/white-mtn-guide-online.cfm">White Mountain Guide</a> available in most stores or in the MITOC library.
+
+<a name="notransit"></a>
+</p><h2>No Transit Needed</h2>
+For people without cars or time or with too many environmental scruples 
+to drive to northern New Hampshire:
+<ul>
+<li><b>The Charles River:</b>
+Walk, run or ride the bike/footpath upriver.  If you
+go all the way to Watertown Square and back, too (instead of taking the
+bus back to Central) you've done thirteen miles.  May not be safe after dark
+on the stretch near MIT -- so bus back from Harvard. 
+<p>Possible sidetrips  -- <br>
+(a) Harvard <br>
+(b) Mount Auburn Cemetery (turn north on Fresh Pond Parkway from Eliot Bridge
+to Mount Auburn Street, take this west to cemetery gate).  This is like an
+arboretum -- walking is encouraged and the tower has a great view, especially
+in foliage season.  Lots of rhodoendron and azalea in spring, too.  Bikes must
+be walked. Buses 71 and 73 will take you to the gate from the bus cave 
+connecting with the Harvard red line T stop.
+
+</p></li><li><b>Boston Green Spaces:</b> Another long walk or run is up Boston's Emerald Necklace, a strip of
+parks including the Boston Common, Public Garden, Back Bay Fens,
+Riverway, Olmstead Park, Jamaica Pond, Arnold Arboreteum, and Franklin
+Park.  There's a bikepath along Riverway, Olmstead Park, and Jamaica
+Pond.  If you're homesick, you may find some trees from home among the
+well kept collection of temperate trees in the Arnold Arboreteum; it
+also has three hills with views of Boston.  Franklin Park offers some
+woody hills (MIT's cross country teams run here), horseback riding,
+and a small zoo and golf course.  You can return by retracing your
+route on the other side of the stream; or via the Orange Line T from
+Forest Hills station; there is also an urban bikepath following the
+Orange Line to Back Bay station.  When the weather isn't freezing,
+water fountains can be found at Jamaica Pond and Arnold Arboreteum. { Carl Manning (caroma@mit.edu)}
+</li></ul>
+
+<a name="publictransit"></a>  
+<h2>Accessible By Public Transit</h2>
+<ul>
+<li><a href="http://www.concordcoachlines.com/" target="_top">Concord Coach Lines</a> 
+has buses to the White Mountains, one that goes up Rte 
+93 to places like Plymouth, Lincoln, Franconia, and one that goes up Rte
+16 to Conway, N Conway, Pinkham Notch, and Berlin.
+</li>
+
+<li>The <a href="http://www.outdoors.org/lodging/lodging-shuttle.cfm" target="_top">AMC</a>
+runs hiker shuttles in the White Mountains. Also check out their 
+<a href="http://www.amcboston.org/" target="_top">
+Boston Chapter web page</a>
+or stop by their headquarters at 5 Joy St in Boston.
+</li>
+
+<li><b>Lincoln-Concord public lands</b> with plenty of trails for a day hike,
+which can include swimming at Walden Pond.  Take T from Kendall to Porter 
+(or else walk to North Station) to take the Fitchburg Commuter Line to 
+Lincoln.  Driving to the parking lot there is possible;
+there's also a parking lot on 117, north side, a mile or two west of 126.
+Trail map may be purchased (and bikes rented) at Linclon Guides, across road
+from the railroad stop parking lot. 
+
+</li><li><b>Middlesex Fells:</b> Walk up hill from Oak Grove orange line stop, past 
+Malden Center, to blue Cross Fells Trail, which connects with trail network
+with enough walking for a moderate dayhike; views of skyline.  Maps 
+available from Friends of the Fells (call their office in Medford to buy
+a map) or elses weekdays at the Reservation office on Woodland Road.
+
+</li><li><b>Blue Hills Reservation:</b> The Blue Hills Reservation straddles
+Quincy and Milton.  The Blue Hills has a surprising variety of terrain,
+including rock climbing and views of the Boston skyline.  From the
+Quincy Center T, there is a bus line (238 or 240)  which goes tangent to the
+Blue Hills.  Get off at Shea Rink and find the trailhead near the road
+at the far side of the parking lot from the rink; there will be a
+bulletin board with a posted map and other information.  (I think they
+also permit mountain biking on designated trails, but I haven't done it
+and don't know the details.) (by Bob Rogers) 
+
+<p>At the Blue Hills Reservation Headquarters you can get color maps of
+hiking trails of the Blue Hills for $2 dollars.  Reservation
+headquarters is in the section of the Blue Hills between routes 138
+and 28, on Hillside St.  between Houghton Pond the intersection with
+Unquity Rd., in a wood structure up the hill behind the police station
+parking.
+
+</p><p><b>Mountain Biking</b> is permitted on most of the dirt roads and
+many of the trails in the sections of the Blue Hills between route 138
+and route 28.  There is a free pamphlet "Mountain Biking in the Blue
+Hills" available at the Reservation headquarters which maps these
+sections, and indicates which trails are off limits (due to habitat
+and safety concerns).  The off limits trails are also marked with no
+bikes signs (bike with slash through it).
+
+
+</p></li><li><b>Books:</b><br>
+<u>Car-Free in Boston</u>, by the Association for Public Transportation<br>
+<u>AMC guide to Country Walks Near Boston</u>, by Alan Fisher<br>
+<u>More Country Walks Near Boston</u>, by William Scheller
+</li>
+</ul>
+
+<a name="shortdrive"></a>
+<h2>A Short Drive Away</h2>
+Need car, but closer than northern New Hampshire:
+<ul>
+<li><b>Mt. Monadnock</b> - 
+Wapack Trail (east of Mt. Monadnock, MA line northward).  21 miles maximum.
+Sunapee-Monadnock trailway (Maps for this and the Wapack can be bought at
+the AMC headquarters on Beacon Hill, among other places. Dayhike or backpack. 
+Squam Range -- Southern fringe of White Mountains, where some other trails
+too are described in the AMC White Mountain Guide.  Great fall colors, 
+overlooking Squam Lake (where 'On Golden Pond' was filmed), as those who
+were with me last fall circus on our way back from Camelot can testify.
+
+</li><li><b>Mount Moosilaukee</b>
+<ol>
+<li>take 93 N to  exit 32
+</li><li>at bottom of ramp take right
+</li><li>drive over little bridge straight through lights and onto 112
+</li><li>stay on 112 for ~6-8 miles then turn off left on Sawyer highway (Rt
+118)
+</li><li>Up this bouncy road ~12mi over crest
+</li><li>on the way back down look for ravine Rd on the right.
+</li><li>Turn onto Ravine Rd and up that dirt road to end.    
+</li></ol>
+DO NOT PARK IN TURN AROUND!
+Trailhead is at the end of the dirt road. I recommend Gorge Brook up,
+Carriage Rd combined with Snapper down. This mountain is 4802ft (1460m)
+butit starts at 1500ft (450m). The hike goes along a stream into a ravine
+thusly carved then sharply up yielding spectacular views of the whites
+from a southerly angle. It is the southern-most 4000 footer. A moderate hike.
+</li></ul>
+</div>
+
+</div>
+</div>
+

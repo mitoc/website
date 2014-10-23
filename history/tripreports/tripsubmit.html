@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>Trip Report Submission Form</title>
+</head>
+
+<body>
+<h1>Trip Report Submission Form</h1>
+
+<FORM ACTION="tripsubmitter" METHOD="GET">
+
+Please fill out the following form to submit a trip report to
+be added to the MITOC archives.</p>
+
+<b>Trip Name:</b> This should be a simple phrase that describes the
+trip and will make it easier to find in the archives.  Examples
+include: "Fall Circus 1997", "Bill and Jane's Christmas Canoe Trip", etc. </p>
+
+<ul>
+Trip Name:
+<INPUT TYPE="TEXT" NAME="TripName" SIZE="40"></p>
+</ul>
+
+<b>Location:</b> Where did you go? </p>
+
+<ul>
+Location:
+<INPUT TYPE="TEXT" NAME="Location" SIZE="40"></p>
+</ul>
+
+<b>Trip Start/Finish Day:</b> When did the trip take place?  If the
+trip was only one day long, just put in the same date for both the
+start day and the finish day. </p>
+
+<ul>
+Trip Start Day:
+<SELECT NAME="StartMonth">
+<option>January <option>February <option>March 
+<option>April <option>May <option>June <option>July
+<option>August <option>September <option>October
+<option>Novemeber <option>December
+</SELECT>
+<SELECT NAME="StartDay">
+<option>1<option>2<option>3<option>4<option>5<option>6
+<option>7<option>8<option>9<option>10<option>11<option>12
+<option>13<option>14<option>15<option>16<option>17
+<option>18<option>19<option>20<option>21<option>22
+<option>23<option>24<option>25<option>26<option>27
+<option>28<option>29<option>20<option>31
+</SELECT> 
+<SELECT NAME="StartYear">
+<option>1995<option>1996<option>1997<option selected>1998
+<option>1999<option>2000
+</SELECT></p>
+Trip Finish Day:
+<SELECT NAME="FinishMonth">
+<option>January <option>February <option>March 
+<option>April <option>May <option>June <option>July
+<option>August <option>September <option>October
+<option>Novemeber <option>December
+</SELECT>
+<SELECT NAME="FinishDay">
+<option>1<option>2<option>3<option>4<option>5<option>6
+<option>7<option>8<option>9<option>10<option>11<option>12
+<option>13<option>14<option>15<option>16<option>17
+<option>18<option>19<option>20<option>21<option>22
+<option>23<option>24<option>25<option>26<option>27
+<option>28<option>29<option>20<option>31
+</SELECT> 
+<SELECT NAME="StartYear">
+<option>1995<option>1996<option>1997<option selected>1998
+<option>1999<option>2000
+</SELECT></p>
+</ul>
+
+<b>Reporter Info:</b> We'd also like to know who you are (the person
+making this trip report).  Please include your email address as well. </p>
+
+<ul>
+Reporter Name:
+<INPUT TYPE="TEXT" NAME="ReporterName" SIZE="30"> </p>
+Email Address:
+<INPUT TYPE="TEXT" NAME="ReporterEmail" SIZE="30"> </p>
+</ul>
+
+<b>Participants:</b> Please list all the people who went on the trip. </p>
+
+<ul>
+Participants: </p>
+<TEXTAREA NAME="Participants" ROWS=6 COLS=30> 
+</TEXTAREA> </p>
+</ul>
+
+<b>Description:</b> Describe the trip.  Feel free to write as much or as
+little as you want.  Include any good stories, lessons learned, hardships
+encountered, etc. </p>
+
+<ul>
+Description: </p>
+<TEXTAREA NAME="Description" ROWS=20 COLS=60> 
+</TEXTAREA> </p>
+</ul>
+
+<INPUT TYPE="submit" VALUE="Submit trip"> </p> 
+</FORM> 
+</body>
+</html>

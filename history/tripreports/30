@@ -1,0 +1,151 @@
+Received: from PACIFIC-CARRIER-ANNEX.MIT.EDU by po10.MIT.EDU (5.61/4.7) id AA26847; Thu, 5 Mar 98 05:53:23 EST
+Received: from mrin52.mx.aol.com by MIT.EDU with SMTP
+	id AA01240; Thu, 5 Mar 98 05:52:12 EST
+Received: (from root@localhost)
+	  by mrin52.mail.aol.com (8.8.5/8.7.3/AOL-2.0.0)
+	  id FAA13182;
+	  Thu, 5 Mar 1998 05:48:33 -0500 (EST)
+Date: Thu, 5 Mar 1998 05:48:33 -0500 (EST)
+From: NicoCauchy@aol.com
+Message-Id: <980305054833_1702410867@mrin52>
+To: anderson@ilp.mit.edu, bloomquist@ilp.mit.edu,
+        bon@MIT.EDU (bonniewaltersadmin),
+        clroyer@MIT.EDU (candieroyerathletics),
+        dbarnes@MIT.EDU (derrickbarnesphysplant),
+        dkeokij@alum.mit.edu (keokijanaeero-astro),
+        dnewman@MIT.EDU (davaaeroastro),
+        gvkelly@MIT.EDU (gordonkellyathletics),
+        jjijina@alpjj.harvard.edu (jasminmitalumassn),
+        langdal@MIT.EDU (danlangdale),
+        oaf@martigny.ai.mit.edu (odedanoaffeingold),
+        rhwill@MIT.EDU (rosalindwilliams), amorange@MIT.EDU (arnaudmorange),
+        bmuller@rocketmail.com (bernardmuller), Bvdafery@aol.com,
+        cercle@MIT.EDU, clotilde_armand@ptcg.com, codur@hsph.harvard.edu,
+        Cottarel@mitotix.com, Crstrain@aol.com, DMartin211@aol.com,
+        elisseef@arctic.mit.edu (pierreelisseef),
+        emarco@MIT.EDU (emmanuelmarcovitch), HBalmat@aol.com,
+        hunault@mbcrr.harvard.edu (mathildehunault), joearay@aol.com (joearay),
+        lsegelke@wellesley.edu (laurasegelke), marguet@MIT.EDU,
+        mpiche@francomedia.qc.ca, mportier@ix.netcom.com,
+        msboston@ix.netcom.com, muller@gis.net, nrofoug@fas.harvard.edu,
+        n_fattelay@emerson.edu (nadinewellesleytv),
+        N_FATTELAY@wesley.it.emerson.edu, olaye@MIT.EDU,
+        pastis-petanque@MIT.EDU (pastis-petanque),
+        patrikargast@worldnet.att.net, pgiorcel@lynx.dac.neu.edu,
+        Pierre-Yves_Rollin@notes.pw.com,
+        REILLYJ2@cliffy.polaroid.com (jeanniereilly),
+        renee@gis.net (renees.knoll), rmackowi@us.oracle.com,
+        scavaglia@panagora.com, shoggy@MIT.EDU, stephan@w3.org,
+        thomassi@MIT.EDU, winthrop@lemberg.brandeis.edu,
+        DorHurley@aol.com (dorreenhurleyleekaiserpg/hgca), GilDodgen@aol.com,
+        gwozdzar@bvt.gdarm.com (arthurgwozdz),
+        information@flightschool.net (larslindeeastcoastpg), JLane@juno.com,
+        jim71661@aol.com (jimjohsnosct), JKBurd@aol.com (jeffburnetthgmpg3),
+        klaus@franklin.csb.yale.edu (klausm.fiebig), mellor@osi.sylvania.com,
+        mickey@atsaerospace.com (mickeywandermontreal),
+        NM92691@hmrag.com (stpehaneperreault),
+        Paragliding@compuserve.com (steverotipg4seattle),
+        SkiAscut@aol.com (johnplausteiner), stampe@us.ibm.com,
+        stephaneperreault@hmri.com (stephaneperreaultpg4montreal),
+        TOMAS@sheffield-labs.com,
+        Voador@infomagic.com (larrytudorhgmpg4phoenix),
+        100557.2655@compuserve.com,
+        110304.3201@compuserve.com (charliegarrardpg3uk+boston),
+        altair@micron.net, Chris_Thayer@wgbh.org (christhayericareslidesoct97),
+        eapoccia@cyburban.com (edwardpoccia9/97),
+        gstilwel@nimbus.ocis.temple.edu (garystilwelicareslidesoct97),
+        zman61@courant.infi.net (johnzalaski9/97)
+Cc: 71162.431@compuserve.com (gellokerhu), adriano@bu.edu,
+        Alex.Hendriksen@hotmail.com (saxzabumbatuq),
+        AnnaLisa@icg.to.infn.it (annalisabraccotorinoit),
+        Anne.DRAEGER@oecd.org, apoio@ams.com.br (paulocatunda),
+        bachelot@lyon.fnclcc.fr (thomasveroniqueanne), bocconcellia@uncwil.edu,
+        capaz@if.ufrj.br, catunda@ibm.net (paulocatundamarques),
+        ccgxt@giss.nasa.gov, chamon@london.physics.uiuc.edu, cjboland@snet.net,
+        claudio@leblon.ime.eb.br, coppin@iname.com, cortes@bio.fsu.edu,
+        curran@arctic.rutgers.edu, David.Die@qld.ml.csiro.au,
+        edumejia@epm.net.co, eric@akee.rsmas.miami.edu,
+        fiarsing@singnet.com.sg, georg@bblock.meteo.physik.uni-muenchen.de,
+        gugarcia@email.isnet.com.mx, hagen@frc2.frc.ri.cmu.edu,
+        Henri.Williaume@aexp.com, IMES3CFC@epq.ime.eb.br,
+        jennifer@cal.org (jenniferlocke),
+        kerlatz@seychelles.com (anneclaudedraeger), Klausbrant@aol.com,
+        laubsch@cup.hp.com, LeMoine-Py_Bernard@gsb.stanford.edu,
+        Lemoinepy_Bernard@gsb.stanford.edu, loh.jacqueline@smtpgw.bcg.com,
+        LVELTRI@us.oracle.com, mamsilva@pira.cena.usp.br,
+        Marcela_Haro@liberty.datamarkets.com.ar, Marcos_Fernandes@mckinsey.com,
+        mari@metalmat.ufrj.br, mroy@wwdc.com, mucciolo@fis.puc-rio.br,
+        nc0y+@andrew.cmu.edu, Nelita@thehub.com.au, Patrick.VANHOVE@dg3.cec.be,
+        Patty@akee.rsmas.miami.edu, Pavel@earthlink.net, Paveld@earthlink.net,
+        Pegase.rc@wanadoo.fr (nicoleeric), raffa@alpha.szn.it,
+        renlca@club-internet.fr (renaudlefebvre),
+        roglef@club-internet.fr (rogerlefebvre), sandra@if.usp.br,
+        seth@wallace.khm.de (koln), slamm@well.com, slberk@hotmail.com,
+        sophie@sgi.com, svocea@mvx36.csata.it, TOMAZ@ifqsc.sc.usp.br,
+        vadimate@leland.stanford.edu, Brazil@MIT.EDU,
+        cgbos@ma.ultranet.com (consulado), climbers@MIT.EDU, Latinos@MIT.EDU,
+        mit-ska@al2.com, 102547.1202@compuserve.com (r.alexanderloer),
+        abowen@whoi.edu, alamonta@hohp.harvard.edu, ALenard@itsqs.com,
+        Amit_Pandey@mckinsey.com, arevalo@world.std.com (roberto),
+        Bruce_Old_at_vtalan@mailgate.patagonia.com, Eilavista@aol.com,
+        elcarril@lynx.dac.neu.edu, Francy2388@aol.com (thezingales),
+        frankeg@alum.mit.edu, HSouza2692@aol.com, jbrianna@capecod.net,
+        jchan@gis.net, jsalzig@whoi.edu, kamhad@MIT.EDU, Kmotyl@aol.com,
+        lemc@tiac.net, marodger@hulaw1.harvard.edu, maturana@umbsky.cc.umb.edu,
+        mfrank@mmt.com, mlutcavg@neaq.org, moran@fas.harvard.edu,
+        mrodgers@law.harvard.edu, PDorrell@ix.netcom.com, roberto@wpi.edu,
+        sater@ix.netcom.com, Sophie.Bouvet@veritas-usa.com, spraxlo@ai.mit.edu,
+        sriskin@ai.mit.edu, sriskin@life.ai.mit.edu, Terimus@aol.com,
+        tim@media.mit.edu, thernstr@husc.harvard.edu, Thstrain@aol.com,
+        vanita.datta@ac.com, wlawrenc@emerald.tufts.edu
+Subject: Salut les amis!  Back from the Austral region.
+
+News from the end of of the world, but first, I apologize if anyone receives
+this who does not want it; it's simple enough to delete.
+
+My journey to the French Austral islands in the far South Indian ocean was
+amazing.  Imagine desert landscapes of volcanic rubble with yellow grass
+under grey skies where snow and rain alternate under 80mph winds and temps in
+the 30's... that's Crozet island, some 2000 miles south South East of South
+Africa.  In this hellish place, a dozen old metal barracks (and one recent
+cement building) house some 18 people who are stationned for one year at a
+time there.  The surroundings are inhabited with all sorts of Albatross
+birds, some spanning 12 feet, orca or killer whales, and royal penguins.  Two
+thousand miles due East is the archipelago of Kerguelen, the main island of
+which is about 100 miles long and includes a 5000-foot high glacier over a
+volcano named Mt Ross. The climate and life are much the same there, except
+that the base, which is also the "capital" of all the French Austral islands,
+has a crew of about 80 eople there.  Instead of the Bostonian maple trees,
+elephant seals weighing several tons line the "streets".
+
+another 1500 miles North Northeast of Kerguelen, we reach the island of
+Amsterdam, where I was stationned for two months with another 38 people, as
+teh replacement crew overlapped the departing one.  the climate is much
+warmer, in the upper 60s to high 70s, and elephant seals are substitued by
+fur seals.
+
+My mission, which was to supervise the replacement of 120 windows on old
+barracks, was a most challenging one.  I discovered a myriad of logistics
+problems when there's no supply store to run to and teh necessary tool isn't
+available on site.  Dealing with the French administration which governs
+these territories was equally "enlightening".  There is far too much to tell
+in a short email, but I am in the process of writing a thourgouh article
+which I hoep to submit to various magazines (your referrals appreciated).
+ During leisure time, we swam with hundreds of fur seals, picked lobster off
+the ocean floor (in 8 feet of water) or spearfished our dinner whenever we
+wanted fish, and I was fortunate to visit nearly every nook of the island.
+
+On our return, we were hit full strength by cyclone Anacelle
+(cyclone=hurricane in South hemisphere) and I spent one night in the cockpit
+of the ship as the captain and upper crew strived to escape 60-foot swells
+which jolted our 500-foot ship like a cork: fully strapped to their
+commanding post armchairs, they nearly sounded the evacuation on two counts.
+ but night gave way to daylight as the storm moved South.
+
+Now I'm back in Paris and I will return to Boston on the 16th of thsi month.
+ I hope all of you are well and I look forward to sharing tales and photos
+soon.
+
+Nicola
+PS If anyone has a request for something specific from Paris, let me know; I
+have little space in my bags but I'll certainly try.

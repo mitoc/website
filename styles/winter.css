@@ -1,0 +1,130 @@
+/* CSS Document */
+
+/*PAGE LAYOUT*/
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: lightsteelblue;
+}
+#content{width:970px;background-color: lightsteelblue;}
+#logo{float:left; background-image:url(../images/tie_logo_winter.gif); width:274px; height:210px;}
+#topheader{float:right; width:686px; margin-left:10px; height:97px; position:relative}
+#toplinks{position:absolute; right:10px; top:10px;}
+#menu{float:right; width:696px; height:32px; background-image:url(../images/bg_menu_winter.jpg); background-repeat:repeat-x;}
+#submenu{float:right; width:696px; height:32px;}
+#contenttext{float:right; width:696px;}
+#leftpanel{float:left; width:270px; }
+#footer{float:left; width:970px; background-color:steelblue; padding:10px;}
+
+/*GRAY PANEL*/
+.graypanel{
+	border:solid 1px #666666; background-color:white; padding:10px; margin:10px;
+}
+
+/*TEXT STYLES*/
+.bodytext {
+	font: 0.7em Tahoma, sans-serif;
+	color:teal;
+}
+
+.titletext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	color:green;
+}
+.whitetitle {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	color:red;
+}
+.smalltitle {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	color:teal;
+}
+.smallwhitetext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: olive;
+}
+.smallwhitetext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: teal;
+	text-decoration:none;
+}
+.exclusive {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: olive;	
+}
+
+a:hover .menuItem {
+	display:block;
+}
+
+.smallwhitetext a:hover {
+	text-decoration:underline;
+}
+
+.menuItem {
+	display:none;
+	position:fixed;
+	float:none;
+}
+
+
+.smallgraytext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:olive;
+}
+.smallgraytext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:teal;
+	text-decoration:none;
+}
+.smallgraytext a:hover{
+	text-decoration:underline;
+}
+.smallredtext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: blue;
+}
+.smallredtext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #E91414;
+
+}
+.smallredtext a:hover{
+	text-decoration:underline;
+}
+
+.contentHeader {
+	vertical-align: top;
+}
+
+.res {
+ 	background-color:red;
+	color:white;
+}
+
+.key {
+	background-color:green;
+	color:white;
+}

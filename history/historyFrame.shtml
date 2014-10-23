@@ -1,0 +1,7 @@
+<!--#include virtual="/mitoc/www/header.shtml" -->
+<h2>MITOC History</h2>
+<img src="images/minilogo.gif"/>
+<br/>
+<br/>
+<iframe src="http://web.mit.edu/mitoc/www/history/history.html" height="4800px" width="100%" frameborder="0" scrolling="auto"></iframe>
+<!--#include virtual="/mitoc/www/footer.shtml" -->

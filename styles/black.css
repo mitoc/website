@@ -1,0 +1,126 @@
+s/* CSS Document */
+
+/*PAGE LAYOUT*/
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#content{width:970px}
+#logo{float:left; background-image:url(../images/black_tie.jpg); width:274px; height:210px;}
+#topheader{float:right; width:696px; height:97px; background-color:#F0F0F0; position:relative}
+#toplinks{position:absolute; right:10px; top:10px;}
+#menu{float:right; width:696px; height:32px; background-image:url(../images/bg_menu.gif); background-repeat:repeat-x;}
+#submenu{float:right; width:696px; height:32px; background-image:url(../images/bg_submenu.gif); background-position:top; background-repeat:repeat-x;}
+#contenttext{float:right; width:696px;}
+#leftpanel{float:left; width:270px; }
+#footer{float:left; width:970px; background-color:#F0F0F0; padding:10px;}
+
+/*GRAY PANEL*/
+.graypanel{
+	border:solid 1px #666666; background-color:#F7F7F7; padding:10px; margin:10px;
+}
+
+/*TEXT STYLES*/
+.bodytext {
+	font: 0.7em Tahoma, sans-serif;
+	color: #666666;
+}
+
+.titletext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	color:green;
+}
+.whitetitle {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:36px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.smalltitle {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	color:black;
+}
+.smallwhitetext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+}
+.smallwhitetext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+
+a:hover .menuItem {
+	display:block;
+}
+
+.smallwhitetext a:hover {
+	text-decoration:underline;
+}
+
+.menuItem {
+	display:none;
+	position:fixed;
+	float:none;
+}
+
+
+.smallgraytext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:black;
+}
+.smallgraytext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+}
+.smallgraytext a:hover{
+	text-decoration:underline;
+}
+.smallredtext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:black;
+}
+
+a{color:black}
+
+.smallredtext a{
+	font: 0.7em Tahoma, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+}
+.smallredtext a:hover{
+	text-decoration:underline;
+}
+
+.contentHeader {
+	vertical-align: top;
+}
+
+.res {
+ 	background-color:red;
+	color:white;
+}
+
+.key {
+	background-color:green;
+	color:white;
+}

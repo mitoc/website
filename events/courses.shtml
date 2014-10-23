@@ -1,0 +1,38 @@
+<div class='summer'>
+<div class="info-bar yui3-u-1-3">
+  <div class="events">
+  <!--#include virtual="/mitoc/web/events/courses/sidebar.shtml" -->
+  <h3><a href="#leadtrip/leadtrip.html">BECOME A TRIP LEADER</a></h3>
+  <a href="mailto:mitoc-owner@mit.edu"><b>QUESTIONS?</b><br />mitoc-owner@mit.edu</a>
+  </div>
+</div>
+
+<div class="content yui3-u-7-12">
+
+<h1>COURSES</h1>
+<div class="pic_bar">
+  <div class="pic"><img src="events/courses-pic/pic1.jpg" alt=""></img></div>
+  <div class="pic"><img src="events/courses-pic/pic2.jpg" alt=""></img></div>
+  <div class="pic"><img src="events/courses-pic/pic3.jpg" alt=""></img></div>
+  <div class="pic"><img src="events/courses-pic/pic4.jpg" alt=""></img></div>
+  <div style="clear: both"></div>
+</div>
+<p>
+MITOC organizes various courses throughout the year. We recommend joining mitoc-announce mailing list and the appropriate activity <a href="http://web.mit.edu/mitoc/www/mailinglists.shtml">mailing list</a> to stay informed. Some courses come with a subsidy if you have led a certain number of trips as a leader. Please refer to the specific course page for more details.
+
+<h2>Wilderness First Aid</h2>
+Wilderness Medicine differs significantly from standard first aid courses and other training that is oriented toward urban environments. This course teaches how to manage medical emergencies when hospitals and rescue services may not be available for an extensive time period. We prepare students for emergency situations that involve prolonged patient care, severe environments, and improvised equipment. Unlike some programs, this is not teaching urban first aid in the outdoors.
+
+<h2>Self Rescue</h2>
+If your partner was hit by rockfall and hanging unconscious on the rope below, would you know how to escape the belay and rappel down to them to administer first aid? Could you do it quickly? Every climber should know how to deal with an emergency in the vertical realm, but the truth is that most don’t. Do you?
+
+<h2>Avalanche Awareness</h2>
+Avalanches range in size and magnitude but can happen in many backcountry mountain situations. Whether skiing, hiking or climbing you should be aware of potential avalanche risks and how to identify potential avalanche situations. In the event that an avalanche does occur, proper training is the best hope for a rescue.
+
+<h2>Crevasse Rescue and Glacier Travel</h2>
+Glaciers are a common medium necessary to climb some of the bigger peaks in the world. When crossing glaciers, however you will come across snow bridges and crevasses. Learning proper technique for crossing this terrain is covered in the course as well as rescuing someone from a crevasse.
+
+
+</div>
+</div>
+

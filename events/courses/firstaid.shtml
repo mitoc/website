@@ -1,0 +1,38 @@
+<div class='neutral'>
+<div class="info-bar yui3-u-1-3">
+  <div class="events">
+  <!--#include virtual="/mitoc/web/events/courses/sidebar.shtml" -->
+  <h3><a href="#leadtrip/climbing.html">BECOME A TRIP LEADER</a></h3>
+  <a href="mailto:ws-chair@mit.edu"><b>QUESTIONS?</b><br />ws-chair@mit.edu</a>
+  </div>
+</div>
+
+<div class="content yui3-u-7-12">
+
+<h1>ACA SWIFTWATER RESCUE</h1>
+<div class="pic_bar">
+  <div class="pic"><img src="events/courses/firstaid-pic/pic1.jpg" alt=""></img></div>
+  <div class="pic"><img src="events/courses/firstaid-pic/pic2.jpg" alt=""></img></div>
+  <div class="pic"><img src="events/courses/firstaid-pic/pic3.jpg" alt=""></img></div>
+  <div class="pic"><img src="events/courses/firstaid-pic/pic4.jpg" alt=""></img></div>
+  <div style="clear: both"></div>
+</div>
+<p>
+Coming soon.
+
+<h3>When</h3>
+
+<h3>Where</h3>
+
+<h3>Who</h3>
+
+<h3>Costs</h3>
+
+
+</div>
+
+</div>
+
+</div>
+
+</body>

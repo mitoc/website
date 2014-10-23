@@ -1,0 +1,502 @@
+<div class='summer'>
+<!--#include virtual="/mitoc/web/activities/hiking/sidebar.html" -->
+<div class="content yui3-u-7-12">
+<h2>Worldwide alternative names for fuels</h2>
+
+<pre>Version  11.          <br>
+18th Jan 1994<br>
+<br>
+Included: Turkey,<br>
+Updated: Holland, Germany, Switzerland (German speaking part),<br>
+<br>
+The following list contains data for approx 30 countries. I would like<br>
+to expand the list to cover the rest of the  world. Hope you can help.<br>
+Info needed for Denmark, Ireland, Portugal and heaps of other places.......<br>
+What about South America, Asia , Africa and various ex USSR states.? <br>
+<br>
+Perhaps people could post translations of this article to non<br>
+English speaking networks ? <br>
+<br>
+column 1 =  Decane (mostly)......kerosene/diesel is a crude oil cut from oil<br>
+            refineries, boiling point range is app. 180 to 280 C.<br>
+            May have pink or blue colour added (U.K.). <br>
+column 2 =  Pentane, Hexane....the same as for column 1, but a boiling point<br>
+            range of 25 to 200 C . <br>
+            Slight yellow colour.<br>
+column 3 =  60% Hexane + 40% Heptane ? Usallly colourless ?<br>
+column 4 =  95% Ethanol + 5% Methanol approx. Usually has purple colour <br>
+            and bad taste added. May also contain propanol.<br>
+<br>
+             1             2             3                    4<br>
+-------------------------------------------------------------------------<br>
+U.S.A.  | kerosene   | Gasoline  |   White Gas       | Denatured Alcohol |<br>
++       |            | "Gas"     |   Naptha          | Solvent Alcohol   |<br>
+Canada  |            |           |   Coleman Fuel    |                   |<br>
+        |            |           |   Blazo           |                   |<br>
+-------------------------------------------------------------------------<br>
+U.K.    | Paraffin   | Petrol    |  Coleman Fuel     | Methylated Spirit |<br>
+        |            |           |                   | "Meths"           |<br>
+-------------------------------------------------------------------------<br>
+France  | Petrole    |"sans plomb"| Petrol a Bruler  | Alcool a Bruler   |<br>
+        |            |           | Essence filtree   | Alcool Denature   |<br>
+        |            |           | Blanche sans plomb| Alcool Methylique |<br>
+        |            |           | Essence C         |                   |<br>
+        |            |           | "Essence a l'usage|                   |<br>
+        |            |           | domestique"       |                   |<br>
+-------------------------------------------------------------------------<br>
+Holland | Petroleum  | Benzine   | Wasbenzine        | Spiritus          |<br>
+        | Lampen-Olie| "Super"   | Coolman Fluel     | Brand Spiritus    |<br>
+        |            |"Loodvrij" |                   | alkahol           |<br>
+--------------------------------------------------------------------------<br>
+Germany | Petroleum  | Benzin    | Kocherbenzin      | Spiritus          |<br>
+        | Paraffinol |"Bleifrei" | Feuerzeug Benzin  | Brennspiritus     |<br>
+        |            |Auto-Benzin| Katalyt Benzin    |  Methyl Alkohol   |<br>
+        |            |           | Reinigungsbenzin  |                   |<br>
+--------------------------------------------------------------------------<br>
+Italy   |"Olio de    | Benzina   | ????????????      | Alcool Denaturo   |<br>
+        | Paraffina" |           |                   | "Spirito de       |<br>
+        |            |           |                   |        Brucaire"  |<br>
+--------------------------------------------------------------------------<br>
+Spain   | Parafina   | Gasolina  |                   | Alcohol Metilico  |<br>
+        | Petroleo   | sim plomo | Gasolina          | "Alcohol de       |<br>
+        |            |           | domestica         | quemar" (Metilico)|<br>
+--------------------------------------------------------------------------<br>
+Sweden  | Fotogen    | Bensin    | Vit Bensin        | T-Sprit           |<br>
+        |            |           | "teknisk bensin"  | Rod-Sprit         |<br>
+--------------------------------------------------------------------------<br>
+Australia| Kerosene  | Petrol    | Shellite          | methylated spirits|<br>
+         | "Kero"    |           | White gas         | "Meths" "Metho"   |<br>
+--------------------------------------------------------------------------<br>
+Finland | valopetroli |bensiini  | kevytbensiini     | denaturoitu sprii |<br>
+        |             |          |                   | Sinol(tm)         |<br>
+        |             |          |                   | Marinol(tm)       |<br>
+--------------------------------------------------------------------------<br>
+New     | Kerosene    | Petrol   | White Spirit      | Methylated Spirit |<br>
+Zealand |             |          | Shellite          |                   |<br>
+        |             |          | Callite           |                   |<br>
+        |             |          | Britolite         |                   |<br>
+        |             |          | Pegasol           |                   |<br>
+--------------------------------------------------------------------------<br>
+Iceland | ?????????   | ???????? |  Hreinsad Benzin  | ????????????      |<br>
+--------------------------------------------------------------------------<br>
+Czech     | Petrolej  |  Benzin  | Technicky benzin  | Denaturovany lih  |<br>
+Republic  |           |          |                  |Denaturovany alkohol|<br>
+--------------------------------------------------------------------------<br>
+Norway    | Parafin   | Bensin   | Renset bensin    | Rod-Sprit         |<br>
+--------------------------------------------------------------------------<br>
+ex-USSR | kerosene   | benzine   | ????????????????? | Methyl Alcohol    |<br>
+(Russia)|            |           |                   | ("metilovy spirt")|<br>
+--------------------------------------------------------------------------<br>
+Japan   | Toh-yu     | Gasoline  |   White Gas       | Nen-ryo yoh       |<br>
+        |            |           |   Coleman Fuel    |           Alcohol |<br>
+--------------------------------------------------------------------------<br>
+South   |  paraffin  |   petrol  |  Benzene         | Methylated Spirits |<br>
+Africa  |            |           |                  | "Meths"            |<br>
++       |            |           |                  |                    |<br>
+Zimbabwe|            |           |                  |                    |<br>
+--------------------------------------------------------------------------<br>
+Switzerland| ???????  |"Bleifrei"| Reinbenzin        | Brennsprit        |<br>
+           |          |          | Wundbenzin        |                   |<br>
+--------------------------------------------------------------------------<br>
+Switzerland| Kerosen |"Bleifrei"| Reinbenzin        | Brennsprit         |<br>
+German sp. |         |          | Wundbenzin        |                    |<br>
+part       |         |          | Feuerzeug Benzin  |                    |<br>
+--------------------------------------------------------------------------<br>
+Holland   | Petroleum   | Benzine   |  Coleman fuel  | Spiritus          |<br>
+          | Lampen-Olie | Normaal 16|                | Brand Spiritus    |<br>
+--------------------------------------------------------------------------<br>
+India     | Kerosene    | Petrol    |  ??????????    | Meths ????        |<br>
+Bhutan    |             | (Gasoline)|                |                   |<br>
+Nepal     |             |           |                |                   |<br>
+Pakistan  |             |           |                |                   |<br>
+--------------------------------------------------------------------------<br>
+Austria   | ????????    |"Bleifrei" | ??????????     |  ??????????       |<br>
+--------------------------------------------------------------------------<br>
+Kenya     | Paraffin    |unleaded gas| ????????      |    ????????       |<br>
+          | kerosene    |            |               |                   |<br>
+--------------------------------------------------------------------------<br>
+Poland    | nafta       |"benzyna    |"benzyna       | Denaturat         |<br>
+          |             |bezolowiowa"| rektyfikowana"| alkohol metylowy  |<br>
+-------------------------------------------------------------------------<br>
+Turkey     | Gazyagi     | Benzin   | WhiteGas       | Ispirto           |<br>
+-------------------------------------------------------------------------<br>
+<br>
+Holland<br>
+-------<br>
+<dirk.vangulik @cen.jrc.it=""> writes......<br>
+cat 1: Lampen-Olie... sometimes okay, often more like a vegetable oil.<br>
+,the 'non-smelling' version is almost always good: "reukloze lampen-olie"<br>
+ but contains a perfume which makes my stove (Whisper=Lite" clog up once in<br>
+ a while.<br>
+cat 2: "Super" = high octane, "Loodvrij"= unleaded.<br>
+cat 3: Wasbenzine, Coolman fluel, both well known<br>
+<br>
+<millenaar @jach.hawaii.edu=""> writes.......<br>
+The name 'coleman fuel' or 'coleman brandstof' is commonly used in Holland (or<br>
+The Netherlands). Stangely enough I can't recall a pure Dutch term (I don't<br>
+think there is one). It is sold in all outdoor equipment stores and in some<br>
+recreational stores ('kampeerwinkels').<br>
+<br>
+Germany<br>
+-------<br>
+<noah_coccaro @hampster.boltz.cs.cmu.edu=""> writes.......<br>
+I spent a year in Germany, and discovered that White Gas, or Coleman<br>
+fluid, as we call it here in USA is known as Reinigungsbenzin<br>
+(literally, cleaning gas). I purchased it in an Apotheque (Apothecary). <br>
+<br>
+Poland<br>
+------<br>
+<jacek @appel012.hydromech.uni-hannover.de=""> writes.......<br>
+USA:      Poland:<br>
+Kerosene: hm, I am not sure, but try to ask for 'nafta', or express it<br>
+          slightly longer 'nafta do lamp naftowych', what means that you want<br>
+          something which is burned in the lamps... <br>
+          There exists something called 'olej parafinowy' but I do not <br>
+          know how it works. Better forget it. <br>
+          'Nafta' burns easily, but if you think of the<br>
+          fluid of the Indian kerosene kind, which does not burn when<br>
+          you light a match and drop onto the fluid surface, I am wrong.<br>
+<br>
+Gasoline: 'Benzyna', different octane numbers, leaded: the lower ones are <br>
+          called 'niebieska benzyna' (blue gasoline), the better <br>
+          'zolta benzyna' (yellow gasoline), <br>
+          unleaded gasoline (probably the best when used in stoves)<br>
+          'benzyna bezolowiowa'. Fuel for diesel engines is oft called <br>
+          'olej napedowy', or in slang 'diesel'.<br>
+<br>
+White gas: 'benzyna rektyfikowana', 'benzyna oczyszczana', or when not <br>
+          undestood, 'benzyna - rozpuszczalnik do farb i lakierow', <br>
+          or 'benzyna do wywabiania plam', what means, that you want a fluid<br>
+          with which you may remove paint stains or solvent or thinner<br>
+          for some sort of paints. Beware of 'rozpuszczalnik do farb<br>
+          olejnych' - thinner for oil paints. Just explain somehow,<br>
+          that you need it for a stove ('benzynowa maszynka do gotowania',<br>
+          people use also the name of the German firm: 'juwel').<br>
+<br>
+Denaturated Alcohol: 'Denaturat', 'alkohol metylowy', usually with <br>
+          a beautiful skull and crossed bones symbol, and with horrible<br>
+          violet-colour addition. You may try also to burn 'spirytus',<br>
+          but this is 99 per cent pure alcohol for consumption and<br>
+          extremely expensive just to use as fuel...<br>
+          <br>
+Availability: 'benzyna rektyfikowana' in the shops with the chemical products<br>
+          what in Poland means, that there is sold everything from the soap <br>
+          and washing powder up to thinners and paints: 'sklep chemiczny', <br>
+          'farby i lakiery', etc. Some hardware shops probably too.<br>
+          There you may ask also for 'nafta', but try to explain, <br>
+          what you want to do with it... ('do lampy naftowej').<br>
+          'Denaturat' could be also probably bought there, <br>
+          but usually you may get it in the liquor shops (yes!) 'monopolowy' <br>
+          or even in the shops with food or hardware (smaller towns, <br>
+          villages). <br>
+          'Benzyna' - fuel stations, but sometimes there are problems when <br>
+          you come with a PLASTIC bottle, for just 1 liter... <br>
+          They may say it is dangerous and would not sell you anything. <br>
+          In such a case try to come with a metal bottle or bigger <br>
+          (2-5 liter) can (pol.: 'kanister') or try to ask some driver <br>
+          for help.<br>
+          <br>
+Burning qualities: The division of the qualities is clear - 'nafta' for<br>
+          lamps or stoves, where you may highly pressurize the fuel, <br>
+          'denaturat' for the slightly old-fashioned alcohol stoves, where<br>
+          a surface of the liquid burns, 'benzyna rektyfikowana' is probably<br>
+          the best thing for stoves with limited or no possibility to<br>
+          pressurize the fuel (Whisperlite, Coleman). 'Benzyna' - if you<br>
+          have to use it, use the unleaded super ('bezolowiowa super'),<br>
+          when not available - down the octane scale. 'Diesel' the worst.<br>
+<br>
+Australia<br>
+---------<br>
+<daryl @menzies.su.edu.au=""> writes.......<br>
+"white spirits" and "white gas" are NOT the same.  White spirit<br>
+is some kind of cleaning fluid, IF you can get your stove to run on it it<br>
+will clog it up fairly quickly.<br>
+Most hardware stores sell "Shellite" in one litre plastic bottles Usually<br>
+made by "diggers." ( there are other brands but diggers is the most common)<br>
+Kerosene and Methylated spirits are usually available from supermarkets, as<br>
+well as hardware stores, again under the "diggers" brand.  In the Northern<br>
+Territory you will often not find Methylated spirits on display. Ask at the<br>
+check-out, or counter.  Also N.T. (and Qld. ??) Methylated Spirits is dyed<br>
+purple, this has no effect on the stove.<br>
+<br>
+Kenya<br>
+-----<br>
+<awaddington @acorn.co.uk=""> writes.......<br>
+Paraffin/Kerosene is available everywhere in Kenya, because its what they<br>
+use for lighting charcoal cooking fires. Having said that, there was a<br>
+desperate shortage of it everywhere in January/February when we were there,<br>
+and I suspect that this occurs unpredictably but perhaps quite frequently<br>
+from time to time.<br>
+Unleaded gas is pretty much unobtainable, but there must<br>
+be plenty of diesel about - we saw a tanker of it lying in the road spilling<br>
+the stuff everywhere while people variously stood about smoking and waving<br>
+traffic onto the edge of the road. <br>
+<br>
+Austria<br>
+-------<br>
+<awaddington @acorn.co.uk=""> writes.......<br>
+"Bleifrei" is particularly low octane - 91 or 92, so the stuff most people<br>
+use in cars is the higher octane stuff which isn't so nice in stoves.<br>
+<br>
+Spain<br>
+-----<br>
+<awaddington @acorn.co.uk=""> writes.......<br>
+Unleaded petrol/gas is "Sin plomo"<br>
+<br>
+India/Bhutan/Nepal/Pakistan<br>
+---------------------------<br>
+<rkohli @aardvark.ucs.uoknor.edu=""> writes........    <br>
+Petrol(Gasoline) is available at any Petrol Pump. Buy the higher grade if <br>
+you are not sure. <br>
+Kerosene is available at most roadside grocery shops or "ration" shops.<br>
+Methyl Alcohol-Most Drug Stores stock it. I have never used it in any <br>
+stove so can't vouch for it.<br>
+White Gas-Could never find it.<br>
+<br>
+Switzerland<br>
+-----------<br>
+<olaf @ulaf.uu.ch=""> writes........<br>
+Most supermarkets throughout the country sell kerosene and methanol. White<br>
+gas is available in chemists and pharmacies (Apotheke, Drogerie), but they<br>
+might insist on using special bulky glass bottles and will inform you about<br>
+the danger of the stuff you buy. You better tell them that you know what<br>
+you're doing and keep a funnel at hand to fill your own fuel bottles outside<br>
+the shop and return the bottles afterwards. Kerosene and methanol are sold<br>
+at about twice the price of normal, unleaded gas (bleifrei), whereas white<br>
+gas sells at about 4 times the price of unleaded.<br>
+<br>
+Africa<br>
+------ <br>
+<jewitt @aqua.ccwr.ac.za=""> writes.........<br>
+The most practical stoves for hiking/camping etc in most of Africa are <br>
+simple "meths burners" - meths is relatively cheap and availability <br>
+isn't usually a problem.  Meths stoves can be a bit difficult to get<br>
+going if it's cold but I've always managed - even in temperatures well<br>
+below freezing.<br>
+ <br>
+Paraffin is the most freely available fuel throughout southern Africa - but<br>
+I haven't found a small stove that really works with it.<br>
+ <br>
+Petrol throughout southern Africa is leaded - it can be used in an emergency<br>
+in pressurised stoves, but clogs up the jets really quickly.<br>
+ <br>
+White Spirit/Coleman Fuel is rarely available and then only in specialised<br>
+camping shops and is really expensive.  Benzene is around but you might<br>
+have to hunt a bit, it's quite expensive and sometimes has all sorts of<br>
+odd additives that stop it burning properly and clog up the jets.<br>
+ <br>
+South Africa (Lesotho and Swaziland)<br>
+------------------------------------<br>
+<jewitt @aqua.ccwr.ac.za=""> writes.........<br>
+Paraffin is freely available at garages and plenty of other stores.<br>
+Petrol at garages.<br>
+Benzene is available at most hardware stores - beware of buying stuff called<br>
+benzine - it doesn't work.<br>
+Methylated Spirits is available at most stores except in the Cape Province<br>
+where you can only get it at chemists/pharmacies.<br>
+<br>
+Zimbabwe<br>
+--------<br>
+<jewitt @aqua.ccwr.ac.za=""> writes.........<br>
+Paraffin at most garages and stores.<br>
+Petrol at garages - not reccomended - I'm reluctant to run my car on this  <br>
+stuff!<br>
+Benzene at hardware stores - may be difficult to find.<br>
+Meths at most hardware stores and chemists and in some other stores.<br>
+<br>
+Japan<br>
+-----<br>
+<tsuchiya @sedona.intel.com=""> writes..........<br>
+Gasoline is available at gas station.  Usually they also have kerosene,<br>
+ie. Toh-yu.  "Toh" is pronounced like in "TOFU", and "yu" is like "you".<br>
+White Gas (most likely the one sold by Japan Coleman) is available at<br>
+bigger sports goods retailer.  Sometimes also available at hardware<br>
+store (again, bigger one).  Alcohol is available at drug store.  Ask<br>
+"Nen-ryo yoh" (the one as fuel), or you will get the one for<br>
+disinfection.  Pronounce something like "Al-coal" for "Alcohol".<br>
+<br>
+Russia<br>
+------<br>
+<mtrrut @vmsa.technion.ac.il=""> writes........<br>
+Petrol could be obtained in fuel-station, if you find one. But usually <br>
+there are very long lines for fuel and nobody is permitted to buy without <br>
+order. TIP: ask driver of lorry/bus/taxi to sale (or just present) several <br>
+liters. It usually works if you ask &lt;2-3 liters. If you need more, repeat <br>
+procedure. Taxi drivers usually sale benzine about 4-10 times more <br>
+expensive than in fuel stations.<br>
+<br>
+Don't try to find white gas. Nobody knows what it is. Learn to use petrol <br>
+(if your stove isn't intended for petrol, be ready to clean it in the <br>
+field). Trying to buy methyl alchohol (or cheap alchohol) isn't good idea.<br>
+<br>
+Kerosene may be obtainable, but you can never predict it. Besides that some <br>
+places don't sale goods to visitors. If so, you can usually ask somebody <br>
+in the place to buy it for you.<br>
+<br>
+The best obtainable fuel is a solar. Fuel stations don't sale it to <br>
+travelers but most drivers of big lorries let you suck it. Bring house &gt;2 m <br>
+long (if you buy petrol from car/bus/... you need to suck it too!)<br>
+<br>
+It is good idea to have somebody speaking Russian and preferably local <br>
+language for negotiations. Foreign language and cash may attract crimes.<br>
+<br>
+In general, you usually can find fuel in the initial point of your trip <br>
+(you can't bring it in the plane) but it takes time. Consultations are highly <br>
+recommended! In 1990 we had to delay start to 20-days mountain expedition <br>
+in Tyan'-Shan' for 1 day because we couldn't obtain fuel!<br>
+<br>
+France<br>
+------<br>
+<i.g.batten @fulcrum.co.uk=""> writes.......<br>
+Coleman fuel is also available as ``Essence C''in French supermarkets <br>
+and hardware shops. It's dirt cheap.<br>
+It worked fine in a Coleman Peak One and an MSR Whisperlite, with no <br>
+fouling or peculiar smell from either or excessive filth from priming <br>
+the MSR <br>
+``Essence'', alone, is leaded 88 octane petrol.<br>
+<br>
+<awaddington @acorn.co.uk=""> writes.......<br>
+Petrol/Gasoline in France is called "Essence", but the relevant stuff<br>
+for stove fuel is unleaded, which is called "Sans plomb", or, more<br>
+easily, just comes out of the green nozzles at filling stations !<br>
+<br>
+Norway<br>
+------<br>
+<paale @lie.uit.no=""> writes........<br>
+Parafin is available at most garages, at times under the name<br>
+"Fritids-parafin", or "Lampe-olje" (the latter is a more refined<br>
+version, doesn't smell).<br>
+Bensin is available at garages, and so is White Spirit. <br>
+Rod-Sprit is available at stores selling paint etc. and also Liquour-shops!!!<br>
+(even if it is poisonous).<br>
+<br>
+<paale @lie.uit.no=""> writes.....<br>
+The problem is the product called "White spirit" in Norwegian. It is a <br>
+somewhat<br>
+kerosene-like product, but more refined. It is intended for use as paint-<br>
+thinner<br>
+removing paint-stains etc. It is cleaner and lights easier than  kerosene, but<br>
+it is not at all comparable to petrol. I use it from time to time as a <br>
+substitute<br>
+for kerosene in my stove, and it works great. <br>
+On the other hand there is "Renset bensin", which is unleaded, highly refined<br>
+petrol. It is sold at pharmacies, and is intended for removing stains, and <br>
+also<br>
+medical use. This product is very expensive, very explosive: not exactly the <br>
+ideal<br>
+stove fuel.<br>
+But what confuses me is: this seems to be the product referred to for a lot of<br>
+other countries.<br>
+So what do you think? Are you looking for "White spirit" or "Renset bensin" ?<br>
+<br>
+<wittgens @kjemi.unit.no=""> writes......<br>
+Actually you are looking for something inbetween, my Whispherlight get some<br>
+hick'up when using "White spirit" because the petroleum jet is to big for<br>
+using "White spirit" directly, the white gas jet is somewhat small, so you<br>
+don't get enough fuel through it. Another popular use of "White spirit" is<br>
+lighting a barbeque with it.<br>
+Never use "Renset  bensin" you just waist your money, use unleaded 98<br>
+octane fuel. Some gas station sell a gasoline typ with an additive based <br>
+on potassium, this one should not be used in MSR's or Coleman's<br>
+<br>
+<exualan @exu.ericsson.se=""> writes........<br>
+While in Norway and Sweden recently I looked closely at "Renset bensin" and<br>
+"tecknisk bensin" for use in my SVEA stove.  The Norwegan product was clearly<br>
+marked as a mixture (60/40??) of Hexane and Heptane (with 1 or 2 percent of<br>
+other "-anes", like pentane).  The Swedish product was not labelled as to<br>
+contents.  I did purchase about 200 ml, good for about 1 hour cooking, but<br>
+now I don't recall from which country.  There was no problem since the stove<br>
+is designed to use explosive fuels.  Later I switched to Primus (TM) brand of<br>
+butane and a new stove because it was much more available and cheaper.<br>
+<br>
+There are some interesting cultural differences with regard to the "explosive"<br>
+fuels.  <br>
+<br>
+ &gt;It is sold at pharmacies, and is intended for removing stains, and also<br>
+ &gt;medical use. This product is very expensive, very explosive: not exactly<br>
+ &gt;the ideal stove fuel.<br>
+ <br>
+This is quite true for Norway and Sweden.  If you go to a pharmacy and say<br>
+you are going to use this product in a stove they will just as likely call<br>
+"the men in white coats" to take you away.  But if you say you are going to<br>
+use it to clean wounds, this is OK.<br>
+<br>
+Now, in the US if you went to a sports store and said you were going to use<br>
+Coleman Fuel (TM for extra pure white gasoline) - someone would say you were<br>
+very crazy.  <br>
+<br>
+<wittgens @kjemi.unit.no=""> writes.......<br>
+True, the norwegian's get slighty crazy if they someone light<br>
+a stove fired by gasoline, normally they move about two meters away. <br>
+They learn gasoline == dangerous,   kerosene == safe.<br>
+Further it is forbidden in Norway to sell stoves<br>
+fired by gasoline.<br>
+<br>
+U.S.A<br>
+-----<br>
+<dnewcomb @whale.st.usm.edu=""> writes......<br>
+"Charcoal lighter" is a clean substitute (for Kerosene) and available<br>
+in any store.<br>
+ <br>
+U.K.<br>
+---<br>
+Paraffin available from some garages. Coleman fuel only from some<br>
+camping stores.....If you ask for white spirit, you will be given<br>
+"Turpentine substitute" ie. paint thinner. Meths from hardware stores.<br>
+<br>
+New Zealand<br>
+-----------<br>
+White spirit (4 brand names) available from garages. Probably safer to ask<br>
+for one of the brand names rather than just "white spirit".<br>
+Meths from hardware stores.<br>
+<br>
+Sweden<br>
+------<br>
+Alan Malkiel <exualan @exu.ericsson.se=""> writes......<br>
+In Sweden, Vit Bensin is also sold as "teknisk bensin". (Technicial Gasoline)<br>
+(It is used as a cleaning solvent, sold in small bottles, and rather<br>
+expensive.)<br>
+<br>
+Finland<br>
+-------<br>
+kiravuo@gamma.hut.fi writes.......<br>
+Valopetroli, bensiini and sprii are generic names, Sinol and<br>
+Marinol are brand names, but also in common use. <br>
+<br>
+mk59200@cs.tut.fi writes........<br>
+White Gas (kevytbensiini) is apparently very hard to find (maybe<br>
+because nobody uses it here). According to manufacturer's info<br>
+Sinol(tm) is for unpressurized stoves (Trangia etc.) while Marinol(tm)<br>
+is for pressurized stoves (Optimus? never seen one), but in practice<br>
+they should be interchangeable.<br>
+<br>
+Czech Republic<br>
+--------------<br>
+<akhain @sequent.com=""> writes<br>
+Petrolej, Benzin, Technicky benzin, Denaturovany lih or Denaturovany alkohol<br>
+should be commonly available in 'Drogerie' (Drug store) or 'Barvy-Laky'<br>
+(Paints) stores.<br>
+<br>
+<br>
+Some notes on diesel fuel<br>
+-------------------------<br>
+<awaddington @acorn.co.uk=""> writes.......<br>
+Don't forget that some multifuel stoves will run on Diesel, which has<br>
+the advantage of a very high calorific value per unit mass. In UK, this<br>
+is "Diesel" or "DERV", the latter for road vehicles specifically. Its<br>
+also possible to get hold of agricultural or "Red Diesel", which is<br>
+free of excise duty, but under no circumstances should you use it in<br>
+a road vehicle ! In Spain, diesel is "Gazoleo A".<br>
+<br>
+I'm also interested in the availability of fuels in other countries.<br>
+Please post or email any suggestions. I'll post updates.<br>
+<br>
+Mike Buckler<br>
+<br>
+mbuckler@chenov1.auckland.ac.nz<br>
+shaw@ccu1.auckland.ac.nz<br>
+</awaddington></akhain></exualan></dnewcomb></wittgens></exualan></wittgens></paale></paale></awaddington></i.g.batten></mtrrut></tsuchiya></jewitt></jewitt></jewitt></olaf></rkohli></awaddington></awaddington></awaddington></daryl></jacek></noah_coccaro></millenaar></dirk.vangulik></pre>
+
+</div>
+</div>
+

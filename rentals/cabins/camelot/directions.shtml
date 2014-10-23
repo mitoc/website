@@ -1,0 +1,102 @@
+
+<div class='summer'>
+
+<div class="info-bar yui3-u-1-3">
+  <div class="events">
+	<h2>Rentals</h2>
+<a href="#rentals/gear.html">Gear</a></li>
+<a href="#rentals/cabins/cabins.html">Cabins</a></li>
+<p class="tab">
+<a href="#rentals/cabins/camelot/camelot.html">Camelot</a></li>
+<a href="#rentals/cabins/intervale/intervale.html">Intervale</a></li>
+</p>
+<a href="#rentals/boathouse/boathouse.html">Boats</a></li>
+  <h2>Read Before Going</h2>
+<a href="rentals/cabins/camelot/camelot_manual.pdf">Manual</a></li>
+<a href="https://docs.google.com/document/d/13tPR0ywUg7lqygyQJICZpzFglTNCD4VILCvJ-BOUAzM/edit">Checklist</a></li>
+<a href="#rentals/cabins/camelot/camelot_faq.html">FAQs and Reminders</a></li>
+  <h2>Resources</h2>
+<a href="/mitoc/www/rentals/cabins/camelot/camelot_map.pdf">Map of the Property</a>
+<a href="#rentals/cabins/camelot/inventory.html">List of Items at Cabin</a>
+  
+<div class="upcoming">
+  <div class="upcoming_text">
+	<div id="camelot_events"></div>
+	<script type="text/javascript">
+	loadCalendarByAddress('hpmvtpt13cgsnjkh0lie228r3g@group.calendar.google.com',"camelot_events");
+	</script>
+  </div>
+</div>
+  <div class="leaders">
+  <h3>CABIN MANAGERS</h3>
+  <hr>
+  <div class="leader">
+    <img class="leader_pic" src="images/profile/pavel.jpg">
+    <div class="leader_info">
+      Pavel Gorelik<br />
+      <i>Camelot Manager</i>
+    </div>
+  </div>
+  <hr>
+  </div>
+  <h3><a href="#rentals/cabins/keyholder.html">BECOME A KEYHOLDER</a></h3>
+  <a href="mailto:camelot-mgr@mit.edu"><b>QUESTIONS?</b><br />camelot-mgr@mit.edu</a>
+  </div>
+</div>
+
+<div class="content yui3-u-7-12">
+
+<!--- Body Text --!>
+<H3>Directions to the MIT Outing Club's Camelot Cabin.</h3>
+<h4>Camelot is located in 1238 North Groton Rd, <br>Rumney NH 03266</h4>
+<H3>From Boston: 125 miles, 2.25 - 3 hrs driving</H3>
+
+<UL>
+<LI> I-93 North, or Rt 3 to I-93 North, or Rt 1 to I-93 North via Tobin Bridge.</LI>
+<LI> Exit 26, just past Plymouth, NH, to Rt 25 West.</LI>
+<LI> Follow Rt 25 west for 8.5 miles; past Hatch Plaza Stores
+ (where there is a large supermarket with good prices and a decent bakery)
+ (turn at next intersection for nearest hospital); past traffic circle
+ at Rt 3A; past two pairs of yellow blinking lights by Rumney.</LI>
+<LI> Look for yellow warning sign for intersection of Hall's Brook Road.
+  Slow down and get ready
+  to turn left immediately (there will be a + four way intersection, then the next sign with be a -| three way intersection sign, which is what you want).  Turn left onto  Hall's Brook Road.</LI>
+<LI> Proceed for approx 3 mi uphill to town of North Groton.  Hall's
+ Brook Rd is very windy and bumpy, at times there is a fairly deep stream
+ bed on the left.</LI>
+<LI> Turn right at North Groton towards Cheever (Hall's Brook Rd ends at a "T"
+ in North Groton).</LI>
+<LI> Go 1.1 miles from intersection at North Groton, past the cemetary on the
+ left, up the hill past several houses.</LI>
+<LI> Parking area is on the right, halfway up the hill (the road is curving
+ slightly to the right).  The trail leaves from the downhill corner of the
+ parking lot and is about 100m to the cabin.  The trail goes over
+ the bridge crossing the stream.</LI>
+<LI> If there is cut wood left near the parking lot, please help carry some
+ back to the cabin's woodshed every time you come from your car.</LI>
+</UL>
+
+<H3>Slippery roads??  Miss the turn at Hall's Brook Road??</H3><UL>
+<LI> Continue west on Rt 25 for an additional 2.9 miles (11.3 miles from I-93), past rest area.</LI>
+<LI> Junction 118 (to I-89): turn left at small store, go south on 118 for 2.0 miles</LI>
+<LI> Cheever: the white Cheever Union Chapel will appear suddenly on your right at the top of a hill after some trees.</LI>
+<LI> Turn left after the last building onto North Groton Rd. (after you see this sign), and then stay on your right immediately after then turn; avoid taking the smaller left fork (it goes up to Bailey Hill).</LI>
+<img src="../../../images/sign2a.gif">
+<LI> Follow the road for 2.6 miles, steadily uphill.</LI>
+<LI> Halfway down the first downhill slope, look for the parking area on the left as described above.</LI>
+</UL>
+
+<H3>From the west:</H3><UL>
+<LI> I-91 North to White River Jct VT/Lebanon NH</LI>
+<LI> US-4 East to Canaan (near Cardigan, a nice Sunday afternoon hike)</LI>
+<LI> Rt 118 North to Cheever</LI>
+<LI> See above directions from Cheever.</LI>
+</UL>
+
+</td>
+</tr>
+<tr><td colspan=3>
+<br><br>
+
+
+</div>

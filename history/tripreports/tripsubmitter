@@ -1,0 +1,47 @@
+#!/afs/athena.mit.edu/contrib/perl/arch/sun4m_53/bin/perl5
+
+# this helps us find the forms.pl library
+push (@INC,"/var/httpd/htdocs/bin","/var/httpd/htdocs/cgi-bin");
+
+# this is the forms.pl library; it has the "Handle" function
+require "forms.pl";
+
+%FORM = &forms::Handle;
+
+# this is it: we print out some HTML, with the form value embedded
+print <<end_mark;
+Content-type:text/html
+
+<HTML>
+<BODY BGCOLOR="FFFFCC">
+
+<H1>$FORM{'TripName'}</H1>
+
+<P>If you find a bug, please send
+<A HREF="mailto:daniels\@media.mit.edu">mail</A></P>
+
+<p>Location: $FORM{'Location'}</P>
+<p>Start: $FORM{'StartMonth'} $FORM{'StartDay'}, $FORM{'StartYear'}</P>
+<p>Finish: $FORM{'FinishMonth'} $FORM{'FinishDay'}, $FORM{'FinishYear'}</P>
+<p>Reporter: $FORM{'ReporterName'}, $FORM{'ReporterEmail'} </p>
+<p>Participants: $FORM{'Participants'} </p>
+<p>Description= $FORM{'Description'} </p>
+
+end_mark
+
+# We also add the date...
+$date = `date`;
+print $date;
+
+# And a list of all the FORM values
+print "<UL>\n";
+foreach $key (keys %FORM) {
+    print "<LI> $key is <B>$FORM{$key}</B>\n";
+}
+print "</UL>\n";
+
+# And then we end the page.
+print <<end_rest_of_page;
+<P>END</P>
+</BODY>
+</HTML>
