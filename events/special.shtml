@@ -3,10 +3,10 @@
 	text-align: center;
 }
 .summer .content.yui3-u-7-12 {
-	text-align: left;
+	text-align: center;
 }
 .summer .content.yui3-u-7-12 p {
-	text-align: left;
+	text-align: center;
 }
 .content.yui3-u-7-12 div {
 }
@@ -24,28 +24,20 @@
 
 <h1>Special Events and Announcements</h1>
 
-<p align="center"><img src="http://web.mit.edu/mitoc/www/events/special-pic/reelrock9-logo.jpg" width="500" height="129" alt=""/></p>
-<p>MITOC and <a href="http://lsc.mit.edu/" target="_blank"><strong>LSC</strong></a> are hosting <a href="http://reelrocktour.com/" target="_blank"><strong>Reel Rock 9:Valley Uprising</strong></a> and other films on <strong>Tuesday, October 28th, 2014</strong> <strong>@ 7:30pm in <a href="http://whereis.mit.edu/?go=26">26-100</a></strong>!</p>
-<p>Purchase your tickets today to save your seat! $5 for MIT Students, $10 for everyone else. Open to the public.</p>
-<p>To buy your tickets online:</p>
-<ul>
-  <li> go to the <a href="http://web.mit.edu/mitoc/www/#office/paymitoc.shtml">Pay MITOC</a> page</li>
-  <li>under Purchase Items, change the pulldown menu &quot;Payment For&quot; to &quot;Items&quot;</li>
-  <li>select the appropriate ticket type (MIT Student or General Admission)</li>
-  <li>enter the desired amount of tickets and the price will update (if purchasing both types of tickets, do two transactions, one for each)</li>
-  <li>enter your email address in the &quot;Comments&quot; field</li>
-  <li>click on the &quot;Pay MITOC&quot; button and complete the credit card payment information</li>
-  <li>email <a href="mailto:brew@mit.edu?subject=5PointFilms Ticket">brew@mit.edu</a> with any questions or concerns about your ticket purchase</li>
-</ul>
+<p align="center">MITOC &amp; <a href="http://lsc.mit.edu/" target="_blank"><strong>LSC</strong></a> are hosting <strong>a screening of &quot;</strong><a href="http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series" target="_blank"><strong>FIRST ASCENT: the complete series</strong></a>&quot; <br>
+  on <strong><br>
+  Tuesday, April 7th, 2015</strong> <strong>@ 7:30pm in <a href="http://whereis.mit.edu/?go=26">26-100</a></strong>!
 <p align="center">
-  <iframe width="560" height="315" src="//www.youtube.com/embed/o86TpaSBcWw?rel=0" frameborder="0" allowfullscreen></iframe>
-</p>
-<p>In its ninth year, the REEL ROCK Film Tour features a special presentation of the highly-anticipated feature-length film “Valley Uprising.” </p>
-<p>The greatest untold story of American counterculture is that of the Yosemite Valley rock climbers. For the past fifty years, Yosemite’s massive cliffs have drawn explorers and madmen to leave materialism behind and venture onto the high, lonesome granite. </p>
-<p>The larger-than-life characters of Yosemite carved out an “extreme bohemian” lifestyle in the Valley, living on red wine and boiled potatoes, clashing with National Park authorities, and pioneering the boldest climbs on Earth. T he torch has been passed down across three generations of climbers; through rivalries, tragedies and triumphs, the art of Yosemite climbing has advanced beyond anyone’s imagination. </p>
-<p>Valley Uprising is the riveting, unforgettable tale of this bold tradition: half a century of struggle against the laws of gravity — and the laws of the land.</p>
-<p>&nbsp;</p>
-<span style="text-align: left"><!-- <p><strong><u>Buy your tickets today to save your spot!</u></strong> $5 for MIT Students purchased online, $10 for eveyone else.</p>
+  <iframe src="https://player.vimeo.com/video/116099140" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>    
+<p>&quot;<a href="http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series" target="_blank">FIRST ASCENT: the complete series</a>&quot; from <a href="http://senderfilms.com">SenderFilms</a> on <a href="https://vimeo.com/ondemand/firstascenttheseries/116099140">Vimeo</a></p>
+<p><strong style="text-align: center">FREE AND OPEN TO THE PUBLIC</strong></p>
+<p><em>*Seating is limited, first come, first served basis. No standing allowed. </em></p>
+<p>First Ascent (2010) is Sender Films' groundbreaking 6-part series that  takes you to the cutting edge of adventure.  Produced over two years on  five continents, First Ascent follows the greatest climbers to majestic  locations around the globe on their quests to redefine what is possible  in the mountains. <br>
+  <br>
+Includes the six ~24 minute films that define the series. </p>
+<p><a href="http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series">Read more about each film.</a></p>
+
+<!-- <p><strong><u>Buy your tickets today to save your spot!</u></strong> $5 for MIT Students purchased online, $10 for eveyone else.</p>
 <ul>
   <li> click <a href="#office/paymitoc.shtml"><strong>here</strong></a> to go to the <a href="#office/paymitoc.shtml">Pay MITOC page</a>, </li>
   <li>then select "Items" from the dropdown,</li>
@@ -55,8 +47,8 @@
   <li>follow the payment process through,</li>
   <li>at the door, have your state issued ID ready for verification on the Will Call list</li>
 </ul> -->
-</span>
-<p><strong style="padding-top: 30px; text-align: left;">NOTICE: Special event fees are non-refundable.</strong></p>
+
+<p><strong style="margin-top: 30px; text-align: left;">NOTICE: Special event fees are non-refundable.</strong></p>
 <p><a href="#events/special-archives.shtml"><strong>Past Special Events and Announcements</strong></a></p>
 
 <p></p>

@@ -34,10 +34,37 @@ This page can be used to pay money to MITOC.
 <br />
 <center><h2>NOTE: ALL SALES ARE <font color="red">FINAL</font>! NO REFUNDS!</h2></center>
 <hr>
+
+<h2>Gear Rentals and Buying Gear</h2>
+<!--Note that this should typically be used by <b>desk workers</b> who are also updating the gear database.-->
+<!--<br />-->
+<!--<br />-->
+<div class="pay_container">
+<form ACTION="https://shopmitprd.mit.edu/controller/index.php" METHOD=POST id="pay_form_general">
+    <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
+    <label for="merchantDefinedData1">Payment For: </label>
+    <select name="merchantDefinedData1" ID="merchantDefinedData1">
+    <option value="rental">Gear (not boats)</option>
+    <option value="gear">Buying gear</option>
+    <option value="canoe">Canoe</option>
+    <option value="whitewaterkayak">White Water Kayak</option>
+    <option value="seakayak">Sea Kayak</option>
+    <option value="other">Other</option>
+    </select><br />
+    <input TYPE="HIDDEN" NAME="merchantDefinedData2" ID="merchantDefinedData2" value="">
+    <label NAME="notes_label" ID="notes_label" for="merchantDefinedData3">Renter name: </label>
+    <input NAME="merchantDefinedData3" ID="merchantDefinedData3" value="" size=12><br />
+    <label NAME="amount_label" ID="amount_label" for="amount">Amount: $</label>
+    <input NAME="amount" ID="amount" value="0.00" size=12><br />
+    <input TYPE=SUBMIT VALUE="Pay MITOC">
+</form>
+</div>
+<hr>
+
 <h2>Membership</h2>
 You must fill out our waiver and pay. <a href="#jointrip/becomemember.html">Click here</a> for more information.
 <hr>
-<h2>Purchase Items: (Events, Cabin Exclusive, T-Shirts)</h2>
+<h2>Cabin Exclusive, Special Events</h2>
 
 
 <p> Use drop down menu.
@@ -54,7 +81,7 @@ You must fill out our waiver and pay. <a href="#jointrip/becomemember.html">Clic
     <option value="cabin">Cabin Exclusive</option>
 
     </select><br />
-    <select name="payment_options" ID="payment_options" onchange="select_cached_fee('pay_form')" style="display: none;">
+    <select name="payment_options" ID="payment_options" onchange="select_cached_fee('pay_form')">
     </select>
     <input TYPE="HIDDEN" NAME="merchantDefinedData2" ID="merchantDefinedData2" value="">
     <br />
@@ -74,7 +101,7 @@ You must fill out our waiver and pay. <a href="#jointrip/becomemember.html">Clic
 Be sure to fill out this form (<a href="https://docs.google.com/spreadsheet/viewform?formkey=dGdFZ1puZ2JiZktNeDNIZ0JXQ09OR1E6MQ#gid=0">Camelot</a> or
 <a href="https://docs.google.com/spreadsheet/viewform?formkey=dFE4QTY2XzRLVVllY1VXcVNzWUxHYVE6MQ#gid=0">Intervale</a>) when you pay for cabin rental. <br />
 <br />
-<b>NOTE:</b> Days spent on-site but not in the cabin (e.g. Yurt / Lean-to) have a suggested donation of 0.5 Person days. You may use the form below and
+<b>NOTE:</b> Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost 0.5 Person-days (i.e. half price of using the cabin). You may use the form below and
 enter the number of fractional days spent outside and full days spent inside for your payment.
 
 <div style="float: left;">
@@ -122,30 +149,6 @@ enter the number of fractional days spent outside and full days spent inside for
 <br>
 <br>
 <hr>
-
-<h2>Gear Rentals (for Deskworker use ONLY!)</h2>
-Note that this should typically be used by <b>desk workers</b> who are also updating the gear database.
-<br />
-<br />
-<div class="pay_container">
-<form ACTION="https://shopmitprd.mit.edu/controller/index.php" METHOD=POST id="pay_form">
-    <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
-    <label for="merchantDefinedData1">Payment For: </label>
-    <select name="merchantDefinedData1" ID="merchantDefinedData1">
-    <option value="rental">Gear (not boats)</option>
-    <option value="canoe">Canoe</option>
-    <option value="whitewaterkayak">White Water Kayak</option>
-    <option value="seakayak">Sea Kayak</option>
-    <option value="other">Other</option>
-    <input TYPE="HIDDEN" NAME="merchantDefinedData2" ID="merchantDefinedData2" value="">
-    <label NAME="notes_label" ID="notes_label" for="merchantDefinedData3">Notes: </label>
-    <input NAME="merchantDefinedData3" ID="merchantDefinedData3" value="" size=12><br />
-    <label NAME="amount_label" ID="amount_label" for="amount">Amount: $</label>
-    <input NAME="amount" ID="amount" value="0.00" size=12><br />
-    <span ID="payment_description" style="display: none; width: 100%">Description:</span><br id="payment_description_spacer" style="display: none;"/>
-    <input TYPE=SUBMIT VALUE="Pay MITOC">
-</form>
-</div>
 <!--
 <hr>
 

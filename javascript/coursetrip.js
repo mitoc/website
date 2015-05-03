@@ -63,7 +63,7 @@ function load_cached_fees(form_id)
         document.getElementById("notes_label").style.display = 'inline';
         document.getElementById("payment_description").style.display = 'none';
         document.getElementById("payment_description_spacer").style.display = 'none';
-        choices.style.display = 'none';
+        // choices.style.display = 'none';
         form.elements["merchantDefinedData2"].value = "";
     }
 }
@@ -83,7 +83,7 @@ function select_cached_fee(form_id)
 function change_count(form_id)
 {
     var form = document.getElementById(form_id);
-    var type = form.elements["merchantDefinedData1"].value;
+	var type = form.elements["merchantDefinedData1"].value;
     var val = form.elements["payment_options"].value;
     var name = form.elements["payment_options"].options[form.elements["payment_options"].selectedIndex].text;
     var count_element = form.elements["merchantDefinedData4"];

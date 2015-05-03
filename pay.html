@@ -1,0 +1,162 @@
+<html>
+<head>
+<title> MITOC Mobile Payment</title>
+
+<meta name="viewport" content="width=device-width, user-scalable=yes" />
+
+<script type="text/javascript" src="office/javascript/coursetrip.js"></script>
+<script type="text/javascript">
+load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '1');
+load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '2');
+load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '3');
+</script>
+
+<style type="text/css">
+
+body {
+	font-size: 1em;
+	width:100%;
+}
+
+hr {
+	width: 75%;
+	margin: 0 auto;
+}
+
+.container {
+	margin: 5px;
+}
+
+p {
+	width: 100%;
+}
+
+input {
+margin-bottom: 5px;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	max-width: 325px;
+}
+
+
+</style>
+</head>
+<body>
+<div class="container">
+<p align="center"><a href="index.shtml"><img src="images/logo.png"><br />(full site)</a></p>
+<div>
+
+<h2>Pay MITOC</h2>
+<p>This page can be used to pay money to MITOC.</p>
+
+
+
+<h3><center>NOTE: ALL SALES ARE <font color="red">FINAL</font>!<br />NO REFUNDS!<center></h3>
+<hr>
+<h2>Membership</h2>
+<p>You must fill out our waiver and pay. <a href="jointrip/becomemember.html">Click here</a> for more information.</p>
+<hr>
+<h2>Gear Rentals and Buying Gear</h2>
+
+<div>
+<form ACTION="https://shopmitprd.mit.edu/controller/index.php" METHOD=POST id="pay_form">
+    <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
+    <label for="merchantDefinedData1">Payment For: </label>
+    <select name="merchantDefinedData1" ID="merchantDefinedData1">
+    <option value="rental">Gear (not boats)</option>
+    <option value="gear">Buying gear</option>
+    <option value="ws">Winter school trip fee ($5)</option>
+    <option value="ice">Ice climbing trip fee ($15)</option>
+    <option value="canoe">Canoe</option>
+    <option value="whitewaterkayak">White Water Kayak</option>
+    <option value="seakayak">Sea Kayak</option>
+    <option value="other">Other</option>
+    </select>
+    <input TYPE="HIDDEN" NAME="merchantDefinedData2" ID="merchantDefinedData2" value="">
+   <br /> <label NAME="notes_label" ID="notes_label" for="merchantDefinedData3">Renter's Name: </label>
+    <input NAME="merchantDefinedData3" ID="merchantDefinedData3" value="" size=12><br />
+    <label NAME="amount_label" ID="amount_label" for="amount">Amount: $</label>
+    <input NAME="amount" ID="amount" value="0.00" size=12><br />
+    <span ID="payment_description" style="display: none; width: 100%">Description:</span><br id="payment_description_spacer" style="display: none;"/>
+    <input TYPE=SUBMIT VALUE="Pay MITOC">
+</form>
+</div>
+<hr>
+<h2>Cabin Exclusive, Special Events</h2>
+
+<p> Use drop down menu.</p>
+<div>
+  <form ACTION="https://shopmitprd.mit.edu/web/buy" METHOD=POST id="pay_form">
+    <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
+    <label for="merchantDefinedData1_something">Payment For: </label>
+    <select name="merchantDefinedData1" ID="merchantDefinedData1" onchange="load_cached_fees('pay_form')" style="display:inline";>
+    <!--<option value="trip">Trips</option>-->
+    <!--<option value="item">Items</option>-->
+    <option value="cabin">Cabin Exclusive</option>
+
+    </select><br />
+    <select name="payment_options" ID="payment_options" onchange="select_cached_fee('pay_form')" style="display: none;">
+    </select>
+    <input TYPE="HIDDEN" NAME="merchantDefinedData2" ID="merchantDefinedData2" value="">
+    <br />
+    <label NAME="notes_label" ID="notes_label" for="merchantDefinedData3">Comments: </label>
+    <input NAME="merchantDefinedData3" ID="merchantDefinedData3" value="" size=12><br />
+    <label NAME="count_label" ID="count_label" for="merchantDefinedData4">Count: </label>
+    <input NAME="merchantDefinedData4" ID="merchantDefinedData4" value="" size=12 onchange="change_count('pay_form');" type="number"><br />
+    <label NAME="amount_label" ID="amount_label" for="amount">Amount: $</label>
+    <input NAME="amount" ID="amount" value="0.00" size=12 READONLY><br />
+    <span ID="payment_description" style="display: none; width: 100%">Description:</span><br id="payment_description_spacer" style="display: none;"/>
+    <input TYPE=SUBMIT VALUE="Pay MITOC">
+</form>
+</div>
+
+<hr>
+<h2>Cabin Rentals</h2>
+<p>Be sure to fill out this form (<a href="https://docs.google.com/spreadsheet/viewform?formkey=dGdFZ1puZ2JiZktNeDNIZ0JXQ09OR1E6MQ#gid=0">Camelot</a> or
+<a href="https://docs.google.com/spreadsheet/viewform?formkey=dFE4QTY2XzRLVVllY1VXcVNzWUxHYVE6MQ#gid=0">Intervale</a>) when you pay for cabin rental. </p>
+<p><b>NOTE:</b> Days spent on-site but not in the cabin (e.g. Yurt / Lean-to) cost 0.5 Person-days (i.e. half the cost of using the cabin). You may use the form below and enter the number of fractional days spent outside and full days spent inside for your payment.</p>
+
+<div>
+<p>
+<form ACTION="https://shopmitprd.mit.edu/controller/index.php" METHOD=POST id="camelot_pay_form">
+    <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
+    <input TYPE="HIDDEN" NAME="merchantDefinedData1" ID="merchantDefinedData1" VALUE="camelot">
+    <label for="merchantDefinedData2">Person-days:</label>
+    <input NAME="merchantDefinedData2" ID="merchantDefinedData2" VALUE="1" size=3 style="text-align: right"
+        onchange="document.forms['camelot_pay_form'].amount.value = document.forms['camelot_pay_form'].merchantDefinedData2.value * 7;">
+<br />
+    <label for="merchantDefinedData3">Keyholder:</label>
+    <input NAME="merchantDefinedData3" ID="merchantDefinedData3" VALUE="" size=14 style="text-align: right"
+        onchange="document.forms['camelot_pay_form'].amount.value = document.forms['camelot_pay_form'].merchantDefinedData2.value * 7;">
+    <input TYPE="HIDDEN" NAME="amount" ID="amount" value="7">
+  <br />  <input TYPE=SUBMIT VALUE="Pay Camelot Fee">
+</form></p>
+<br />
+<p>
+<form ACTION="https://shopmitprd.mit.edu/controller/index.php" METHOD=POST id="intervale_pay_form">
+    <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
+    <input TYPE="HIDDEN" NAME="merchantDefinedData1" ID="merchantDefinedData1" VALUE="intervale">
+    <label>Person-days:</label>
+    <input NAME="merchantDefinedData2" ID="merchantDefinedData2" VALUE="1" size=3 style="text-align: right"
+        onchange="document.forms['intervale_pay_form'].amount.value = document.forms['intervale_pay_form'].merchantDefinedData2.value * 7;">
+   <br />
+    <label for="merchantDefinedData3">Keyholder:</label>
+    <input NAME="merchantDefinedData3" ID="merchantDefinedData3" VALUE="" size=14 style="text-align: right"
+        onchange="document.forms['intervale_pay_form'].amount.value = document.forms['intervale_pay_form'].merchantDefinedData2.value * 7;">
+    <input TYPE="HIDDEN" NAME="amount" ID="amount" value="7">
+ <br />   <input TYPE=SUBMIT VALUE="Pay Intervale Fee">
+</form></p>
+
+<p>
+<strong>WARNING: Cabin fee is non-refundable.</strong></p>
+
+</div>
+
+</div>
+</div>
+</body>
+</html>
+

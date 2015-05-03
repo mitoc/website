@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>MIT Outing Club</title>
+  <script type="text/javascript" src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
   <script type="text/javascript" src="javascript/cssjsmenu.js"></script>
   <script type="text/javascript" src="javascript/mitoc.js"></script>
   <script type="text/javascript" src="javascript/jquery-1.7.1.min.js"></script>
@@ -18,6 +19,11 @@
   <link rel="stylesheet" type="text/css" href="styles/style.css">
   <link rel="stylesheet" type="text/css" href="styles/menu.css" />
 <script type="text/javascript">
+
+//console.log('on calendar load');
+//var apikey = "AIzaSyDHd5u-0ibLEzpkBDHq4D7NJdVX5RxX6rk";
+//gapi.client.setApiKey(apikey);
+//gapi.client.load('calendar', 'v3');
 
 function main_load(dest) { $('.main').load(dest); }
 
@@ -66,7 +72,7 @@ function lead_trip()
 function show_db()
 {
   document.location.hash = "#show_db";
-  document.getElementById('main').innerHTML='<iframe src="http://mitoc.scripts.mit.edu/mitoc-gear" class="main_frame"></iframe>';
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.scripts.mit.edu/geardb/" class="main_frame"></iframe>';
 }
 
 function bod_wiki()
@@ -331,7 +337,7 @@ jQuery(function($) {
   </div>
 </div>
 
-<div class="special" id="special"><a href="#events/special.shtml"><b>Reel Rock 9 - Valley Uprising - Oct 28th - Buy your tickets NOW!</a></b></div>
+<div class="special" id="special"><a href="#events/special.shtml"><b>*FREE FILM* - "FIRST ASCENT: the complete series"  - Tues, April 7th @ 7:30 - FREE!</a></b></div>
 <div class="sean" id="sean"><a href="#sean"><b>MITOC remembers our friend Sean Collier, killed in the line of duty on April 18 (click for tribute).</a></b></div>
 <div class="main" id="main">
 

@@ -1,10 +1,16 @@
 /* Loads the Google data JavaScript client library */
-google.load("gdata", "2.x");
+var apikey = "AIzaSyDHd5u-0ibLEzpkBDHq4D7NJdVX5RxX6rk";
+//gapi.client.load('calendar', 'v3');
+//google.load("gdata", "2.x");
 
 function init() {
   // init the Google data JS client library with an error handler
-  google.gdata.client.init(handleGDError);
+  // google.gdata.client.init(handleGDError);
   // load the code.google.com developer calendar
+  var apikey = "AIzaSyDHd5u-0ibLEzpkBDHq4D7NJdVX5RxX6rk";
+  gapi.client.setApiKey(apikey);
+  gapi.client.load('calendar', 'v3');
+  //var i = 0;
 }
 
 /**
@@ -24,6 +30,8 @@ function padNumber(num) {
  * @param {string} calendarAddress is the email-style address for the calendar
  */ 
 function loadCalendarByAddress(calendarAddress, events_id) {
+  //gapi.client.setApiKey(apikey);
+  //gapi.client.load('calendar', 'v3');
   var calendarUrl = 'https://www.google.com/calendar/feeds/' +
 					calendarAddress + 
 					'/public/full';
@@ -38,16 +46,18 @@ function loadCalendarByAddress(calendarAddress, events_id) {
  * @param {string} calendarUrl is the URL for a public calendar feed
  */  
 function loadCalendar(calendarUrl,events_id) {
-  var service = new 
-	  google.gdata.calendar.CalendarService('gdata-js-client-samples-simple');
-  var query = new google.gdata.calendar.CalendarEventQuery(calendarUrl);
-  query.setOrderBy('starttime');
-  query.setSortOrder('ascending');
-  query.setFutureEvents(true);
-  query.setSingleEvents(true);
-  query.setMaxResults(4);
+  console.log(calendarUrl);
+  //gapi.client.calendar.calendars.get({'calendarId': calendarUrl}, function(feedRoot){ console.log(feedRoot); }, handleGDError);
+  //var service = new 
+  //	  google.gdata.calendar.CalendarService('gdata-js-client-samples-simple');
+  //var query = new google.gdata.calendar.CalendarEventQuery(calendarUrl);
+  //query.setOrderBy('starttime');
+  //query.setSortOrder('ascending');
+  //query.setFutureEvents(true);
+  //query.setSingleEvents(true);
+  //query.setMaxResults(4);
 
-  service.getEventsFeed(query, function (feedRoot) { listEvents(feedRoot, events_id) }, handleGDError);
+  //service.getEventsFeed(query, function (feedRoot) { listEvents(feedRoot, events_id) }, handleGDError);
 }
 
 /**
