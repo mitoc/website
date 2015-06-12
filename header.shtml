@@ -337,7 +337,8 @@ jQuery(function($) {
   </div>
 </div>
 
-<div class="special" id="special"><a href="#events/special.shtml"><b>*FREE FILM* - "FIRST ASCENT: the complete series"  - Tues, April 7th @ 7:30 - FREE!</a></b></div>
+<!--<div class="special" id="special"><a href="#events/special.shtml"><b>*FREE FILM* - "FIRST ASCENT: the complete series"  - Tues, April 7th @ 7:30 - FREE!</a></b></div>-->
+<div class="special"></div>
 <div class="sean" id="sean"><a href="#sean"><b>MITOC remembers our friend Sean Collier, killed in the line of duty on April 18 (click for tribute).</a></b></div>
 <div class="main" id="main">
 
