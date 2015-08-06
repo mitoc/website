@@ -302,7 +302,7 @@ jQuery(function($) {
               <li><a id="rental_boathouse_nav">Boathouse</a></li>
               <li><a id="rental_administrativia_nav">Administrativia</a>
               <ul>
-                  <li><a href="http://mitoc.scripts.mit.edu/mitoc-gear">Gear Database</a></li>
+                  <li><a href="http://mitoc.scripts.mit.edu/geardb/">Gear Database</a></li>
                   <li><a href="#office/paymitoc.shtml">Pay MITOC</a></li>
                   <li><a href="#rentals/broken.html">Broken Gear</a></li>
                   <li><a href="../www/office/forms/">Forms</a></li>
