@@ -4,12 +4,30 @@
 
 <meta name="viewport" content="width=device-width, user-scalable=yes" />
 
-<script type="text/javascript" src="office/javascript/coursetrip.js"></script>
-<script type="text/javascript">
-load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '1');
-load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '2');
-load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '3');
-</script>
+
+  <script type="text/javascript" src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
+  <script type="text/javascript" src="javascript/cssjsmenu.js"></script>
+  <script type="text/javascript" src="javascript/mitoc.js"></script>
+  <script type="text/javascript" src="javascript/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="javascript/jquery.ba-hashchange.min.js"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCBxTBIDWZr83UGL49wROPssTIzW7IP9KU&sensor=false"></script>
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript" src="javascript/mapplot.js"></script>
+  <script type="text/javascript" src="javascript/calendar_events.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/libs/normalize.css">
+  <link rel="stylesheet" type="text/css" href="styles/libs/grids-min.css">
+  <link rel="stylesheet" type="text/css" href="styles/libs/jquery-ui.css">
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <link rel="stylesheet" type="text/css" href="styles/menu.css" />
+
+<div class="upcoming">
+  <div class="upcoming_text">
+    <div id="events"></div>
+    <script type="text/javascript">loadCalendarByAddress('nf2filjvmi1s2kipeo5pahr56c@group.calendar.google.com', 'events');</script>
+  </div>
+</div>
+
 
 <style type="text/css">
 
@@ -45,6 +63,16 @@ img {
 </style>
 </head>
 <body>
+
+<script type="text/javascript" src="javascript/coursetrip.js"></script>
+<script type="text/javascript">
+load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '1');
+load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '2');
+load_fees_from_spreadsheet('0Aoz3p1JFiwqtdDZwYmFZendjWnlRS0VJRXBTWHlZcVE', '3');
+</script>
+
+
+
 <div class="container">
 <p align="center"><a href="index.shtml"><img src="images/logo.png"><br />(full site)</a></p>
 <div>
@@ -62,14 +90,12 @@ img {
 <h2>Gear Rentals and Buying Gear</h2>
 
 <div>
-<form ACTION="https://shopmitprd.mit.edu/controller/index.php" METHOD=POST id="pay_form">
+<form ACTION="https://shopmitprd.mit.edu/controller/index.php" METHOD=POST id="pay_form_general">
     <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
     <label for="merchantDefinedData1">Payment For: </label>
     <select name="merchantDefinedData1" ID="merchantDefinedData1">
     <option value="rental">Gear (not boats)</option>
     <option value="gear">Buying gear</option>
-    <option value="ws">Winter school trip fee ($5)</option>
-    <option value="ice">Ice climbing trip fee ($15)</option>
     <option value="canoe">Canoe</option>
     <option value="whitewaterkayak">White Water Kayak</option>
     <option value="seakayak">Sea Kayak</option>
@@ -85,24 +111,28 @@ img {
 </form>
 </div>
 <hr>
+
 <h2>Cabin Exclusive, Special Events</h2>
 
-<p> Use drop down menu.</p>
-<div>
+<p> Use drop down menu.
+  <br />
+  <br />
+</p>
+<div class="pay_container">
   <form ACTION="https://shopmitprd.mit.edu/web/buy" METHOD=POST id="pay_form">
     <input TYPE="HIDDEN" NAME="merchant_id" ID="merchant_id" VALUE="mit_sao_mitoc">
     <label for="merchantDefinedData1_something">Payment For: </label>
     <select name="merchantDefinedData1" ID="merchantDefinedData1" onchange="load_cached_fees('pay_form')" style="display:inline";>
-    <!--<option value="trip">Trips</option>-->
-    <!--<option value="item">Items</option>-->
+    <option value="trip">Trips</option>
+    <option value="item">Items</option>
     <option value="cabin">Cabin Exclusive</option>
 
     </select><br />
-    <select name="payment_options" ID="payment_options" onchange="select_cached_fee('pay_form')" style="display: none;">
+    <select name="payment_options" ID="payment_options" onchange="select_cached_fee('pay_form')">
     </select>
     <input TYPE="HIDDEN" NAME="merchantDefinedData2" ID="merchantDefinedData2" value="">
     <br />
-    <label NAME="notes_label" ID="notes_label" for="merchantDefinedData3">Comments: </label>
+    <label NAME="notes_label" ID="notes_label" for="merchantDefinedData3">Commentss: </label>
     <input NAME="merchantDefinedData3" ID="merchantDefinedData3" value="" size=12><br />
     <label NAME="count_label" ID="count_label" for="merchantDefinedData4">Count: </label>
     <input NAME="merchantDefinedData4" ID="merchantDefinedData4" value="" size=12 onchange="change_count('pay_form');" type="number"><br />
