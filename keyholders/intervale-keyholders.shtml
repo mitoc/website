@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h3>Intervale Keyholders</h3>
 <ul>
 <li>Aaron Yahr. 10/18/2008
@@ -114,4 +114,4 @@
 <li>Rosemary Su. 12/1/2010
 </li>
 </ul>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

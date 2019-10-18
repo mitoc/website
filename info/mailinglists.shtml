@@ -1,21 +1,21 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h2>Mailing Lists</h2>
 <a href="http://mailman.mit.edu/mailman/listinfo/mitoc">mitoc</a> --
 member announcements of upcoming hiking and other general interest
 trips, request for general outdoors information, trip reports.  The
 mitoc list has over 1100 members.  Please remember that number when you
-consider emailing the list.  
+consider emailing the list.
 
 <br><br> <a
 href="http://mailman.mit.edu/mailman/listinfo/mitoc-announce">mitoc-announce</a>
 -- official announcements of MITOC trips.  This is a low-traffic list, and it is recommended that all members subscribe.
 
 <br><br> <a href="http://mailman.mit.edu/mailman/listinfo/mitoc-gear">mitoc-gear</a>
-    -- 
+    --
 gear tips and tricks, questions about gear, available sales and deals
 
-<br><br> <a href="http://mailman.mit.edu/mailman/listinfo/climbers">climbers</a> -- 
-discussions about indoor & outdoor climbing, announcements of member 
+<br><br> <a href="http://mailman.mit.edu/mailman/listinfo/climbers">climbers</a> --
+discussions about indoor & outdoor climbing, announcements of member
 climbing trips, attempts to find climbing partners, climbing trip
 reports
 
@@ -35,7 +35,7 @@ canoeing; announcements of paddling trips; paddling trip reports
 -- discussions about backcountry skiing, announcements of member
 backcountry trips, attempts to find skiing partners, backcountry trip
 reports
- 
+
 <br><br> <a href="http://mailman.mit.edu/mailman/listinfo/mitoc-bike">mitoc-bike</a>
 -- all things mountain biking: trips, reports and discussion
 
@@ -64,6 +64,6 @@ utility Mailman or have questions about the lists, send mail to
 &#109;&#105;&#116;&#111;&#99;&#45;&#111;&#119;&#110;&#101;&#114;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117; with your name, e-mail address, and question. This
 is not an automatic subscription service, so be friendly.
 
-<p>More detailed descriptions of the mailing lists can be found <a href="/mitoc/www/info/ml-description.shtml">here</a>.
+<p>More detailed descriptions of the mailing lists can be found <a href="/info/ml-description.shtml">here</a>.
 
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

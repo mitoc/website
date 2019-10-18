@@ -2,7 +2,7 @@
 <div class='summer'>
 <div class="info-bar yui3-u-1-3">
   <div class="events">
-  <!--#include virtual="/mitoc/web/events/sidebar.shtml" -->
+  <!--#include virtual="/events/sidebar.shtml" -->
   <h3><a href="#leadtrip/leadtrip.html">BECOME A TRIP LEADER</a></h3>
   <a href="mailto:circus-chair@mit.edu"><b>QUESTIONS?</b><br />circus-chair@mit.edu</a>
   </div>
@@ -33,11 +33,11 @@ Circii are held every month spring through fall.
 <h2>Hiking versus Climbing</h2>
 Due to the nature of leading safe climbing trips, space is very limited. Climbing trips require a significant amount of time investment and attention from the leader. It's more like an apprenticeship than a group trip. We highly recommend those interested in outdoor rock climbing to:
 <ul>
-<li>Try indoor rocking climbing 
+<li>Try indoor rocking climbing
 <li>Attend Learn-To-Climb or Technical Review Sessions
 <li>Get to know leaders at climbing events
 <li>Learn to top rope belay either from a friend or at a climbing gym
-</ul> 
+</ul>
 We unfortunately don't have the resources to take everyone who wants to "try" rock climbing out once. We recommend a <a href="http://www.newhampshireclimbing.com/rock-climbing-programs.asp">professional climbing guide service</a> for that purpose.
 <h2>Costs</h2>
 The cost for the trip is $30 ($20 for students) and covers all gear rentals (sleeping bags, pads, tents, etc.), breakfast Saturday and Sunday, dinner on Saturday, cabin usage, and outdoor permits. You must also be an active member. Annual membership fee is $25 ($15 for students, $20 for MIT affiliates).<p>

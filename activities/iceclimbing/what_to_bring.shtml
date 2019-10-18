@@ -1,5 +1,5 @@
 <div class='winter'>
-<!--#include virtual="/mitoc/web/activities/iceclimbing/sidebar.html" -->
+<!--#include virtual="/activities/iceclimbing/sidebar.html" -->
 <div class="content yui3-u-7-12">
 
 <H2> What to bring </H2>

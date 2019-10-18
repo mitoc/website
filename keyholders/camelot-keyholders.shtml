@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h3>Camelot Keyholders</h3>
 <ul>
 
@@ -579,4 +579,4 @@
 <li>Zach Malchano, Oct-01
 </li>
 </ul>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

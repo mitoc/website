@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h3>Boathouse Keyholders</h3>
 <li>Sherri, Apr-07
 </li>
@@ -147,4 +147,4 @@
 <li>Chun Yang Ong, Sept-08</li>
 <li>Christine Siew, Sept-08</li>
 </ul>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

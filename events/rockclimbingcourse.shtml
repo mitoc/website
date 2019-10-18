@@ -2,7 +2,7 @@
 
 <div class="info-bar yui3-u-1-3">
   <div class="events">
-  <!--#include virtual="/mitoc/web/events/sidebar.shtml" -->
+  <!--#include virtual="/events/sidebar.shtml" -->
   <h3><a href="#leadtrip/climbing.html">BECOME A TRIP LEADER</a></h3>
   <a href="mailto:climbing-chair@mit.edu"><b>QUESTIONS?</b><br />climbing-chair@mit.edu</a>
   </div>
@@ -92,14 +92,14 @@ ctz=America%2FNew_York" style=" border-width:0 " width="640" height="480" frameb
 </h4>
 <p>prereqs: none
   <br>
-  description: Learn how to tie into the rope as a climber, and how to safely belay another climber on top rope. 
+  description: Learn how to tie into the rope as a climber, and how to safely belay another climber on top rope.
   <br>
   location: MITOC office </p>
 <h4>1.02 Top Rope Belaying and Tying In - Practical
 </h4>
 <p>prereqs: 1.01 or by instructor permission
   <br>
-  description: Let's go climb! Demonstrate your knowledge from 1.01 outside and get some climbing in! 
+  description: Let's go climb! Demonstrate your knowledge from 1.01 outside and get some climbing in!
   <br>
   location: TBA, but Quincy Quarries likely, with MetroRock, Hammond Pond, the Fells, or Rumney, NH as other possibilities
   </p>
@@ -187,9 +187,9 @@ location: MITOC office  </p>
   location: TBA, likely Cathedral Ledge or Cannon Cliff</p>
 
 <h2>Disclaimer</h2>
-This clinic does not certify or qualify you as a solid belayer. Belaying is a skill that needs to be practiced and developed. MITOC takes no responsibility for how an individual chooses to use what they've learned. This is a course for belaying a climber on lead. In case you haven't heard already, climbing is inherently dangerous. 
+This clinic does not certify or qualify you as a solid belayer. Belaying is a skill that needs to be practiced and developed. MITOC takes no responsibility for how an individual chooses to use what they've learned. This is a course for belaying a climber on lead. In case you haven't heard already, climbing is inherently dangerous.
 
-<!--#include virtual="/mitoc/web/events/ltc-disclaimer.shtml" -->
+<!--#include virtual="/events/ltc-disclaimer.shtml" -->
 
 
 

@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h3>Boathouse Keyholders</h3>
 <li>Daniel Massimini, Jul-08</li>
 <li>Maggie Stringfellow Herring, Jul-08</li>
@@ -117,4 +117,4 @@
 <li>Natasha Yemelyanova, 10</li>
 <li>Charles Groenwald, 10</li>
 </ul>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

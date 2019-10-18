@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles/mapplot.css" />
 <script type="text/javascript" src="javascript/hikingmapplot.js"></script>
 <div class='summer'>
-<!--#include virtual="/mitoc/web/activities/hiking/sidebar.html" -->
+<!--#include virtual="/activities/hiking/sidebar.html" -->
 
 <div class="content yui3-u-7-12">
 <h1>HIKING</h1>
@@ -37,7 +37,7 @@ Hiking, camping, and backpacking, whichever it is that you like, you still
 need a good place to do it. Most MITOC members hike up in the White
 Mountains of New Hampshire whenever the opportunity arises. Of course,
 some good hiking grounds do exist much closer to Boston.
-For a brief description of what is available, see our short 
+For a brief description of what is available, see our short
 <a href="#activities/hiking/hikingguide.shtml">hiking guide</a>.
 </p>
 <p>MITOC stocks an extensive supply of hiking and camping equipment, pretty

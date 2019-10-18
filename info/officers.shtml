@@ -1,9 +1,9 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h1>Officers</h1>
 
 General email enquiries: <a href="mailto:&#109;&#105;&#116;&#111;&#99;&#45;&#111;&#119;&#110;&#101;&#114;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;">&#109;&#105;&#116;&#111;&#99;&#45;&#111;&#119;&#110;&#101;&#114;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;</a><br>
 
-<p>Officers are elected annually at our May meeting. Ask a MITOC BOD member or your trip leader if you're interested in becoming an officer. More information found <a href="http://web.mit.edu/mitoc/www/info/offices.shtml">here</a>.
+<p>Officers are elected annually at our May meeting. Ask a MITOC BOD member or your trip leader if you're interested in becoming an officer. More information found <a href="http://web.mit.edu/info/offices.shtml">here</a>.
 
 <p>We meet roughly every month. Our meetings our posted on the calender and are open to the MITOC community.
 
@@ -84,7 +84,7 @@ General email enquiries: <a href="mailto:&#109;&#105;&#116;&#111;&#99;&#45;&#111
 
 
 <!-- Chairs / Managers -->
-<h2><a name="chairs"></a>Chairs / Managers</h2>&nbsp;&nbsp; 
+<h2><a name="chairs"></a>Chairs / Managers</h2>&nbsp;&nbsp;
 
 <a name="Climbing"></a>
 <a name="Whitewater"></a>
@@ -295,4 +295,4 @@ President<br><br></td>
 
 
 </table>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

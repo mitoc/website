@@ -1,5 +1,5 @@
 <div class='summer'>
-<!--#include virtual="/mitoc/web/activities/climbing/sidebar.html" -->
+<!--#include virtual="/activities/climbing/sidebar.html" -->
 <div class="content yui3-u-7-12">
 
 <h2>Resources</h2>

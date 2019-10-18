@@ -1,5 +1,5 @@
 <div class='summer'>
-<!--#include virtual="/mitoc/web/activities/hiking/sidebar.html" -->
+<!--#include virtual="/activities/hiking/sidebar.html" -->
 <div class="content yui3-u-7-12">
 <h2>Food</h2>
 Here is my general method for doing food. Have fun!

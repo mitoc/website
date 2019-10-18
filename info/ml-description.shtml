@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h2>Mailing List Detailed Descriptions</h2>
 <dl><dt>&#109;&#105;&#116;&#111;&#99;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;</dt><dd>
 This list has over 800 subscribers. It is used primarily for official mitoc
@@ -6,11 +6,11 @@ announcements, but subscribers are also free to post interesting information
 or comments on it. This takes discretion: You can use it to give a trip
 report of interest to others, to solicit a ride to the mountains or a hiking
 partner, to complain about the government's destruction of the remaining
-wilderness areas and tell everyone how they 
+wilderness areas and tell everyone how they
 can take action, but you can NOT use it to pass on a funny joke that's
 going around on email or to say anything that is offensive, is not related
 to mitoc-type activities (outdoor / wilderness recreation), or which would
-be better discussed elsewhere. 
+be better discussed elsewhere.
 </dd><dt>&#109;&#105;&#116;&#111;&#99;&#45;&#97;&#110;&#110;&#111;&#117;&#110;&#99;&#101;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;</dt><dd>
 No one but mitoc officers may post on this list. Thus, it is reserved for
 trip and activity announcements; if you want to find out about mitoc's
@@ -26,10 +26,10 @@ you would like to sell, or similar information.  Do not send such
 announcements to &#109;&#105;&#116;&#111;&#99;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;.</dd><dt>&#99;&#108;&#105;&#109;&#98;&#101;&#114;&#115;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;</dt><dd>
 This list is used for trip announcements, finding a partner and other comments
 that are relevant to people interested in rock and ice climbing.</dd><dt>&#99;&#108;&#105;&#109;&#98;&#105;&#110;&#103;&#45;&#119;&#97;&#108;&#108;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;</dt><dd>
-This list is used for the new climbing wall located in Walker Memorial. 
-Currently, wall hours for the upcoming weekend  are sent out during the 
-second half of each week. Check out the 
-<a href="http://mitoc.mit.edu/wall/index.pl.cgi">Climbing Wall site</a> for more 
+This list is used for the new climbing wall located in Walker Memorial.
+Currently, wall hours for the upcoming weekend  are sent out during the
+second half of each week. Check out the
+<a href="http://mitoc.mit.edu/wall/index.pl.cgi">Climbing Wall site</a> for more
 info.</dd>
 
 <dt>mitoc-bcski@mit.edu</dt>
@@ -38,7 +38,7 @@ This list is for back-country and cross-country skiing related posts. This is a 
 
 <dt>mitoc-training@mit.edu</dt>
 <dd>
-This list is for mountaineering related posts.  Planning and coordination of weekly training sessions, special topic seminars/series, trips, and major expeditions are typical topics. 
+This list is for mountaineering related posts.  Planning and coordination of weekly training sessions, special topic seminars/series, trips, and major expeditions are typical topics.
 
 <dt>&#112;&#97;&#100;&#100;&#108;&#101;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;</dt>
 <dd>
@@ -50,4 +50,4 @@ on this list.</dd>
 For discussion of wilderness and evironmental issues. Occasional updates
 to &#109;&#105;&#116;&#111;&#99;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117; are appropriate, but this list was created to reduce the
 load on &#109;&#105;&#116;&#111;&#99;&#64;&#109;&#105;&#116;&#46;&#101;&#100;&#117;.  Extremely low traffic.</dd></dl>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

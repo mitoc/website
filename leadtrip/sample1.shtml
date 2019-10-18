@@ -2,7 +2,7 @@
 
 <div class="info-bar yui3-u-1-3">
   <div class="events">
-  <!--#include virtual="/mitoc/web/leadtrip/ws-sidebar.shtml" -->
+  <!--#include virtual="/leadtrip/ws-sidebar.shtml" -->
   <h3><a href="#leadtrip/leadtrip.html">BECOME A TRIP LEADER</a></h3>
   <a href="mailto:ws-chair@mit.edu"><b>QUESTIONS?</b><br />ws-chair@mit.edu</a>
   </div>
@@ -22,11 +22,11 @@
 Dear Mt. Monroe Trip Participants
 <p>
 Please READ the following advice on your trip. ALL of you should read
-the following in its entirety. 
-<p> 
+the following in its entirety.
+<p>
 The following is instructions and advice on your Winter School trip.
-Please read it IN ITS ENTIRETY.  Please complete the section at the bottom 
-and return the information to me and Bob Beaver ASAP, along with any 
+Please read it IN ITS ENTIRETY.  Please complete the section at the bottom
+and return the information to me and Bob Beaver ASAP, along with any
 questions.
 <p>
 ____________
@@ -43,7 +43,7 @@ We'll hike Mt. Monroe from Marshfield Station at the base of the Cog
 Railway in Bretton Woods, NH.  From the station, we'll take the
 Ammonoosuc Ravine Trail up past the AMC Lakes of the Clouds Hut and on
 to the summit of Mt. Monroe.  This hike will be 7.2 miles round-trip
-and will involve about 3000' of elevation gain.  
+and will involve about 3000' of elevation gain.
 <p>
 FULL ABOVE-TREELINE GEAR INCLUDING BODY COVER, CRAMPONS, AND AN ICE AXE IS REQUIRED.
 <p>
@@ -71,8 +71,8 @@ ____________
 <p>
 TENTATIVE SCHEDULE:
 <p>
-Saturday, 8:15am: Meet at the Cog Railway base station (It is most efficient 
-to come up I-93 and then head toward Crawford Notch, look for Cog Railway 
+Saturday, 8:15am: Meet at the Cog Railway base station (It is most efficient
+to come up I-93 and then head toward Crawford Notch, look for Cog Railway
 signs)<br>
 Saturday, 8:30am: Start up th Ammonoosuc Ravine Trail<br>
 Saturday, 4:30pm: Return to cars via Ammonoosuc Ravine Trail<br>
@@ -164,7 +164,7 @@ involved? Here's what you can do:
 <p>
 Study the map:
 <ul>
-- TopoZone: 
+- TopoZone:
 http://www.topozone.com/map.asp?lat=44.26688&lon=-71.32647&size=l&u=4&datum=nad83&layer=DRG25
 - AMC Guide on Map 1 (Presidentials)
 - MITOC Adventure Maps Waterproof Map

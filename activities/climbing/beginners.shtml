@@ -1,5 +1,5 @@
 <div class='summer'>
-<!--#include virtual="/mitoc/web/activities/climbing/sidebar.html" -->
+<!--#include virtual="/activities/climbing/sidebar.html" -->
 <div class="content yui3-u-7-12">
 
 <h2>Getting Started Climbing</h2>
@@ -19,9 +19,9 @@
 </ul>
 
 
-<b>"Warning! Climbing and mountaineering are activities with a danger of 
-personal injury or death. Participants in these activities should be aware 
-of and accept these risks and be responsible for their own actions 
+<b>"Warning! Climbing and mountaineering are activities with a danger of
+personal injury or death. Participants in these activities should be aware
+of and accept these risks and be responsible for their own actions
 and involvement." </b>
 
 <a name="Introduction"></a>

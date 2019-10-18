@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h3>Boathouse Keyholders</h3>
 <li>Dan Miller, 09</li>
 <li>Eric Gilbertson, 09</li>
@@ -74,4 +74,4 @@
 <li>Brooke Etnyre, 11</li>
 <li>Nicolas Preitner, 11</li>
 <li>Zsuzsa Megyeny, 11</li>
-<li>Ed Su, 11</li></ul><!--#include virtual="/mitoc/www/footer.shtml" -->
+<li>Ed Su, 11</li></ul><!--#include virtual="/footer.shtml" -->

@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="styles/mapplot.css" />
 
 <div class='winter'>
-<!--#include virtual="/mitoc/web/activities/iceclimbing/sidebar.html" -->
+<!--#include virtual="/activities/iceclimbing/sidebar.html" -->
 <div class="content yui3-u-7-12">
 
 <h1>ICE CLIMBING</h1>
@@ -22,7 +22,7 @@
 <p>
 Each winter MITOC runs numerous ice climbing trips to low-level crags in New Hampshire.
 These trips are open to beginers and all technical gear can be rented from the club.
-Typical destinations are Rumney, Flume Gorge and Kinsman Notch. Typically these trips are run 
+Typical destinations are Rumney, Flume Gorge and Kinsman Notch. Typically these trips are run
 through a part of winter school but continue throughout the spring. Get in touch with the
 club if you aren't a part of winter school but would like to get out on some ice!
 </p>

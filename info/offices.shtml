@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h1>Offices</h1>
 
 <p>
@@ -20,6 +20,6 @@ directly benefit a large part of the MIT community. You can take on responsibili
 for large events, such as Winter School lecture series, or the Circuses.
 These experiences are certainly more valuable than just resume stuffers.</P>
 
-<p>Find out if you're <a href="/mitoc/www/info/eligibility.shtml">eligible</a> to run or vote.
-<p>Find out about <a href="/mitoc/www/info/elected.shtml">elected</a> or <a href="/mitoc/www/info/appointed.shtml">appointed</a> officer responsibilities
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<p>Find out if you're <a href="/info/eligibility.shtml">eligible</a> to run or vote.
+<p>Find out about <a href="/info/elected.shtml">elected</a> or <a href="/info/appointed.shtml">appointed</a> officer responsibilities
+<!--#include virtual="/footer.shtml" -->

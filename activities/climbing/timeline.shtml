@@ -1,11 +1,11 @@
 <div class='summer'>
-<!--#include virtual="/mitoc/web/activities/climbing/sidebar.html" -->
+<!--#include virtual="/activities/climbing/sidebar.html" -->
 <div class="content yui3-u-7-12">
 <h1>Climbers' Timeline</h1>
 
 So you want to start clibing and be a "rock climber" but you don't even know where to start? This little tutorial might help you out.
 
-First you must understand the different climbing diciplines. 
+First you must understand the different climbing diciplines.
 
 <h2>Bouldering</h2>
 

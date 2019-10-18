@@ -1,5 +1,5 @@
 <div class='winter'>
-<!--#include virtual="/mitoc/web/activities/hiking/sidebar.html" -->
+<!--#include virtual="/activities/hiking/sidebar.html" -->
 <div class="content yui3-u-7-12">
 <h2>Weights</h2>
 <pre>In the interest of advancing the cause backpacking science, I spent a few hours<br>

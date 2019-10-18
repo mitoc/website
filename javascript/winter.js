@@ -14,8 +14,8 @@ function toggleSubMenu ( menuId ) {
 }
 
 function loadContent ( url ) {
-   
-   var newUrl = "http://web.mit.edu/mitoc/www/new/index.shtml?loc=" + url + "&lastMenu=" + lastMenu;
+
+   var newUrl = "http://web.mit.edu/new/index.shtml?loc=" + url + "&lastMenu=" + lastMenu;
    window.location.href = newUrl;
 }
 
@@ -48,7 +48,7 @@ function onPageLoad () {
  	    lastMenu = menu;
 	}
     }
-  
+
     Element.show ('body');
 //Effect.Appear('body');
 

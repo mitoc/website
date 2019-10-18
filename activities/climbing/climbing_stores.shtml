@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <table width=440 border=0 cellspacing=0 cellpadding=0 align="left">
 <tr valign="top">
 <td>
@@ -39,7 +39,7 @@ ARIZONA
 Desert Mountain SportsThe Wilderness
 2824 E. Indian School Rd. #45130 N. 19th Ave.
 Phoenix, AZ 85016Phoenix, AZ 85015
-(602) 955-2875(800) 775-5650           
+(602) 955-2875(800) 775-5650
 
 The Edge Mountaineering Co.Arizona Hiking Shack
 12 E. Aspen Ave.11645 Cave Creek Rd.
@@ -520,7 +520,7 @@ Eugene, OR 97401Medford, OR 97501
 Mountain SupplyOregon Mountain Community
 2104 NE Division60 NW Davis St.
 Bend, OR 97701Portland, OR 97209
-(503) 388-0688  
+(503) 388-0688
 
 Redpoint Climbers Supply
 975 Smith Rock Way
@@ -712,7 +712,7 @@ Teton MountaineeringWild Iris
 170 N. Cache325 Main St.
 Jackson, WY 83001Lander, WY 82520
 (307) 733-3595(307) 332-4541
-  
+
 AUSTRALIA
 
 Jim, The BackpackerMountain Designs
@@ -868,4 +868,4 @@ email:<a href="mailto:mitoc-owner@mit.edu">mitoc-owner@mit.edu</a>
 </font>
 </td></tr>
 </table>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

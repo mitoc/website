@@ -27,31 +27,31 @@
 
 function main_load(dest) { $('.main').load(dest); }
 
-function show_gallery() 
+function show_gallery()
 {
   document.location.hash = "#gallery";
   document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/gallery" class="main_frame"></iframe>';
 }
 
-function show_videos() 
+function show_videos()
 {
   document.location.hash = "#videos";
   document.getElementById('main').innerHTML='<iframe src="http://techtv.mit.edu/collections/mitoc" class="main_frame"></iframe>';
 }
 
-function show_tripreports() 
+function show_tripreports()
 {
   document.location.hash = "#tripreports";
   document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/tripreports" class="main_frame"></iframe>';
 }
 
-function join_trip() 
+function join_trip()
 {
   document.location.hash = "#join_trip";
   document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php" class="main_frame"></iframe>';
 }
 
-function join_trip_specific(trip_id) 
+function join_trip_specific(trip_id)
 {
   document.location.hash = "#trip?id=" + trip_id;
   document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php?trip_id=' + trip_id + '" class="main_frame"></iframe>';
@@ -176,16 +176,16 @@ jQuery(function($) {
     add_loader('#about_nav', 'aboutmitoc/aboutmitoc.shtml');
     add_loader('#donate_nav', 'aboutmitoc/donate.shtml');
     add_loader('#gallery_nav', 'http://mitoc.mit.edu/gallery');
-    
+
     add_loader('#climbing_nav', 'activities/climbing/climbing.shtml');
     add_loader('#hiking_nav', 'activities/hiking/hiking.shtml');
     add_loader('#iceclimbing_nav', 'activities/iceclimbing/iceclimbing.shtml');
     add_loader('#bcskiing_nav', 'activities/skiing/skiing.html');
-    
+
     add_loader('#xc_nav', 'activities/skiing/xc.html');
     add_loader('#backcountry_nav', 'activities/skiing/backcountry.html');
     add_loader('#telemark_nav', 'activities/skiing/telemark.html');
-    
+
     add_loader('#mountaineering_nav', 'activities/mountaineering/mountaineering.html');
     add_loader('#mountainbiking_nav', 'activities/mountainbiking/mountainbiking.html');
     add_loader('#seakayaking_nav', 'activities/paddle/seakayaking.shtml');
@@ -242,13 +242,13 @@ jQuery(function($) {
 <div class="page">
 <div class="header">
   <div class="badge">
-    <a href="http://mit.edu/mitoc/www/"><div class="logo"></div></a>
+    <a href="http://mit.edu/"><div class="logo"></div></a>
   </div>
   <div class="nav">
   <div class="secondary-nav">
   <a id="donate_nav"><div class="give"></div></a>
     <div class="secondary-nav-bar">
-    
+
     <a id="about_nav">ABOUT MITOC</a>
     <a onclick="show_tripreports();">TRIP REPORTS</a>
     <a onclick="show_gallery();">GALLERY</a>
@@ -257,8 +257,8 @@ jQuery(function($) {
     <a id="mailinglist_nav">MAILING LISTS</a>
     <!-- <a id="donate_nav">DONATE!</a> -->
     </div>
-    
-    
+
+
     <span id="secondary-nav-description">MITOC members are students, staff, alumni, and faculty from MIT and the greater academic community who come together for year-round outdoor recreation in the company of other enthusiasts. MITOC members hike, climb, ski, bike, camp, tramp, backpack, snowshoe, and canoe to the highest, widest, most scenic vistas in New England and beyond. Join us for friendship, adventure, and fun.</span>
   </div>
   <div class="primary-nav">

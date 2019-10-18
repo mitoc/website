@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h2>Climbing Areas</h2>
 
 <h3>AMC Web Map</h3>
@@ -6,4 +6,4 @@
 Go <a href="http://bostonclimbers.org/map.shtml">here</a> to find an excellent online resource for where the local crags are! Virtually all of them are described in our <a href="http://www.bostonrocksonline.com/">Boston Rocks</a>. Just do it. Buy our book. Many routes are described
 in superb detail. If you're interested in obtaining a copy of the Boston Rocks book you can get a discounted copy at the office if you're a MITOC member.
 </p>
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->

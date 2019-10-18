@@ -2,7 +2,7 @@
 
 <div class="info-bar yui3-u-1-3">
   <div class="events">
-  <!--#include virtual="/mitoc/web/events/firstaid/sidebar.shtml" -->
+  <!--#include virtual="/events/firstaid/sidebar.shtml" -->
   <h3><a href="#become/trsleader.html">BECOME A TRS LEADER</a></h3>
   <a href="mailto:trs-chair@mit.edu"><b>QUESTIONS?</b><br />trs-chair@mit.edu</a>
   </div>
@@ -23,7 +23,7 @@ MITOC keeps an archive of previous TRS notes. This is not a substitute for
 actual training or related literature. The sessions are designed to be an hour long
 and are interspersed with scenarios and discussion to practice the skills reviewed.
 <p>
-We welcome future TRS leaders to refer to previous session notes when running sessions. 
+We welcome future TRS leaders to refer to previous session notes when running sessions.
 
 <h2>Topics</h2>
 <ul>
@@ -32,7 +32,7 @@ We welcome future TRS leaders to refer to previous session notes when running se
 <li>Cold Weather Emergencies
 </ul>
 
-<!--#include virtual="/mitoc/web/events/trs-disclaimer.shtml" -->
+<!--#include virtual="/events/trs-disclaimer.shtml" -->
 
 </div>
 </div>

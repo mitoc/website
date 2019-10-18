@@ -1,7 +1,7 @@
 <div class='summer'>
 <div class="info-bar yui3-u-1-3">
   <div class="events">
-  <!--#include virtual="/mitoc/web/events/sidebar.shtml" -->
+  <!--#include virtual="/events/sidebar.shtml" -->
   <!--<h3><a href="#leadtrip/leadtrip.html">BECOME A TRIP LEADER</a></h3>-->
   <a href="mailto:adventure-race-chair@mit.edu"><b>QUESTIONS?</b><br />adventure-race-chair@mit.edu</a>
   </div>

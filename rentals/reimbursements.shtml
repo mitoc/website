@@ -9,10 +9,10 @@
 
 <div class="info-bar yui3-u-1-3">
   <div class="events">
-<!--#include virtual="/mitoc/web/rentals/reimbursement-sidebar.shtml" -->
+<!--#include virtual="/rentals/reimbursement-sidebar.shtml" -->
   <h2>Administrativia</h2>
 <a href="http://http://mikelambert.me/mitoc-gear//">Database</a></li>
-<a href="/mitoc/www/office/forms">Forms</a></li>
+<a href="/office/forms">Forms</a></li>
 <div class="upcoming">
   <div class="upcoming_text">
     <div id="events"></div>
@@ -45,7 +45,7 @@ Does MITOC owe you money? Please follow these directions to get reimbursed.
 
 <h2>How to get reimbursed by MITOC</h2>
 <ol>
-	<li>FILL OUT OUR REIMBURSEMENT WEB FORM. It is embedded below or you can find it at: <a href="http://web.mit.edu/mitoc/www/#rentals/reimbursements.shtml">http://web.mit.edu/mitoc/www/#rentals/reimbursements.shtml</a>
+	<li>FILL OUT OUR REIMBURSEMENT WEB FORM. It is embedded below or you can find it at: <a href="http://web.mit.edu/#rentals/reimbursements.shtml">http://web.mit.edu/#rentals/reimbursements.shtml</a>
 	<li>Do you have an itemized receipt AND proof of payment?
 	<br>Yes &gt; continue
 	<br>No &gt; get them, then continue. Proof of payment can be a credit card statement with everything except the relevant line and your name blacked out.
@@ -66,7 +66,7 @@ Does MITOC owe you money? Please follow these directions to get reimbursed.
 
 <h1>Questions?</h1>
 <P>
-If you have any questions or comments (other than just looking for someone to open the office), or are interested in becoming part of our volunteer desk staff, please contact the desk captain listed on the officer's page. 
+If you have any questions or comments (other than just looking for someone to open the office), or are interested in becoming part of our volunteer desk staff, please contact the desk captain listed on the officer's page.
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDRxX3Y4Tm9xbGpzR2VUdnA3ajlUUFE6MQ" width="760" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 

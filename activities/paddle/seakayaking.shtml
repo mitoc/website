@@ -1,7 +1,7 @@
 <div class='summer'>
 
 <div class="info-bar yui3-u-1-3">
-<!--#include virtual="/mitoc/web/activities/paddle/sidebar.html" -->
+<!--#include virtual="/activities/paddle/sidebar.html" -->
 </div>
 
 <div class="content yui3-u-7-12">
@@ -29,7 +29,7 @@ href="#activities/seakayaking/differences.shtml">differences</a>.
 <p>The <a href="mailto:seakayak-chair@mit.edu">sea kayak chair</a> aims to
 organize about fifteen club trips each season, including local
 beginner trips and Island Camping in Maine.  The number and type of
-trips depend on member interest.  Trips are announced on the <a href="/mitoc/www/info/mailinglists.shtml">paddle mailing list</a>
+trips depend on member interest.  Trips are announced on the <a href="/info/mailinglists.shtml">paddle mailing list</a>
 </p>
 
 <h2>Sea Kayak Rental</h2>
@@ -47,7 +47,7 @@ rescue, and care for the boats.  The North Atlantic is quite cold and
 conditions can change quickly, so be prepared.
 </p>
 <p>The manager may also require that you have put in an hour of work on
-the boathouse that year.  
+the boathouse that year.
 </p>
 <p>Please make your arrangments with the sea
 kayak manager at least a day before you will check out the boathouse

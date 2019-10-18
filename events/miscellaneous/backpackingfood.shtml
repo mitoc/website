@@ -2,7 +2,7 @@
 
 <div class="info-bar yui3-u-1-3">
   <div class="events">
-  <!--#include virtual="/mitoc/web/events/miscellaneous/sidebar.shtml" -->
+  <!--#include virtual="/events/miscellaneous/sidebar.shtml" -->
   <h3><a href="#become/trsleader.html">BECOME A TRS LEADER</a></h3>
   <a href="mailto:trs-chair@mit.edu"><b>QUESTIONS?</b><br />trs-chair@mit.edu</a>
   </div>
@@ -104,7 +104,7 @@ Suggestions:
 <li>Foraging foods can be dangerous for the clueless, but you can definitely supplement your meals with seasonal foraged edibles. Most berries in the northeast are easy to identify, though don't expect to make a meal of them. Don't assume that a plant that you grew up with is identical to a similar-looking plant in another region.
 </ul>
 
-<!--#include virtual="/mitoc/web/events/trs-disclaimer.shtml" -->
+<!--#include virtual="/events/trs-disclaimer.shtml" -->
 
 </div>
 </div>

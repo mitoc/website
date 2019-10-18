@@ -1,5 +1,5 @@
 <div class='summer'>
-<!--#include virtual="/mitoc/web/activities/climbing/sidebar.html" -->
+<!--#include virtual="/activities/climbing/sidebar.html" -->
 <div class="content yui3-u-7-12">
 <center><h3><i>5.10 Sizing Conversion Chart</i></h3></center>
 

@@ -1,4 +1,4 @@
-<!--#include virtual="/mitoc/www/header.shtml" -->
+<!--#include virtual="/header.shtml" -->
 <h1>Desk Workers</h1>
 MITOC is made possible by office hours and office hours are made possible by wonderful volunteer desk workers. Give back to the community and become a desk worker!
 <h2>Who can be a desk worker?</h2>
@@ -25,4 +25,4 @@ Simply attend a training session held at the start of every season. Training ses
 
 
 
-<!--#include virtual="/mitoc/www/footer.shtml" -->
+<!--#include virtual="/footer.shtml" -->
