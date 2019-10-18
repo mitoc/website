@@ -1,0 +1,374 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>MIT Outing Club</title>
+  <script type="text/javascript" src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
+  <script type="text/javascript" src="javascript/cssjsmenu.js"></script>
+  <script type="text/javascript" src="javascript/mitoc.js"></script>
+  <script type="text/javascript" src="javascript/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="javascript/jquery.ba-hashchange.min.js"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCBxTBIDWZr83UGL49wROPssTIzW7IP9KU&sensor=false"></script>
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript" src="javascript/mapplot.js"></script>
+  <script type="text/javascript" src="javascript/calendar_events.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/libs/normalize.css">
+  <link rel="stylesheet" type="text/css" href="styles/libs/grids-min.css">
+  <link rel="stylesheet" type="text/css" href="styles/libs/jquery-ui.css">
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <link rel="stylesheet" type="text/css" href="styles/menu.css" />
+<script type="text/javascript">
+
+//console.log('on calendar load');
+//var apikey = "AIzaSyDHd5u-0ibLEzpkBDHq4D7NJdVX5RxX6rk";
+//gapi.client.setApiKey(apikey);
+//gapi.client.load('calendar', 'v3');
+
+function main_load(dest) { $('.main').load(dest); }
+
+function show_gallery()
+{
+  document.location.hash = "#gallery";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/gallery" class="main_frame"></iframe>';
+}
+
+function show_videos()
+{
+  document.location.hash = "#videos";
+  document.getElementById('main').innerHTML='<iframe src="http://techtv.mit.edu/collections/mitoc" class="main_frame"></iframe>';
+}
+
+function show_tripreports()
+{
+  document.location.hash = "#tripreports";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/tripreports" class="main_frame"></iframe>';
+}
+
+function join_trip()
+{
+  document.location.hash = "#join_trip";
+  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php" class="main_frame"></iframe>';
+}
+
+function join_trip_specific(trip_id)
+{
+  document.location.hash = "#trip?id=" + trip_id;
+  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php?trip_id=' + trip_id + '" class="main_frame"></iframe>';
+}
+
+function show_trip_archives()
+{
+  document.location.hash = "#show_trip_archives";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.scripts.mit.edu/tripreports/" class="main_frame"></iframe>';
+}
+
+function lead_trip()
+{
+  document.location.hash = "#lead_trip";
+  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php?&action=show_new_trip_form" class="main_frame"></iframe>';
+}
+
+function show_db()
+{
+  document.location.hash = "#show_db";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.scripts.mit.edu/geardb/" class="main_frame"></iframe>';
+}
+
+function bod_wiki()
+{
+  document.location.hash = "#bod_wiki";
+  document.getElementById('main').innerHTML='<iframe src="https://scripts.mit.edu/~mitoc/bodwiki/index.php" class="main_frame"></iframe>';
+}
+
+function ws_wiki()
+{
+  document.location.hash = "#ws_wiki";
+  document.getElementById('main').innerHTML='<iframe src="https://scripts.mit.edu/~mitoc/winter_school/leaders/wiki/index.php" class="main_frame"></iframe>';
+}
+
+function cybersource()
+{
+  document.location.hash = "#cybersource";
+  document.getElementById('main').innerHTML='<iframe src="https://ebc.cybersource.com/ebc/login/Login.do" class="main_frame"></iframe>';
+}
+
+function add_loader(src_id, dest)
+{
+    $(src_id).on('click', function() {
+      $(src_id).href = dest;
+      document.location.hash = dest;
+/*      $('.main').load(dest); */
+    });
+    $(src_id).on('mouseup', function() {
+      document.location.hash = dest;
+    });
+}
+
+function load_page(hash)
+{
+  if(hash == "#gallery")
+  {
+    show_gallery();
+  }
+  else if(hash == "#tripreports")
+  {
+    show_tripreports();
+  }
+  else if(hash == "#join_trip")
+  {
+    join_trip();
+  }
+  else if(hash.substr(0,5) == "#trip")
+  {
+    join_trip_specific(hash.substr(9))
+  }
+  else if(hash == "#show_trip_archives")
+  {
+    show_trip_archives();
+  }
+  else if(hash == "#lead_trip")
+  {
+    lead_trip();
+  }
+  else if(hash == "#show_db")
+  {
+    show_db();
+  }
+  else if(hash == "#bod_wiki")
+  {
+    bod_wiki();
+  }
+    else if(hash == "#ws_wiki")
+  {
+    ws_wiki();
+  }
+  else if(hash == "#cybersource")
+  {
+    cybersource();
+  }
+  else if(hash == "")
+  {
+    $('.main').load("activities.html");
+  }
+  else
+  {
+    $('.main').load(hash.substr(1));
+  }
+
+  show_special();
+  do_analytics();
+}
+
+jQuery(function($) {
+/*    add_loader('#jointrip_nav', 'jointrip/jointrip.html'); */
+    add_loader('#becomemember_nav', 'jointrip/becomemember.html');
+    add_loader('#mailinglist_nav', 'jointrip/mailinglist.html');
+    add_loader('#calendar_nav', 'jointrip/calendar.html');
+
+/*    add_loader('#leadtrip_nav', 'leadtrip/leadtrip.html'); */
+    add_loader('#leadclimbing_nav', 'leadtrip/climbing.html');
+    add_loader('#lead3s_nav', 'leadtrip/3s.html');
+    add_loader('#leadws_nav', 'leadtrip/ws.html');
+    add_loader('#leadpaddle_nav', 'leadtrip/paddle.html');
+    add_loader('#reporttrip_nav', 'leadtrip/report.html');
+
+    add_loader('#about_nav', 'aboutmitoc/aboutmitoc.html');
+    add_loader('#donate_nav', 'aboutmitoc/donate.html');
+    add_loader('#gallery_nav', 'http://mitoc.mit.edu/gallery');
+
+    add_loader('#climbing_nav', 'activities/climbing/climbing.html');
+    add_loader('#hiking_nav', 'activities/hiking/hiking.html');
+    add_loader('#iceclimbing_nav', 'activities/iceclimbing/iceclimbing.html');
+    add_loader('#bcskiing_nav', 'activities/skiing/skiing.html');
+
+    add_loader('#xc_nav', 'activities/skiing/xc.html');
+    add_loader('#backcountry_nav', 'activities/skiing/backcountry.html');
+    add_loader('#telemark_nav', 'activities/skiing/telemark.html');
+
+    add_loader('#mountaineering_nav', 'activities/mountaineering/mountaineering.html');
+    add_loader('#mountainbiking_nav', 'activities/mountainbiking/mountainbiking.html');
+    add_loader('#seakayaking_nav', 'activities/paddle/seakayaking.html');
+    add_loader('#whitewater_nav', 'activities/paddle/whitewater.html');
+    add_loader('#canoeing_nav', 'activities/paddle/canoeing.html');
+
+    add_loader('#winterschool_nav', 'events/ws.html');
+    add_loader('#circus_nav', 'events/circus.html');
+    add_loader('#special_events_nav', 'events/special.html');
+    add_loader('#acadia_nav', 'events/acadia.html');
+    add_loader('#trs_nav', 'events/trs.html');
+    add_loader('#courses_nav', 'events/courses.html');
+    add_loader('#firstaid_nav', 'events/courses/firstaid.html');
+    add_loader('#selfrescue_nav', 'events/courses/selfrescue.html');
+    add_loader('#avy_nav', 'events/courses/avy.html');
+    add_loader('#glacier_nav', 'events/courses/glacier.html');
+    add_loader('#swiftwater_nav', 'events/courses/swiftwater.html');
+    add_loader('#rolling_nav', 'events/rolling.html');
+	add_loader('#rockclimbingcourse_nav', 'events/rockclimbingcourse.html');
+    add_loader('#learntoclimb_nav', 'events/learntoclimb.html');
+    add_loader('#tripreport_nav', 'events/tripreport.html');
+    add_loader('#adventurerace_nav', 'events/adventurerace.html');
+
+    add_loader('#rental_gear_nav', 'rentals/gear.html');
+    add_loader('#rental_cabins_nav', 'rentals/cabins/cabins.html');
+    add_loader('#rental_camelot_nav', 'rentals/cabins/camelot/camelot.html');
+    add_loader('#rental_intervale_nav', 'rentals/cabins/intervale/intervale.html');
+    add_loader('#rental_reimbursements_nav', 'rentals/reimbursements.html');
+    add_loader('#rental_leader_subsidy_nav', 'rentals/leadersubsidy.html');
+    add_loader('#rental_boathouse_nav', 'rentals/boathouse/boathouse.html');
+
+    add_loader('#climbing_activity', 'activities/climbing/climbing.html');
+    add_loader('#iceclimbing_activity', 'activities/iceclimbing/iceclimbing.html');
+    add_loader('#hiking_activity', 'activities/hiking/hiking.html');
+    add_loader('#bcskiing_activity', 'activities/skiing/skiing.html');
+    add_loader('#mountaineering_activity', 'activities/mountaineering/mountaineering.html');
+    add_loader('#kayaking_activity', 'activities/seakayaking/seakayaking.html');
+    add_loader('#mountainbiking_activity', 'activities/mountainbiking/mountainbiking.html');
+
+    // Bind the hashchange event.
+    $(window).bind( 'hashchange', function(e) {
+      load_page(location.hash);
+      });
+
+   get_trips();
+   load_page(location.hash);
+
+  });
+
+</script>
+</head>
+
+<body onload="cssjsmenu('menu');">
+<div class="page">
+<div class="header">
+  <div class="badge">
+    <a href="http://mit.edu/"><div class="logo"></div></a>
+  </div>
+  <div class="nav">
+  <div class="secondary-nav">
+  <a id="donate_nav"><div class="give"></div></a>
+    <div class="secondary-nav-bar">
+
+    <a id="about_nav">ABOUT MITOC</a>
+    <a onclick="show_tripreports();">TRIP REPORTS</a>
+    <a onclick="show_gallery();">GALLERY</a>
+    <a onclick="show_videos();">VIDEOS</a>
+    <a id="calendar_nav">CALENDAR</a>
+    <a id="mailinglist_nav">MAILING LISTS</a>
+    <!-- <a id="donate_nav">DONATE!</a> -->
+    </div>
+
+
+    <span id="secondary-nav-description">MITOC members are students, staff, alumni, and faculty from MIT and the greater academic community who come together for year-round outdoor recreation in the company of other enthusiasts. MITOC members hike, climb, ski, bike, camp, tramp, backpack, snowshoe, and canoe to the highest, widest, most scenic vistas in New England and beyond. Join us for friendship, adventure, and fun.</span>
+  </div>
+  <div class="primary-nav">
+      <ul id="menu" class="menu">
+          <li><a id="events_nav"><div id="events_nav_label"></div></a>
+          <ul>
+              <li><a id="special_events_nav">Special Events</a></li>
+              <li><a id="winterschool_nav">Winter School</a></li>
+              <li><a id="circus_nav">Circus</a></li>
+              <li><a id="acadia_nav">Acadia</a></li>
+              <li><a id="courses_nav">Courses</a>
+              <ul><li><a id="firstaid_nav">WFA</a></li><li><a id="selfrescue_nav">Self Rescue</a></li><li><a id="avy_nav">Avy I</a></li><li><a id="swiftwater_nav">Swiftwater Rescue</a></li><li><a id="glacier_nav">Crevasse / Glacier</a></li></ul></li>
+              </li>
+              <li><a id="rockclimbingcourse_nav">Rock Climbing Course</a></li>
+              <li><a id="learntoclimb_nav">Learn to Climb</a></li>
+              <li><a id="rolling_nav">Rolling Clinics</a></li>
+              <li><a id="trs_nav">TRS</a></li>
+              <li><a id="tripreport_nav">Trip Reports</a></li>
+              <li><a id="adventurerace_nav">Adventure Race</a></li>
+          </ul></li>
+          <li><a id="activities_nav"><div id="activities_nav_label"></div></a>
+          <ul>
+              <li><a id="hiking_nav">Hiking</a></li>
+              <li><a href="#activities/climbing/climbing.html">Rock Climbing</a>
+              <li><a id="bcskiing_nav">Skiing</a>
+              <ul><li><a id="xc_nav">Cross Country</a></li><li><a id="backcountry_nav">Backcountry/Mountaineering</a></li><li><a id="telemark_nav">Telemark</a></li></ul></li>
+              </li>
+              <li><a href="#activities/mountaineering/mountaineering.html">Mountaineering</a></li>
+              <li><a href="#activities/mountainbiking/mountainbiking.html">Mountain Biking</a></li>
+              <li><a href="#activities/iceclimbing/iceclimbing.html">Ice Climbing</a>
+              <li><a id="seakayaking_nav">Sea Kayaking</a>
+              <li><a id="canoeing_nav">Canoeing</a>
+              <li><a id="whitewater_nav">Whitewater</a>
+          </ul>
+          <li><a id="rentals_nav"><div id="rentals_nav_label"></div></a>
+          <ul>
+              <li><a href="#office/paymitoc.html">Pay MITOC</a></li>
+              <li><a id="rental_gear_nav">Gear</a></li>
+              <li><a id="rental_cabins_nav">Cabins</a>
+              <ul><li><a id="rental_camelot_nav">Camelot</a></li><li><a id="rental_intervale_nav">Intervale</a></li></ul></li>
+              <li><a id="rental_boathouse_nav">Boathouse</a></li>
+              <li><a id="rental_administrativia_nav">Administrativia</a>
+              <ul>
+                  <li><a href="http://mitoc.scripts.mit.edu/geardb/">Gear Database</a></li>
+                  <li><a href="#office/paymitoc.html">Pay MITOC</a></li>
+                  <li><a href="#rentals/broken.html">Broken Gear</a></li>
+                  <li><a href="../www/office/forms/">Forms</a></li>
+                  <li><a id="rental_reimbursements_nav">Reimbursements</a></li>
+                  <li><a id="rental_leader_subsidy_nav">Leader Subsidies</a></li>
+                  <li><a href="#bod_wiki">BOD Wiki</a></li>
+                  <li><a href="#ws_wiki">WS Wiki</a></li>
+                  <li><a href="#cybersource">CCP</a></li>
+              </ul></li>
+          </ul>
+          </li>
+          <li><a id="leadtrip_nav"><div id="leadtrip_nav_label"></div></a>
+          <ul>
+              <li><a onclick="lead_trip();"><b>Create new trip</b></a></li>
+              <li><a id="lead3s_nav">3 Season Hiking</a></li>
+              <li><a id="leadclimbing_nav">Climbing</a></li>
+              <li><a id="leadws_nav">Winter School</a></li>
+              <li><a id="leadpaddle_nav">Paddling</a></li>
+              <li><a id="reporttrip_nav"><b>Report Trip</b></a></li>
+          </ul></li>
+          <li>
+          <a id="jointrip_nav" onclick="join_trip();"><div id="jointrip_nav_label"></div></a>
+          <ul id="triplist_nav">
+              <li><a href="#jointrip/becomemember.html">Become a Member</a></li>
+              <li><a href="#aboutmitoc/bod.html">Officers</a></li>
+              <li><a href="#office/ridershare.html">Rider Share</a></li>
+              <li><a id="jointrip_subnav" onclick="join_trip();"><b>Current Trips:</b></a></li>
+          </ul>
+          </li>
+      </ul>
+  </div>
+  </div>
+</div>
+
+<div class="special" id="special"><a href="#events/special.html"><b>Jeff Lowe&rsquo;s Metanoia - Tuesday, October 27th, 2015@ 7:30pm in 26-100!</b></a></div>
+<!--<div class="sean" id="sean"><a href="#sean"><b>MITOC remembers our friend Sean Collier, killed in the line of duty on April 18 (click for tribute).</a></b></div>-->
+<div class="main" id="main">
+
+
+<h2>Eligibility</h2>
+<!--- Body Text -->
+The MITOC has ~15 officer positions to fill, ranging from President to
+Cabin managers and activity chairs. All members, both MIT and non-MIT,
+are eligible to vote and run for office (though some of the post are
+restricted to MIT students only). If you know that you want to run,
+please email <a href="mailto:mitoc-owner@mit.edu">mitoc-owner@mit.edu</a> to tell us what positions you are
+interested in. Notification is not necessary to run, we just want
+a better idea of how many people are interested in running.
+
+<p>It takes absolutely NO EXPERIENCE for the elected positions and training
+will be provided by incumbents. And there is plenty to choose from in terms of positions, depending
+on how involved you would like to be.  Freshmen and sophomores are especially
+encouraged to run, but somehow we always get more grads!
+</div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40282392-1', 'mit.edu');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+

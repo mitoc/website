@@ -18,7 +18,7 @@ ssi = lambda txt: regex.sub(match_ssi, txt)
 
 def get_extension(filename):
     """
-    >>> get_extension("index.shtml")
+    >>> get_extension("index.html")
     'shtml'
     >>> get_extension("noextension")
     ''
@@ -28,7 +28,7 @@ def get_extension(filename):
 
 def change_extension(filename, new_extension):
     """
-    >>> change_extension("index.shtml", "html")
+    >>> change_extension("index.html", "html")
     'index.html'
     >>> change_extension("something.jpg", "png")
     'something.png'
@@ -41,7 +41,7 @@ def change_extension(filename, new_extension):
 def process_file(filename):
     print("Processing %s" % filename)
     content = file_contents(filename)
-    return ssi(content).replace('.shtml', '.html')
+    return ssi(content).replace('.html', '.html')
 
 print("Compiling site.")
 print("Source: %s" % SOURCE)

@@ -1,0 +1,1229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>MIT Outing Club</title>
+  <script type="text/javascript" src="https://apis.google.com/js/client.js?onload=OnLoadCallback"></script>
+  <script type="text/javascript" src="javascript/cssjsmenu.js"></script>
+  <script type="text/javascript" src="javascript/mitoc.js"></script>
+  <script type="text/javascript" src="javascript/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="javascript/jquery.ba-hashchange.min.js"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCBxTBIDWZr83UGL49wROPssTIzW7IP9KU&sensor=false"></script>
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript" src="javascript/mapplot.js"></script>
+  <script type="text/javascript" src="javascript/calendar_events.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="styles/libs/normalize.css">
+  <link rel="stylesheet" type="text/css" href="styles/libs/grids-min.css">
+  <link rel="stylesheet" type="text/css" href="styles/libs/jquery-ui.css">
+  <link rel="stylesheet" type="text/css" href="styles/style.css">
+  <link rel="stylesheet" type="text/css" href="styles/menu.css" />
+<script type="text/javascript">
+
+//console.log('on calendar load');
+//var apikey = "AIzaSyDHd5u-0ibLEzpkBDHq4D7NJdVX5RxX6rk";
+//gapi.client.setApiKey(apikey);
+//gapi.client.load('calendar', 'v3');
+
+function main_load(dest) { $('.main').load(dest); }
+
+function show_gallery()
+{
+  document.location.hash = "#gallery";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/gallery" class="main_frame"></iframe>';
+}
+
+function show_videos()
+{
+  document.location.hash = "#videos";
+  document.getElementById('main').innerHTML='<iframe src="http://techtv.mit.edu/collections/mitoc" class="main_frame"></iframe>';
+}
+
+function show_tripreports()
+{
+  document.location.hash = "#tripreports";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/tripreports" class="main_frame"></iframe>';
+}
+
+function join_trip()
+{
+  document.location.hash = "#join_trip";
+  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php" class="main_frame"></iframe>';
+}
+
+function join_trip_specific(trip_id)
+{
+  document.location.hash = "#trip?id=" + trip_id;
+  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php?trip_id=' + trip_id + '" class="main_frame"></iframe>';
+}
+
+function show_trip_archives()
+{
+  document.location.hash = "#show_trip_archives";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.scripts.mit.edu/tripreports/" class="main_frame"></iframe>';
+}
+
+function lead_trip()
+{
+  document.location.hash = "#lead_trip";
+  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php?&action=show_new_trip_form" class="main_frame"></iframe>';
+}
+
+function show_db()
+{
+  document.location.hash = "#show_db";
+  document.getElementById('main').innerHTML='<iframe src="http://mitoc.scripts.mit.edu/geardb/" class="main_frame"></iframe>';
+}
+
+function bod_wiki()
+{
+  document.location.hash = "#bod_wiki";
+  document.getElementById('main').innerHTML='<iframe src="https://scripts.mit.edu/~mitoc/bodwiki/index.php" class="main_frame"></iframe>';
+}
+
+function ws_wiki()
+{
+  document.location.hash = "#ws_wiki";
+  document.getElementById('main').innerHTML='<iframe src="https://scripts.mit.edu/~mitoc/winter_school/leaders/wiki/index.php" class="main_frame"></iframe>';
+}
+
+function cybersource()
+{
+  document.location.hash = "#cybersource";
+  document.getElementById('main').innerHTML='<iframe src="https://ebc.cybersource.com/ebc/login/Login.do" class="main_frame"></iframe>';
+}
+
+function add_loader(src_id, dest)
+{
+    $(src_id).on('click', function() {
+      $(src_id).href = dest;
+      document.location.hash = dest;
+/*      $('.main').load(dest); */
+    });
+    $(src_id).on('mouseup', function() {
+      document.location.hash = dest;
+    });
+}
+
+function load_page(hash)
+{
+  if(hash == "#gallery")
+  {
+    show_gallery();
+  }
+  else if(hash == "#tripreports")
+  {
+    show_tripreports();
+  }
+  else if(hash == "#join_trip")
+  {
+    join_trip();
+  }
+  else if(hash.substr(0,5) == "#trip")
+  {
+    join_trip_specific(hash.substr(9))
+  }
+  else if(hash == "#show_trip_archives")
+  {
+    show_trip_archives();
+  }
+  else if(hash == "#lead_trip")
+  {
+    lead_trip();
+  }
+  else if(hash == "#show_db")
+  {
+    show_db();
+  }
+  else if(hash == "#bod_wiki")
+  {
+    bod_wiki();
+  }
+    else if(hash == "#ws_wiki")
+  {
+    ws_wiki();
+  }
+  else if(hash == "#cybersource")
+  {
+    cybersource();
+  }
+  else if(hash == "")
+  {
+    $('.main').load("activities.html");
+  }
+  else
+  {
+    $('.main').load(hash.substr(1));
+  }
+
+  show_special();
+  do_analytics();
+}
+
+jQuery(function($) {
+/*    add_loader('#jointrip_nav', 'jointrip/jointrip.html'); */
+    add_loader('#becomemember_nav', 'jointrip/becomemember.html');
+    add_loader('#mailinglist_nav', 'jointrip/mailinglist.html');
+    add_loader('#calendar_nav', 'jointrip/calendar.html');
+
+/*    add_loader('#leadtrip_nav', 'leadtrip/leadtrip.html'); */
+    add_loader('#leadclimbing_nav', 'leadtrip/climbing.html');
+    add_loader('#lead3s_nav', 'leadtrip/3s.html');
+    add_loader('#leadws_nav', 'leadtrip/ws.html');
+    add_loader('#leadpaddle_nav', 'leadtrip/paddle.html');
+    add_loader('#reporttrip_nav', 'leadtrip/report.html');
+
+    add_loader('#about_nav', 'aboutmitoc/aboutmitoc.html');
+    add_loader('#donate_nav', 'aboutmitoc/donate.html');
+    add_loader('#gallery_nav', 'http://mitoc.mit.edu/gallery');
+
+    add_loader('#climbing_nav', 'activities/climbing/climbing.html');
+    add_loader('#hiking_nav', 'activities/hiking/hiking.html');
+    add_loader('#iceclimbing_nav', 'activities/iceclimbing/iceclimbing.html');
+    add_loader('#bcskiing_nav', 'activities/skiing/skiing.html');
+
+    add_loader('#xc_nav', 'activities/skiing/xc.html');
+    add_loader('#backcountry_nav', 'activities/skiing/backcountry.html');
+    add_loader('#telemark_nav', 'activities/skiing/telemark.html');
+
+    add_loader('#mountaineering_nav', 'activities/mountaineering/mountaineering.html');
+    add_loader('#mountainbiking_nav', 'activities/mountainbiking/mountainbiking.html');
+    add_loader('#seakayaking_nav', 'activities/paddle/seakayaking.html');
+    add_loader('#whitewater_nav', 'activities/paddle/whitewater.html');
+    add_loader('#canoeing_nav', 'activities/paddle/canoeing.html');
+
+    add_loader('#winterschool_nav', 'events/ws.html');
+    add_loader('#circus_nav', 'events/circus.html');
+    add_loader('#special_events_nav', 'events/special.html');
+    add_loader('#acadia_nav', 'events/acadia.html');
+    add_loader('#trs_nav', 'events/trs.html');
+    add_loader('#courses_nav', 'events/courses.html');
+    add_loader('#firstaid_nav', 'events/courses/firstaid.html');
+    add_loader('#selfrescue_nav', 'events/courses/selfrescue.html');
+    add_loader('#avy_nav', 'events/courses/avy.html');
+    add_loader('#glacier_nav', 'events/courses/glacier.html');
+    add_loader('#swiftwater_nav', 'events/courses/swiftwater.html');
+    add_loader('#rolling_nav', 'events/rolling.html');
+	add_loader('#rockclimbingcourse_nav', 'events/rockclimbingcourse.html');
+    add_loader('#learntoclimb_nav', 'events/learntoclimb.html');
+    add_loader('#tripreport_nav', 'events/tripreport.html');
+    add_loader('#adventurerace_nav', 'events/adventurerace.html');
+
+    add_loader('#rental_gear_nav', 'rentals/gear.html');
+    add_loader('#rental_cabins_nav', 'rentals/cabins/cabins.html');
+    add_loader('#rental_camelot_nav', 'rentals/cabins/camelot/camelot.html');
+    add_loader('#rental_intervale_nav', 'rentals/cabins/intervale/intervale.html');
+    add_loader('#rental_reimbursements_nav', 'rentals/reimbursements.html');
+    add_loader('#rental_leader_subsidy_nav', 'rentals/leadersubsidy.html');
+    add_loader('#rental_boathouse_nav', 'rentals/boathouse/boathouse.html');
+
+    add_loader('#climbing_activity', 'activities/climbing/climbing.html');
+    add_loader('#iceclimbing_activity', 'activities/iceclimbing/iceclimbing.html');
+    add_loader('#hiking_activity', 'activities/hiking/hiking.html');
+    add_loader('#bcskiing_activity', 'activities/skiing/skiing.html');
+    add_loader('#mountaineering_activity', 'activities/mountaineering/mountaineering.html');
+    add_loader('#kayaking_activity', 'activities/seakayaking/seakayaking.html');
+    add_loader('#mountainbiking_activity', 'activities/mountainbiking/mountainbiking.html');
+
+    // Bind the hashchange event.
+    $(window).bind( 'hashchange', function(e) {
+      load_page(location.hash);
+      });
+
+   get_trips();
+   load_page(location.hash);
+
+  });
+
+</script>
+</head>
+
+<body onload="cssjsmenu('menu');">
+<div class="page">
+<div class="header">
+  <div class="badge">
+    <a href="http://mit.edu/"><div class="logo"></div></a>
+  </div>
+  <div class="nav">
+  <div class="secondary-nav">
+  <a id="donate_nav"><div class="give"></div></a>
+    <div class="secondary-nav-bar">
+
+    <a id="about_nav">ABOUT MITOC</a>
+    <a onclick="show_tripreports();">TRIP REPORTS</a>
+    <a onclick="show_gallery();">GALLERY</a>
+    <a onclick="show_videos();">VIDEOS</a>
+    <a id="calendar_nav">CALENDAR</a>
+    <a id="mailinglist_nav">MAILING LISTS</a>
+    <!-- <a id="donate_nav">DONATE!</a> -->
+    </div>
+
+
+    <span id="secondary-nav-description">MITOC members are students, staff, alumni, and faculty from MIT and the greater academic community who come together for year-round outdoor recreation in the company of other enthusiasts. MITOC members hike, climb, ski, bike, camp, tramp, backpack, snowshoe, and canoe to the highest, widest, most scenic vistas in New England and beyond. Join us for friendship, adventure, and fun.</span>
+  </div>
+  <div class="primary-nav">
+      <ul id="menu" class="menu">
+          <li><a id="events_nav"><div id="events_nav_label"></div></a>
+          <ul>
+              <li><a id="special_events_nav">Special Events</a></li>
+              <li><a id="winterschool_nav">Winter School</a></li>
+              <li><a id="circus_nav">Circus</a></li>
+              <li><a id="acadia_nav">Acadia</a></li>
+              <li><a id="courses_nav">Courses</a>
+              <ul><li><a id="firstaid_nav">WFA</a></li><li><a id="selfrescue_nav">Self Rescue</a></li><li><a id="avy_nav">Avy I</a></li><li><a id="swiftwater_nav">Swiftwater Rescue</a></li><li><a id="glacier_nav">Crevasse / Glacier</a></li></ul></li>
+              </li>
+              <li><a id="rockclimbingcourse_nav">Rock Climbing Course</a></li>
+              <li><a id="learntoclimb_nav">Learn to Climb</a></li>
+              <li><a id="rolling_nav">Rolling Clinics</a></li>
+              <li><a id="trs_nav">TRS</a></li>
+              <li><a id="tripreport_nav">Trip Reports</a></li>
+              <li><a id="adventurerace_nav">Adventure Race</a></li>
+          </ul></li>
+          <li><a id="activities_nav"><div id="activities_nav_label"></div></a>
+          <ul>
+              <li><a id="hiking_nav">Hiking</a></li>
+              <li><a href="#activities/climbing/climbing.html">Rock Climbing</a>
+              <li><a id="bcskiing_nav">Skiing</a>
+              <ul><li><a id="xc_nav">Cross Country</a></li><li><a id="backcountry_nav">Backcountry/Mountaineering</a></li><li><a id="telemark_nav">Telemark</a></li></ul></li>
+              </li>
+              <li><a href="#activities/mountaineering/mountaineering.html">Mountaineering</a></li>
+              <li><a href="#activities/mountainbiking/mountainbiking.html">Mountain Biking</a></li>
+              <li><a href="#activities/iceclimbing/iceclimbing.html">Ice Climbing</a>
+              <li><a id="seakayaking_nav">Sea Kayaking</a>
+              <li><a id="canoeing_nav">Canoeing</a>
+              <li><a id="whitewater_nav">Whitewater</a>
+          </ul>
+          <li><a id="rentals_nav"><div id="rentals_nav_label"></div></a>
+          <ul>
+              <li><a href="#office/paymitoc.html">Pay MITOC</a></li>
+              <li><a id="rental_gear_nav">Gear</a></li>
+              <li><a id="rental_cabins_nav">Cabins</a>
+              <ul><li><a id="rental_camelot_nav">Camelot</a></li><li><a id="rental_intervale_nav">Intervale</a></li></ul></li>
+              <li><a id="rental_boathouse_nav">Boathouse</a></li>
+              <li><a id="rental_administrativia_nav">Administrativia</a>
+              <ul>
+                  <li><a href="http://mitoc.scripts.mit.edu/geardb/">Gear Database</a></li>
+                  <li><a href="#office/paymitoc.html">Pay MITOC</a></li>
+                  <li><a href="#rentals/broken.html">Broken Gear</a></li>
+                  <li><a href="../www/office/forms/">Forms</a></li>
+                  <li><a id="rental_reimbursements_nav">Reimbursements</a></li>
+                  <li><a id="rental_leader_subsidy_nav">Leader Subsidies</a></li>
+                  <li><a href="#bod_wiki">BOD Wiki</a></li>
+                  <li><a href="#ws_wiki">WS Wiki</a></li>
+                  <li><a href="#cybersource">CCP</a></li>
+              </ul></li>
+          </ul>
+          </li>
+          <li><a id="leadtrip_nav"><div id="leadtrip_nav_label"></div></a>
+          <ul>
+              <li><a onclick="lead_trip();"><b>Create new trip</b></a></li>
+              <li><a id="lead3s_nav">3 Season Hiking</a></li>
+              <li><a id="leadclimbing_nav">Climbing</a></li>
+              <li><a id="leadws_nav">Winter School</a></li>
+              <li><a id="leadpaddle_nav">Paddling</a></li>
+              <li><a id="reporttrip_nav"><b>Report Trip</b></a></li>
+          </ul></li>
+          <li>
+          <a id="jointrip_nav" onclick="join_trip();"><div id="jointrip_nav_label"></div></a>
+          <ul id="triplist_nav">
+              <li><a href="#jointrip/becomemember.html">Become a Member</a></li>
+              <li><a href="#aboutmitoc/bod.html">Officers</a></li>
+              <li><a href="#office/ridershare.html">Rider Share</a></li>
+              <li><a id="jointrip_subnav" onclick="join_trip();"><b>Current Trips:</b></a></li>
+          </ul>
+          </li>
+      </ul>
+  </div>
+  </div>
+</div>
+
+<div class="special" id="special"><a href="#events/special.html"><b>Jeff Lowe&rsquo;s Metanoia - Tuesday, October 27th, 2015@ 7:30pm in 26-100!</b></a></div>
+<!--<div class="sean" id="sean"><a href="#sean"><b>MITOC remembers our friend Sean Collier, killed in the line of duty on April 18 (click for tribute).</a></b></div>-->
+<div class="main" id="main">
+
+
+<table width=440 border=0 cellspacing=0 cellpadding=0 align="left">
+<tr valign="top">
+<td>
+
+<!--Title Bar--!>
+<img src="climbing-stores.gif" height=100 width=300 alt="Climbing Stores">
+
+<!--Local links--!>
+<table border=0>
+<tr>
+<td><a href="climbing.html">Back to the Climbing Page</a></td>
+</tr>
+</table>
+</td>
+<td>
+
+<!--Feature Picture--!>
+<img src="climbing1.jpg" height=180 width=130 alt="Picture" border=1>
+</td>
+<td><img src="../../barend.gif" height=100 width=10></td>
+</tr>
+<tr>
+<td colspan=3>
+<br>
+
+<!--- Body Text --!>
+<h2>This list is getting VERY old</h2>
+<pre>
+ALABAMA
+
+TLS, Inc.
+909 Meridian St.
+Huntsville, AL 35804
+(205) 533-7025
+
+ARIZONA
+
+Desert Mountain SportsThe Wilderness
+2824 E. Indian School Rd. #45130 N. 19th Ave.
+Phoenix, AZ 85016Phoenix, AZ 85015
+(602) 955-2875(800) 775-5650
+
+The Edge Mountaineering Co.Arizona Hiking Shack
+12 E. Aspen Ave.11645 Cave Creek Rd.
+Flagstaff, AZ 86001Phoenix, AZ 85020
+(602) 774-4775(602) 944-7723
+
+Bob's Bargain BarnBob's Bargain Barn East
+2230 N. Country Club7070 E. 22nd St. #100
+Tucson, AZ 85716Tucson, AZ 85710
+(602) 325-3409(602) 747-2477
+
+Bob's South Rim OutfittersSummit Hut
+7401 N. La Cholla #1605045 E. Speedway
+Tucson, AZ 85741Tucson, AZ 85712
+(602) 297-9364(602) 325-1554
+
+CALIFORNIA
+
+Adventure 16Adventure 16
+1959 Harbor Blvd.11161 W. Pico Blvd.
+Costa Mesa, CA 92627W. Los Angeles, CA 90064
+(714) 650-3301 (310) 473-4574
+
+Adventure 16Adventure 16
+4620 Alvarado Canyon Rd.143 S. Cedros
+San Diego, CA 92120Solano Beach, CA 92075
+(619) 283-2374(619) 755-7662
+
+Alpenglow SportsBigfoot Mountaineering
+415 N. Lake Blvd.2500 New Stine Rd.
+Tahoe City, CA 95730Bakersfield, CA 93309
+(916) 583-6917 (805) 834-4314
+
+California OutfittersCottonwood Camping
+6650 N. Blackstone& Surplus
+Fresno, CA 937106376 Adobe Rd.
+(209) 435-2626Twenty-Nine Palms, CA92277
+(619) 367-9505
+
+Elf Mountain SportsFifth Gear
+2607 Bechelli Ln.867 B Eloise
+Redding, CA 96002S. Lake Tahoe, CA 96150
+(916) 224-2230(916) 544-7314
+
+Granite Stairway High Adventure Sports
+   Mountaineering   Yates Mountaineering
+871 Santa Rosa St.  1600 Cypress Ave. #8
+San Luis Obispo, CA 93401Redding, CA 96002
+(805) 541-1533(916) 222-4606
+
+Huebner SportsMarmot Mtn. Works
+1021 E. Herndon Ave. 3049 Adeline St.
+Fresno, CA 93710Berkeley, CA 94703
+(209) 432-0555(510) 849-0735
+
+Marmot Mtn. WorksMountain High Ltd.
+901 Sir Francis Drake Blvd.123 Diamond Peak Ave.
+Kentfield, CA 94901Ridgecrest, CA 93555
+(415) 454-8543(619) 375-2612
+
+Mountain ToolsNomad Ventures
+P.O. Box 227882835 Roosevelt St.
+Carmel, CA 93922Carlsbad, CA 92008
+(408) 625-6222(619) 434-2445
+
+Nomad VenturesNomad Ventures
+106 W. Grand Ave.54415 N. Circle Dr.
+Escondido, CA 92025Idyllwild, CA 92549
+(619) 747-8223(714) 659-4853
+
+Nomad VenturesThe North Face
+61795-Suite A2804 Telegraph Ave.
+Twenty-Nine Palms Hwy.Berkeley, CA 94705
+Joshua Tree, CA 92252(415) 548-1371
+(619) 366-4684
+
+The North FaceThe North Face
+1870-A Harbor Blvd.383 University Ave.
+Costa Mesa, CA 92627Palo Alto, CA 94301
+(800) 481-0909 (415) 327-1563
+
+The North Face The North Face
+180 Post St.Crystal Court
+San Francisco, CA 94108Costa Mesa, CA 92626
+(800) 362-4963 (714) 556-0540
+
+The Pacific MountaineerPratt's Sporting Goods
+200 Hamilton Ave.745 E. Citrus Ave.
+Palo Alto, CA 94301Redlands, CA 92373
+(415) 324-9009(714) 793-3278
+
+Redwood Trading PostSierra Mountaineering
+1305 El Camino RealBridge & Jimboom
+Redwood City, CA 94063Truckee, CA 96160
+(415) 363-2033(916) 587-2025
+
+Sonoma OutfittersSonora Mountaineering
+1702 - 4th St.173 S. Washington
+Santa Rosa, CA 95404 Sonora, CA 95370
+(707) 528-1920 (209) 532-5621
+
+Sport ChaletSports Country Ltd.
+16242 Beach Blvd.222 North G St.
+Huntington Beach, CA 92647 San Bernardino, CA 92401
+(714) 848-0988(714) 884-1273
+
+Sport ChaletSport Chalet
+920 Foothill Blvd.3695 Midway Dr.
+La Canada, CA 91011Pt. Loma, CA 92110
+(818) 790-9800(619) 224-6777
+
+Sunrise MountaineeringSunrise Mountaineering
+2290 First St.490 Ygnacio Valley Blvd.
+Livermore, CA 94550Walnut Creek, CA 94596
+(510) 447-8330(510) 932-8779
+
+Wilderness Sports
+Hwy 50 at Hazel
+In the Nimbus Winery
+Rancho Cordova, CA 95742
+(916) 985-3555
+
+COLORADO
+
+Adventure OutfittersBackcountry Experience
+514 S. College Ave.780 Main St.
+Fort Collins, CO 80521 Durango, CO 81301
+(303) 224-2460(800) 648-8519
+
+Backdoor Sports Ltd.Basecamp Mountain Sports
+841 Yampa Ave.821 Pearl St.
+Steamboat Springs, CO 80477Boulder, CO 80302
+(303) 879-6249(303) 443-6770
+
+The Boulder MountaineerCasa de Madera
+1335 Broadway680 Grande Ave.
+Boulder, CO 80302P.O. Box 565
+(303) 442-8355Del Norte, CO 81132
+(719) 657-2336
+
+Chessler Mountaineering BooksGore Range Mountain Works
+26030 Hwy 74201 Gore Creek Dr.
+Kittredge, CO 80457Vail, CO 81657
+(800) 654-8502(303) 476-ROCK
+
+Grand West OutfittersGrand West Outfitters
+3250 N. Academy Blvd.801 Broadway
+Colorado Springs, CO 80917Denver, CO 80203
+(719) 596-3031(303) 825-0300
+
+Indiana Camp Supply Inc.Mountain Chalet
+125 E. 37th St.226 N. Tejon
+Loveland, CO 80538 Colorado Springs,CO 80903
+(303) 669-8884(719) 633-0732
+
+The Mountain ShopMountain Sports
+632 S. Mason 821 Pearl Street
+Ft. Collins, CO 80524Boulder, CO 80302
+(303) 493-5720(303) 443-6770
+
+Neptune MountaineeringThe North Face
+627 S. Broadway629-K S. Broadway
+Boulder, CO 80303Boulder, CO 80303
+(303) 499-8866(303) 499-1731
+
+The North FaceOlympic Sports
+2490 S. Colorado Blvd.150 W. Colorado Ave.
+Denver, CO 80222 Telluride, CO 81435
+(303) 758-6366(303) 728-4477
+
+Pine Needle MountaineeringSummit Canyon Mtneering
+835 Main Ave. #1121001 Grand Ave.
+Durango, CO 81301Glenwood Springs,CO 81601
+(303) 247-8728(303) 945-6994
+
+Ute MountaineerVail Mountaineering
+308 S. Mill St.500 Lionshead Mall
+Aspen, CO 81611Vail, CO 81657
+(303) 925-2849(303) 476-4223
+
+Vertical Works Pro Shop
+2845 Chipeta Ave.
+Grand Junction, CO 81501
+(303) 245-3610
+
+CONNECTICUT
+
+Outdoor Sports CenterOutdoor Traders
+80 Danbury Rd. 10 Greenwich Ave.
+Wilton, CT 06897Greenwich, CT 06830
+(203) 762-8324(203) 862-9696
+
+Wilderness Shop Inc.
+85 West St. (Route 202)
+Litchfield, CT 06759
+(203) 567-5905
+
+FLORIDA
+
+Black Creek Trading CenterWindsurfing Orange
+At Board City   Park's Board City
+410 Blanding Blvd.410 Blanding Blvd.
+Orange Park, FL 32073 Orange Park, FL 32073
+(904) 272-6996(904) 272-9176
+
+GEORGIA
+
+Blue Ridge Mountain SportsCall of the Wild
+Lenox Square Mall425 Market Place
+Atlanta, GA 30326Roswell, GA 30075
+(404) 992-5400
+
+Mountain VenturesThe Outfitters, Ltd.
+3040 N. Decatur Rd.1490 Baxter St.
+Scottdale, GA 30079Athens, GA 30606
+(404) 299-5254(404) 546-7575
+
+IDAHO
+
+Elephant's Perch
+280 East Ave.
+Ketchum, ID 83340
+(208) 726-3497
+
+ILLINOIS
+
+Active EndeavorsErewhon Mtn. Outfitters
+522 Dempster2585 Waukegan Rd.
+Evanston, IL 60202Bannockburn, IL 60015
+(708) 869-7078(708) 948-7250
+
+Erewhon Mtn. OutfittersErewhon Mtn. Outfitters
+644 N Orleans9060 Golf Road
+Chicago, IL 60610 Des Plaines, IL 60016
+(312) 337-6400(708) 298-1840
+
+Erewhon Mtn. OutfittersMountain Tops
+D-119 Woodfield Mall228 West Main
+Schaumberg, IL 60194St. Charles, IL 60174
+(708) 619-6300 (708) 513) 7608
+
+The North Face The North Face
+416 Oakbrook CenterWoodfield Shopping Center
+Oakbrook, IL 60521Bldg. J #304
+(708) 990-0303Schaumburg, IL 60173
+(708) 240-1728
+
+Shawnee TrailsUpper Limits
+222 W. Freeman1220 37th St.
+Carbondale, IL 62901Peru, IL 61354
+(618) 529-2313 (815) 224-3686
+
+IOWA
+
+Active Endeavors
+138 So. Clinton
+Iowa City, IA 52240
+(319) 337-9444
+
+KENTUCKY
+
+Phillip Gall's Inc.Quest Outdoors
+Lexington Mall 128 Breckenridge Ln.
+Lexington, KY 40502Louisville, KY 40207
+(606) 266-0469(502) 893-5746
+
+Rock Sports
+3383 Freys Hill Rd.
+Louisville, KY 40241
+(502) 425-5884
+
+MAINE
+
+Cadillac Mountain SportsMaine Sport
+26 Cottage St.Route 1
+Bar Harbor, ME 04609Rockport, ME 04856
+(207) 288-4532 (207) 236-7120
+
+
+MARYLAND
+
+The Trail House
+9 S. Market St.
+Frederick, MD 21701
+(301) 694-8448
+
+MASSACHUSETTS
+
+Boston Rock GymMoor & Mountain
+149 Highland Ave.One Dundee Park
+Somerville, MA 02143 Andover, MA 01810
+(617) 776-8703 (508) 475-3665
+
+Wildwater Outfitters
+355 Russell St.
+Hadley, MA 01035
+(413) 586-2323
+
+MICHIGAN
+
+Ann Arbor Bivouac Inc.Benchmark
+330 S. State St.32715 Grand River
+Ann Arbor, MI 48104Farmington, MI 48335
+(313) 761-6207(313) 477-8116
+
+Inside MovesThe Outpost
+4384 Air West25 E. 8th St.
+Grand Rapids, MI 49512 Holland, MI 49423
+(616) 698-7449(616) 396-5556
+
+Wilderness Outfitters
+333 S. Main
+Ann Arbor, MI 48104
+(313) 761-8515
+
+MINNESOTA
+
+The Midwest Adventure Co.Midwest Mountaineering
+515 Mall Germain309 Cedar Ave. So.
+St. Clound, MN 56303Minneapolis, MN 55454
+(612) 259-6495 (612) 339-3433
+
+Sportsman's Headquarters
+17 W. Superior St.
+Duluth, MN 55802
+(218) 722-6858
+
+MISSOURI
+
+Alpine Shop Ltd.Smith Sporting Goods
+601 E. Lockwood111 W. Lockwood Ave.
+St. Louis, MO 63119Webster Groves, MO 63119
+(314) 962-7715(314) 961-4742
+
+MONTANA
+
+Northern Lights Trading Co.Pipestone Moutaineering
+1627 W. Main829 S. Montana St.
+(1716 W. Babcock)Butte, MT 59701
+Bozeman, MT 59715(406) 782-4994
+(406) 586-2225
+
+Rocky Mountain OutfitterThe Trailhead
+135 Main St.110 East Pine
+Kalispell, MT 59901Missoula, MT 59802
+(406) 752-2446(406) 543-6966
+
+NEVADA
+
+Adventure OutfittingDesert Rock Sports
+2550 S. Rainbow, Ste. E117012 (7034) W. Charleston
+Las Vegas, NV 89102Las Vegas, NV 89117
+(702) 252-7114(702) 254-1143
+
+Sierra Mountaineering
+155 N. Edison Way #1
+Reno, NV 89502
+(702) 786-4824
+
+NEW HAMPSHIRE
+
+All OutdoorsInt'l Mountain Equipment
+321 Elm St.Main St., Box 494
+Manchester, NH 03101 North Conway, NH 03860
+(603) 624-1468 (603) 356-6316
+
+Ragged Mountain Equipment
+Rt. 16-302, P.O. Box 130
+Intervale, NH 03845
+(603) 356-3042
+
+NEW JERSEY
+
+Campmor, Inc.Mountain Sports
+810 Rt. 17 North2211 (1738) Hwy 31 N.
+Paramus, NJ 07652Clinton, NJ 08809
+(800) 526-4784(908) 735-6244
+
+The Nickel / Blue Ridge Mountain Sports
+134 Stanhope St.
+Princeton Forrestal Village
+Princeton, NJ 08540
+(609) 520-9899
+
+NEW MEXICO
+
+Bradley Mountain WearBradley Mountain Wear
+719 Paseo de Peralta825 Early St.
+Santa Fe, NM 87501Santa Fe, NM 87504
+(505) 982-8079(505) 982-8079
+
+NEW YORK
+
+Ocean RockNippenose
+3800 Veterans Hwy.4505 E. Genesee St.
+Bohemia, NY 11716DeWitt, NY 12314
+(516) 471-9500
+
+Denali Outdoor Gear, Inc.High Peaks Cyclery
+8890 Porter Rd.18 Saranac Rd.
+Niagara Falls, NY 14304Lake Placid, NY 12946
+(716) 297-4696 (518) 523-3764
+
+Leisure Sports Mountain Adventures
+201 A Main St. Main St.
+Port Jefferson, NY 11777Phoenicia, NY 12464
+(516) 473-9318(914) 688-5243
+
+Outdoor TradersParagon Sporting Goods
+Westchester Ave.871 Broadway at 18th St.
+Pound Ridge, NY 10576New York, NY 10003
+(914) 764-0100(212) 255-8036
+
+Rock and Snow, Inc. Tent and Trails
+45 Main St.21 Park Place
+New Paltz, NY 12561New York City, NY 10007
+(914) 255-1311(212) 227-1760
+
+Tough TravelerTough Traveler
+Stuyvesant Plaza1012 State St.
+Albany, NY 12203Schenectady, NY 12307
+(518) 438-1807(518) 393-0168
+
+NORTH CAROLINA
+
+Alanby-Outfitting for the Outdoors
+South Park Mall & Eastland Mall
+Charlotte, NC 28203
+(704) 364-7311, (704) 568-8048
+
+Black Dome Mountain ShopDiamond Brand Camping Ctr
+140 Tunnel Rd.Highway 25
+Asheville, NC 28803Naples, NC 28760
+(800) 678-2367(704) 684-6262
+
+Edge of the World OutfittersHills & Trails
+P.O. Box 1137, Hwy. 184527 S. Stratford Rd.
+Banner Elk, NC 28604Winston-Salem, NC 27103
+(704) 898-9550 (919) 765-5623
+
+Looking Glass OutfittersNantahala Outdoor Center
+33 New Hendersonville41 Hwy 19 West
+Hwy at entrance to PisgahBryson City, NC 28713
+   National Park(704) 488-2175
+Pisgah Forest, NC 28768
+(704) 884-5854
+
+OHIO
+
+Action HausAppalachian Outfitters
+4166 S. Cleve-Mass Rd. 2719 Fulton Dr. NW
+Norton, OH 44203Canton, OH 44718
+(800) 231-HAUS(216) 452-6323
+
+Aquanetics Outdoor PursuitsGreat White North
+144 E. Olentangy St.1309 Ridge Rd.
+Powell, OH 43065 Hinckley, OH 44233
+(614) 848-6663(216) 278-2449
+
+The Trailhead
+1740 South Union
+Alliance, OH 44601
+(216) 823-1849
+
+OREGON
+
+Independence MountaineeringRockhard
+215 South MainSmith Rock State Park
+Independence, OR 973519297 NE Crooked River Dr.
+(503) 838-6475Terrebonne, OR 97760
+(503) 548-4786
+
+McKenzie OutfittersMcKenzie Outfitters
+79 W. Broadway309 E. Main
+Eugene, OR 97401Medford, OR 97501
+(800) 289-9292(503) 773-5145
+
+Mountain SupplyOregon Mountain Community
+2104 NE Division60 NW Davis St.
+Bend, OR 97701Portland, OR 97209
+(503) 388-0688
+
+Redpoint Climbers Supply
+975 Smith Rock Way
+Terrebonne, OR 97760
+(503) 923-6207
+
+PENNSYLVANIA
+
+Appalachian OutdoorsAppalachian Trail
+324 W. College Ave.   Outfitters
+State College, PA 1680129 S. Main St.
+(814) 234-4284 Doylestown, PA 18901
+(215) 348-8069
+
+Base CampClimb On
+723 Chestnut St.1206 N. Sherman St.
+Philadelphia, PA 19106Allentown, PA 18103
+(215) 592-7956(215) 435-4334
+
+ExkursionHigh Gear
+4123 William Penn Hwy34 S. 5th St.
+Pittsburgh, PA 15146Clarion, PA 16214
+(412) 372-7030 (814) 226-4763
+
+J.E. Weinel, Inc.Mountain Dreams Int'l
+P.O. Box 213 1121 Bower Hill Rd.
+Valencia, PA 16069Pittsburgh, PA 15243
+(800) 346-7673(412) 276-8660
+
+Nestor's Wilderness TravelTop of the Slope
+2510 MacArthur Rd.100 S. Main St.
+Whitehall, PA 18052Wilkes-Barre, PA 18701
+(215) 433-4060(717) 822-6627
+
+SOUTH DAKOTA
+
+Mountain ManiaPJ's Adventure Sport
+4242 Canyon Lake Dr.1705 West Main St.
+Rapid City, SD 57702Rapid City, SD 57702
+(605) 343-6596 (605) 341-6707
+
+TENNESSEE
+
+Blue Ridge Mountain SportsMahoney's
+East Towne Mall702 Sunset Dr.
+Knoxville, TN 37924Johnson City, TN 37604
+(615) 282-5343
+
+Outdoors Inc.River Sports Outfitters
+5245 Poplar Ave.2918 Sutherland Ave.
+Memphis, TN 38119Knoxville, TN 37919
+(901) 767-6790(615) 523-0066
+
+Rock/Creek Outfitters
+100 Tremont St.
+Chattanooga, TN 37405
+(615) 265- 5969
+
+TEXAS
+
+Chism's Pack & SportsMountain Hideout
+8503 Broadway North14010 Coit Rd.
+  at Loop 410 Dallas, TX 75240
+San Antonio, TX 78217 (214) 234-8651
+(512) 822-8090
+
+Mountain SportsWilderness Equipment
+2025 W. Pioneer Parkway1977 West Gary
+Arlington, TX 76013Houston, TX 77019
+(817) 461-4503(713) 522-4453
+
+UTAH
+
+Hansen Mountaineering Inc.Moab Rock Shop
+757 North State St.600 North Main
+Orem, UT 84057Moab, UT 84532
+(801) 226-7498(801) 259-7312
+
+Ogden MountaineeringRim Cyclery
+3701 Washington94 W. 1st North
+Ogden, UT 84403Moab, UT 84532
+(801) 399-9365(801) 259-533?
+
+The Rock Garden
+22 South Freedom Blvd.
+Provo, UT 84601
+(801) 376-2388
+
+VERMONT
+
+Climb High
+1861 Shelburne Rd.
+Shelburne, VT 05482
+(802) 985-5055
+
+VIRGINIA
+
+Blue Ridge Mountain SportsBlue Ridge Mtn. Sports
+Gayton Crossing762 Hilltop North
+   Shopping Center Shopping Center
+Richmond, VA 23233 Virginia Beach, VA 23451
+(804) 740-2887(804) 422-2201
+
+Blue Ridge Mountain SportsBlue Ridge Outdoors
+Chesterfield Town Center211 Draper Rd.
+11500 Midlothian Tnpk.Blacksburg, VA 24060
+Richmond, VA 23235(703) 552-9012
+(804) 794-2004
+
+Wilderness VoyagersWild River Outfitters
+1544 E. Market St.3636 Virginia Beach
+Harrisonburg, VA 22801    Blvd. #108A
+(703) 434-7234Virginia Beach, VA 23452
+(804) 431-8566
+
+High Angle Associates
+16323 Black Run Road
+Orange, VA 22960
+(703) 672-0456
+
+WASHINGTON
+
+Feathered FriendsThe Great Adventure
+1516 11th Ave.201 E. Chestnut
+Seattle, WA 98122 Bellingham, WA 98225
+(206) 324-4166(206) 671-4615
+
+Great Pacific/PatagoniaMarmot Mountain Works
+2100 First Ave.827 Bellevue Way NE
+Seattle, WA 98121Bellevue, WA 98004
+(206) 622-9700(206) 453-1515
+
+Mt. Constance Mountain ShopMountain Gear
+1550 NE Riddell Rd.N. 2002 Division St.
+Bremerton, WA 98310Spokane, WA 99207
+(206) 377-0668(509) 325-9000
+
+The North Face/The ProThe North Face
+  Shop at Vertical Club1023 First Ave.
+1111 Elliott Ave W, Unit #5 Seattle, WA 98104
+Seattle, WA 98119(206) 622-4111
+(206) 283-8056
+
+Swallow's Nest
+2308 6th Ave.
+Seattle, WA 98121
+(206) 441-4100
+
+WEST VIRGINIA
+
+Hard Rock Climbing ServicesThe Gendarme
+131 S. Court St.Box 53, Behind Buck
+Fayetteville, WV 25840  Harper's Store
+(304) 574-0735Seneca Rocks, WV 26884
+(304) 567-2600
+
+WISCONSIN
+
+Adventures Unlimited, Inc.Erewhon Mtn. Supply
+14165 West Capitol Dr.341 State St.
+Brookfield, WI 53005Madison, WI 53703
+(414) 781-8892 (608) 251-9059
+
+WYOMING
+
+Bighorn Mountain SportsBradley Mountain Wear
+334 N. Main213 S. 1st
+Sheridan, WY 82801Laramie, WY 82070
+(307) 672-6866(307) 742-9490
+
+Crack & CreviceGreat Outdoor Shop
+500 Or Street332 West Pine St.
+#7 Southview PlazaPinedale, WY 82941
+Gillette, WY 82716(307) 367-2440
+(307) 682-5573
+
+Nitro's Mountain SportsTim's Outdoor Store
+543 S. Center412 Grand Avenue
+Casper, WY 82606 Laramie, WY 82070
+(307) 266-1136(307) 745-8775
+
+Skinny SkisTeton Mountaineering
+65 W. Deloney86 E. Broadway
+P.O. Box 3610Jackson, WY 82070
+Jackson, WY 83001(307) 733-3595
+(307) 733-6094
+
+Teton MountaineeringWild Iris
+170 N. Cache325 Main St.
+Jackson, WY 83001Lander, WY 82520
+(307) 733-3595(307) 332-4541
+
+AUSTRALIA
+
+Jim, The BackpackerMountain Designs
+138 Wickham St.190 Katoomba St.
+Fortitude Valley,  Brisbane 4006Katoomba NSW 2780
+Australia, 07-252-4408Australia, 047-825999
+
+Mountain EquipmentPaddy Pallin
+291 Sussex St (491 Kent St.)11 Lonsdale St., Braddon
+Sydney, NSW 2000Canberra, ACT 2600
+Australia, 02-264-3146Australia, 06-2573-883
+
+Paddy PallinPaddy Pallin
+507 Kent St.360 Little Bourke St.
+Sydney, NSW 2000Melbourne, Victoria 3000
+Australia, 02-264-2685Australia, 03-670-4845
+
+CANADA
+
+Adventure CenterAdventure Guide, Inc.
+3821 99th St.382 King St. North
+Edmonton, AlbertaWaterloo, Ontario
+Canada T6E 6J1Canada N2J 2Z3
+403-463-1980519-886-3121
+
+Alpamayo Exploration &Boutik La Montague en
+  Adventure Services Ltd.  Ville L'Ascensation
+#1, 252 N. Algoma St.  Climbing Club
+Thunder Bay, Ontario980 Boul St-Cyrille Quest
+Canada P7A 54AQuebec G1S 1T9
+807-344-9636418-688-9205
+
+Camp de Base (Basecamp)Carleton Recreational
+173 E. Cartier  Equipment
+Pointe Claire, Quebec3201 Kingsway
+Canada H9S 4R9 Vancouver, B.C.
+514-630-6717Canada V5R 5K3
+604-438-6371
+
+The Escape RouteExtreme Mountaingear
+P.O. Box 123738024 Cleveland Ave.
+#3-4241 Village StrollSquamish, B.C.
+Whistler, B.C.Canada V0N 3G0
+Canada V0N 1B0604-892-1545
+604-938-3338
+
+Extreme MountaingearHiker's Haven Ltd.
+2-750 West 6th Ave.268 Kerr St.
+Vancouver, B.C.Oakville, Ontario
+Canada V5Z 1A5Canada L6K 3B2
+604-876-6720416-842-3091
+
+Island Alpine EquipmentLa Cordee
+36 Victoria St.2159 E., Ste-Catherine
+Prince George, B.C. Montreal, Quebec
+Canada V2L 4X4 Canada H2K 2H9
+604-562-8445514-524-1106
+
+Monod Sports Ltd.Mountain Equipment Co-op
+129 Banff St.1009 4th Ave. SW
+Banff, AlbertaCalgary, Alberta
+Canada T01 0C0Canada T2P 0K8
+403-762-3565403-269-2420
+
+Mountain Equipment Co-opMountain Equipment Co-op
+35 Front St. East428 West 8th Ave.
+Toronto, OntarioVancouver, B.C.
+Canada M5E 183Canada V5Y 1N9
+416-363-0122604-872-7858
+
+Mountain Equipment Co-opMountain Equipment Co-op
+5B Beechwood Ave.Phone Order
+Ottawa, Ontario800-ONE-CO-OP
+Canada K1M 1M2800-663-2667
+613-745-1094
+
+Mountain Magic Equipment
+224 Bear St., P.O. Box 1901
+Banff, Alberta
+Canada T0L 0C0
+403-762-2591
+
+HONG KONG
+
+Grade VI AlpineHong Kong Mountaineering
+Equipment & ServicesTraining Centre
+13 Saigon St., 1/F1-F, Flat B, On Yip Bldg.
+Yaumatei, Kowloon395-7 Shaghai St.
+Hong Kong 3-7820200,3-7820202Monkok, Kowloon
+Telex: 71947Hong Kong 3-848190
+
+Mountain Services Int'lPerfect Corporation Ltd.
+Shop 106, Vicwood Plaza132-134 Austin Rd.
+199 Des Voeux Rd. Tsimshatsui
+Central Hong Kong 852-541-8876Hong Kong 366-1273
+
+MEXICO
+
+Aventura VerticalNuevas Dimensiones
+Circunvalacion Prov.Abasolo 62 Iztacalco
+#1517-G, GuadalajaraDF 08800 Mexico
+JAL Mexico 36-24-74355-696-0927
+
+NORWAY
+
+Platou SportSkandinavisk
+Smastrandgaten 8 Hoyfjellsutstyr A/S
+Bergen, Norway 5000 Scandinavian
+47-5-311290 Mountaineering Equip.
+N-3560 Hemsedal
+Norway 067-78177
+
+Skandinavisk Hoyfjellsutstyr A/S
+Scandinavian Mountaineering Equip.
+Bogstadveien 3
+N-0355, Oslo 3, Norway
+02-46-90-75
+
+VENEZUELA
+
+Montana Adventure Tours
+Climbing Guides
+Apartado 645
+Merida, Venezuela
+074-63-17-40
+
+SPAIN
+
+Amadablam
+Comandante Zorita, 13
+28020 Madrid, Spain
+1-553-05-31
+
+WALES
+
+Joe Brown Shop
+Capel Curig/Llanberis
+Gwynedd, North Wales
+UK 44-069-04-205
+
+</pre>
+
+</td>
+</tr>
+<tr><td colspan=3>
+<br><br>
+<font color="green">
+<address>
+The MIT Outing Club<br>
+last editted: 6/30/98<br>
+email:<a href="mailto:mitoc-owner@mit.edu">mitoc-owner@mit.edu</a>
+</address>
+</font>
+</td></tr>
+</table>
+</div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40282392-1', 'mit.edu');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+
