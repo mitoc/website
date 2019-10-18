@@ -112,7 +112,7 @@ function load_sheet_callback_ws_list(json)
 function load_sheet_to_element(doc_id, sheet_id, element_id)
 {
     var script = document.createElement('script');
-    script.setAttribute('src', 'http://spreadsheets.google.com/feeds/list'
+    script.setAttribute('src', 'https://spreadsheets.google.com/feeds/list'
             + '/' + doc_id + '/' + sheet_id + '/public/values' +
             '?alt=json-in-script&callback=load_sheet_callback' + '_' + element_id);
     script.setAttribute('id', 'jsonScript');
@@ -148,7 +148,7 @@ function show_trips(triplist)
 function get_trips()
 {
 	var script = document.createElement('script');
-	script.setAttribute('src', 'http://scripts.mit.edu/~mitoc/signup/index.php?&action=show_trip_list')
+	script.setAttribute('src', 'https://scripts.mit.edu/~mitoc/signup/index.php?&action=show_trip_list')
 	script.setAttribute('id', 'jsonScript');
 	script.setAttribute('type', 'text/javascript');
 	document.documentElement.firstChild.appendChild(script);

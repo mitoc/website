@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://www.google.com/jsapi?key=YOUR_KEY_HERE"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?key=YOUR_KEY_HERE"></script>
 <script type="text/javascript">
 <!--
 /* Loads the Google data JavaScript client library */
@@ -33,23 +33,23 @@ function padNumber(num) {
  * argument and calls loadCalendar with the calendarUrl value.
  *
  * @param {string} calendarAddress is the email-style address for the calendar
- */ 
+ */
 function loadCalendarByAddress(calendarAddress) {
   var calendarUrl = 'https://www.google.com/calendar/feeds/' +
-                    calendarAddress + 
+                    calendarAddress +
                     '/public/full';
   loadCalendar(calendarUrl);
 }
 
 /**
  * Uses Google data JS client library to retrieve a calendar feed from the specified
- * URL.  The feed is controlled by several query parameters and a callback 
+ * URL.  The feed is controlled by several query parameters and a callback
  * function is called to process the feed results.
  *
  * @param {string} calendarUrl is the URL for a public calendar feed
- */  
+ */
 function loadCalendar(calendarUrl) {
-  var service = new 
+  var service = new
       google.gdata.calendar.CalendarService('gdata-js-client-samples-simple');
   var query = new google.gdata.calendar.CalendarEventQuery(calendarUrl);
   query.setOrderBy('starttime');
@@ -68,10 +68,10 @@ function loadCalendar(calendarUrl) {
  * a privileged environment using ClientLogin authentication, there may also
  * be an e.type attribute in some cases.
  *
- * @param {Error} e is an instance of an Error 
+ * @param {Error} e is an instance of an Error
  */
 function handleGDError(e) {
-  document.getElementById('jsSourceFinal').setAttribute('style', 
+  document.getElementById('jsSourceFinal').setAttribute('style',
       'display:none');
   if (e instanceof Error) {
     /* alert with the error line number, file and message */
@@ -82,7 +82,7 @@ function handleGDError(e) {
     if (e.cause) {
       var status = e.cause.status;
       var statusText = e.cause.statusText;
-      alert('Root cause: HTTP error ' + status + ' with status text of: ' + 
+      alert('Root cause: HTTP error ' + status + ' with status text of: ' +
             statusText);
     }
   } else {
@@ -91,25 +91,25 @@ function handleGDError(e) {
 }
 
 /**
- * Callback function for the Google data JS client library to call with a feed 
+ * Callback function for the Google data JS client library to call with a feed
  * of events retrieved.
  *
  * Creates an unordered list of events in a human-readable form.  This list of
  * events is added into a div called 'events'.  The title for the calendar is
  * placed in a div called 'calendarTitle'
  *
- * @param {json} feedRoot is the root of the feed, containing all entries 
- */ 
+ * @param {json} feedRoot is the root of the feed, containing all entries
+ */
 function listEvents(feedRoot) {
   var entries = feedRoot.feed.getEntries();
   var eventDiv = document.getElementById('events');
   if (eventDiv.childNodes.length > 0) {
     eventDiv.removeChild(eventDiv.childNodes[0]);
-  }	  
+  }
   /* create a new unordered list */
   var ul = document.createElement('ul');
   /* set the calendarTitle div with the name of the calendar */
-  document.getElementById('calendarTitle').innerHTML = 
+  document.getElementById('calendarTitle').innerHTML =
     "Calendar: " + feedRoot.feed.title.$t;
   /* loop through each event in the feed */
   var len = entries.length;
@@ -129,7 +129,7 @@ function listEvents(feedRoot) {
     }
     var dateString = (startJSDate.getMonth() + 1) + "/" + startJSDate.getDate();
     if (!startDateTime.isDateOnly()) {
-      dateString += " " + startJSDate.getHours() + ":" + 
+      dateString += " " + startJSDate.getHours() + ":" +
           padNumber(startJSDate.getMinutes());
     }
     var li = document.createElement('li');
@@ -143,7 +143,7 @@ function listEvents(feedRoot) {
       li.appendChild(document.createTextNode(' - ' + dateString));
     } else {
       li.appendChild(document.createTextNode(title + ' - ' + dateString));
-    }	    
+    }
 
     /* append the list item onto the unordered list */
     ul.appendChild(li);
@@ -156,7 +156,7 @@ google.setOnLoadCallback(init);
 </script>
 <div id="calendarTitle"></div>
 <div id="events"></div>
-  
+
 <script type="text/javascript">
 loadCalendar('https://www.google.com/calendar/feeds/developer-calendar@google.com/public/full');
 </script>

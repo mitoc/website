@@ -59,12 +59,12 @@ function cm_hikingSortRows(rowA, rowB) {
 	return rowAValue - rowBValue;
 }
 
-/** 
+/**
  * Called when JSON is loaded. Creates sidebar if param_sideBar is true.
- * Sorts rows if param_rankColumn is valid column. Iterates through worksheet rows, 
+ * Sorts rows if param_rankColumn is valid column. Iterates through worksheet rows,
  * creating marker and sidebar entries for each row.
  * @param {JSON} json Worksheet feed
- */       
+ */
 function cm_loadHikingMapJSON(json) {
 	g_hikingMapMarkers = [];
 	g_hikingMapHTMLS = [];
@@ -104,7 +104,7 @@ function cm_loadHikingMapJSON(json) {
 			var type = "hiking"
 			var point = new google.maps.LatLng(lat,lng);
 			var html = "<div class=\"map_popup\">";
-			html += "<strong>" + entry["gsx$"+param_titleColumn].$t 
+			html += "<strong>" + entry["gsx$"+param_titleColumn].$t
 				+ "</strong><br />";
 			var label = entry["gsx$"+param_titleColumn].$t;
 			var rank = 0;
@@ -152,7 +152,7 @@ function cm_loadHikingMapJSON(json) {
 			if(summit.length > 0)
 				bounds.extend(point);
 
-			var markerADIV = document.createElement("div"); 
+			var markerADIV = document.createElement("div");
 			var markerA = document.createElement("a");
 			markerADIV.className = "entry"
 				markerADIV.appendChild(markerA);
@@ -175,7 +175,7 @@ function cm_loadHikingMapJSON(json) {
 				bounds.extend(point);
 
 				var sidebarEntry = sidebarEntries[label];
-				markerADIV = document.createElement("span"); 
+				markerADIV = document.createElement("span");
 				var markerA = document.createElement("a");
 				markerADIV.className = "parking"
 				markerADIV.appendChild(document.createTextNode(" ("));
@@ -246,15 +246,15 @@ function cm_createHikingMarker(point, title, html, index, marker_type)
 }
 
 /**
- * Creates a script tag in the page that loads in the 
- * JSON feed for the specified key/ID. 
+ * Creates a script tag in the page that loads in the
+ * JSON feed for the specified key/ID.
  * Once loaded, it calls cm_loadMapJSON.
  */
 function cm_getHikingJSON() {
 
 	// Retrieve the JSON feed.
 	var script = document.createElement('script');
-	script.setAttribute('src', 'http://spreadsheets.google.com/feeds/list'
+	script.setAttribute('src', 'https://spreadsheets.google.com/feeds/list'
 			+ '/' + param_ssKey + '/' + param_wsId + '/public/values' +
 			'?alt=json-in-script&callback=cm_loadHikingMapJSON');
 	script.setAttribute('id', 'jsonScript');

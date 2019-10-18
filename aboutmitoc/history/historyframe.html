@@ -8,11 +8,11 @@
   <script type="text/javascript" src="javascript/mitoc.js"></script>
   <script type="text/javascript" src="javascript/jquery-1.7.1.min.js"></script>
   <script type="text/javascript" src="javascript/jquery.ba-hashchange.min.js"></script>
-  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCBxTBIDWZr83UGL49wROPssTIzW7IP9KU&sensor=false"></script>
-  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBxTBIDWZr83UGL49wROPssTIzW7IP9KU&sensor=false"></script>
+  <script type="text/javascript" src="https://www.google.com/jsapi"></script>
   <script type="text/javascript" src="javascript/mapplot.js"></script>
   <script type="text/javascript" src="javascript/calendar_events.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <link rel="stylesheet" type="text/css" href="styles/libs/normalize.css">
   <link rel="stylesheet" type="text/css" href="styles/libs/grids-min.css">
   <link rel="stylesheet" type="text/css" href="styles/libs/jquery-ui.css">
@@ -30,31 +30,31 @@ function main_load(dest) { $('.main').load(dest); }
 function show_gallery()
 {
   document.location.hash = "#gallery";
-  document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/gallery" class="main_frame"></iframe>';
+  document.getElementById('main').innerHTML='<iframe src="https://mitoc.mit.edu/gallery" class="main_frame"></iframe>';
 }
 
 function show_videos()
 {
   document.location.hash = "#videos";
-  document.getElementById('main').innerHTML='<iframe src="http://techtv.mit.edu/collections/mitoc" class="main_frame"></iframe>';
+  document.getElementById('main').innerHTML='<iframe src="https://techtv.mit.edu/collections/mitoc" class="main_frame"></iframe>';
 }
 
 function show_tripreports()
 {
   document.location.hash = "#tripreports";
-  document.getElementById('main').innerHTML='<iframe src="http://mitoc.mit.edu/tripreports" class="main_frame"></iframe>';
+  document.getElementById('main').innerHTML='<iframe src="https://mitoc.mit.edu/tripreports" class="main_frame"></iframe>';
 }
 
 function join_trip()
 {
   document.location.hash = "#join_trip";
-  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php" class="main_frame"></iframe>';
+  document.getElementById('main').innerHTML='<iframe src="https://scripts.mit.edu/~mitoc/signup/index.php" class="main_frame"></iframe>';
 }
 
 function join_trip_specific(trip_id)
 {
   document.location.hash = "#trip?id=" + trip_id;
-  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php?trip_id=' + trip_id + '" class="main_frame"></iframe>';
+  document.getElementById('main').innerHTML='<iframe src="https://scripts.mit.edu/~mitoc/signup/index.php?trip_id=' + trip_id + '" class="main_frame"></iframe>';
 }
 
 function show_trip_archives()
@@ -66,7 +66,7 @@ function show_trip_archives()
 function lead_trip()
 {
   document.location.hash = "#lead_trip";
-  document.getElementById('main').innerHTML='<iframe src="http://scripts.mit.edu/~mitoc/signup/index.php?&action=show_new_trip_form" class="main_frame"></iframe>';
+  document.getElementById('main').innerHTML='<iframe src="https://scripts.mit.edu/~mitoc/signup/index.php?&action=show_new_trip_form" class="main_frame"></iframe>';
 }
 
 function show_db()
@@ -175,7 +175,7 @@ jQuery(function($) {
 
     add_loader('#about_nav', 'aboutmitoc/aboutmitoc.html');
     add_loader('#donate_nav', 'aboutmitoc/donate.html');
-    add_loader('#gallery_nav', 'http://mitoc.mit.edu/gallery');
+    add_loader('#gallery_nav', 'https://mitoc.mit.edu/gallery');
 
     add_loader('#climbing_nav', 'activities/climbing/climbing.html');
     add_loader('#hiking_nav', 'activities/hiking/hiking.html');
@@ -346,7 +346,7 @@ jQuery(function($) {
 <img src="images/minilogo.gif"/>
 <br/>
 <br/>
-<iframe src="http://web.mit.edu/history/history.html" height="4800px" width="100%" frameborder="0" scrolling="auto"></iframe>
+<iframe src="https://web.mit.edu/history/history.html" height="4800px" width="100%" frameborder="0" scrolling="auto"></iframe>
 </div>
 </div>
 <script>

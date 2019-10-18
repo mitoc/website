@@ -22,7 +22,7 @@ function load_fees_callback(json)
 function load_fees_from_spreadsheet(doc_id, sheet_id)
 {
     var script = document.createElement('script');
-    script.setAttribute('src', 'http://spreadsheets.google.com/feeds/list'
+    script.setAttribute('src', 'https://spreadsheets.google.com/feeds/list'
             + '/' + doc_id + '/' + sheet_id + '/public/values' +
             '?alt=json-in-script&callback=load_fees_callback');
     script.setAttribute('id', 'jsonScript');
