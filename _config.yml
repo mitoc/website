@@ -1,0 +1,16 @@
+# This file is *NOT* reloaded automatically when you use 'jekyll serve'.
+# If you change this file, please restart the server process.
+
+title: MIT Outing Club
+url: https://mitoc.mit.edu
+
+# collections:
+#   issues:
+#     output: true
+
+include: ['_pages', '_redirects']
+
+exclude:
+  - README.md
+  - .circleci
+  - vendor
