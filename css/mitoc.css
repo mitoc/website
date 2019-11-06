@@ -39,3 +39,7 @@ body {
 .jumbotron p {
     margin-bottom: 0;
 }
+
+dd {
+    margin-bottom: 1em;
+}
