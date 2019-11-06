@@ -35,3 +35,7 @@ body {
 .image-row {
     margin-bottom: 20px;
 }
+
+.jumbotron p {
+    margin-bottom: 0;
+}
