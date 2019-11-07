@@ -27,7 +27,20 @@ Some amount of technical gear will be required for Practicals, and several class
 
 ## Schedule + Key Dates
 
-{% include calendar.html height='480' src='tqm8ed0n79pmp0a0dbvhao29k8%40group.calendar.google.com' %}
+<div class="row">
+  <div class="col-md-8">
+    <div class="embed-responsive embed-responsive-4by3">
+      <iframe
+        src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=480&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;
+        src=tqm8ed0n79pmp0a0dbvhao29k8%40group.calendar.google.com&amp;color=%23B5FCFF&amp;
+        ctz=America%2FNew_York"
+        style=" border-width:0 "
+        frameborder="0"
+        scrolling="no">
+      </iframe>
+    </div>
+  </div>
+</div>
 
 ## Course Roadmap
 
