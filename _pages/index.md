@@ -5,6 +5,13 @@
 
 <div class="row hidden-sm hidden-xs" style="margin-bottom: 20px;">
     <div class="col-md-3" style="overflow:hidden;"><img src="images/front/pic1.jpg" alt="" width="220" height="286"/>
+<!-- Redirect /#pay to /pay -->
+<script>
+    if (window.location.hash == "#pay") {
+        window.location = "/pay"
+    }
+</script>
+
     </div>
     <div class="col-md-3" style="overflow:hidden;"><img src="images/front/pic2.jpg" alt="" width="220" height="286"/>
     </div>

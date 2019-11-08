@@ -1,34 +1,20 @@
-<div class="page-header">
-  <h1>Pay MITOC</h1>
-</div>
+---
+    permalink: /pay
+    layout: page
+    title: Pay MITOC
+---
 
-<p>
-  This page can be used to pay money to MITOC using PayPal (preferred) or a
-  credit/debit card. Payments can also be made by check at the
-  <a href="/where-is-mitoc">MITOC office</a> during
-  <a href="/calendar">office hours</a>.
-  <strong>All payments are final and non-refundable.</strong>
-</p>
+This page can be used to pay money to MITOC using PayPal (preferred) or a credit/debit card. Payments can also be made by check at the [MITOC office](/where-is-mitoc) during [office hours](/calendar). **All payments are final and non-refundable.**
 
-<p>
-  If you are having trouble with the payment system, contact
-  <a href="mailto:mitoc-bursar@mit.edu">mitoc-bursar@mit.edu</a>. The most
-  common issue is that the billing address must exactly match what your bank has
-  on file, so if your card is declined, double-check the address you entered.
-</p>
+If you are having trouble with the payment system, contact [mitoc-bursar@mit.edu](mailto:mitoc-bursar@mit.edu). The most common issue is that the billing address must exactly match what your bank has on file, so if your card is declined, double-check the address you entered.
 
-<p>
-  If you are an MIT student and this cost is prohibitive to your
-  membership/participation, please email
-  <a href="mailto:mitoc-owner@mit.edu">mitoc-owner@mit.edu</a> to ask about this
-  fee being waived. If you are a non-MIT student please feel free to email to
-  ask about financial assistance options.
-</p>
+If you are an MIT student and this cost is prohibitive to your membership/participation, please email [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu) to ask about this fee being waived. If you are a non-MIT student please feel free to email to ask about financial assistance options.
 
-<h3>Membership Fees</h3>
-<p>See the signup page <a href="/join">here</a>.</p>
+### Membership Fees
 
-<h3>Gear Rentals and Purchases</h3>
+See the signup page [here](/join).
+
+### Gear Rentals and Purchases
 
 <div style="width:300px;">
   <form
@@ -70,7 +56,7 @@
   </form>
 </div>
 
-<h3>Trip and Event Fees</h3>
+### Trip and Event Fees
 
 <div style="width:300px;">
   <form
@@ -94,6 +80,9 @@
         class="form-control"
       >
         <option>Select one</option>
+        {% for fee in site.data.fees %}
+          <option value="{{ fee.name }}">{{ fee.name }}</option>
+        {% endfor %}
       </select>
     </div>
     <div class="form-group">
@@ -132,27 +121,11 @@
   </form>
 </div>
 
-<h3>Cabin Rentals</h3>
+### Cabin Rentals
 
-<p>
-  Be sure to fill out the visitor log (<a
-    target="_blank"
-    href="https://docs.google.com/spreadsheet/viewform?formkey=dGdFZ1puZ2JiZktNeDNIZ0JXQ09OR1E6MQ#gid=0"
-    >Camelot</a
-  >
-  or
-  <a
-    target="_blank"
-    href="https://docs.google.com/spreadsheet/viewform?formkey=dFE4QTY2XzRLVVllY1VXcVNzWUxHYVE6MQ#gid=0"
-    >Intervale</a
-  >) when you pay for cabin rental.
-</p>
+Be sure to fill out the visitor log ([Camelot](https://docs.google.com/spreadsheet/viewform?formkey=dGdFZ1puZ2JiZktNeDNIZ0JXQ09OR1E6MQ#gid=0) or [Intervale](https://docs.google.com/spreadsheet/viewform?formkey=dFE4QTY2XzRLVVllY1VXcVNzWUxHYVE6MQ#gid=0)) when you pay for cabin rental.
 
-<p>
-  Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost
-  0.5 person-days (i.e. half price of using the cabin.) Enter the total number
-  of fractional days spent outside and full days spent inside in the form below.
-</p>
+Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost 0.5 person-days (i.e. half price of using the cabin.) Enter the total number of fractional days spent outside and full days spent inside in the form below.
 
 <div style="width:300px;">
   <form
@@ -216,5 +189,7 @@
 </div>
 
 <script>
-  load_trip_fees();
+    window.addEventListener('DOMContentLoaded', function() {
+      load_trip_fees();
+    });
 </script>

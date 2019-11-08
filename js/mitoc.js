@@ -1,3 +1,6 @@
+---
+---
+
 //Load leader lists from Google Sheets and populate the table
 function loadLeadersFromSpreadsheet(spreadsheetId, sheetId, divId) {
     $.getJSON('https://spreadsheets.google.com/feeds/list/' + spreadsheetId + '/' + sheetId
@@ -46,31 +49,28 @@ function loadLeadersFromTripsWebsite(activityId, divId) {
 
 //Load trip fee schedule from Google Sheets on the payment page
 function load_trip_fees() {
-    $.getJSON('https://spreadsheets.google.com/feeds/list/1jXv9H6GvknmgUgerLc7QCdosXngI4N2QhPtFyPsIGgo/4/public/values?alt=json', function(data) {
-        //Populate dropdown menu and list of prices
-        var form = document.forms['trip_form'];
-        var options = form.merchantDefinedData2.options;
-        var entries = data.feed.entry;
-        var prices = {};
-        for(var i = 0; i < entries.length; i++) {
-            options[options.length] = new Option(entries[i].gsx$name.$t, entries[i].gsx$name.$t);
-            prices[entries[i].gsx$name.$t] = { price: entries[i].gsx$price.$t, category: entries[i].gsx$category.$t };
-        };
-        //Add handler to calculate price when quantity changes
-        var calculate_amount = function() {
-            if(form.merchantDefinedData2.value) {
-                form.amount.value = form.merchantDefinedData4.value * prices[form.merchantDefinedData2.value].price;
-            }
-        };
-        $('#merchantDefinedData4trip').keyup(calculate_amount);
-        $('#merchantDefinedData4trip').change(calculate_amount);
+    //Populate dropdown menu and list of prices
+    var form = document.forms['trip_form'];
+    var options = form.merchantDefinedData2.options;
+    var prices = {
+        {% for fee in site.data.fees %}
+            "{{fee.name}}": { "price": "{{ fee.price }}", "category": "{{ fee.category }}" },
+        {% endfor %}
+    };
+    //Add handler to calculate price when quantity changes
+    var calculate_amount = function() {
+        if(form.merchantDefinedData2.value) {
+            form.amount.value = form.merchantDefinedData4.value * prices[form.merchantDefinedData2.value].price;
+        }
+    };
+    $('#merchantDefinedData4trip').keyup(calculate_amount);
+    $('#merchantDefinedData4trip').change(calculate_amount);
 
-        //Add handler to calculate price and populate category when trip selection changes
-        $('#merchantDefinedData2trip').change(function() {
-            if(form.merchantDefinedData2.value) {
-                calculate_amount();
-                form.merchantDefinedData1.value = prices[form.merchantDefinedData2.value].category;
-            }
-        });
+    //Add handler to calculate price and populate category when trip selection changes
+    $('#merchantDefinedData2trip').change(function() {
+        if(form.merchantDefinedData2.value) {
+            calculate_amount();
+            form.merchantDefinedData1.value = prices[form.merchantDefinedData2.value].category;
+        }
     });
 }
