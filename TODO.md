@@ -1,2 +1,4 @@
-- custom 404 page
 - Load script async
+
+- Calendar
+- Foldable sections
