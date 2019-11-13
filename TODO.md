@@ -1,4 +1,4 @@
 - Load script async
-
-- Calendar
-- Foldable sections
+- Data: club officers, prices, etc.
+- CI and dead links
+- Clean nav bar
