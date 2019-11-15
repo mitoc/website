@@ -1,6 +1,6 @@
 ---
     permalink: /get-involved/become-3-season-leader
-    layout: page
+    layout: default
     title: 3-Season Hiking Leaders
     images:
       - /images/become-3-season-leader/pic1.jpg

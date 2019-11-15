@@ -1,6 +1,6 @@
 ---
     permalink: /events/circus
-    layout: page
+    layout: default
     title: Circus
     images:
       - /images/circus/pic1.jpg

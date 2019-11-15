@@ -1,6 +1,6 @@
 ---
     permalink: /events/school-of-rock
-    layout: page
+    layout: default
     title: School of Rock
     images:
       - /images/rock-climbing/pic1.jpg

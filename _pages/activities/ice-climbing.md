@@ -1,6 +1,6 @@
 ---
     permalink: /activities/ice-climbing
-    layout: page
+    layout: default
     title: Ice Climbing
     images:
       - /images/ice-climbing/pic1.jpg

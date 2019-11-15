@@ -1,6 +1,6 @@
 ---
     permalink: /get-involved/get-more-involved
-    layout: page
+    layout: default
     title: Getting More Involved
 ---
 

@@ -1,6 +1,6 @@
 ---
     permalink: /events/trip-report
-    layout: page
+    layout: default
     title: Trip Report Socials
     images:
       - /images/trip-report/pic1.jpg

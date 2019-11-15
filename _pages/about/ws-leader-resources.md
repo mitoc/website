@@ -1,6 +1,6 @@
 ---
     permalink: about/ws-leader-resources
-    layout: page
+    layout: default
     title: Winter School Leader Resources
 ---
 

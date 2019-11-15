@@ -1,6 +1,6 @@
 ---
     permalink: /activities/hiking
-    layout: page
+    layout: default
     title: Hiking
     images:
       - /images/hiking/pic1.jpg

@@ -1,6 +1,6 @@
 ---
     permalink: /activities/rock-climbing/mentor-mentee
-    layout: page
+    layout: default
     title: Mentor Mentee
 ---
 

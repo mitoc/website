@@ -1,6 +1,6 @@
 ---
     permalink: /where-is-mitoc
-    layout: page
+    layout: default
     title: Where is MITOC?
 ---
 

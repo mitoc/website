@@ -1,6 +1,6 @@
 ---
     permalink: /rentals/intervale
-    layout: page
+    layout: default
     title: Intervale
     images:
       - /images/intervale/pic1.jpg

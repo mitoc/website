@@ -1,6 +1,6 @@
 ---
     permalink: /rentals/cabins
-    layout: page
+    layout: default
     title: MITOC's cabins
     images:
       - /images/cabins/pic1.jpg

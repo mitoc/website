@@ -1,6 +1,6 @@
 ---
     permalink: /events/rolling-clinic
-    layout: page
+    layout: default
     title: Rolling Clinics
 ---
 

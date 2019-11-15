@@ -1,6 +1,6 @@
 ---
     permalink: /events/acadia
-    layout: page
+    layout: default
     title: Acadia
     images:
       - /images/acadia/pic1.jpg

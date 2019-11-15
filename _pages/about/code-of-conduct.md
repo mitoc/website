@@ -1,6 +1,6 @@
 ---
     permalink: about/code-of-conduct
-    layout: page
+    layout: default
     title: Conduct in MITOC
 ---
 

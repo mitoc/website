@@ -1,6 +1,6 @@
 ---
     permalink: /rentals
-    layout: page
+    layout: default
     title: Gear Rentals
     subtitle: MITOC provides members at-cost rentals of gear for hiking, camping, climbing, mountaineering, skiing, and boating.
     images:

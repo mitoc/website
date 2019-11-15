@@ -1,6 +1,6 @@
 ---
     permalink: /get-involved/become-paddling-leader
-    layout: page
+    layout: default
     title: Paddling Leaders
     images:
       - /images/become-paddling-leader/canoe3.jpg

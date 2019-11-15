@@ -1,6 +1,6 @@
 ---
     permalink: /activities/sea-kayak
-    layout: page
+    layout: default
     title: Sea Kayaking
     images:
       - /images/sea-kayak/pic1.jpg

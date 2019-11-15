@@ -1,6 +1,6 @@
 ---
     permalink: /rentals/intervale-manual
-    layout: page
+    layout: default
     title: Intervale Manual
 ---
 

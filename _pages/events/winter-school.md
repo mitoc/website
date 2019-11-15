@@ -1,6 +1,6 @@
 ---
     permalink: /events/winter-school
-    layout: page
+    layout: default
     title: Winter School
     images:
       - /images/winter-school/pic1.jpg

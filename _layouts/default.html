@@ -1,30 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: base
+---
+<div class="page-header">
+    <h1>{{ page.title }}</h1>
+</div>
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>MIT Outing Club</title>
-    <link rel="shortcut icon" type="image/png" href="/images/favicon.ico">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/mitoc.css">
-</head>
-
-<body>
-
-    {% include navbar.html %}
-
-    <div id="main" class="container">
-        <noscript><h3>Please enable Javascript</h3></noscript>
-        {{ content }}
+{% if page.images %}
+    <div class="image-row row hidden-xs hidden-sm">
+        {% for image in page.images %}
+            <div class="col-md-2"><img src="{{ image }}" alt=""/></div>
+        {% endfor %}
     </div>
+{% endif %}
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js" integrity="sha384-mXQoED/lFIuocc//nss8aJOIrz7X7XruhR6bO+sGceiSyMELoVdZkN7F0oYwcFH+" crossorigin="anonymous"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/mitoc.js"></script>
+{% if page.subtitle %}
+    <p class="lead"> {{ page.subtitle }}</p>
+{% endif %}
 
-</body>
+{% if page.jumbotron %}
+    <div class="jumbotron">
+        {{ page.jumbotron | markdownify }}
+    </div>
+{% endif %}
 
-</html>
+{{ content }}

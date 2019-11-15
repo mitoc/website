@@ -1,6 +1,6 @@
 ---
     permalink: /rentals/prices/
-    layout: page
+    layout: default
     title: Rental Price List
     images:
       - /images/rental/pic1.jpg

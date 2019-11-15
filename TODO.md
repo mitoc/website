@@ -1,4 +1,2 @@
 - Load script async
-- Data: club officers, prices, etc.
-- CI and dead links
 - Clean nav bar

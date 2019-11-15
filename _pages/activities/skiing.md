@@ -1,6 +1,6 @@
 ---
     permalink: /activities/skiing
-    layout: page
+    layout: default
     title: Skiing
     images:
       - /images/skiing/pic1.jpg
