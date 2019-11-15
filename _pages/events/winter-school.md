@@ -7,11 +7,17 @@
       - /images/winter-school/pic2.jpg
       - /images/winter-school/pic3.jpg
       - /images/winter-school/pic4.jpg
-    jumbotron: |
-      Winter School 2020 will be January 7, 2020 - February 2, 2020.
-
-      The two mandatory lectures are Tuesday, January 7 and Thursday, January 9 from 19:00 - 21:00 (7pm - 9pm) in [26-100](https://whereis.mit.edu?q=26-100).
 ---
+
+{% class jumbotron %}
+
+Winter School 2020 will be January 7, 2020 - February 2, 2020.
+
+The two mandatory lectures are Tuesday, January 7 and Thursday, January 9 from 19:00 - 21:00 (7pm - 9pm) in [26-100](https://whereis.mit.edu?q=26-100).
+
+{% endclass %}
+
+
 
 Do you enjoy being outdoors but don't know what to do when the temperature drops? Do you live for summer but suffer in winter? Are you cooped up from November to March? Don't hide from the cold — celebrate winter! During IAP, participate in MIT Outing Club's Winter School, where you can have fun learning skills like cross-country skiing, snowshoeing, ice climbing and more. Winter School is MITOC's crash course in cold weather activities.
 

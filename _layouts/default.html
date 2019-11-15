@@ -17,10 +17,4 @@ layout: base
     <p class="lead"> {{ page.subtitle }}</p>
 {% endif %}
 
-{% if page.jumbotron %}
-    <div class="jumbotron">
-        {{ page.jumbotron | markdownify }}
-    </div>
-{% endif %}
-
 {{ content }}
