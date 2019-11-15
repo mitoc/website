@@ -12,7 +12,7 @@
         {% for officer_id in position.officers %}
           {% assign officer = site.data.officers[officer_id] %}
           <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
-            <img height="100" width="100" src="/images/leaders/{{ officer.photo | default: 'beaver.jpg'}}"/>
+            <img height="100" width="100" alt="" src="/images/leaders/{{ officer.photo | default: 'beaver.jpg'}}"/>
             <em>{{ officer.name }}<br/>
             {{ position.title }}<br/></em>
             {{ position.description }}
