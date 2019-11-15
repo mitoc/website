@@ -1,6 +1,5 @@
 ---
     permalink: /get-involved/become-climbing-leader
-    layout: default
     title: Climbing Leaders
     images:
       - /images/become-climbing-leader/pic1.jpg

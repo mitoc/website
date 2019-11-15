@@ -1,6 +1,5 @@
 ---
     permalink: /rentals/camelot
-    layout: default
     title: Camelot
     images:
       - /images/camelot/pic1.jpg

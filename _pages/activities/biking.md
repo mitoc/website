@@ -1,6 +1,5 @@
 ---
     permalink: /activities/biking
-    layout: default
     title: Mountain Biking
     images:
       - /images/biking/pic1.jpg

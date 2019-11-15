@@ -1,6 +1,5 @@
 ---
     permalink: about/officers
-    layout: default
     title: Club Officers
 ---
 

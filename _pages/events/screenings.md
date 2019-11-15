@@ -1,6 +1,5 @@
 ---
     permalink: /events/screenings
-    layout: default
     title: Film Screenings
 ---
 

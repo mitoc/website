@@ -1,6 +1,5 @@
 ---
     permalink: about/get-reimbursed
-    layout: default
     title: Get Reimbursed
 ---
 

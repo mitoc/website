@@ -1,6 +1,5 @@
 ---
     permalink: /join
-    layout: default
     title: Become a Member
     subtitle: It's easy to become a member, and anyone can join.
 ---

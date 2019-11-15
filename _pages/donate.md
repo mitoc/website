@@ -1,6 +1,5 @@
 ---
     permalink: /donate
-    layout: default
     title: Donate to MITOC
 ---
 

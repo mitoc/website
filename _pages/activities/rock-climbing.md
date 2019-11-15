@@ -1,6 +1,5 @@
 ---
     permalink: /activities/rock-climbing
-    layout: default
     title: Rock Climbing
     images:
       - /images/rock-climbing/pic1.jpg

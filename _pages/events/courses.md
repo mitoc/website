@@ -1,6 +1,5 @@
 ---
     permalink: /events/courses
-    layout: default
     title: Skills Courses
     images:
       - /images/courses/pic1.jpg

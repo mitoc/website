@@ -1,6 +1,5 @@
 ---
     permalink: /rentals/intervale-general
-    layout: default
     title: Intervale General Information
 ---
 

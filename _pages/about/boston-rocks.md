@@ -1,6 +1,5 @@
 ---
     permalink: /about/boston-rocks
-    layout: default
     title: Boston Rocks
     images:
       - /images/boston-rocks/pic1.jpg

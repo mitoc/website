@@ -1,6 +1,5 @@
 ---
     permalink: /events/trs
-    layout: default
     title: Technical Review Sessions
     images:
       - /images/trs/pic1.jpg

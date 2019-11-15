@@ -1,6 +1,5 @@
 ---
     permalink: /events/adventure-race
-    layout: default
     title: The Rugged Rampage
     images:
       - /images/adventure-race/racer_group.jpg

@@ -1,6 +1,5 @@
 ---
     permalink: /get-involved/become-desk-worker
-    layout: default
     title: Desk Workers
 ---
 

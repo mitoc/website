@@ -1,6 +1,5 @@
 ---
     permalink: /pay
-    layout: default
     title: Pay MITOC
 ---
 

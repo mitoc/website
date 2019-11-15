@@ -1,6 +1,5 @@
 ---
     permalink: /activities/canoe
-    layout: default
     title: Canoeing
     images:
       - /images/canoe/canoe1.jpg

@@ -13,3 +13,10 @@ exclude:
   - README.md
   - .circleci
   - vendor
+
+defaults:
+  -
+    scope:
+      path: "" # all files in the project
+    values:
+      layout: "default"

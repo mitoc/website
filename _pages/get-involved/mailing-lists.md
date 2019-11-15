@@ -1,6 +1,5 @@
 ---
     permalink: /mailing-lists
-    layout: default
     title: Mailing Lists
 ---
 

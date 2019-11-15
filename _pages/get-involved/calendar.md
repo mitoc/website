@@ -1,6 +1,5 @@
 ---
     permalink: /calendar
-    layout: default
     title: Calendar
 ---
 

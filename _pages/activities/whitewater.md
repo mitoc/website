@@ -1,6 +1,5 @@
 ---
     permalink: /activities/whitewater
-    layout: default
     title: Whitewater
     images:
       - /images/whitewater/pic1.jpg

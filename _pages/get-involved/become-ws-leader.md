@@ -1,6 +1,5 @@
 ---
     permalink: /get-involved/become-ws-leader
-    layout: default
     title: Winter School Leaders
     images:
       - /images/become-ws-leader/pic1.jpg

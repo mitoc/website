@@ -1,6 +1,5 @@
 ---
     permalink: /rentals/boathouse
-    layout: default
     title: Boathouse Rentals
     images:
       - /images/boathouse/pic1.jpg

@@ -1,6 +1,5 @@
 ---
     permalink: /activities/surfing
-    layout: default
     title: Surfing
     images:
       - /images/surfing/surfing_header.png
