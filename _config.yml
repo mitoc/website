@@ -4,10 +4,6 @@
 title: MIT Outing Club
 url: https://mitoc.mit.edu
 
-# collections:
-#   issues:
-#     output: true
-
 include: ['_pages', '_redirects']
 
 plugins:
