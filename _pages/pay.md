@@ -80,7 +80,7 @@ See the signup page [here](/join).
         class="form-control"
       >
         <option>Select one</option>
-        {% for fee in site.data.fees %}
+        {% for fee in site.data.trip_fees %}
           <option value="{{ fee.name }}">{{ fee.name }}</option>
         {% endfor %}
       </select>

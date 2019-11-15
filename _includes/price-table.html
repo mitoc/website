@@ -1,0 +1,33 @@
+{% assign category = include.category %}
+
+<table class="table table-striped">
+  <tr>
+    <th>Item</th>
+    <th>Deposit</th>
+    <th>Rental</th>
+  </tr>
+  {% for item in category.items %}
+  <tr>
+    <td>{{ item.title }}</td>
+    <td>{{ item.deposit }}</td>
+    <td>{{ item.rental }}</td>
+  </tr>
+  {% endfor%}
+
+  {% if category.restricted_items %}
+    <tr class="danger">
+      <td colspan="3">
+        <b>Restricted</b> (Email:
+        <a href="mailto:mitoc-approval@mit.edu">mitoc-approval@mit.edu</a>)
+      </td>
+    </tr>
+  {% endif %}
+
+  {% for item in category.restricted_items %}
+    <tr class="danger">
+      <td>{{ item.title }}</td>
+      <td>{{ item.deposit }}</td>
+      <td>{{ item.rental }}</td>
+    </tr>
+  {% endfor%}
+</table>

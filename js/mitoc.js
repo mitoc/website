@@ -53,7 +53,7 @@ function load_trip_fees() {
     var form = document.forms['trip_form'];
     var options = form.merchantDefinedData2.options;
     var prices = {
-        {% for fee in site.data.fees %}
+        {% for fee in site.data.trip_fees %}
             "{{fee.name}}": { "price": "{{ fee.price }}", "category": "{{ fee.category }}" },
         {% endfor %}
     };
