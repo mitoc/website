@@ -4,7 +4,7 @@
     title: Film Screenings
 ---
 
-{% template centered.html %}
+{% class text-center %}
 
 MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
 
@@ -21,10 +21,10 @@ select your ticket type,
 quantity, and add your email address to the "Comments"  
 and click on Pay to enter your credit card information.
 
-{% endtemplate %}
+{% endclass %}
 
-<div class="row">
-    <div class="col-md-6">
+<div class="row mb-3">
+    <div class="col-md-6 col-md-offset-3">
         <div class="embed-responsive embed-responsive-16by9">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/nBPGrQbQGv4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
