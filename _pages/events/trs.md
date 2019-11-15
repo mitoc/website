@@ -18,7 +18,7 @@ Here are some sample notes from past TRS.
 *   [Patient Assessment](/docs/trs/patient_assessment.pdf)
 *   [Mountaineering Review for Climbers](/docs/trs/Mountaineering_TRS.pptx)
 *   [Glacier Travel 1](/docs/trs/Glacier_Travel_1.pptx)
-*   [Glacier Travel 2](/docs/trs/Glacier Travel_2.pptx)
+*   [Glacier Travel 2](/docs/trs/Glacier_Travel_2.pptx)
 *   [Backpacking Food](/docs/trs/backpacking_food.pdf)
 
 ### Disclaimer
