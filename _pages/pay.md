@@ -50,7 +50,7 @@ See the signup page [here](/join).
     </div>
     <div class="form-group">
       <label for="amount">Amount ($)</label>
-      <input name="amount" id="amount" class="form-control" />
+      <input name="amount" id="amount-gear" class="form-control" />
     </div>
     <button type="submit" class="btn btn-primary">Pay</button>
   </form>
@@ -137,7 +137,7 @@ Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost 0.5
     <input
       type="hidden"
       name="merchant_id"
-      id="merchant_id"
+      id="merchant_id-cabins"
       value="mit_sao_mitoc"
     />
     <div class="form-group">
@@ -178,7 +178,7 @@ Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost 0.5
       <label for="amount">Amount ($)</label>
       <input
         name="amount"
-        id="amount"
+        id="amount-cabins"
         value="7"
         class="form-control"
         readonly

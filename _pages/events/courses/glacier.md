@@ -1,6 +1,6 @@
 The club typically organizes a Crevasse Rescue and Glacier Travel course in the spring in prepration for member's summer expeditions. This is a two-day course held in the Whites focusing mostly on field work (see topics below).
 
-### Topics Include
+### Topics Include {: #glacier-topics } 
 
 *   Crevasse and Snow Bridge terrain assessment
 *   Planning / Team Management
@@ -8,15 +8,15 @@ The club typically organizes a Crevasse Rescue and Glacier Travel course in the 
 *   Ascending a rope
 *   Z-pulley for hauling a victim
 
-### When
+### When {: #glacier-topics } 
 
 1 Weekend in the spring.
 
-### Where
+### Where {: #glacier-topics } 
 
 White Mountains (likely Pinkham Notch or Crawford Notch) evenings at the Intervale cabin. The course is likely to run on a small incline next to a ski resort for the first day. On the second day we will head up one of the ravines on Mt. Washington to try out our systems in a more live setting.
 
-### Who
+### Who {: #glacier-who } 
 
 Mountaineers and Alpine Climbers
 

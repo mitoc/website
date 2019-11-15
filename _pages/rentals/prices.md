@@ -9,7 +9,7 @@
       - /images/rental/pic4.jpg
 ---
 
-If you are renting gear for the first time, please read the [gear rental information](/rental) in full.
+If you are renting gear for the first time, please read the [gear rental information](/rentals) in full.
 
 Security deposits vary by individual item. The deposit amounts below are averages.
 
@@ -107,6 +107,6 @@ MITOC has a library of guidebooks, maps, and other outdoor literature. They can 
 
 ### Boats and Cabin Rentals
 
-MITOC has a selection of flatwater and whitewater canoes, kayaks, and packrafts available for rental. To rent these, you must first attend a boathouse keyholder training. See the [boathouse page](/boathouse) for more information on boathouse rentals.
+MITOC has a selection of flatwater and whitewater canoes, kayaks, and packrafts available for rental. To rent these, you must first attend a boathouse keyholder training. See the [boathouse page](/rentals/boathouse) for more information on boathouse rentals.
 
-We own two [cabins in New Hampshire](/cabins) where MITOC members can stay. These also require keyholder training before you rent.
+We own two [cabins in New Hampshire](/rentals/cabins) where MITOC members can stay. These also require keyholder training before you rent.

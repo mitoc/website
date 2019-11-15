@@ -53,7 +53,7 @@ You can do these in any order.
 
 We consider any hike "3-season" if winter conditions are not present, usually roughly April-October, though this varies vastly year to year. During shoulder seasons, the Winter Safety Committee decides whether conditions are 3-season or winter.
 
-Guidelines for leading three season hikes are [here](docs/MITOC_3SeasonHiking.pdf).
+Guidelines for leading three season hikes are [here](/docs/MITOC_3SeasonHiking.pdf).
 
 ### What are the leader benefits?
 

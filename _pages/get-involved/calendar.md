@@ -1,5 +1,5 @@
 ---
-    permalink: /get-involved/calendar
+    permalink: /calendar
     layout: page
     title: Calendar
 ---

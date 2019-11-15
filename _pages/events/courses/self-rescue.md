@@ -57,4 +57,4 @@ Note you can also use the above form to pay for your cabin rentals as well.
 *   Sun-evening (5pm) either head home or head to dinner on the way back  
       
       
-**Note:** Not much previous experience is required, however learning to tie a munter mule is definitely beneficial ahead of time. This course is _highly_ recommended for anyone looking to join our climbing leaders program ( [Become a Climbing Leader](/become-climbing-leader) ). For participants in the course I will provide some materials to review before the course so we can focus on the higher level skills.
+**Note:** Not much previous experience is required, however learning to tie a munter mule is definitely beneficial ahead of time. This course is _highly_ recommended for anyone looking to join our climbing leaders program ( [Become a Climbing Leader](/get-involved/become-climbing-leader) ). For participants in the course I will provide some materials to review before the course so we can focus on the higher level skills.

@@ -4,7 +4,7 @@
     title: Winter School Leader Resources
 ---
 
-{% template panel.html title: "Trail Conditions, Weather, and Maps" id: "weather" %}
+{% template panel.html title: "Trail Conditions, Weather, and Maps" id: "weather-panel" %}
 
   ### Trail conditions
 

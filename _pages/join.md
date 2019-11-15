@@ -1,5 +1,5 @@
 ---
-    permalink: /get-involved/join
+    permalink: /join
     layout: page
     title: Become a Member
     subtitle: It's easy to become a member, and anyone can join.

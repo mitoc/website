@@ -73,7 +73,7 @@ This is a micro synopsis of what is covered in the Gear & Safety class, at Pool 
 
 ### Whitewater Kayak Rental
 
-When you join a beginner trip, we assume that you need gear, so we start at the boathouse and get you outfitted before taking off to the river. For independent trips, you must follow standard boat rental procedure, described in detail on the [boathouse webpage](/boathouse). Due to the rather hazardous and technical nature of the sport, the white water boats are restricted equipment. Obtain permission from the [whitewater chair](mailto:boathouse-mgr@mit.edu) first.
+When you join a beginner trip, we assume that you need gear, so we start at the boathouse and get you outfitted before taking off to the river. For independent trips, you must follow standard boat rental procedure, described in detail on the [boathouse webpage](/rentals/boathouse). Due to the rather hazardous and technical nature of the sport, the white water boats are restricted equipment. Obtain permission from the [whitewater chair](mailto:boathouse-mgr@mit.edu) first.
 
 Please note that, like all rentals, boathouse keys are due back 7 days from when you take them out. We have very few boathouse keys, so we expect members to return keys promptly.
 

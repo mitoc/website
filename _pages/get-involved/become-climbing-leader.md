@@ -36,7 +36,7 @@ Contact [climbing-chair@mit.edu](mailto:climbing-chair@mit.edu)
 
 ### Climbing Leaders
 
-{% include leaders.html activity='climbing' id='climbing-leaders' %}
+{% include leaders.html activity='climbing' id='climbing-leaders-list' %}
 
 
 

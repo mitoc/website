@@ -9,7 +9,7 @@
       - /images/trs/pic4.jpg
 ---
 
-Technical Review Sessions (TRS) are mini-lectures in the MITOC office to review and practice wilderness first aid, self rescue, mountaineering, and climbing skills. We recommend joining the MITOC [mailing list](http://mailman.mit.edu/mailman/listinfo/mitoc) or checking the [calendar](/calendar) to stay informed. These sessions are a great way to refresh and practice skills which are easily forgotten after taking the [respective courses](/courses). We aim to cover a scenario/skill at each session such as rescuing a follower with a ledge or without a ledge or for first aid run a few scenarios plus discussion. Sessions are run by people who have taken a course or would like to share their experiences. If you're interested in running a session, please let us know at [mitoc-bod@mit.edu](mailto:mitoc-bod@mit.edu).
+Technical Review Sessions (TRS) are mini-lectures in the MITOC office to review and practice wilderness first aid, self rescue, mountaineering, and climbing skills. We recommend joining the MITOC [mailing list](http://mailman.mit.edu/mailman/listinfo/mitoc) or checking the [calendar](/calendar) to stay informed. These sessions are a great way to refresh and practice skills which are easily forgotten after taking the [respective courses](/events/courses). We aim to cover a scenario/skill at each session such as rescuing a follower with a ledge or without a ledge or for first aid run a few scenarios plus discussion. Sessions are run by people who have taken a course or would like to share their experiences. If you're interested in running a session, please let us know at [mitoc-bod@mit.edu](mailto:mitoc-bod@mit.edu).
 
 ### Example Topics
 

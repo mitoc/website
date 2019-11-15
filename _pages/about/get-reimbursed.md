@@ -59,7 +59,7 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
       NOTE: If you have multiple receipts, you can submit them all on the same RFP. Click “Add Line” to add other items.
   *   Click Save & Continue
   *   Add a scanned image of the itemized receipt(s) and proof of payment. If the receipt does not have proof of payment, a statement with everything but the name and transaction whited out is acceptable (but not preferred).
-  *   Using the button on the RFP page, send the RFP to the current treasurer (see the [list of current BOD members](/officers) if you aren't sure who that is)
+  *   Using the button on the RFP page, send the RFP to the current treasurer (see the [list of current BOD members](/about/officers) if you aren't sure who that is)
 
 {% endtemplate %}
 

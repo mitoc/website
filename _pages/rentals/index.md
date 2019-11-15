@@ -1,5 +1,5 @@
 ---
-    permalink: /rentals/gear-rental-info/
+    permalink: /rentals
     layout: page
     title: Gear Rentals
     subtitle: MITOC provides members at-cost rentals of gear for hiking, camping, climbing, mountaineering, skiing, and boating.
@@ -21,7 +21,7 @@
 2.  **Make sure your [liability waiver](/join) is up to date.** To rent gear or go on official MITOC trips, you must electronically sign a liability waiver, which is valid for one year.
 3.  **Get approval if renting restricted gear.**
     
-    Certain climbing and watersports items require a safety review and permission from the appropriate MITOC officer before you can rent them. These items are highlighted red in the [price list](/prices).
+    Certain climbing and watersports items require a safety review and permission from the appropriate MITOC officer before you can rent them. These items are highlighted red in the [price list](/rentals/prices).
     
     You can get approval by emailing the address listed next to the gear 24 hours ahead of time. Be sure to include exactly what restricted gear you want to check out, what dates you'll have it, how and where it will be used, and your level of experience with the activity.
     
@@ -69,7 +69,7 @@ During MITOC Winter School (during MIT's IAP term), there are a few additional p
 
 #### Do you have X type of gear for rent?
 
-Check the [price list](/prices).
+Check the [price list](/rentals/prices).
 
 {% endclass %}
 

@@ -11,7 +11,7 @@
 
 Camelot is a rustic cabin located near Rumney, NH. The cabin is situated on 20 acres of forest and can accomodate groups of 40 or more people. Camelot is a 2.5 hour drive from Boston and is within 15 minutes of Rattlesnake Mountain and the world-famous sport climbing at Rumney. The cabin is set back about 1000 feet from the road and is only accessible by a rough foot trail.
 
-**Prior permission from the Camelot managers is required for ALL USES of the cabin or grounds. Contact [camelot-mgr@mit.edu](mailto:camelot-mgr@mit.edu) to request permission. Use of the cabin or grounds without permission is trespassing and we will call the police.** All MITOC members may request permission to camp on the grounds, but only trained keyholders may reserve the cabin itself. Check the [cabins](/cabins) page for more information.
+**Prior permission from the Camelot managers is required for ALL USES of the cabin or grounds. Contact [camelot-mgr@mit.edu](mailto:camelot-mgr@mit.edu) to request permission. Use of the cabin or grounds without permission is trespassing and we will call the police.** All MITOC members may request permission to camp on the grounds, but only trained keyholders may reserve the cabin itself. Check the [cabins](/rentals/cabins) page for more information.
 
 ### What to expect
 
@@ -41,7 +41,7 @@ This summary does not substitute for attending a keyholder training day and is n
 
 ### Camelot rentals
 
-To pay for a cabin rental please head to the [Pay MITOC](/pay) page. **Cabin fees are non-refundable.** Do not pay for a visit until you have received permission to use the cabin from the cabin managers. The cost is $7.00 per person per night. (Camping costs $3.50 per person per night and is entered into the payment form as a 0.5-night stay.) Keyholders must pay for their entire group in advance and then collect payment from their guests. You may wish to consult the [Camelot Property Map](docs/camelot/camelot_map.pdf) or the somewhat outdated [Camelot Manual](docs/camelot/camelot_manual.pdf).
+To pay for a cabin rental please head to the [Pay MITOC](/pay) page. **Cabin fees are non-refundable.** Do not pay for a visit until you have received permission to use the cabin from the cabin managers. The cost is $7.00 per person per night. (Camping costs $3.50 per person per night and is entered into the payment form as a 0.5-night stay.) Keyholders must pay for their entire group in advance and then collect payment from their guests. You may wish to consult the [Camelot Property Map](/docs/camelot/camelot_map.pdf) or the somewhat outdated [Camelot Manual](/docs/camelot/camelot_manual.pdf).
 
 The Camelot calendar is embedded below. Reservations are not mutually exclusive unless they are labeled as "exclusive" on the calendar.
 

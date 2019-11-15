@@ -21,7 +21,7 @@ MITOC hosts an annual WFA course in the fall. Dates and signups will be announce
 
 If your partner was hit by rockfall and hanging unconscious on the rope below, would you know how to escape the belay and rappel down to them to administer first aid? Could you do it quickly? Every climber should know how to deal with an emergency in the vertical realm, but the truth is that most don’t. Do you?
 
-{% template panel.html title: "Details" id: "selfrescue-detail" %}
+{% template panel.html title: "Details" id: "selfrescue-detail-panel" %}
   {% include_relative courses/self-rescue.md %}
 {% endtemplate %}
 
@@ -29,7 +29,7 @@ If your partner was hit by rockfall and hanging unconscious on the rope below, w
 
 Avalanches range in size and magnitude but can happen in many backcountry mountain situations. Whether skiing, hiking or climbing you should be aware of potential avalanche risks and how to identify potential avalanche situations. In the event that an avalanche does occur, proper training is the best hope for a rescue.
 
-{% template panel.html title: "Details" id: "aiare-detail" %}
+{% template panel.html title: "Details" id: "aiare-detail-panel" %}
   {% include_relative courses/aiare.md %}
 {% endtemplate %}
 
@@ -37,6 +37,6 @@ Avalanches range in size and magnitude but can happen in many backcountry mounta
 
 Glaciers are a common medium necessary to climb some of the bigger peaks in the world. When crossing glaciers, however you will come across snow bridges and crevasses. Learning proper technique for crossing this terrain is covered in the course as well as rescuing someone from a crevasse.
 
-{% template panel.html title: "Details" id: "glacier-detail" %}
+{% template panel.html title: "Details" id: "glacier-detail-panel" %}
   {% include_relative courses/glacier.md %}
 {% endtemplate %}

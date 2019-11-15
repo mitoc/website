@@ -9,7 +9,7 @@
       - /images/acadia/pic4.jpg
 ---
 
-MITOC holds an annual trip to Acadia National Park on the central coast of Maine, usually on Memorial Day weekend. We stay at a group-site campground in Bass Harbor (with hot showers!). Acadia is on a beautiful island in Maine, 5-6 hours from Boston with hiking, rock climbing, cycling, kayaking, canoeing, swimming, beach bumming, lobster eating, and relaxing. The trips are loosely organized with participants expected to organize among themselves either before or at Acadia. Participants are expected to bring their own food, camping gear, and equipment. (some available to [rent at MITOC](/rental)).
+MITOC holds an annual trip to Acadia National Park on the central coast of Maine, usually on Memorial Day weekend. We stay at a group-site campground in Bass Harbor (with hot showers!). Acadia is on a beautiful island in Maine, 5-6 hours from Boston with hiking, rock climbing, cycling, kayaking, canoeing, swimming, beach bumming, lobster eating, and relaxing. The trips are loosely organized with participants expected to organize among themselves either before or at Acadia. Participants are expected to bring their own food, camping gear, and equipment. (some available to [rent at MITOC](/rentals)).
 
 Here's [Acadia's official website](https://www.nps.gov/acad/index.htm).
 

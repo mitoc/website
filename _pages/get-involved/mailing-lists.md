@@ -1,5 +1,5 @@
 ---
-    permalink: /get-involved/mailing-lists
+    permalink: /mailing-lists
     layout: page
     title: Mailing Lists
 ---
@@ -95,7 +95,7 @@ If you're a MITOC member or alum living outside the Boston area, check out these
 
 To contact the Board of Directors with general questions or comments about the club send mail to [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu).
 
-If you have questions about office hours, gear rental, etc., please read the [gear rental information](/rental) in full. If your question isn't answered there, email the desk workers at [mitoc-desk@mit.edu](mailto:mitoc-desk@mit.edu).
+If you have questions about office hours, gear rental, etc., please read the [gear rental information](/rentals) in full. If your question isn't answered there, email the desk workers at [mitoc-desk@mit.edu](mailto:mitoc-desk@mit.edu).
 
 To contact our cabin managers email [camelot-mgr](mailto:camelot-mgr@mit.edu) or [intervale-mgr](mailto:intervale-mgr@mit.edu).
 

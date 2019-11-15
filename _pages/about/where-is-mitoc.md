@@ -1,5 +1,5 @@
 ---
-    permalink: about/where-is-mitoc
+    permalink: /where-is-mitoc
     layout: page
     title: Where is MITOC?
 ---

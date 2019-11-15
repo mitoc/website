@@ -11,15 +11,15 @@
 
 MITOC holds numerous climbing trips throughout the year. They include:
 
-*   [Circus](/circus) - Held monthly April through October.
-*   [Acadia](/acadia) - Held 1-2 times a year in summer months.
+*   [Circus](/events/circus) - Held monthly April through October.
+*   [Acadia](/events/acadia) - Held 1-2 times a year in summer months.
 
 MITOC also holds numerous climbing events, clinics, and courses, such as:
 
-*   [School of Rock](/school-of-rock) - Structured series of classes for beginner and intermediate climbers, held annually in the fall.
-*   [Self Rescue](/courses) - Intro course for dealing with emergencies in the vertical terrain
-*   [Technical Review Sessions](/trs) - week-to-week review sessions to practice skills necessary for climbing
-*   [Mentor/Mentee Program](/mentormentee) - building the climbing community by pairing folks with aligned interests to climb together
+*   [School of Rock](/events/school-of-rock) - Structured series of classes for beginner and intermediate climbers, held annually in the fall.
+*   [Self Rescue](/events/courses) - Intro course for dealing with emergencies in the vertical terrain
+*   [Technical Review Sessions](/events/trs) - week-to-week review sessions to practice skills necessary for climbing
+*   [Mentor/Mentee Program](/activities/rock-climbing/mentor-mentee) - building the climbing community by pairing folks with aligned interests to climb together
 
 If you would like to go on one of the club trips, or be informed of smaller trips organized by individual members, you should join the [climbers mailing list](http://mailman.mit.edu/mailman/listinfo/climbers).
 

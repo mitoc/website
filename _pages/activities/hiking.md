@@ -13,11 +13,11 @@
 
 MITOC runs many hiking trips throughout the year. Events to look out for:
 
-*   [Circus](/circus) - Held every 1-2 months April through October.
-*   [Winter School](/winter-school) - Held annually in January. MITOC's biggest event. Includes winter skills lectures and weekend trips.
-*   [Acadia](/acadia) - Held annually on Memorial Day weekend. Opportunities for hiking, climbing, and kayaking.
+*   [Circus](/events/circus) - Held every 1-2 months April through October.
+*   [Winter School](/events/winter-school) - Held annually in January. MITOC's biggest event. Includes winter skills lectures and weekend trips.
+*   [Acadia](/events/acadia) - Held annually on Memorial Day weekend. Opportunities for hiking, climbing, and kayaking.
 *   Smaller trips led by hiking leaders, usually announced by email the week before.
 
-To get announcements of upcoming trips, join our [mailing lists](/mailing-lists). All trips are led by our [hiking leaders](/become-3-season-leader) and open to any current MITOC [member](/join).
+To get announcements of upcoming trips, join our [mailing lists](/mailing-lists). All trips are led by our [hiking leaders](/get-involved/become-3-season-leader) and open to any current MITOC [member](/join).
 
 For more information or questions, free to contact the hiking chair at [3s-hiking-chair@mit.edu](mailto:3s-hiking-chair@mit.edu).

@@ -458,7 +458,7 @@ Pretty Faces is a film celebrating women who thrive in the snow. The concept for
 
 * * *
 
-![](docs/screenings/reelrock9-logo.jpg)
+![](/docs/screenings/reelrock9-logo.jpg)
 
 MITOC and [**LSC**](http://lsc.mit.edu/) hosted [**Reel Rock 9:Valley Uprising**](http://reelrocktour.com/) on **Tuesday, October 28th, 2014** **@ 7:30pm in [26-100](http://whereis.mit.edu/?go=26)**!
 

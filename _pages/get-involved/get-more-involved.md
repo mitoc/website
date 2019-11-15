@@ -14,10 +14,10 @@ We are always looking for new leaders passionate about helping others explore th
 
 For more information, check out the leader pages for different activities:
 
-*   [3-Season Hiking](/become-3-season-leader)
-*   [Winter School](/become-ws-leader)
-*   [Climbing](/become-climbing-leader)
-*   [Paddling](/become-paddling-leader)
+*   [3-Season Hiking](/get-involved/become-3-season-leader)
+*   [Winter School](/get-involved/become-ws-leader)
+*   [Climbing](/get-involved/become-climbing-leader)
+*   [Paddling](/get-involved/become-paddling-leader)
 
 ### Organize an event!
 
@@ -31,7 +31,7 @@ You are in the right place! We are always looking for members to facilitate our 
 
 ### Become a desk worker!
 
-Meet a huge swath of the MITOC community, earn MITOC desk-credit to pay for rentals or trips, and help others get the gear they need! See [here](/desk-workers) for more information on becoming a desk worker.
+Meet a huge swath of the MITOC community, earn MITOC desk-credit to pay for rentals or trips, and help others get the gear they need! See [here](/get-involved/become-desk-worker) for more information on becoming a desk worker.
 
 ### Join the Board of Directors!
 

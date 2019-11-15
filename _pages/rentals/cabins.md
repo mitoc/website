@@ -9,7 +9,7 @@
       - /images/cabins/pic4.jpg
 ---
 
-MITOC has two cabins in New Hampshire: [Camelot](/camelot) and [Intervale](/intervale). Camelot is near the southwest corner of the White Mountains region and is about 2.5 hours from Boston. Intervale is in the eastern part of the White Mountains and is about 3.5 hours from Boston. The cabins are an incredible resource and we are very fortunate to have them available to the MITOC community.
+MITOC has two cabins in New Hampshire: [Camelot](/rentals/camelot) and [Intervale](/rentals/intervale). Camelot is near the southwest corner of the White Mountains region and is about 2.5 hours from Boston. Intervale is in the eastern part of the White Mountains and is about 3.5 hours from Boston. The cabins are an incredible resource and we are very fortunate to have them available to the MITOC community.
 
 **Explicit prior permission from the appropriate cabin manager is STRICTLY REQUIRED for ALL USES of either property (including camping). If you visit either cabin without permission, that is trespassing and we (or our neighbors) WILL call the police.** The cabin managers may be reached at [camelot-mgr@mit.edu](mailto:camelot-mgr@mit.edu) or [intervale-mgr@mit.edu](mailto:intervale-mgr@mit.edu).
 

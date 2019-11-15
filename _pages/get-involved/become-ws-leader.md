@@ -51,7 +51,7 @@ Co-leaders require a primary leader to be present in the group in order to lead 
 
 ### What else is required?
 
-Prospective leaders are encouraged to renew or obtain a Wilderness First Aid (WFA) certification. See below for how this affects leader status. For more information on WFA, please see our page on [courses](/courses).
+Prospective leaders are encouraged to renew or obtain a Wilderness First Aid (WFA) certification. See below for how this affects leader status. For more information on WFA, please see our page on [courses](/events/courses).
 
 Each year, there is a leader retreat at MITOC's Camelot cabin in early December. New Winter School leaders are particularly encouraged to attend.
 

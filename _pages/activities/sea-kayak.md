@@ -26,7 +26,7 @@ Sea kayaks are restricted gear; before renting you will need to do the following
 5.  Get boathouse key from the MITOC office during office hours
 6.  After your trip, a brief report to the sea kayak chair would be appreciated about any issues with the boats as well as any comments of interest about your experience
 
-For more detailed information about renting sea kayaks, see the [boathouse rental page](/boathouse).
+For more detailed information about renting sea kayaks, see the [boathouse rental page](/rentals/boathouse).
 
 You should be able to swim and know the basics of paddling, wet exit, self rescue, and how to use and care for the boats. If the North Atlantic is the destination, be aware that the water is cold and conditions can change quickly, so be experienced and prepared.
 
