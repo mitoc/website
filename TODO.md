@@ -1,2 +1,1 @@
-- Load script async
 - Clean nav bar
