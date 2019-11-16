@@ -1,13 +1,12 @@
 - title: Get involved
   items:
-    - title: As a participant
+    - title: As a Participant
       items:
         - /mailing-lists
         - /join
         - /calendar
-    - title: As a leader
+    - title: As a Leader
       items:
-        - /get-involved/get-more-involved
         - /get-involved/get-more-involved
         - /get-involved/become-3-season-leader
         - /get-involved/become-ws-leader
@@ -85,4 +84,5 @@
 - title: Trip Signup
   href: https://mitoc-trips.mit.edu/trips/
 - /pay
-- /donate
+- title: Donate
+  href: /donate

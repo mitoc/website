@@ -1,6 +1,6 @@
 ---
     permalink: /rentals/boathouse
-    title: Boathouse Rentals
+    title: Boat Rentals
     images:
       - /images/boathouse/pic1.jpg
       - /images/boathouse/pic2.jpg

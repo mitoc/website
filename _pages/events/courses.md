@@ -1,6 +1,6 @@
 ---
     permalink: /events/courses
-    title: Skills Courses
+    title: Safety Skills Courses
     images:
       - /images/courses/pic1.jpg
       - /images/courses/pic2.jpg

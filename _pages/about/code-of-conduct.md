@@ -1,6 +1,6 @@
 ---
     permalink: /about/code-of-conduct
-    title: Conduct in MITOC
+    title: Code of Conduct
 ---
 
 ### Code of Conduct

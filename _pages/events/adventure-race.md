@@ -1,6 +1,7 @@
 ---
     permalink: /events/adventure-race
-    title: The Rugged Rampage
+    title: Adventure Race
+    subtitle: The Rugged Rampage
     images:
       - /images/adventure-race/racer_group.jpg
       - /images/adventure-race/viking_attack.jpg
