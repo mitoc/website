@@ -1,8 +1,8 @@
 camping:
   items:
     - title: Tent (2 person)
-      deposit: "$120"
-      rental: "$8"
+      deposit: $120
+      rental: $8
     - title: Tent (4 person)
       deposit: $180
       rental: $12
@@ -80,173 +80,173 @@ climbing:
 winter_hiking:
   items:
     - title: Sorel Boots
-      deposit: "$110"
-      rental: "$6"
+      deposit: $110
+      rental: $6
     - title: Plastic Boots
-      deposit: "$150"
-      rental: "$6"
+      deposit: $150
+      rental: $6
     - title: Microspikes
-      deposit: "$50"
-      rental: "$4"
+      deposit: $50
+      rental: $4
     - title: Hiking Crampons
-      deposit: "$80"
-      rental: "$5"
+      deposit: $80
+      rental: $5
     - title: Alpine Ice Axe
-      deposit: "$50"
-      rental: "$3"
+      deposit: $50
+      rental: $3
     - title: Snowshoes
-      deposit: "$100"
-      rental: "$7"
+      deposit: $100
+      rental: $7
     - title: Winter Sleeping Bag (Synthetic, –30°F – 0°F)
-      deposit: "$200"
-      rental: "$5"
+      deposit: $200
+      rental: $5
     - title: Snow Shovel
-      deposit: "$26"
-      rental: "$2"
+      deposit: $26
+      rental: $2
     - title: Snow Saw
-      deposit: "$30"
-      rental: "$2"
+      deposit: $30
+      rental: $2
     - title: Sled
-      deposit: "$40"
-      rental: "$4"
+      deposit: $40
+      rental: $4
     - title: Small Sled
-      deposit: "$5"
-      rental: "$1"
+      deposit: $5
+      rental: $1
   restricted_items:
     - title: Down Sleeping Bag (-20°F, only for alpinism)
-      deposit: "$350"
-      rental: "$10"
+      deposit: $350
+      rental: $10
     - title: Mountaineering Tent
-      deposit: "$420"
-      rental: "$9"
+      deposit: $420
+      rental: $9
     - title: Pulk
-      deposit: "$0"
-      rental: "$3"
+      deposit: $0
+      rental: $3
     - title: Picket
-      deposit: "$20"
-      rental: "$3"
+      deposit: $20
+      rental: $3
     - title: Ice Screw
-      deposit: "$60"
-      rental: "$3"
+      deposit: $60
+      rental: $3
     - title: Fluke
-      deposit: "$40"
-      rental: "$3"
+      deposit: $40
+      rental: $3
     - title: Pulley
-      deposit: "$20"
-      rental: "$3"
+      deposit: $20
+      rental: $3
     - title: Glacier Rope
-      deposit: "$200"
-      rental: "$3"
+      deposit: $200
+      rental: $3
     - title: Technical Ice Axe
-      deposit: "$300"
-      rental: "$9"
+      deposit: $300
+      rental: $9
     - title: Technical Crampons
-      deposit: "$150"
-      rental: "$6"
+      deposit: $150
+      rental: $6
 
 xc_skiing:
   sub_categories:
     - title: Light Touring
       items:
         - title: Touring Skis
-          deposit: "$200"
-          rental: "$6"
+          deposit: $200
+          rental: $6
         - title: NNN Ski Boot
-          deposit: "$75"
-          rental: "$5"
+          deposit: $75
+          rental: $5
     - title: Backcountry Touring
       items:
         - title: Backcountry Skis
-          deposit: "$200"
-          rental: "$9"
+          deposit: $200
+          rental: $9
         - title: NNN-BC Ski Boot
-          deposit: "$175"
-          rental: "$5"
+          deposit: $175
+          rental: $5
     - title: Both
       items:
         - title: XC Ski Pole
-          deposit: "$40"
-          rental: "$2"
+          deposit: $40
+          rental: $2
 
 at_skiing:
   sub_categories:
     - title: AT/Telemark
       items:
         - title: Ski Skins
-          deposit: "$120"
-          rental: "$4"
+          deposit: $120
+          rental: $4
         - title: Alpine Ski Poles
-          deposit: "$40"
-          rental: "$2"
+          deposit: $40
+          rental: $2
         - title: Ski Helmet
-          deposit: "$75"
-          rental: "$1"
+          deposit: $75
+          rental: $1
         - title: Telemark Skis
-          deposit: "$200"
-          rental: "$8"
+          deposit: $200
+          rental: $8
         - title: Telemark Ski Boots
-          deposit: "$350"
-          rental: "$10"
+          deposit: $350
+          rental: $10
   restricted_subcategories:
     - title: Alpine Touring (AT)
       items:
         - title: AT Skis (Frame Bindings) + Skins
-          deposit: "$600"
-          rental: "$20"
+          deposit: $600
+          rental: $20
         - title: AT Skis (Tech bindings) + Skins
-          deposit: "$600"
-          rental: "$25"
+          deposit: $600
+          rental: $25
         - title: AT Boots
-          deposit: "$350"
-          rental: "$15"
+          deposit: $350
+          rental: $15
     - title: Snowboarding
       items:
         - title: Splitboard + Skins
-          deposit: "$600"
-          rental: "$25"
+          deposit: $600
+          rental: $25
 
 purchasable:
   items:
     - title: Boston Rocks
-      price: "$25"
+      price: $25
     - title: MITOC T-shirt
-      price: "$15"
+      price: $15
     - title: MITOC Nalgene Bottle
-      price: "$9"
+      price: $9
     - title: Whistle
-      price: "$2"
+      price: $2
     - title: Waterproof White Mountains Map
-      price: "$10"
+      price: $10
     - title: Headlamp (Petzl Tikkina)
-      price: "$18"
+      price: $18
     - title: Compass
-      price: "$12"
+      price: $12
     - title: Wag Bag
-      price: "$2.50"
+      price: $2.50
     - title: MITOC Patch
-      price: "$3"
+      price: $3
     - title: Hot Hand Warmers
-      price: "$1"
+      price: $1
     - title: MITOC bumper sticker
-      price: "$1"
+      price: $1
 
 biking:
   items:
     - title: Mountain Bike
-      deposit: "$400"
-      rental: "$15"
+      deposit: $400
+      rental: $15
     - title: Fat Bike
-      deposit: "$400"
-      rental: "$15"
+      deposit: $400
+      rental: $15
     - title: Bike Rack
-      deposit: "$80"
-      rental: "$5"
+      deposit: $80
+      rental: $5
     - title: Bike Helmet
-      deposit: "$40"
-      rental: "$1"
+      deposit: $40
+      rental: $1
     - title: Repair Kit
-      deposit: "$20"
-      rental: "$3"
+      deposit: $20
+      rental: $3
     - title: Truing Stand
-      deposit: "$200"
-      rental: "$3"
+      deposit: $200
+      rental: $3
