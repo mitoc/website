@@ -24,7 +24,7 @@ The Institute does not intend through its guidelines or policies to restrict the
 ## Purpose
 
 
-This document is intended as an instruction set for Intervale Property Users and Keyholders. It is similar to the instructions told to new Keyholders and Property Users during training trips. However, this document is not a substitute for a training trip. If you want to become a Keyholder or Property User for Intervale, you must attend one of these trips. Normally, there are two Keyholder trips per year, once in late spring and once in early fall and four Property User trips per year. The trips are announced on the following mailing lists: mitoc, mitoc-announce, and intervale-keyholders. Join our [Mailing Lists](http://mitoc.mit.edu/#mailing-lists) to stay up to date. If you have any questions about Intervale, or about these instructions, please contact the current Intervale Manager for more info.
+This document is intended as an instruction set for Intervale Property Users and Keyholders. It is similar to the instructions told to new Keyholders and Property Users during training trips. However, this document is not a substitute for a training trip. If you want to become a Keyholder or Property User for Intervale, you must attend one of these trips. Normally, there are two Keyholder trips per year, once in late spring and once in early fall and four Property User trips per year. The trips are announced on the following mailing lists: mitoc, mitoc-announce, and intervale-keyholders. Join our [Mailing Lists](/mailing-lists) to stay up to date. If you have any questions about Intervale, or about these instructions, please contact the current Intervale Manager for more info.
 
 ### Property User
 
@@ -57,7 +57,7 @@ Any use of the property must be explicitly approved by a Cabin Manager.
 ## Reserving the Property
 
 
-Anyone interested in renting Intervale should visit the [Intervale Page](http://mitoc.mit.edu/#intervale) on the MITOC Website for information about how to reserve Intervale as well as madatory rules for every reservation.
+Anyone interested in renting Intervale should visit the [Intervale Page](/rentals/intervale) on the MITOC Website for information about how to reserve Intervale as well as madatory rules for every reservation.
 
 ### Deposit Checks
 

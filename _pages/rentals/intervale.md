@@ -10,9 +10,9 @@
 
 ## Resources
 
-[Intervale General Information](http://mitoc.mit.edu/#intervale-general)
+[Intervale General Information](/rentals/intervale-general)
 
-[Property Manual](http://mitoc.mit.edu/#intervale-manual)
+[Property Manual](/rentals/intervale-manual)
 
 [Reservation Request Form.](https://goo.gl/forms/mw87HujKgeDa6IHF3)
 
@@ -44,10 +44,10 @@ All of these rules must be followed at all times by anyone accessing the propert
 
 All of these steps must be completed in order to legally access the property.
 
-1.  Be a [MITOC member](http://mitoc.mit.edu/#join) in good standing with current Keyholder or Property User status.
-2.  Familiarize yourself with the [Property Manual](http://mitoc.mit.edu/#intervale-manual)
+1.  Be a [MITOC member](/join) in good standing with current Keyholder or Property User status.
+2.  Familiarize yourself with the [Property Manual](/rentals/intervale-manual)
 3.  Fill out the [Reservation Request Form.](https://goo.gl/forms/mw87HujKgeDa6IHF3)
-4.  Upon express email or written approval from a Cabin Manager following your application pay for your entire group in one payment on the [Pay MITOC](http://mitoc.mit.edu/#pay) page.
+4.  Upon express email or written approval from a Cabin Manager following your application pay for your entire group in one payment on the [Pay MITOC](/pay) page.
 5.  Email the Cabin Manager with a final list of names of everyone accessing the property as well as any changes to your plans before departure.
 6.  **Cabin Rentals Only:** Fill out the [Key-Holder Checklist](https://docs.google.com/document/d/1olLBxupFCJXJ_ZkZcpHBeqHmB6bK_mYhD0MV_qtUlLk/edit?usp=sharing) post-trip and submit a $1000 deposit check prior to departure.
 7.  Complete the checkout questionnaire within 48 hours or leaving the property
@@ -78,7 +78,7 @@ Intervale is not road-accessible. Therefore, we have an easement which gives us 
 *   Only cross the RoW while being escorted by a keyholder or property user.
 *   Use a headlamp at night while crossing the RoW, just be mindful not to shine your lamps on any houses.
 *   Be courteous and respectful of our neighbors and be completely quiet when in earshot of their homes from the time you step off the road until the time you cross onto our property.
-*   Make sure you are familiar with the information in the [Property Manual](http://mitoc.mit.edu/#intervale-manual).
+*   Make sure you are familiar with the information in the [Property Manual](/rentals/intervale-manual).
 *   Get prior explicit approval from a Cabin Manager to bring animals (such as dogs). Pets must remain on leash, at the owner's side as they cross the neighbors property, and are not to be allowed to roam the Intervale grounds unsupervised as this may result in animals being animals and unwanted interactions with the neighbors occurring!
 *   Enjoy your stay on the property and be sure to clean up behind you and bring all trash out with you and take it back to Boston for disposal.
 
