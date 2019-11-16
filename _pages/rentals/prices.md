@@ -1,5 +1,5 @@
 ---
-    permalink: /rentals/prices/
+    permalink: /rentals/prices
     title: Rental Price List
     images:
       - /images/rental/pic1.jpg

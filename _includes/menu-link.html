@@ -1,6 +1,6 @@
 {% if include.item.href %}
     <li><a data-toggle="collapse" data-target=".navbar-collapse.in" href="{{ include.item.href }}">{{ include.item.title }}</a></li>
 {% else %}
-    {% assign title = site.data.cache.title_by_url[include.item] %}
+    {% assign title = site.data.cache.title_by_url[include.item] | default: 'No title found' %}
     <li><a data-toggle="collapse" data-target=".navbar-collapse.in" href="{{ include.item }}">{{ title }}</a></li>
 {% endif %}
