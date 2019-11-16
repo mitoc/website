@@ -8,13 +8,13 @@
       - /images/winter-school/pic4.jpg
 ---
 
-{% class jumbotron %}
+<div class="jumbotron" markdown="1">
 
 Winter School 2020 will be January 7, 2020 - February 2, 2020.
 
 The two mandatory lectures are Tuesday, January 7 and Thursday, January 9 from 19:00 - 21:00 (7pm - 9pm) in [26-100](https://whereis.mit.edu?q=26-100).
 
-{% endclass %}
+</div>
 
 
 

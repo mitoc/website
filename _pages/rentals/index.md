@@ -64,47 +64,47 @@ During MITOC Winter School (during MIT's IAP term), there are a few additional p
 
 ## Other Rules/Frequently Asked Questions
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### Do you have X type of gear for rent?
 
 Check the [price list](/rentals/prices).
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### I don't have a checkbook. Can a friend/relative write a deposit check for me?
 
 Yes. Please write the name of the renter in the memo line of the check. Frequent flyer checks must be in the actual renter's name.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### Can I reserve gear ahead of time?
 
 No. Aside from official MITOC-run trips, all gear is first come, first served.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### When are you open?
 
 Check the [calendar](/calendar) for office hours.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### Can I rent gear for a group?
 
 Each MITOC member may rent up to two of the same item. If you are renting for a group of N people, at least N/2 MITOC members must come to office hours.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### I can't make it to office hours. Can a friend come rent gear in my name?
 
@@ -115,9 +115,9 @@ Yes, but only if the following conditions are strictly met:
 
 We provide this service as a convenience to MITOCers whose schedule may not permit them to come to office hours. Authorizing others to rent under your name with the express purpose of skirting membership dues is a violation of MITOC policy and jeopardizes our ability to extend this courtesy to all MITOCers.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### Is there a time limit on rentals?
 
@@ -125,31 +125,31 @@ During the month of January (Winter School), all gear must be returned by Wednes
 
 If we need gear for club trips, we will announce a gear recall by email. If there is a gear recall, you must return any gear you have checked out.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### Do I have to be an MIT student/affiliate to rent gear?
 
 No. MITOC is open to all.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### Do you rent downhill/alpine ski gear?
 
 No. We have cross-country, touring, telemark, and AT ski equipment, but not resort alpine skis.
 
-{% endclass %}
+</div>
 
-{% class well %}
+<div class="well" markdown="1">
 
 #### Are you making a profit off this?
 
 No. MITOC is a student-run organization. Our officers, desk workers, and trip leaders are all volunteers. Our rental prices are designed to break even on the purchase cost over the lifetime of the equipment.
 
-{% endclass %}
+</div>
 
 
 * * *

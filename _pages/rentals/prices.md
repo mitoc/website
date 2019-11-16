@@ -21,16 +21,16 @@ Items highlighted in <span style="color: red">red</span> require a safety review
 If you are an MIT student renting gear for a MITOC trip and this cost is prohibitive to your participation, please email [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu) to ask about this fee being waived. If you are a non-MIT student please feel free to email to ask about financial assistance options.
 
 
-{% class row %}
-{% class col-md-6 %}
+<div class="row" markdown="1">
+<div class="col-md-6" markdown="1">
 
 ### Camping
 
 {% include price-table.html category = site.data.gear_prices.camping %}
 
-{% endclass %}
+</div>
 
-{% class col-md-6 %}
+<div class="col-md-6" markdown="1">
 
 ### Climbing
 
@@ -39,17 +39,17 @@ If you are an MIT student renting gear for a MITOC trip and this cost is prohibi
 MITOC's climbing ropes are not for rental. They are for official club
 trips only.
 
-{% endclass %}
+</div>
 
-{% class col-md-6 %}
+<div class="col-md-6" markdown="1">
 
 ###  Winter Hiking/Mountaineering
 
 {% include price-table.html category = site.data.gear_prices.winter_hiking %}
 
-{% endclass %}
+</div>
 
-{% class col-md-6 %}
+<div class="col-md-6" markdown="1">
 
 ### Skiing
 
@@ -81,17 +81,17 @@ Splitboards:
 _\*\* All sizes are in cm._
 
 
-{% endclass %}
+</div>
 
-{% class col-md-6 %}
+<div class="col-md-6" markdown="1">
 
 ### Items For Sale
 
 {% include purchasable-table.html category = site.data.gear_prices.purchasable %}
 
-{% endclass %}
+</div>
 
-{% class col-md-6 %}
+<div class="col-md-6" markdown="1">
 
 ### Biking
 
@@ -101,8 +101,8 @@ _\*\* All sizes are in cm._
 
 MITOC has a library of guidebooks, maps, and other outdoor literature. They can be perused free of charge during office hours, or you can check them out for $1/week (days of use are not counted like other rentals.)
 
-{% endclass %}
-{% endclass %}
+</div>
+</div>
 
 ### Boats and Cabin Rentals
 

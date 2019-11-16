@@ -1,2 +1,3 @@
 - Clean nav bar
 - Write some Doc
+- Netlify config

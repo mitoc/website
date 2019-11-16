@@ -29,8 +29,8 @@ layout: default
     </div>
 </div>
 
-{% class row %}
-{% class col-md-8 %}
+<div class="row" markdown="1">
+<div class="col-md-8" markdown="1">
 
 The MIT Outing Club (MITOC) is dedicated to helping the MIT and Cambridge community enjoy the great outdoors. MITOC members are students, staff, alumni, and faculty from MIT and the greater academic community who come together for year-round outdoor recreation in the company of other enthusiasts. MITOC members hike, climb, ski, bike, camp, tramp, backpack, snowshoe, and canoe to the highest, widest, most scenic vistas in New England and beyond. Join us for friendship, adventure, and fun!
 
@@ -44,11 +44,11 @@ If you want to sign up for a MITOC-organized trip or rent gear from us, you'll h
 
 [**Film Screenings and information found here**](/events/screenings)
 
-{% endclass %}
+</div>
 <div class="col-md-4">
     <div class="embed-responsive embed-responsive-square">
     <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=nf2filjvmi1s2kipeo5pahr56c@group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style="border-width:0" width="400" height="400" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
-{% endclass %}
+</div>
 
