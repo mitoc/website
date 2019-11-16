@@ -1,0 +1,88 @@
+- title: Get involved
+  items:
+    - title: As a participant
+      items:
+        - /mailing-lists
+        - /join
+        - /calendar
+    - title: As a leader
+      items:
+        - /get-involved/get-more-involved
+        - /get-involved/get-more-involved
+        - /get-involved/become-3-season-leader
+        - /get-involved/become-ws-leader
+        - /get-involved/become-climbing-leader
+        - /get-involved/become-paddling-leader
+        - /get-involved/become-desk-worker
+- title: Activities
+  items:
+    - /activities/hiking
+    - /activities/rock-climbing
+    - /activities/ice-climbing
+    - /activities/biking
+    - /activities/skiing
+    - /activities/canoe
+    - /activities/sea-kayak
+    - /activities/whitewater
+    - /activities/surfing
+- title: Events
+  items:
+    - title: Events
+      items:
+        - /events/winter-school
+        - /events/circus
+        - /events/acadia
+        - /events/adventure-race
+    - title: Skills Training
+      items:
+        - /events/trs
+        - /events/school-of-rock
+        - /events/rolling-clinic
+        - /events/courses
+    - title: Social
+      items:
+        - /events/trip-report
+        - /events/screenings
+- title: Rentals
+  items:
+    - items:
+        - /rentals
+        - /rentals/prices
+        - /rentals/boathouse
+    - title: Cabin Rentals
+      items:
+        - /rentals/cabins
+        - /rentals/camelot
+        - /rentals/intervale
+- title: About
+  items:
+    - items:
+        - /where-is-mitoc
+        - /about/officers
+        - href: http://mitoc-cag.mit.edu/
+          title: Collier Adventure Grant
+        - /about/boston-rocks
+    - items:
+        - /about/code-of-conduct
+        - href: /docs/advisoryboard/MITOCConstitution2019.pdf
+          title: MITOC Constitution (2019)
+        - href: /docs/advisoryboard/MITOCBylaws2019.pdf
+          title: MITOC By Laws (2019)
+    - title: Leader Administrativia
+      items:
+        - href: https://mitoc-gear.mit.edu
+          title: Gear Database
+        - /about/get-reimbursed
+        - href: https://docs.google.com/forms/d/1g2M6qOifsgX1JYpmWa_lkt_jCuJeS4NMyjsBTUxkppc/viewform
+          title: Leader Subsidies
+        - href: https://wiki.mitoc.org
+          title: BOD Wiki
+        - href: https://scripts.mit.edu/~mitoc/winter_school/leaders/wiki/
+          title: WS Wiki
+        - href: https://docs.google.com/forms/d/1LOx8XUfZAXdPWPXuClXL5YOZXrIZ9wkIGRAT2um4qdI/viewform
+          title: Report a Trip
+        - /about/ws-leader-resources
+- title: Trip Signup
+  href: https://mitoc-trips.mit.edu/trips/
+- /pay
+- /donate

@@ -17,6 +17,6 @@ exclude:
 defaults:
   -
     scope:
-      path: "" # all files in the project
+      path: "_pages" # all files in the project
     values:
       layout: "default"
