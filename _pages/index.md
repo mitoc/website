@@ -3,10 +3,18 @@ permalink: /
 layout: default
 ---
 
-<!-- Redirect /#pay to /pay -->
 <script>
-    if (window.location.hash == "#pay") {
-        window.location = "/pay"
+    // Redirect a few popular pages old URL towards the new ones
+    var redirections = {
+        '#pay': '/pay', 
+        '#calendar': '/calendar', 
+        '#donate': '/donate', 
+        '#join': '/join', 
+        '#mailing-lists': '/lists',
+        '#rental': '/rentals'
+    }
+    if (redirections[window.location.hash]) {
+        window.location = redirections[window.location.hash]
     }
 </script>
 
