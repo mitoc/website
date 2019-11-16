@@ -1,5 +1,5 @@
 ---
-    permalink: about/code-of-conduct
+    permalink: /about/code-of-conduct
     title: Conduct in MITOC
 ---
 

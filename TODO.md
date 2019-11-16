@@ -1,2 +1,0 @@
-- Netlify config
-- Write some Doc

@@ -1,5 +1,5 @@
 ---
-    permalink: about/officers
+    permalink: /about/officers
     title: Club Officers
 ---
 

@@ -1,5 +1,5 @@
 ---
-    permalink: about/ws-leader-resources
+    permalink: /about/ws-leader-resources
     title: Winter School Leader Resources
 ---
 

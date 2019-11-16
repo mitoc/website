@@ -1,5 +1,5 @@
 ---
-    permalink: about/get-reimbursed
+    permalink: /about/get-reimbursed
     title: Get Reimbursed
 ---
 
