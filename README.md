@@ -74,7 +74,7 @@ Custom styled class can be defined in [./css/mitoc.css](./css/mitoc.css).
 Tags starting by `{{` or `{%` are templating tags. They allow to put bits of HTML together, define reusables components, loop over data, etc.
 
 If you're curious about that, please refer to:
-- The [Jekyll Liquid doc](https://jekyllrb.com/docs/liquid/)
+- The [Jekyll doc](https://jekyllrb.com/docs/liquid/)
 - The [`jekyll-jolt` plugin](https://github.com/helpscout/jekyll-jolt#documentation) docs
 
 
