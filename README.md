@@ -6,8 +6,8 @@ All members of the MITOC community are welcome to suggest edits by opening pull 
 
 If you'd like to change anything on the website, you can:
 - Read the rest of this short document to figure out how things work
-- Suggest a change on a file by clicking on the "Edit this file" button (see screenshot below)
-- Don't hesitate to contact the MITOC webasters if you need any help!
+- Suggest a change on a file by clicking on the "Edit this file" button (see screenshot below). This will open a Pull Request (PR), which the webmasters will review. When the PR gets accepted and merged to the `master` version of the code, it will trigger an automatic deployment.
+- Don't hesitate to contact the MITOC webasters (mitoc-webmasters@mit.edu) if you need any help!
 
 ![Screen Shot 2019-11-16 at 8 16 03 PM](https://user-images.githubusercontent.com/11834997/69001621-fcb15300-08af-11ea-81cb-b698ac23825c.png)
 
