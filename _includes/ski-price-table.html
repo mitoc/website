@@ -1,0 +1,52 @@
+{% assign category = include.category %}
+
+<table class="table table-striped">
+  <tr>
+    <th> </th>
+    <th>Item</th>
+    <th>Deposit</th>
+    <th>Rental</th>
+  </tr>
+  {% for sub in category.sub_categories %}
+    {% assign first_item = sub.items | first %}
+    {% assign other_items = sub.items | shift %}
+    <tr>
+      <td rowspan="{{ sub.items.size }}">{{sub.title}}</td>
+      <td>{{ first_item.title }}</td>
+      <td>{{ first_item.deposit }}</td>
+      <td>{{ first_item.rental }}</td>
+    </tr>
+    {% for item in other_items %}
+      <tr>
+        <td>{{ item.title }}</td>
+        <td>{{ item.deposit }}</td>
+        <td>{{ item.rental }}</td>
+      </tr>
+    {% endfor %}
+  {% endfor %}
+  {% if category.restricted_subcategories %}
+    <tr class="danger">
+      <td colspan="4">
+        <b>Restricted</b> (Email:
+        <a href="mailto:mitoc-approval@mit.edu">mitoc-approval@mit.edu</a>)
+      </td>
+    </tr>
+  {% endif %}
+  {% for sub in category.restricted_subcategories %}
+    {% assign first_item = sub.items | first %}
+    {% assign other_items = sub.items | shift %}
+    <tr class="danger">
+      <td rowspan="{{ sub.items.size }}">{{sub.title}}</td>
+      <td>{{ first_item.title }}</td>
+      <td>{{ first_item.deposit }}</td>
+      <td>{{ first_item.rental }}</td>
+    </tr>
+    {% for item in other_items %}
+      <tr class="danger">
+        <td>{{ item.title }}</td>
+        <td>{{ item.deposit }}</td>
+        <td>{{ item.rental }}</td>
+      </tr>
+    {% endfor %}
+  {% endfor %}
+</table>

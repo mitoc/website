@@ -1,0 +1,23 @@
+# This file is *NOT* reloaded automatically when you use 'jekyll serve'.
+# If you change this file, please restart the server process.
+
+title: MIT Outing Club
+url: https://mitoc.mit.edu
+
+include: ['_pages', '_redirects']
+
+plugins:
+  - jekyll-jolt
+  - jekyll-target-blank
+
+exclude:
+  - README.md
+  - .circleci
+  - vendor
+
+defaults:
+  -
+    scope:
+      path: "_pages" # all files in the project
+    values:
+      layout: "default"

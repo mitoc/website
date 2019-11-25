@@ -1,0 +1,14 @@
+{% assign category = include.category %}
+
+<table class="table table-striped">
+  <tr>
+    <th>Item</th>
+    <th>Price</th>
+  </tr>
+  {% for item in category.items %}
+  <tr>
+    <td>{{ item.title }}</td>
+    <td>{{ item.price }}</td>
+  </tr>
+  {% endfor%}
+</table>

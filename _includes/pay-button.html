@@ -1,0 +1,6 @@
+<form action="https://shopmitprd.mit.edu/controller/index.php" method="POST">
+  <input type="hidden" name="merchant_id" id="merchant_id" value="mit_sao_mitoc">
+  <input type="hidden" name="merchantDefinedData1" id="merchantDefinedData1" value="{{ include.metadata }}">
+  <input type="hidden" name="amount" id="amount" value="{{ include.amount }}">
+  <input type="submit" class="btn btn-primary" value="{{ include.text }}">
+</form>
