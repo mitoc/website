@@ -15,10 +15,6 @@
     price: 250
     category: cabin
 -
-    name: "2019 MRP T-Shirt $30"
-    price: 30
-    category: Item
--
     name: "SumMIT Bouldering Comp, no shirt: $10"
     price: 10
     category: item
