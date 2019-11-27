@@ -10,7 +10,7 @@ layout: default
         '#calendar': '/calendar', 
         '#donate': '/donate', 
         '#join': '/join', 
-        '#mailing-lists': '/lists',
+        '#mailing-lists': '/mailing-lists',
         '#rental': '/rentals'
     }
     if (redirections[window.location.hash]) {
