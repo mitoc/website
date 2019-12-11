@@ -4,12 +4,12 @@ layout: default
 ---
 
 <script>
-    // Redirect a few popular pages old URL towards the new ones
+    // Redirect a few popular pages' old URLs towards the new ones
     var redirections = {
-        '#pay': '/pay', 
-        '#calendar': '/calendar', 
-        '#donate': '/donate', 
-        '#join': '/join', 
+        '#pay': '/pay',
+        '#calendar': '/calendar',
+        '#donate': '/donate',
+        '#join': '/join',
         '#mailing-lists': '/mailing-lists',
         '#rental': '/rentals'
     }
@@ -39,10 +39,6 @@ If you're new to MITOC, you should start by joining some of our [email lists](/m
 If you're interested in renting gear from MITOC, please read the [gear rental information](/rentals) before coming to office hours.
 
 If you want to sign up for a MITOC-organized trip or rent gear from us, you'll have to [become a member](/join).
-
-[![Reel Rock 14](/images/front/rr14-home.jpg)](/events/screenings)
-
-[**Film Screenings and information found here**](/events/screenings)
 
 </div>
 <div class="col-md-4">
