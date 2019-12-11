@@ -87,6 +87,9 @@ If you're a MITOC member or alum living outside the Boston area, check out these
 **[mitoc-training](http://mailman.mit.edu/mailman/listinfo/mitoc-training)**
 : mountaineering committee list: information, discussion, and coordination of training sessions and major mountaineering excursions.
 
+**[metrorock-announce](http://mailman.mit.edu/mailman/listinfo/metrorock-announce)**
+: announcements for the free shuttle from MIT campus to MetroRock Boston
+
 **[conservation](http://mailman.mit.edu/mailman/listinfo/conservation)**
 : topics related to environmental conservation, trail building, animal rescue
 
