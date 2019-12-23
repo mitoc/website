@@ -73,7 +73,7 @@ Ski sizes (Frame Binding):
 : 155, 157, 165 (x2), 173 (x2), 175, 176, 180, 181
 
 Ski sizes (Tech Binding):
-: 155 (x2), 157, 162, 163, 169, 176
+: 155 (x2), 157, 162 (x2), 169, 176
 
 Splitboards:
 : 154, 158
