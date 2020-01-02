@@ -102,3 +102,27 @@
     name: "WS trip fee: $5"
     price: 5
     category: trip
+-
+    name: "AIARE 1 (full): $350"
+    price: 350
+    category: trip
+-
+    name: "AIARE 1 (subsidized): $250"
+    price: 250
+    category: trip
+-
+    name: "AIARE 2 (full): $400"
+    price: 400
+    category: trip
+-
+    name: "AIARE 2 (subsidized): $300"
+    price: 300
+    category: trip
+-
+    name: "Avalanche rescue (full): $110"
+    price: 110
+    category: trip
+-
+    name: "Avalanche rescue (subsidized): $10"
+    price: 10
+    category: trip
