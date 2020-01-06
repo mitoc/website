@@ -32,14 +32,14 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). This year’s lecture schedule is as follows (all topics TBD):
 
-*   **_Mandatory_** 7pm-9pm Tuesday January 7th MIT room [Room 26-100](https://whereis.mit.edu?q=26-100).
-*   **_Mandatory_** 7pm-9pm Thursday January 9th MIT room [Room 26-100](https://whereis.mit.edu?q=26-100).
-*   7pm-9pm Tuesday January 14th MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
-*   7pm-9pm Thursday January 16th MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
-*   7pm-9pm Tuesday January 21st MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
-*   7pm-9pm Thursday January 23rd MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
-*   7pm-9pm Tuesday January 28th MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
-*   7pm-9pm Thursday January 30th MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
+*   **_Mandatory_** 7pm-9pm Tuesday January 7th. Getting Ready for Winter School. MIT room [Room 26-100](https://whereis.mit.edu?q=26-100).
+*   **_Mandatory_** 7pm-9pm Thursday January 9th. Basic Skills. MIT room [Room 26-100](https://whereis.mit.edu?q=26-100).
+*   7pm-9pm Tuesday January 14th. Winter School Activities. MIT room [Room 26-100](https://whereis.mit.edu?q=26-100).
+*   7pm-9pm Thursday January 16th. Special Topics. MIT room [Room 26-100](https://whereis.mit.edu?q=26-100).
+*   7pm-9pm Tuesday January 21st. Guest lectures by Philip Carcia and Nick Aiello-Popeo. MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
+*   7pm-9pm Thursday January 23rd. Guest lectures by Andrew Drummond and Hilary McCloy. MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
+*   7pm-9pm Tuesday January 28th. Guest lectures by Lhakpa Sherpa and TBD. MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
+*   7pm-9pm Thursday January 30th. MITOC speakers and Winter School Recap. MIT room [Room 6-120](https://whereis.mit.edu?q=6-120).
 
 #### Trips
 
