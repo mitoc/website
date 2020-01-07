@@ -3,7 +3,12 @@
     title: Pay MITOC
 ---
 
-This page can be used to pay money to MITOC using PayPal (preferred) or a credit/debit card. Payments can also be made by check at the [MITOC office](/where-is-mitoc) during [office hours](/calendar). **All payments are final and non-refundable.**
+<div class="alert alert-warning">
+  <p>Please be advised that we have been having <strong>issues processing payments from PayPal</strong>.</p>
+  <p>We recommend that you use a credit or debit card for online payment (we always accept personal checks in the office).</p>
+</div>
+
+This page can be used to pay money to MITOC using PayPal or a credit/debit card. Payments can also be made by check at the [MITOC office](/where-is-mitoc) during [office hours](/calendar). **All payments are final and non-refundable.**
 
 If you are having trouble with the payment system, contact [mitoc-bursar@mit.edu](mailto:mitoc-bursar@mit.edu). The most common issue is that the billing address must exactly match what your bank has on file, so if your card is declined, double-check the address you entered.
 
