@@ -111,7 +111,7 @@ Keyholders share all of the responsibilities described above as well as the addi
 
 ### Arriving At The Cabin
 
-Have everyone sign into the logbook located near the front door of the cabin soon after they arrive. Fill out the first part of the cabin checklist. Have people take their personal gear to the loft or the hooks at the far corners of the den. People have a tendency to dump their stuff in the middle of the floor, where it gets in everyone's way and is probably even a fire hazard. Please instruct everyone to leave their shoes/boots on the tiled floor at the door. The hardwood floors are in beautiful condition and snow, dirt, etc, from outside will quickly scratch them.
+Fill out the first part of the cabin checklist. Have people take their personal gear to the loft or the hooks at the far corners of the den. People have a tendency to dump their stuff in the middle of the floor, where it gets in everyone's way and is probably even a fire hazard. Please instruct everyone to leave their shoes/boots on the tiled floor at the door. The hardwood floors are in beautiful condition and snow, dirt, etc, from outside will quickly scratch them.
 
 ### Turning on the Gas
 
@@ -146,7 +146,7 @@ If after several tries, the lamp does not light, it is possible that the current
 
 ### Propane Heater
 
-Intervale is heated by a propane heater. Directions for lighting the furnace are found on the panel on the bottom of the heater after removing the cover.
+Intervale is heated by a propane heater. Directions for lighting the furnace are found on the panel on the bottom of the heater after removing the cover. Note that it may take a full minute or two of holding the black knob down in the "PILOT" position before the spark will ignite the pilot light.
 
 ### The Kitchen and Stove
 
