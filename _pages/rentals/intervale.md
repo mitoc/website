@@ -30,14 +30,14 @@ All of these rules must be followed at all times by anyone accessing the propert
 
 1.  Everyone accessing the property must be a part of a reservation and every reservation must be explicitly approved by the cabin managers. See reservation procedure below.
 2.  The keyholder/property user must escort every guest on the RoW every time the RoW is used.
-3.  All cars as part of a single reservation must meet in the parking lot. The entire group must walk from the parking lot to Intervale together.
-4.  Capacity rule: There can be a maximum of twenty people (at most fifteen people in the cabin) and at most eight cars may be parked at the designated parking lot at Dundee Rd. No other vehicles are permitted on or near the MITOC property.
-5.  Reservations must all fit in one vehicle or maintain a one-to-four ratio of keyholders/property users to guests when multiple cars are used.
+3.  All members of a single reservation must arrive at the parking area together, walk to and from the property together, and depart the parking area together. Groups meeting from different origens should meet at a local business or public area and travel together from there.
+4.  Capacity: There can be a maximum of fifteen people in the cabin and twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
+5.  Reservations must all fit in one vehicle or maintain a one-to-four ratio of Keyholders/property users to guests (or one-to-nine in the case of official MITOC trips.)
 6.  No vehicles may be operated on the right-of-way to the MITOC property. Use is reserved for cabin managers, as needed to maintain the property.
 7.  A keyholder/property user must have been trained on the current RoW with current cabin managers after January 2018
-8.  The reservation must be submitted by Thursday at 11:59pm before the weekend of use.
-9.  Whenever traveling along the right-of-way to the MITOC property, please be respectful of all neighbors, keeping voices at appropriate levels, especially late at night and early in the morning.
-10.  After the stay, the keyholder/property user must fill out Google form checkout procedure reporting all incidents, people who are there, any problems with the cabin, etc.
+8.  Reservation requests for weekends must be submitted by Thursday at 11:59pm before the weekend of use.
+9.  Whenever traveling along the right-of-way to the MITOC property, please be respectful of all neighbors, keeping voices at appropriate levels (silent between the road and the cabin), especially late at night and early in the morning.
+10.  After the stay, the keyholder/property user must fill out checkout questions reporting all incidents, people who are there, any problems with the cabin, etc.
 11.  Any complaints or confrontations with neighbors or visits by the police should be reported immediately to cabin manager.
 
 ### Reservation Procedure
