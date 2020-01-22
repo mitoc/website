@@ -95,8 +95,8 @@
     price: 20
     category: trip
 -
-    name: "WS skiing trip fee: $15"
-    price: 15
+    name: "WS skiing trip fee: $20"
+    price: 20
     category: trip
 -
     name: "WS trip fee: $5"
