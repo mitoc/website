@@ -6,7 +6,7 @@
 ### General Guidelines for Reimbursement
 
 *   Follow the instructions on this page carefully. If not, your reimbursement may be delayed or we will be unable to process it. If in doubt, email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
-*   Most of the restrictions on what we can and cannot purchase/reimburse come from the [Student Activities Office](http://studentlife.mit.edu/sao/finance) and are non-negotiable. Make yourself aware of these by reviewing this page BEFORE purchasing MITOC items, and do not ask the treasurer to try to skirt these rules.
+*   Most of the restrictions on what we can and cannot purchase/reimburse come from [Student Organizations, Leadership and Engagement](https://studentlife.mit.edu/sole/finance) and are non-negotiable. Make yourself aware of these by reviewing this page BEFORE purchasing MITOC items, and do not ask the treasurer to try to skirt these rules.
 *   To get reimbursed, you must submit i) an itemized receipt and ii) proof of payment. Proof of payment can be a listed credit card on the receipt or as "Balance=$0", "Paid", etc. If proof of payment is not present, a statement with everything except the transaction and your name can be accepted.
 *   **KEEP ALL RECEIPTS UNTIL REIMBURSED!!!** If you do not have proof of payment, you CANNOT be reimbursed. As of February 2018, physical receipts DO NOT need to be submitted for non-travel expenses.
 *   For Amazon orders, you must submit the final order details, which are itemized and have proof of payment. This can be found under Your Account >> Your Orders >> Invoice AFTER the order has shipped.
