@@ -58,7 +58,6 @@ Guidelines for leading three season hikes are [here](/docs/MITOC_3SeasonHiking.p
 
 *   Early signup for Circuses
 *   Free gear rental from MITOC for official trips led
-*   Gas subsidy at $0.13/mile ($60 max per trip, limit to 1 car, cannot be applied to trips used for course subsidy)
 *   Course subsidy for your Wilderness First Aid certification (WFA, WAFA, WFR, WEMT)
 
 ### Can I lead a hike outside of circuses?

@@ -33,10 +33,11 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
 
 {% endtemplate %}
 
-{% template panel.html title: "Travel/gas (including leader gas subsidies) - with MIT certificates" id: "travel-cert" %}
+{% template panel.html title: "Travel/gas - with MIT certificates" id: "travel-cert" %}
 
   Ensure you have access to [Concur](http://concur.mit.edu/). If travel did not involve any personal vehicle mileage:
 
+  0.  Get approved by the MITOC Bursar **at least 2 weeks** before your trip.
   1.  Fill out the report using the MITOC cost object/account: 2720209. Attach copies of all receipts, but DO NOT SUBMIT YET.
   2.  Generate a _Detailed Report with Allocation Summary_ from the Print/Email dropdown and send to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
   3.  Treasurer will reply with a signed approval form, which should then be attached to Concur report and submitted.
@@ -45,7 +46,7 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
 
 {% endtemplate %}
 
-{% template panel.html title: "Travel/gas (including leader gas subsidies) - no MIT certificates" id: "travel-nocert" %}
+{% template panel.html title: "Travel/gas - no MIT certificates" id: "travel-nocert" %}
 
   If you do not have access to the [Concur reporting tool](http://concur.mit.edu/), you must fill out a [travel voucher](http://studentlife.mit.edu/sites/default/files/Travel%20Voucher.pdf) and send to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu). Unlike other reimbursements, HARD COPIES OF RECEIPTS ARE REQUIRED!!! For personal vehicle mileage, include a Google Maps printout of the route for mileage.
 

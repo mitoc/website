@@ -15,7 +15,6 @@ Climbing is inherently dangerous. We want to make sure our leaders are prepared 
 ### What are the leader benefits?
 
 *   Free gear rental from MITOC for trips they lead, including ropes, quick draws, belay devices, and bouldering pads.
-*   Gas subsidy at $0.13/mile. ($60 max per trip, limit to 1 car, cannot be applied to trips used for course subsidy)
 *   Course subsidy for your Wilderness First Aid certification (WFA, WAFA, WFR, WEMT) for every 2 trips led
 *   Course subsidy for a Self Rescue course for every 2 trips led
 
