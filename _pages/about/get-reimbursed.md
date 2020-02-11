@@ -55,7 +55,7 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
 {% template panel.html title: "Other non-travel (e.g. gear, food) - with MIT certificates" id: "other-cert" %}
 
   *   Go to [Atlas](http://atlas.mit.edu/) and click on “Full Catalog.” Under “My Reimbursements,” select “Request a Reimbursement for Me.”
-  *   Fill out the RFP (“Request for Payment”), leaving the G/L Account and Cost Object values empty. Include a description of the expense and if it came out of a discretionary budget. For food reimbursements, include what it was for and roughly how many MIT students/affiliates/others attended. In the amount box, be sure to subtract sales tax for all items.
+  *   Fill out the RFP (“Request for Payment”), leaving the G/L Account and Cost Object values empty. Include a description of the expense and if it came out of a discretionary budget. For food reimbursements, include what it was for and roughly how many MIT students/affiliates/others attended. In the amount box, be sure to subtract sales tax for all items.  
       NOTE: If you have multiple receipts, you can submit them all on the same RFP. Click “Add Line” to add other items.
   *   Click Save & Continue
   *   Add a scanned image of the itemized receipt(s) and proof of payment. If the receipt does not have proof of payment, a statement with everything but the name and transaction whited out is acceptable (but not preferred).
