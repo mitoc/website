@@ -7,40 +7,6 @@
 
 MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
 
-### No Man’s Land Film Festival
-
-on **Thursday, February 27 @ 7:00 PM** in [MIT Building 26-100](http://whereis.mit.edu/?go=26)
-
-**_$5 with a valid MIT ID or $10 for General Admission_**
-
-**Purchase your ticket today online!**
-
-[Pay MITOC](/pay) - under Trip, select your ticket type,
-quantity, and add your email address to the “Comments”
-and click on Pay to enter your credit card information.
-
-</div>
-
-![No Man's Land](/images/screenings/nomans.png)
-
-**What is the No Man’s Land Film Festival?**
-
-No Man's Land Film Festival (NMLFF) is the premier all-women adventure film festival based out of Carbondale, Colorado and on tour internationally. In its fourth year, No Man's Land Film Festival has reached audiences in nearly every US state and has breached international borders with events ranging from Canada to Australia. NMLFF celebrates the full scope of woman-identified athletes and adventurers, looking to undefine what it means to be a woman in adventure, sport and film. NMLFF champions women with grit, hustle, determination, and boundless passion, investing them with the respect, support, and media recognition they deserve. Through human collaboration, No Man's Land strives to implement and inspire change in the outdoor, sport and film industries, while cultivating a deep interest in exploring the vastness of the planet from a woman’s point of view. The NMLFF mission transcends the films presented, acting as a platform for powerful and progressive movement in the outdoor industry.
-
-With their manifesto: "We are women and we are allies. We are sunsets and alpenglow, dangerous riptides and endless singletrack. We are coffee-fueled optimists who may dance-all-night into an alpine start and laugh too loudly at jokes that no one else understands. But we are more than that. We are the vastness to the mountains, we are the horizon to the sea. We are global and there is no end to our possibility. We are rugged and determined. We are forged from a fire of passion and grit; we are nurtured by adventure. We will not be denied. We celebrate our voices and our bodies: their strength, their power, their ability to move mountains or, at the very least, to climb them. We aren’t just women and we will stand up for our sisters whether or not society recognizes them as such. We are unique. We are individual. We are human. And we don’t draw lines, because everyone defines their own," No Man's Land champions women-identified athletes, storytellers and creatives who find inspiration and motivation through adventure, sport and film.
-
-With the help of theatres, nonprofits, climbing gyms and other bold hosts and venues across the globe, No Man's Land is sharing its mission of un-defining feminine and what it means to be a woman. While the name may sound exclusive, No Man’s Land encourages all genders to attend. Beyond the No Man's Land's mission, the films are a strong curation and representation of true outdoor adventure film.
-
-For more information, please visit [https://www.nomanslandfilmfestival.org](www.nomanslandfilmfestival.org).
-
-
-
-{% template panel.html title: "Old events" id: "old-events" %}
-
-<div class="text-center" markdown="1">
-
-MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
-
 ### Reel Rock 14
 
 on **Friday, December 6th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mit.edu/?go=26)
@@ -66,7 +32,7 @@ and click on Pay to enter your credit card information.
 
 The Reel Rock Film Tour, one of climbing's greatest celebrations, returns this fall with a new collection of world premiere films. In _The High Road_, the powerful and bold Nina Williams tests herself on some of the highest, most difficult boulder problems ever climbed. In _United States of Joe’s_ climbers collide with a conservative coal mining community in rural Utah, to surprising results. And in _The Nose Speed Record,_ legends Tommy Caldwell and Alex Honnold battle Yosemite dirtbags Jim Reynolds and Brad Gobright in a high stakes race for greatness.
 
-***
+{% template panel.html title: "Old events" id: "old-events" %}
 
 MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
 
