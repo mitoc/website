@@ -3,7 +3,7 @@
     title: Intervale Manual
 ---
 
-Last updated October 2017
+Last updated January 2020
 
 The below contains information which you must read and follow. This is not an online license agreement.
 
