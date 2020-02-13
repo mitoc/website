@@ -47,11 +47,11 @@ on **Friday, December 6th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mi
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link abovew
+and under Trip and Event Fees,<br/>
+select your ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 </div>
@@ -76,11 +76,11 @@ on **Friday, February 8th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mi
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 
@@ -93,9 +93,9 @@ and click on Pay to enter your credit card information.
     </div>
 </div>
 
-In January, 2015, American rock climbers Tommy Caldwell and Kevin Jorgeson captivated the world with their effort to climb The Dawn Wall, a seemingly impossible 3,000 foot rock face in Yosemite National Park, California.  
-The pair lived on the sheer vertical cliff for weeks, igniting a frenzy of global media attention.  
-But for Tommy Caldwell, The Dawn Wall was much more than just a climb. It was the culmination of a lifetime defined by overcoming obstacles. At the age of 22, the climbing prodigy was taken hostage by rebels in Kyrgyzstan. Shortly after, he lost his index finger in an accident, but resolved to come back stronger. When his marriage fell apart, he escaped the pain by fixating on the extraordinary goal of free climbing The Dawn Wall.  
+In January, 2015, American rock climbers Tommy Caldwell and Kevin Jorgeson captivated the world with their effort to climb The Dawn Wall, a seemingly impossible 3,000 foot rock face in Yosemite National Park, California.<br/>
+The pair lived on the sheer vertical cliff for weeks, igniting a frenzy of global media attention.<br/>
+But for Tommy Caldwell, The Dawn Wall was much more than just a climb. It was the culmination of a lifetime defined by overcoming obstacles. At the age of 22, the climbing prodigy was taken hostage by rebels in Kyrgyzstan. Shortly after, he lost his index finger in an accident, but resolved to come back stronger. When his marriage fell apart, he escaped the pain by fixating on the extraordinary goal of free climbing The Dawn Wall.<br/>
 Blurring the line between dedication and obsession, Caldwell and his partner Jorgeson spend six years meticulously plotting and practicing their route. On the final attempt, with the world watching, Caldwell is faced with a moment of truth. Should he abandon his partner to fulfill his ultimate dream, or risk his own success for the sake of their friendship?
 
 * * *
@@ -108,11 +108,11 @@ on **Friday, December 7th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mi
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 <div class="row">
@@ -134,11 +134,11 @@ on **Nov 16th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mit.edu/?go=26
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 <div class="row">
@@ -158,8 +158,8 @@ MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
 
 _**3 FILMS**_ on the environment and outdoor sports
 
-### "[Blue Heart: The Fight for Europe's Last Wild Rivers](https://blueheart.patagonia.com/take-action)"  
-"[Era of Megafires: A Multimedia Learning Experience](https://www.north40productions.com/eom-home)"  
+### "[Blue Heart: The Fight for Europe's Last Wild Rivers](https://blueheart.patagonia.com/take-action)"<br/>
+"[Era of Megafires: A Multimedia Learning Experience](https://www.north40productions.com/eom-home)"<br/>
 & "[Yūgen](http://connectionsmovement.com/)"
 
 on **Friday, October 12th @ 6:30 PM** in [MIT Building 26-100](http://whereis.mit.edu/?go=26)
@@ -187,11 +187,11 @@ on **Tuesday, February 27th @ 7:30 PM** in [MIT Building 26-100](http://whereis.
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 _Guest speaker professional skier Ben Leoni will introduce GBA's work and why it is so important for the backcountry skiing community in the North East_
@@ -213,11 +213,11 @@ on **Tuesday, February 13th @ 7:30 PM** in [MIT Building 26-100](http://whereis.
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 _A special introduction to the film will be given by Mike McGinn - Friend of the producers, former Seattle Mayor, Cascade hiker, and avid reader of the Beckey guides._
@@ -234,11 +234,11 @@ on **Friday, Decemer 8th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mit
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your "Reel Rock 12" ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your "Reel Rock 12" ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 This November, get ready for climbing’s greatest stories, stars, and sends. REEL ROCK 12 premieres four new short films that will deliver heart-thumping action, big laughs, and pure inspiration. Featuring Margo Hayes, the first woman to climb 5.15; Brad Gobright, an up-and-coming free soloist with a donut addiction; the return of Chris Sharma to the deep water soloing stage, and more.
@@ -255,11 +255,11 @@ on **Tuesday, October 17th @ 7:30 PM** in [MIT Building 26-100](http://whereis.m
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your "No Man's Land Ticket" type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your "No Man's Land Ticket" type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 No Man's Land Film Festival is an all-female adventure film festival based out of the Rocky Mountains of Colorado that meets a need and desire to highlight and connect women in pursuit of the radical. They are a collaboration and celebration of men and women who are deeply engaged in enhancing the female presence in the adventure arena. The goal of this festival is to connect like-minded individuals who are action-oriented, wish to support a shared vision of gender equality, have a desire to experience their passions and environments through a uniquely female lens, and above all, love adventure. Along with cultivating a deep interest in exploring the vastness of our planet from a female point of view, No Man's Land strives to create a history of motivating audiences to implement and inspire change. Our mission transcends the films presented; this festival acts as a platform for progressive thought and movement in the outdoor industry. At No Man's Land, we aim to redefine feminine in adventure and sport through film.
@@ -292,11 +292,11 @@ on **Tuesday, February 7th @ 7:30 PM** in [MIT Building 26-100](http://whereis.m
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your "Backcountry Film Festival Ticket" type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your "Backcountry Film Festival Ticket" type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 <iframe src="https://player.vimeo.com/video/196814383" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -311,11 +311,11 @@ on **Tuesday, December 13th @ 7:30 PM** in [MIT Building 26-100](http://whereis.
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your "The Fourth Phase Ticket" type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your "The Fourth Phase Ticket" type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/2JHE2zkRfW4" frameborder="0" allowfullscreen></iframe>
@@ -328,14 +328,14 @@ MITOC and [MIT LSC](http://lsc.mit.edu) are pleased to bring you
 
 on **Tuesday, September 27th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mit.edu/?go=26)
 
-**_$5 with a valid MIT ID or $10 for General Admission_**  
+**_$5 with a valid MIT ID or $10 for General Admission_**<br/>
 All ticket sale proceeds go to benefit the [Sean A. Collier Adventure Grant Fund](http://giving.mit.edu/givenow/start.dyn?designationId=3649750). Please donate today!
 
-**Purchase your ticket today online!**  
-Click [here](/pay) or go to the Pay MITOC link above  
-and under Trip and Event Fees,  
-select your Reel Rock Ticket type,  
-quantity, and add your email address to the "Comments"  
+**Purchase your ticket today online!**<br/>
+Click [here](/pay) or go to the Pay MITOC link above<br/>
+and under Trip and Event Fees,<br/>
+select your Reel Rock Ticket type,<br/>
+quantity, and add your email address to the "Comments"<br/>
 and click on Pay to enter your credit card information.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Ju3cJbQHgEs?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -359,7 +359,7 @@ This event is FREE and open to the public. Please join us!
 
 For Earth Day, MITOC and MIT LSC hosted
 
-### ["Love Thy Nature"](http://www.lovethynature.com/)  
+### ["Love Thy Nature"](http://www.lovethynature.com/)<br/>
 Narrated by Liam Neeson
 
 on **Tuesday, April 26th @ 7:30 PM** in [**MIT Building 26-100**](http://whereis.mit.edu/?go=26)
@@ -388,7 +388,7 @@ on **Tuesday, March 15th @ 7:30 PM** in [**MIT Building 26-100**](http://whereis
 
 Professional skier and filmmaker **[Kt Miller](http://www.ktmiller.photo/Website-Content/Pages/About)** is an ambassador for the Winter Wildlands Alliance and will help MIT's Outing Club host the Backcountry Film Festival. Her film about a skiing and sailing expedition from Iceland to Greenland, Shifting Ice + Changing Tides, won the festival's award for Best Environmental Message. During Intermission, Kt will give a talk about her work as a professional skier, photographer, and environmentalist, and the push by groups like the Winter Wildlands Alliance to preserve our winters.
 
-Further Bio:  
+Further Bio:<br/>
 Kt is a Montana gal with a zest for adventure and knack for storytelling. She is one of only a handful of female adventure photographers capturing imagery in some of the wildest corners of the planet. Her raw storytelling is both thought provoking and inspiring. Along with her media skills she is an accomplished athlete in her own right and has skied many high level routes and first descents around the world. As a professional athlete for Dynafit,LowePro, and Winter Wildlands Alliance Kt specializes in human powered adventure. Each fall Kt spends a few months working in the Arctic with Polar Bears International as a media specialist, troubleshooting wireless internet on the tundra, photographing polar bears, and hosting the worlds leading polar bear and climate scientists for large digital outreach initiatives. She hopes her work inspires others to take action on climate change, connect more with the natural world, and become better stewards of the environment.
 
 * * *
@@ -406,8 +406,8 @@ For decades, First Nations, conservationists, backcountry skiers and snowboarder
 
 * * *
 
-**_MITOC, [**MIT LSC**](http://lsc.mit.edu/)**, & [BU Outing Club](http://buoutingclub.com/)** brought you "Reel Rock 10"  
-on  
+**_MITOC, [**MIT LSC**](http://lsc.mit.edu/)**, & [BU Outing Club](http://buoutingclub.com/)** brought you "Reel Rock 10"<br/>
+on<br/>
 **Tuesday, November 10th, 2015@ 7:30pm in [26-100](http://whereis.mit.edu/?go=26)**!_**
 
 $5.00 with MIT or BU ID, $10.00 General Admission
@@ -415,8 +415,8 @@ $5.00 with MIT or BU ID, $10.00 General Admission
 <iframe allowfullscreen="" frameborder="0" height="315" src=
 "https://www.youtube.com/embed/mXNOTJFEBsQ" width="560"></iframe>
 
-Founded in 2006 by filmmakers Josh Lowell (Big UP Productions) and Peter Mortimer (Sender Films), the REEL ROCK Film Tour brings the best climbing and adventure films of the year to live audiences throughout the world. The film tour is the definitive annual event for climbing communities globally. REEL ROCK shows are high energy, community events that go beyond mere film screenings to include prize giveaways, athlete and filmmaker appearances, non-profit fundraising, and a party atmosphere.   
-  
+Founded in 2006 by filmmakers Josh Lowell (Big UP Productions) and Peter Mortimer (Sender Films), the REEL ROCK Film Tour brings the best climbing and adventure films of the year to live audiences throughout the world. The film tour is the definitive annual event for climbing communities globally. REEL ROCK shows are high energy, community events that go beyond mere film screenings to include prize giveaways, athlete and filmmaker appearances, non-profit fundraising, and a party atmosphere. <br/>
+<br/>
 In its landmark 10th year, REEL ROCK is kicking off the 2015 world tour to over 450 locations around the world. From big walls to big moves, REEL ROCK 10 features athletes Tommy Caldwell, Kevin Jorgeson, Alex Honnold, Jimmy Webb, Daniel Woods and a special tribute to the late Dean Potter. This year's tour boasts an eclectic program that will get you psyched! 
 
 **\*This film screening is a fundraiser event, all profits will go to the [Jeff Lowe Mountain Foundation](http://jeffloweclimber.com/Supporters.html)\***
@@ -425,8 +425,8 @@ _\*Seating is limited, first come, first served basis. No standing allowed._
 
 * * *
 
-MITOC, [**MIT LSC**](http://lsc.mit.edu/), AMC and AAC hosted **a fundraiser screening of “[Jeff Lowes’ Metanoia](http://www.jeffloweclimber.com/index.html)”**  
-on  
+MITOC, [**MIT LSC**](http://lsc.mit.edu/), AMC and AAC hosted **a fundraiser screening of “[Jeff Lowes’ Metanoia](http://www.jeffloweclimber.com/index.html)”**<br/>
+on<br/>
 **Tuesday, October 27th, 2015@ 7:30pm in [26-100](http://whereis.mit.edu/?go=26)**!
 
 [Jeff Lowe’s Metanoia - Official Trailer (HD)](https://vimeo.com/78219607) from [Jeff Lowe](https://vimeo.com/user6419774) on [Vimeo](https://vimeo.com).
@@ -443,8 +443,8 @@ _\*Seating is limited, first come, first served basis. No standing allowed._
 
 * * *
 
-**_MITOC & [**MIT LSC**](http://lsc.mit.edu/) hosted a screening of "Meru"  
-on  
+**_MITOC & [**MIT LSC**](http://lsc.mit.edu/) hosted a screening of "Meru"<br/>
+on<br/>
 **Tuesday, October 6th, 2015@ 7:30pm in [26-100](http://whereis.mit.edu/?go=26)**!_**
 
 <iframe allowfullscreen="" frameborder="0" height="315" src=
@@ -458,8 +458,8 @@ _\*Seating is limited, first come, first served basis. No standing allowed._
 
 * * *
 
-MITOC & [**LSC**](http://lsc.mit.edu/) hosted **a screening of "**[**FIRST ASCENT: the complete series**](http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series)"  
-on**  
+MITOC & [**LSC**](http://lsc.mit.edu/) hosted **a screening of "**[**FIRST ASCENT: the complete series**](http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series)"<br/>
+on**<br/>
 Tuesday, April 7th, 2015** **@ 7:30pm in [26-100](http://whereis.mit.edu/?go=26)**!
 
 <iframe allowfullscreen="" frameborder="0" height="281" src=
@@ -467,16 +467,16 @@ Tuesday, April 7th, 2015** **@ 7:30pm in [26-100](http://whereis.mit.edu/?go=26)
 
 "[FIRST ASCENT: the complete series](http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series)" from [SenderFilms](http://senderfilms.com) on [Vimeo](https://vimeo.com/ondemand/firstascenttheseries/116099140)
 
-First Ascent (2010) is Sender Films' groundbreaking 6-part series that takes you to the cutting edge of adventure. Produced over two years on five continents, First Ascent follows the greatest climbers to majestic locations around the globe on their quests to redefine what is possible in the mountains.  
-  
+First Ascent (2010) is Sender Films' groundbreaking 6-part series that takes you to the cutting edge of adventure. Produced over two years on five continents, First Ascent follows the greatest climbers to majestic locations around the globe on their quests to redefine what is possible in the mountains.<br/>
+<br/>
 Includes the six ~24 minute films that define the series.
 
 [Read more about each film.](http://senderfilms.com/productions/details/811/First-Ascent-The-Complete-Series)
 
 * * *
 
-MITOC, [**LSC**](http://lsc.mit.edu/) and [GW@MIT](https://sites.google.com/site/gwamitweb/) hosted [**Pretty Faces**](http://unicornpicnic.com/)  
-on**  
+MITOC, [**LSC**](http://lsc.mit.edu/) and [GW@MIT](https://sites.google.com/site/gwamitweb/) hosted [**Pretty Faces**](http://unicornpicnic.com/)<br/>
+on**<br/>
 Tuesday, December 2nd, 2014** **@ 7:30pm in [26-100](http://whereis.mit.edu/?go=26)**!
 
 [Pretty Faces - The Story of a Skier Girl - Trailer](http://vimeo.com/105099376) from [Unicorn Picnic Productions](http://vimeo.com/unicornpicnic) on [Vimeo](https://vimeo.com).
@@ -544,7 +544,7 @@ The seventh annual Reel Rock film tour is bringing the best in climbing and adve
 
 Hosted by [![LSC](/images/screenings/lsclogo.jpg)](http://lsc.mit.edu/)
 
-[![Reel Rock Tour 7](/docs/screenings/reel-rock-2012-MIT.jpg)](/docs/screenings/reel-rock-2012-MIT.pdf)  
+[![Reel Rock Tour 7](/docs/screenings/reel-rock-2012-MIT.jpg)](/docs/screenings/reel-rock-2012-MIT.pdf)<br/>
 (click image above to download PDF of full size poster)
 
 
