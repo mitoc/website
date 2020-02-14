@@ -31,7 +31,7 @@ With their manifesto: "We are women and we are allies. We are sunsets and alpeng
 
 With the help of theatres, nonprofits, climbing gyms and other bold hosts and venues across the globe, No Man's Land is sharing its mission of un-defining feminine and what it means to be a woman. While the name may sound exclusive, No Man’s Land encourages all genders to attend. Beyond the No Man's Land's mission, the films are a strong curation and representation of true outdoor adventure film.
 
-For more information, please visit [https://www.nomanslandfilmfestival.org](www.nomanslandfilmfestival.org).
+For more information, please visit [www.nomanslandfilmfestival.org](https://www.nomanslandfilmfestival.org).
 
 
 
