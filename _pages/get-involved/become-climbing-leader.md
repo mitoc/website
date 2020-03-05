@@ -24,7 +24,7 @@ Climbing is inherently dangerous. We want to make sure our leaders are prepared 
 
 Due to the inherit risk involved in climbing and the variety of skills required, MITOC uses a leader rating system with different categories for different styles of climbing. MITOC leaders should be experienced and comfortable in the styles that they are rated for.
 
-To get a new or upgraded leader rating, please submit [submit an application](https://mitoc-trips.mit.edu/climbing/leaders/apply/) and have two current MITOC climbing leaders with the desired rating [submit a recommendation](https://docs.google.com/forms/d/e/1FAIpQLSe_N9fTd-J4jNe91F_8yBm_AlyakbKEcT9SnNdulhhg1g-VNw/viewform).
+To get a new or upgraded leader rating, please [submit an application](https://mitoc-trips.mit.edu/climbing/leaders/apply/) and have two current MITOC climbing leaders with the desired rating [submit a recommendation](https://docs.google.com/forms/d/e/1FAIpQLSe_N9fTd-J4jNe91F_8yBm_AlyakbKEcT9SnNdulhhg1g-VNw/viewform).
 
 ### I want become a leader but I'm not ready yet
 
