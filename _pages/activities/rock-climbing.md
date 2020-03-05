@@ -15,7 +15,7 @@ MITOC holds numerous climbing trips throughout the year. They include:
 
 MITOC also holds numerous climbing events, clinics, and courses, such as:
 
-*   [School of Rock](/events/school-of-rock) - Structured series of classes for beginner and intermediate climbers, held annually in the fall.
+*   MITOC Rock Program - A cohort program giving MITOC members a chance to learn and practice fundamentals of sport and trad climbing with more experienced climbers.
 *   [Self Rescue](/events/courses) - Intro course for dealing with emergencies in the vertical terrain
 *   [Technical Review Sessions](/events/trs) - week-to-week review sessions to practice skills necessary for climbing
 *   [Mentor/Mentee Program](/activities/rock-climbing/mentor-mentee) - building the climbing community by pairing folks with aligned interests to climb together
