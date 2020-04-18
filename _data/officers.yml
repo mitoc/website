@@ -186,7 +186,14 @@ Paul:
   name: Paul Lilin
 Amy:
   name: Amy Chen
+  photo: amy.jpg
+Katrina:
+  name: Katrina Magno
+  photo: katrina.jpg
 Annie:
   name: Annie Hines
+  photo: annie.jpg
 Mary:
   name: Mary Richardson
+Colin:
+  name: Colin Wilson
