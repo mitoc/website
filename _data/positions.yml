@@ -15,21 +15,21 @@
     title: Treasurer
     description: Manages reimbursements and requisitions from the club; prepares annual financial report
     officers:
-      - Tyler
+      - Blox
   -
     title: Bursar
-    description:
+    description: Manages club revenue
     officers:
-      - Hannah
+      - Aileen
   -
     title: Member-at-Large
     description: Spearheads larger club efforts; assists officers as needed
     officers:
-      - Kate
       - ChrisSa
-      - William
       - Neil
-      - Mason
+      - Hannah
+      - Nico
+      - Abraham
 -
   title: Managers
   positions:
@@ -71,13 +71,13 @@
     title: Desk Captain
     description: Schedules office hours; provides notices about overdue gear rentals; trains desk workers
     officers:
-      - Florian
+      - Noah
       - Ashwin
   -
     title: Leader Coordinator
     description: Manages course subsidies and other incentives for trip leaders
     officers:
-      - Cole
+      - Paul
   -
     title: Webmaster
     description: Maintains club website and databases
@@ -92,14 +92,13 @@
     title: Winter School Chair
     description: Organizes annual Winter School
     officers:
-      - Karina
-      - Kathy
+      - Katrina
+      - Florian
     email: ws-chair@mit.edu
   -
     title: Circus Chair
     description: Organizes monthly Circus (April to October)
     officers:
-      - Evan
       - Asha
     email: circus-chair@mit.edu
   -
@@ -108,6 +107,7 @@
     officers:
       - Asha
       - Ben
+      - Karina
   -
     title: Acadia Chair
     description: Organizes yearly Acadia Memorial Day trip
@@ -120,21 +120,22 @@
     title: 3-Season Hiking Chair
     description: Recruits, trains, and approves 3-season hiking leaders
     officers:
-      - Nicolas
+      - Abraham
+      - Amy
   -
     title: Climbing Chair
     description: Recruits, trains, and approves climbing leaders; organizes School of Rock, climbing courses, and technical review sessions
     officers:
-      - DavidJ
-      - AlexG
-      - Ben
+      - Cole
+      - Mason
+      - Annie
   -
     title: BC Skiing Chair
     description: Recruits winter leaders for backcountry skiing; maintains backcountry skiing gear
     officers:
-      - JamesT
-      - Avilash
       - Lulu
+      - Colin
+      - Blox
   -
     title: XC Skiing Chair
     description: Recruits winter leaders for XC skiing; maintains XC ski gear.
@@ -165,13 +166,17 @@
     title: Mountain Biking Chair
     description: Leads mountain biking trips; maintains mountain bikes
     officers:
-      - Kate
-      - Luke
+      - Tyler
   -
-    title: Mountain Running Chair
-    description: Leads mountain running trips
+    title: Mountain/Trail Running Chair
+    description: Leads mountain and trail running trips
     officers:
-      - Lucas
+      - Kathy
+  -
+    title: Adventure Race Chair
+    description:
+    officers:
+      - Nico
   -
     title: Surfing Chair
     description: Leads surfing trips
@@ -179,8 +184,8 @@
       - Jan
       - Zac
   -
-    title: Packraft Chair
-    description: Leads packrafting trips
+    title: Packrafting Chair
+    description: Leads packrafting trips; maintains packrafts
     officers:
       - Lily
   -
@@ -188,6 +193,11 @@
     description: Raises awareness of and organizes participation in outdoor service opportunities
     officers:
       - Evan
+  -
+    title: Photography Chair
+    description:
+    officers:
+      - Mary
 -
   title: Committee Chairs
   positions:
@@ -195,15 +205,19 @@
     title: Collier Committee
     description: Leads the committee that selects Collier Adventure Grant recipients
     officers:
-      - Kris
-      - Stephanie
-      - Avilash
+      - Karina
+      - Evan
+      - Ben
   -
     title: Inclusion and Outreach Chair
     description: Spearheads initiatives to increase the inclusivity of club activities
     officers:
-      - Lulu
-      - Aileen
+      - Hannah
+  -
+    title: Librarian
+    description:
+    officers:
+      - AlexG
   -
     title: Mediation Chair
     description: Leads committee that resolves conflicts
