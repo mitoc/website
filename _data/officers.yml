@@ -149,7 +149,7 @@ Nick:
   email: nick.lingler@gmail.com
   name: "Nick Lingler"
   photo: nicklingler.jpg
-Nicolas:
+Nico:
   email: nromeo@mit.edu
   name: "Nicolas Romeo"
   photo: nicolasromeo.jpg
@@ -168,7 +168,7 @@ Tyler:
   email: ttoth@mit.edu
   name: "Tyler Toth"
   photo: tylertoth.png
-William:
+Blox:
   email: wbloxham@gmail.com
   name: "William Bloxham"
   photo: williambloxham.jpg
@@ -176,3 +176,17 @@ Zac:
   email: ztobias@mit.edu
   name: "Zac Tobias"
   photo: zactobias.jpg
+Hannah:
+  name: Hannah Grupe
+Abraham:
+  name: Abraham Skandera
+Noah:
+  name: Noah Luther
+Paul:
+  name: Paul Lilin
+Amy:
+  name: Amy Chen
+Annie:
+  name: Annie Hines
+Mary:
+  name: Mary Richardson
