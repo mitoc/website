@@ -85,7 +85,7 @@ Hannah:
   photo: hannahvarner.png
 JamesD:
   name: "James Douberley"
-  photo: ~
+  photo: james-douberley.jpg
 JamesT:
   email: jturitto@gmail.com
   name: "James Turitto"
@@ -129,7 +129,7 @@ Lulu:
 Mason:
   email: mason@masonglidden.com
   name: "Mason Glidden"
-  photo: null
+  photo: mason.jpg
 Michael:
   name: "Michael Skuhersky"
   photo: vex.jpg
@@ -183,9 +183,10 @@ Abraham:
   photo: abraham.jpg
 Noah:
   name: Noah Luther
-  photo: noah.png
+  photo: noah.jpg
 Paul:
   name: Paul Lilin
+  photo: paul-lilin.jpg
 Amy:
   name: Amy Chen
   photo: amy.jpg
@@ -197,6 +198,7 @@ Annie:
   photo: annie.jpg
 Mary:
   name: Mary Richardson
+  photo: mary-richardson.jpeg
 Colin:
   name: Colin Wilson
   photo: colin.jpg
