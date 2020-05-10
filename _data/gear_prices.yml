@@ -209,6 +209,8 @@ purchasable:
   items:
     - title: Boston Rocks
       price: $25
+    - title: Last Human Running T-shirt
+      price: $15
     - title: MITOC T-shirt
       price: $15
     - title: MITOC Nalgene Bottle
