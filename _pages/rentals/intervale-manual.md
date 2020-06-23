@@ -176,7 +176,7 @@ If after several tries, the lamp does not light, it is possible that the current
 1. Make sure ALL gas appliances inside are turned off.
 2. Go behind the cabin and close ALL bottles, including the one marked as “IN USE”
 3. Turn the selector knob to face directly up.
-4. Turn off the master lever by turning the red lever below the regulator to be perpendicular to the gas line.
+4. Turn off the master lever by turning the red lever below the regulator to be perpendicular to the gas line.  
 **NOTE:** There are several other levers on various gas lines under the cabin and going into the cabin. Don’t turn those levers off. Only manipulate the levers behind the cabin as described above.
 
 #### Propane Heater
