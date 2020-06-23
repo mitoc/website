@@ -100,7 +100,7 @@ All of these steps must be completed in order to legally access the property.
 1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3).
 Upon express email or written approval from a Cabin Manager following your application, pay for your entire group in one payment on the [Pay MITOC](https://mitoc.mit.edu/pay) page and email the receipt as a 2. reply to your approval email. **Fees are non-refundable**. You will receive an electronic lock code after payment, for cabin stays.
 3. Confirm by email with the Cabin Managers that your group and plans have not changed before leaving for Intervale. Detail any changes if applicable.
-4. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property
+4. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
 Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email
  
 ### Reservation Policies
