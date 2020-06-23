@@ -168,7 +168,8 @@ If after several tries, the lamp does not light, it is possible that the current
 4. Pick one of the other three bottles marked as “FULL” Open this bottle by using the valve on top of it.
 5. Replace the “FULL” tag with an “IN USE” tag.
 6. Turn the bank selector to face the bottle you wish to use.
-7. Now reopen the main shutoff by turning the red lever to the parallel position. 8. Please tell the cabin manager that one of the bottles is now empty, along with how many full bottles are remaining on the regulator.
+7. Now reopen the main shutoff by turning the red lever to the parallel position.
+8. Please tell the cabin manager that one of the bottles is now empty, along with how many full bottles are remaining on the regulator.
 
 #### Turning Off the Gas
 
