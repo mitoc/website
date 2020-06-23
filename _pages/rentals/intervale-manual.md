@@ -41,7 +41,7 @@ The nearest house to Intervale is generally not visible through the trees, but i
 All of these rules must be followed at **all times** by anyone accessing the property. ***Violation of any of these policies will result in the revocation of your MITOC cabin privileges and/or MITOC membership. Additionally it could constitute criminal trespassing! NO EXCUSES!!!***
 
 - **Everyone accessing the property must be individually named on a reservation that has been approved in advance by the cabin managers**
-- **A Keyholder must escort every guest on the RoW every time the RoW is used. **
+- **A Keyholder must escort every guest on the RoW every time the RoW is used.**
 - **All members of a single reservation must arrive at the parking area together, walk to and from the property together, and depart the parking area together. Groups meeting from different origins should meet at a local business or public area and travel together from there.**
 - **If at any point there is any doubt about the correct route to the cabin the group must retreat to an appropriate (public) location and contact the Cabin Managers before proceeding**
 - **Whenever traveling along the right-of-way to the MITOC property, everyone must be respectful of all neighbors and maintain proper conduct:**
