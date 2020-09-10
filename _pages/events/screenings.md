@@ -5,6 +5,28 @@
 
 <div class="text-center" markdown="1">
 
+### MITOC Screening of "Public Trust" film by Patagonia
+
+The film explores how our public lands are facing unprecedented threats from extractive industries and the politicians in their pockets.
+
+![Public Trust](https://showcase.dropbox.com/collection/items/thumbnail?padId=M8Q7YRDdiGhdXNT7zu0Yc&collectionItemId=YkaKi2Er7Z7kgKnsVkBY&size_mode=5&preserve_transparency=true)
+
+**About this Event**
+
+Join us for a virtual screening of "Public Trust" a film by Patagonia, hosted by the MIT Outing Club!
+
+We will be hosting a live screening starting 7pm on Th. Sept. 24 with an accompanying live Zoom chat. The film is an hour and a half long. Afterwards, there will be a some brief announcements about next steps people can take. If folks cannot attend the screening they have through Sat. Sept. 26 (11:30pm) to view it independently. We encourage folks to attend the event together on Thursday though, to promote community engagement and discussion of this important issue!
+
+**FILM SYNOPSIS**
+
+​​In a time of growing polarization, Americans still share something in common: 640 million acres of public land. Held in trust by the federal government for all citizens of the United States, these places are a stronghold against climate change, sacred to native people, home to wildlife and intrinsic to our national identity. But today, despite support from voters across the political spectrum, they face unprecedented threats from extractive industries and the politicians in their pockets. Part love letter, part political exposé, PUBLIC TRUST investigates how we arrived at this precarious moment through three heated conflicts—a national monument in the Utah desert, a proposed mine in the Boundary Waters and oil drilling in the Arctic National Wildlife Refuge—and makes a case for their continued protection.
+
+[Sign up on Eventbrite](https://www.eventbrite.com/e/mitoc-screening-of-public-trust-film-by-patagonia-tickets-119945463109?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+
+{% template panel.html title: "Old events" id: "old-events" %}
+
+<div class="text-center" markdown="1">
+
 MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
 
 ### No Man’s Land Film Festival
@@ -35,9 +57,6 @@ For more information, please visit [www.nomanslandfilmfestival.org](https://www.
 
 
 
-{% template panel.html title: "Old events" id: "old-events" %}
-
-<div class="text-center" markdown="1">
 
 MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
 
