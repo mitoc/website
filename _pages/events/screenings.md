@@ -15,7 +15,12 @@ The film explores how our public lands are facing unprecedented threats from ext
 
 Join us for a virtual screening of "Public Trust" a film by Patagonia, hosted by the MIT Outing Club!
 
-We will be hosting a live screening starting 7pm on Th. Sept. 24 with an accompanying live Zoom chat. The film is an hour and a half long. Afterwards, there will be a some brief announcements about next steps people can take. If folks cannot attend the screening they have through Sat. Sept. 26 (11:30pm) to view it independently. We encourage folks to attend the event together on Thursday though, to promote community engagement and discussion of this important issue!
+We will be hosting a live screening with an accompanying live Zoom chat.
+
+<div class="alert alert-warning">
+  This event, originally scheduled for September 24th, has been postponed.
+  The date and time of this screening will be announced on our mailing lists & updated on this page.
+</div>
 
 **FILM SYNOPSIS**
 
