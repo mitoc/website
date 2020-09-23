@@ -10,8 +10,8 @@
 ---
 
 <div class="alert alert-warning">
-  In accordance with <a href="http://web.mit.edu/covid19/">MIT's response to COVID-19</a>,
-  <strong>all MITOC office hours are canceled indefinitely.</strong> We are unable to access the office, and are thus <strong>unable to rent gear</strong> until further notice.
+  <p>In accordance with <a href="http://web.mit.edu/covid19/">MIT's response to COVID-19</a>, <strong>all MITOC office hours are canceled indefinitely.</strong></p> 
+    <p>We are unable to access the office, and are thus <strong>unable to rent gear</strong> until further notice.</p>
 </div>
 
 **Please read this whole page before coming in to rent gear for the first time.** There is some administrativia involved, and planning ahead will help your rental go smoothly.
