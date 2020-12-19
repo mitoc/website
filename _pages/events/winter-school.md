@@ -16,17 +16,17 @@ Winter School 2021 will happen - virtually - from January 7, 2021 to January 28,
 
 ### Winter school 2021
 
-Due to the current surge of cases locally and in accordance with [MIT's response to COVID-19](http://web.mit.edu/covid19/) and the various local travel orders, we will not be able to run any in-person event.
+Due to the current surge of cases locally and in accordance with [MIT's response to COVID-19](http://web.mit.edu/covid19/) and the various local travel orders, we will not be running any in-person event.
 
 Having said that, get stoked: we have a plan for everyone to learn or brush up their **winter adventure skills**, get inspired by **speakers** with diverse and inspiring backgrounds, **raffle** cool prizes, and more!
 
-This year, we'll hold 4 virtual lectures, every Thursday of IAP, from 7pm to 9pm. In more details:
+This year, we'll hold 4 virtual lectures, every Thursday of IAP, from 7pm to 9pm (Eastern Time). In more details:
 - Thursday January 7th: Safety in the winter outdoors (clothing, basic gear, eating, drinking, weather, etc.). Introduction to winter activities (hiking, ice climbing, skiing).
 - Thursday January 14th: Guest lectures - Savannah Cummins (adventure photographer, climber) & Anna Pfaff (climber)
 - Thursday January 21st: Guest lectures, to be announced soon
 - Thursday January 28th: Guest lectures, to be announced soon
 
-If you have any question, please feel free to contact `ws-chair@mit.edu`.
+If you have any question, please feel free to contact [`ws-chair@mit.edu`](mailto:ws-chair@mit.edu).
 
 ---------------------
 
