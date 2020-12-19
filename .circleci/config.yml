@@ -49,7 +49,7 @@ jobs:
 
       - run:
           name: Validate HTML spec compliance
-          command: $HOME/.local/bin/html5validator --root _site --ignore iframe
+          command: $HOME/.local/bin/html5validator --root _site --ignore iframe --blacklist legacy-gallery
 
       - run:
           name: Start server
