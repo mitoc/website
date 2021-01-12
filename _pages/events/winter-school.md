@@ -10,7 +10,7 @@
 
 <div class="jumbotron" markdown="1">
 
-Winter School 2021 will happen - virtually - from January 7, 2021 to January 28, 2021. **[Sign up here!](https://mitoc-trips.mit.edu/trips/1378/)**
+Winter School 2021 will happen - virtually - from January 7, 2021 to January 28, 2021. **[Sign up here!](https://mitoc-trips.mit.edu/trips/1379/)**
 
 </div>
 
