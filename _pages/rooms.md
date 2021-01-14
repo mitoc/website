@@ -11,7 +11,7 @@
       - title: The Joy of Ice Climbing
         link: https://mit.zoom.us/j/92406990136
       - title: Enjoying Winter
-        link:
+        link: https://analog.zoom.us/j/92202544330?pwd=UDlPTVBkSm8xNlUvMzIwZHY2bzQ1UT09
       - title: Women in the Outdoors (Open to all who identify as women or non-binary)
         link: https://mit.zoom.us/j/91023986078
 ---
