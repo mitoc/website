@@ -7,7 +7,7 @@
     - title: Backcountry skiing
       link: https://us05web.zoom.us/j/89677803779?pwd=b2llcVNCNy9ZR1I5ZkxkcGZMME90Zz09
     - title: Learning climbing/mountaineering safely and cheaply
-      link:
+      link: https://mit.zoom.us/j/92332333225
     - title: Risk management
       link: https://mit.zoom.us/j/98213622795
     - title: Winter running
