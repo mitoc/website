@@ -15,7 +15,7 @@ You can rent cross-country, backcountry, telemark, and AT ski equipment from MIT
 
 ### IKON pass student discount
 
-MITOC is part of the College Ski Club program from Ikon. MITOC members who are also **students** (grad or undergrad at any college/university) can get discounted passes ($429 for the base pass, $609 for the Ikon Pass), which is less than the College passes and significantly less than the public passes. 
+MITOC is part of the College Ski Club program from Ikon. MITOC members who are also **students** (grad or undergrad at any college/university) can get discounted passes ($449 for the base pass, $619 for the Ikon Pass), which is less than the College passes and significantly less than the public passes. Staff, faculty, etc are not eligible.
 
 The major distinction between the Ikon and Base passes are that the Base passes have some blackout dates, and provide 5 days vs 7 days at the non-core resorts. You usually break even on the pass in 4-6 days of skiing at Northeast Ikon resorts (or a long weekend out West). 
 
@@ -27,4 +27,4 @@ In the Northeast, locations include:
 - Sunday River, ME
 - Loon, NH.
 
-To benefit from the discount, please **[fill this form](https://forms.gle/BqzThyKnPgnzt14g6)**. We ask for some info (class schedule, birthday) to help us and Ikon verify student status. Once you're validated as a MITOC student member you'll receive a single-use code.
+To benefit from the discount, please **[fill out this form](https://forms.office.com/r/CzeZUxFhFe)**. We ask for some info (class schedule, birthday) to help us and Ikon verify student status. Once you're validated as a MITOC student member you'll receive a single-use code.
