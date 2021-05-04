@@ -27,4 +27,4 @@ In the Northeast, locations include:
 - Sunday River, ME
 - Loon, NH.
 
-To benefit from the discount, please **[fill this form](https://forms.gle/BqzThyKnPgnzt14g6)** and we will come back to you. 
+To benefit from the discount, please **[fill this form](https://forms.gle/BqzThyKnPgnzt14g6)**. We ask for some info (class schedule, birthday) to help us and Ikon verify student status. Once you're validated as a MITOC student member you'll receive a single-use code.
