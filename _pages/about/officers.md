@@ -3,7 +3,7 @@
     title: Club Officers
 ---
 
-<div class="row is-flex">
+<div>
   {% for category in site.data.positions %}
     <h3>{{ category.title }}</h3>
     <div class="row is-flex">

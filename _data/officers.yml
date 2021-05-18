@@ -86,6 +86,8 @@ Hannah:
 JamesD:
   name: "James Douberley"
   photo: james-douberley.jpg
+JamesH:
+  name: "James Hermus"
 JamesT:
   email: jturitto@gmail.com
   name: "James Turitto"
@@ -203,3 +205,16 @@ Mary:
 Colin:
   name: Colin Wilson
   photo: colin.jpg
+Shannon:
+  name: Shannon Wing
+Josh:
+  name: Josh Bradshaw
+Angie:
+  name: Angie Diana
+Suzy:
+  name: Suzy McKinney
+  photo: Suzey-McKinney.jpg
+ChrisGlazner:
+  name: Chris Glazner
+PaulinaVarshavskaya:
+  name: Paulina Varshavskaya
