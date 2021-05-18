@@ -58,7 +58,6 @@
     title: Climbing Wall Manager
     description: Maintains climbing wall; organizes annual climbing competition
     officers:
-      - Tony
       - Carlos
   -
     title: Gear Manager
