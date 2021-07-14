@@ -6,7 +6,9 @@
 
 <div class="alert alert-warning">
   In accordance with <a href="http://web.mit.edu/covid19/">MIT's response to COVID-19</a>,
-  <strong>all MITOC events are canceled indefinitely.</strong>
+  all MITOC office hours are canceled indefinitely. <strong>Update (July 14th, 2021): We 
+  are still unable to run office hours. We will update here and email out an announcement 
+  when we are able to reopen.</strong>
 </div>
 
 ### 1. (Optional) Join [MITOC mailing lists](/mailing-lists)
