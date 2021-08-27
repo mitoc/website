@@ -9,8 +9,11 @@ function loadLeadersFromTripsWebsite(activityId, divId) {
         var leaders = data.leaders;
         var l = leaders.length;
         for(var i = 0; i < l; i++) {
-		    //Use the cute beaver instead of the Gravatar default pic
-			leaders[i].gravatar = leaders[i].gravatar.substr(0, leaders[i].gravatar.length - 2) + 'http%3A%2F%2Fmitoc.mit.edu%2Fimages%2Fleaders%2Fbeaver.jpg';
+		    // Try to get the user's Gravatar; otherwise, use the beaver as a fallback rather than the Gravatar fallback
+            var gravUrl = new URL(leaders[i].gravatar);
+            gravUrl.searchParams.set("d", "https://mitoc.mit.edu/images/leaders/Beaver.jpg");
+            leaders[i].gravatar = gravUrl.href;
+
             leaderListEntries = leaderListEntries
                     + '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6"><img height="100" width="100" src="'
                     + leaders[i].gravatar + '">'
