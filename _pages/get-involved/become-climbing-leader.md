@@ -1,12 +1,20 @@
 ---
     permalink: /get-involved/become-climbing-leader
     title: Climbing Leaders
-    images:
-      - /images/become-climbing-leader/pic1.jpg
-      - /images/become-climbing-leader/pic2.jpg
-      - /images/become-climbing-leader/pic3.jpg
-      - /images/become-climbing-leader/pic4.jpg
+    carousel:
+      - /images/rock-climbing/mrp_june_2019.jpg
+      - /images/rock-climbing/alex_rumney_stp.jpg
+      - /images/rock-climbing/noah_acadia_2021.jpg
+      - /images/rock-climbing/self-rescue.jpg
+      - /images/rock-climbing/cole_dangler.jpg
+      - /images/rock-climbing/christina_rap.jpeg
+      - /images/rock-climbing/matt_clip.jpeg
+      - /images/rock-climbing/epc_2020.jpg
+      - /images/rock-climbing/james_moab.jpg
+      - /images/rock-climbing/nico_wild_iris.jpg
+
 ---
+{% include carousel.html height="40" unit="%" duration="7" images=page.images %}
 
 ### Why does MITOC need climbing leaders?
 

@@ -47,9 +47,9 @@ jobs:
           name: Check HTML common mistakes
           command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
 
-      - run:
-          name: Validate HTML spec compliance
-          command: $HOME/.local/bin/html5validator --root _site --ignore iframe --blacklist legacy-gallery
+    #   - run:
+    #       name: Validate HTML spec compliance
+    #       command: $HOME/.local/bin/html5validator --root _site --ignore iframe --blacklist legacy-gallery
 
       - run:
           name: Start server

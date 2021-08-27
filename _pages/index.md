@@ -31,7 +31,7 @@ layout: default
 
 <div class="jumbotron" markdown="1">
 
-Winter School 2021 will happen - virtually - from January 7, 2021 to January 28, 2021. **[Read more](/events/winter-school)**
+School of Rock Applications are open now and due September 6. **[Read more](/events/school-of-rock)**
 
 </div>
 
