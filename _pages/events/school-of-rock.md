@@ -24,7 +24,7 @@ Open only to [MIT Outing Club members](/join).
 ## Application
 - [Form](https://forms.gle/bVa5e6Vc17tf2P6m6)
 - Due: Tuesday, September 7
-- Notification: Friday, September 10
+- Notification: between Friday, Sept 10 and Monday, Sept. 13
 - We will give preferences to MIT students, those that can commit to all or a majority of of weekends and TRSs, and our desire to create a diverse climbing community and climbing leader pipeline within MITOC.
 - Unfortunately, we cannot accept everyone that applies. We do our very best to accommodate as many folks as possible, but we typically receive 4-5x the number of applications as we have spots. 
 
