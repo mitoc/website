@@ -1,21 +1,25 @@
 ---
     permalink: /activities/rock-climbing
     title: Rock Climbing
-    images:
-      - /images/rock-climbing/pic1.jpg
-      - /images/rock-climbing/pic2.jpg
-      - /images/rock-climbing/pic3.jpg
-      - /images/rock-climbing/pic4.jpg
+    carousel:
+      - /images/rock-climbing/mrp_june_2019.jpg
+      - /images/rock-climbing/cole_dangler.jpg
+      - /images/rock-climbing/alex_rumney_stp.jpg
+      - /images/rock-climbing/noah_acadia_2021.jpg
+      - /images/rock-climbing/christina_rap.jpeg
+      - /images/rock-climbing/epc_2020.jpg
+      - /images/rock-climbing/james_moab.jpg
 ---
+{% include carousel.html height="40" unit="%" duration="7" images=page.images %}
 
 MITOC holds numerous climbing trips throughout the year. They include:
 
 *   [Circus](/events/circus) - Held monthly April through October.
-*   [Acadia](/events/acadia) - Held 1-2 times a year in summer months.
+*   [Acadia](/events/acadia) - Held annually, typically in May.
 
 MITOC also holds numerous climbing events, clinics, and courses, such as:
 
-*   MITOC Rock Program - A cohort program giving MITOC members a chance to learn and practice fundamentals of sport and trad climbing with more experienced climbers.
+*   [School of Rock](/events/school-of-rock) - MITOC's rock climbing mentor session dedicated to getting climbers outside on real rock.
 *   [Self Rescue](/events/courses) - Intro course for dealing with emergencies in the vertical terrain
 *   [Technical Review Sessions](/events/trs) - week-to-week review sessions to practice skills necessary for climbing
 *   [Mentor/Mentee Program](/activities/rock-climbing/mentor-mentee) - building the climbing community by pairing folks with aligned interests to climb together
