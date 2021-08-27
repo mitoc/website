@@ -43,12 +43,14 @@ Open only to [MIT Outing Club members](/join).
 - TRS: Thursday, October 14th, 7-9pm
 - Weekend Trip: October 16-17
 
-## Cost: $100. Includes:
+## Cost
+**$100, which includes:**
 - Cabin / tent stays
 - Saturday dinners for weekend trips
 - Group gear (ropes, quickdraws, cams, etc.)
 - Does not include transportation, required personal gear (helmet, shoes, harness, etc), or Gunks passes for trad participants. 
-- If the fee is prohibitive, please indicate this on your application. 
+- If the fee is prohibitive, please indicate this on your application.
+- Program fees help cover the above costs, all leaders are volunteers and are not paid for their time.
 
 ## COVID
 SoR will follow MIT’s latest COVID travel policy and all applicable local regulations at the time of each event.

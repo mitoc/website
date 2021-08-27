@@ -29,6 +29,12 @@ layout: default
     </div>
 </div>
 
+<div class="jumbotron" markdown="1">
+
+School of Rock Applications are open now and due September 6. **[Read more](/events/school-of-rock)**
+
+</div>
+
 <div class="row" markdown="1">
 <div class="col-md-8" markdown="1">
 
