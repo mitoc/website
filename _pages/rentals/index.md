@@ -9,12 +9,8 @@
       - /images/rental/pic4.jpg
 ---
 
-<div class="alert alert-warning">
-  <p>In accordance with <a href="http://web.mit.edu/covid19/">MIT's response to COVID-19</a>, all MITOC office hours are canceled indefinitely.</p> 
-    <p>We are unable to access the office, and are thus <strong>unable to rent gear</strong> until further notice.</p>
-    <p><strong>Update (July 14th, 2021): We 
-  are still unable to run office hours. We will update here and email out an announcement 
-  when we are able to reopen.</strong></p>
+<div class="alert alert-warning"> 
+   <p><strong>COVID Access Update (Sep 8th, 2021): We are now recalling all MITOC gear. Please return your gear during return-only office hours. Following an inventory, we will announce here and via email when we are able to reopen for rentals. New procedures will be in place to ensure compliance with <a href="http://web.mit.edu/covid19/">MIT's COVID-19 policies</a>.</strong></p>
 </div>
 
 **Please read this whole page before coming in to rent gear for the first time.** There is some administrativia involved, and planning ahead will help your rental go smoothly.
