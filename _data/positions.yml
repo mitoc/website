@@ -131,12 +131,11 @@
 -
   title: Activity Chairs
   positions:
-  # -
-  #   title: 3-Season Hiking Chair
-  #   description: Recruits, trains, and approves 3-season hiking leaders
-  #   officers:
-  #     - Abraham
-  #     - Amy
+  -
+    title: 3-Season Hiking Chair
+    description: Recruits, trains, and approves 3-season hiking leaders
+    officers:
+      - AlejandroDiaz
   -
     title: Climbing Chair
     description: Recruits, trains, and approves climbing leaders; organizes School of Rock, climbing courses, and technical review sessions
