@@ -10,7 +10,7 @@
 ---
 
 <div class="alert alert-warning"> 
-   <p><strong>COVID Access Update (Sep 8th, 2021): We are now recalling all MITOC gear. Please return your gear during return-only office hours. Following an inventory, we will announce here and via email when we are able to reopen for rentals. New procedures will be in place to ensure compliance with <a href="http://web.mit.edu/covid19/">MIT's COVID-19 policies</a>.</strong></p>
+   <p><strong>COVID Access Update (Sep 22nd, 2021): General office hours (including rentals) will resume on Sep 28, 2021. You must wear a mask to access Stratton Student Center in compliance with <a href="http://web.mit.edu/covid19/">MIT's COVID-19 policies</a>. We have adjusted our Tuesday/Thursday office hours to end at 7pm as Stratton is only accessible to the public until 7pm. An MIT ID card is required to enter the building after 7pm.</strong></p>
 </div>
 
 **Please read this whole page before coming in to rent gear for the first time.** There is some administrativia involved, and planning ahead will help your rental go smoothly.
@@ -38,7 +38,7 @@
     
     Deposit checks are mandatory and must be _personal checks_. NO EXCEPTIONS UNDER ANY CIRCUMSTANCES. We will not accept money orders, cashier's checks, cash, credit cards, IDs, valuables, or anything else as collateral for rentals. Do not try to pressure deskworkers to bend this rule.
     
-2.  **Come by the [MITOC office (W20-461)](http://whereis.mit.edu/?go=W20) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesdays and Thursdays from 7 - 8 pm and Fridays from noon - 1 pm. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
+2.  **Come by the [MITOC office (W20-461)](http://whereis.mit.edu/?go=W20) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesdays and Thursdays from 6 - 7 pm and Fridays from noon - 1 pm. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
 3.  **Go outside and have fun! Yay!**
 
 ### Returning Gear
