@@ -4,13 +4,6 @@
     subtitle: It's easy to become a member, and anyone can join.
 ---
 
-<div class="alert alert-warning">
-  In accordance with <a href="http://web.mit.edu/covid19/">MIT's response to COVID-19</a>,
-  all MITOC office hours are canceled indefinitely. <strong>Update (July 14th, 2021): We 
-  are still unable to run office hours. We will update here and email out an announcement 
-  when we are able to reopen.</strong>
-</div>
-
 ### 1. (Optional) Join [MITOC mailing lists](/mailing-lists)
 
 Mailing lists are our primary way to announce upcoming events and organize informal trips. You do _not_ have to pay the membership fee to join mailing lists, and paying the fee will _not_ automatically sign you up for any mailing lists!
