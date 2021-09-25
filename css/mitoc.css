@@ -66,6 +66,7 @@ p img {
   background-repeat: no-repeat;
   background-image: url(/images/bunkhouse/bunkhouse-exterior-rendering.jpg);
   background-position-y: 34%;
+  background-position-x: 50%;
   min-height: 57vh;
   display: flex;
   flex-direction: column;
@@ -88,8 +89,17 @@ p img {
 }
 
 .bunkhouse-banner h1 {
-  font-size: 6rem;
+  font-size: 4rem;
 }
 .bunkhouse-banner h2 {
-  font-size: 4rem;
+  font-size: 3rem;
+}
+
+@media (min-width: 768px) {
+  .bunkhouse-banner h1 {
+    font-size: 6rem;
+  }
+  .bunkhouse-banner h2 {
+    font-size: 4rem;
+  }
 }
