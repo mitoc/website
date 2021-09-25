@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ site.title }}</title>
+        <title>MITOC - Camelot Bunkhouse</title>
         <link rel="shortcut icon" type="image/png" href="/images/favicon.ico">
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/mitoc.css">
@@ -14,9 +14,9 @@
         <script defer src="/js/mitoc.js"></script>
     </head>
 
-    <body>
-        {% include navbar.html menu=site.data.menu %}
-        <div id="main" class="container">
+    <body class="bunkhouse-body">
+        {% include navbar.html menu=site.data.bunkhouse_menu class='bunkhouse-navbar' %}
+        <div>
             {{ content }}
         </div>
     </body>
