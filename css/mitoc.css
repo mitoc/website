@@ -62,6 +62,10 @@ p img {
 }
 
 .bunkhouse-banner {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(/images/bunkhouse/bunkhouse-exterior-rendering.jpg);
+  background-position-y: 34%;
   min-height: 57vh;
   display: flex;
   flex-direction: column;
@@ -71,29 +75,16 @@ p img {
   margin-bottom: 1rem;
 }
 
-.bunkhouse-banner::before {
-  content: "";
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-image: url(/images/bunkhouse/bunkhouse-exterior-rendering.jpg);
-  background-position-y: 34%;
-  opacity: 0.8;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  z-index: -1;
-}
-
 .bunkhouse-banner h1,
 .bunkhouse-banner h2 {
   font-weight: bolder;
   text-transform: uppercase;
   color: #151515;
-  text-shadow: 0.02em 0 #bbbbbb, 0 0.02em #bbbbbb, -0.02em 0 #bbbbbb,
-    0 -0.02em #bbbbbb;
-    text-align: center;
+  /* text-shadow: 0.02em 0 #bbbbbb, 0 0.02em #bbbbbb, -0.02em 0 #bbbbbb,
+    0 -0.02em #bbbbbb; */
+  background: rgba(255, 255, 255, 0.45);
+  padding: 2px 10px;
+  text-align: center;
 }
 
 .bunkhouse-banner h1 {
