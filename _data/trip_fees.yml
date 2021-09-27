@@ -1,27 +1,35 @@
 -
-    name: "No Man's Land Film Festival ticket with MIT ID: $5"
-    price: 5
+    name: "Acadia: $40"
+    price: 40
     category: trip
 -
-    name: "No Man's Land Film Festival ticket General Admission: $10"
+    name: "AIARE 1 (full): $350"
+    price: 350
+    category: trip
+-
+    name: "AIARE 1 (subsidized): $250"
+    price: 250
+    category: trip
+-
+    name: "AIARE 2 (full): $400"
+    price: 400
+    category: trip
+-
+    name: "AIARE 2 (subsidized): $300"
+    price: 300
+    category: trip
+-
+    name: "Avalanche rescue (full): $110"
+    price: 110
+    category: trip
+-
+    name: "Avalanche rescue (subsidized): $10"
     price: 10
     category: trip
 -
     name: "Camelot exclusive rental: $300"
     price: 300
     category: cabin
--
-    name: "Intervale exclusive rental: $250"
-    price: 250
-    category: cabin
--
-    name: "SumMIT Bouldering Comp, no shirt: $10"
-    price: 10
-    category: item
--
-    name: "Acadia: $40"
-    price: 40
-    category: trip
 -
     name: "Canoe Trip: $15"
     price: 15
@@ -39,8 +47,20 @@
     price: 10
     category: trip
 -
+    name: "Intervale exclusive rental: $250"
+    price: 250
+    category: cabin
+-
     name: "MITOC Rock Program $100"
     price: 100
+    category: trip
+-
+    name: "No Man's Land Film Festival ticket with MIT ID: $5"
+    price: 5
+    category: trip
+-
+    name: "No Man's Land Film Festival ticket General Admission: $10"
+    price: 10
     category: trip
 -
     name: "Open Pool Session + boat: $12"
@@ -67,16 +87,12 @@
     price: 10
     category: trip
 -
+    name: "SumMIT Bouldering Comp, no shirt: $10"
+    price: 10
+    category: item
+-
     name: "Surfing trip: $30"
     price: 30
-    category: trip
--
-    name: "WFA (full)"
-    price: 200
-    category: trip
--
-    name: "WFA (subsidized)"
-    price: 100
     category: trip
 -
     name: "White-water Trip: $15"
@@ -85,6 +101,14 @@
 -
     name: "Windsurfing Trip: $15"
     price: 15
+    category: trip
+-
+    name: "WFA (full)"
+    price: 200
+    category: trip
+-
+    name: "WFA (subsidized)"
+    price: 100
     category: trip
 -
     name: "'Women''s Climbing Open Cabin $20'"
@@ -101,28 +125,4 @@
 -
     name: "WS trip fee: $5"
     price: 5
-    category: trip
--
-    name: "AIARE 1 (full): $350"
-    price: 350
-    category: trip
--
-    name: "AIARE 1 (subsidized): $250"
-    price: 250
-    category: trip
--
-    name: "AIARE 2 (full): $400"
-    price: 400
-    category: trip
--
-    name: "AIARE 2 (subsidized): $300"
-    price: 300
-    category: trip
--
-    name: "Avalanche rescue (full): $110"
-    price: 110
-    category: trip
--
-    name: "Avalanche rescue (subsidized): $10"
-    price: 10
     category: trip
