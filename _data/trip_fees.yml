@@ -71,6 +71,14 @@
     price: 15
     category: trip
 -
+    name: "Self-rescue course (full): $225"
+    price: 225
+    category: trip
+-
+    name: "Self-rescue course (subsidized): $125"
+    price: 125
+    category: trip
+-
     name: "Ski-a-Palooza $10"
     price: 10
     category: trip
