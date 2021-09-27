@@ -43,24 +43,12 @@
     price: 30
     category: trip
 -
-    name: "Climbers Retreat $10"
-    price: 10
-    category: trip
--
     name: "Intervale exclusive rental: $250"
     price: 250
     category: cabin
 -
     name: "MITOC Rock Program $100"
     price: 100
-    category: trip
--
-    name: "No Man's Land Film Festival ticket with MIT ID: $5"
-    price: 5
-    category: trip
--
-    name: "No Man's Land Film Festival ticket General Admission: $10"
-    price: 10
     category: trip
 -
     name: "Open Pool Session + boat: $12"
@@ -87,10 +75,6 @@
     price: 10
     category: trip
 -
-    name: "SumMIT Bouldering Comp, no shirt: $10"
-    price: 10
-    category: item
--
     name: "Surfing trip: $30"
     price: 30
     category: trip
@@ -109,10 +93,6 @@
 -
     name: "WFA (subsidized)"
     price: 100
-    category: trip
--
-    name: "'Women''s Climbing Open Cabin $20'"
-    price: 20
     category: trip
 -
     name: "WS ice climbing trip fee: $20"
