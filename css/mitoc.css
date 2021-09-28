@@ -56,6 +56,15 @@ p img {
   font-size: large;
 }
 
+.bunkhouse-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.bunkhouse-container {
+  max-width: 950px;
+}
+
 .bunkhouse-navbar,
 .bunkhouse-navbar .navbar-brand {
   font-size: 22px;

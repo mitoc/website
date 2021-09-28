@@ -13,4 +13,4 @@ With a plan in hand, the MIT Outing Club has decided to move forward with the Bu
 
 On behalf of the MITOC community, we look forward to seeing you in the near future at the new MITOC Camelot bunkhouse.
 
-MITOC Bunkhouse Committee
+_MITOC Bunkhouse Committee_
