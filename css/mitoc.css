@@ -100,33 +100,40 @@ p img {
 .bunkhouse-banner h1 {
   font-size: 4rem;
 }
-.bunkhouse-banner h2,
-.bunkouse-donnate-button {
+.bunkhouse-banner h2 {
   font-size: 3rem;
+}
+
+.bunkhouse-banner .bunkouse-donnate-button {
+  font-size: 2rem;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: -20px;
 }
 
 @media (min-width: 768px) {
   .bunkhouse-banner h1 {
     font-size: 6rem;
   }
-  .bunkhouse-banner h2,
-  .bunkouse-donnate-button {
+  .bunkhouse-banner h2 {
     font-size: 4rem;
   }
 
+  .bunkhouse-banner .bunkouse-donnate-button {
+    font-size: 3rem;
+    width: 250px;
+    margin-top: 40px;
+    margin-bottom: -40px;
+  }
 }
 
 .bunkouse-donnate-button {
   background: #d22630;
   border-bottom: 2px solid #a41d35;
-  font-size: 3rem;
   font-weight: 600;
-  margin-top: 40px;
-  margin-bottom: -40px;
-  width: 250px;
   border-radius: 30px;
   color: white;
-  padding: .5625rem 0.75rem;
+  padding: 0.5625rem 0.75rem;
   opacity: 0.93;
 }
 
