@@ -110,11 +110,16 @@ p img {
   font-size: 3rem;
 }
 
-.bunkouse-donnate-button {
+.bunkouse-donate-button {
   font-size: 2rem;
   width: 200px;
   margin-top: 20px;
   margin-bottom: -20px;
+  text-align: center;
+}
+
+.bunkouse-donate-button:hover, .bunkouse-donate-button:visited {
+  color: white;
 }
 
 @media (min-width: 768px) {
@@ -125,18 +130,18 @@ p img {
     font-size: 4rem;
   }
 
-  .bunkhouse-banner .bunkouse-donnate-button {
+  .bunkhouse-banner .bunkouse-donate-button {
     margin-top: 40px;
     margin-bottom: -40px;
   }
 
-  .bunkouse-donnate-button {
+  .bunkouse-donate-button {
     font-size: 3rem;
     width: 250px;
   }
 }
 
-.bunkouse-donnate-button {
+.bunkouse-donate-button {
   font-weight: 600;
   opacity: 0.93;
   padding: 0.5625rem 0.75rem;
@@ -148,7 +153,7 @@ p img {
   margin-bottom: 20px;
 }
 
-.bunkouse-donnate-button:hover {
+.bunkouse-donate-button:hover {
   text-decoration: underline;
 }
 
