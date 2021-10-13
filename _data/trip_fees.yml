@@ -47,8 +47,12 @@
     price: 250
     category: cabin
 -
-    name: "MITOC Rock Program $100"
+    name: "School of Rock Fee $100"
     price: 100
+    category: trip
+-
+    name: "School of Rock T-Shirt $15"
+    price: 15
     category: trip
 -
     name: "Open Pool Session + boat: $12"
