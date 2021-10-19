@@ -92,11 +92,11 @@
     category: trip
 -
     name: "WFA (full)"
-    price: 200
+    price: 250
     category: trip
 -
     name: "WFA (subsidized)"
-    price: 100
+    price: 150
     category: trip
 -
     name: "WS ice climbing trip fee: $20"
