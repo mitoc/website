@@ -176,11 +176,11 @@
     description: Leads canoeing trips; maintains canoe fleet
     officers:
       - Abby
-  # -
-  #   title: Mountain Biking Chair
-  #   description: Leads mountain biking trips; maintains mountain bikes
-  #   officers:
-  #     - Tyler
+  -
+    title: Mountain Biking Chair
+    description: Leads mountain biking trips; maintains mountain bikes
+    officers:
+      - MaxwellYun
   -
     title: Speed Walking Chair
     officers:
