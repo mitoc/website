@@ -1,16 +1,16 @@
 camping:
   items:
     - title: Tent (2 person)
-      deposit: $120
+      deposit: $160
       rental: $8
     - title: Tent (4 person)
-      deposit: $180
+      deposit: $250
       rental: $12
     - title: Sleeping Bag (Synthetic, –30°F – +40°F)
       deposit: $200
       rental: $6
     - title: Foam Pad
-      deposit: $12
+      deposit: $30
       rental: $2
     - title: Backpack
       deposit: $150
@@ -28,10 +28,10 @@ camping:
       deposit: $35
       rental: $1
     - title: Trekking Poles
-      deposit: $40
+      deposit: $65
       rental: $4
     - title: Tarp Shelter
-      deposit: $120
+      deposit: $140
       rental: $4
     - title: Bear Canister
       deposit: $75
@@ -40,19 +40,19 @@ camping:
 climbing:
   items:
     - title: ATC and Locking Biner
-      deposit: $20
+      deposit: $40
       rental: $2
     - title: Climbing Shoes
-      deposit: $50
+      deposit: $60
       rental: $5
     - title: Climbing Helmet
       deposit: $75
       rental: $1
     - title: Climbing Harness
-      deposit: $40
+      deposit: $60
       rental: $4
     - title: Plastic Boot
-      deposit: $150
+      deposit: $180
       rental: $6
   restricted_items:
     - title: Ice Climbing Axe
@@ -82,11 +82,11 @@ winter_hiking:
     - title: Sorel Boots
       deposit: $110
       rental: $6
-    - title: Plastic Boots
-      deposit: $150
+    - title: Plastic Boot
+      deposit: $180
       rental: $6
     - title: Microspikes
-      deposit: $50
+      deposit: $80
       rental: $4
     - title: Hiking Crampons
       deposit: $80
@@ -95,7 +95,7 @@ winter_hiking:
       deposit: $50
       rental: $3
     - title: Snowshoes
-      deposit: $100
+      deposit: $200
       rental: $7
     - title: Winter Sleeping Bag (Synthetic, –30°F – 0°F)
       deposit: $200
@@ -110,14 +110,17 @@ winter_hiking:
       deposit: $40
       rental: $4
     - title: Small Sled
-      deposit: $5
+      deposit: $15
       rental: $1
+    - title: Bivy Bags
+      deposit: $120
+      rental: $4
   restricted_items:
     - title: Down Sleeping Bag (-20°F, only for alpinism)
-      deposit: $350
+      deposit: $400
       rental: $10
     - title: Mountaineering Tent
-      deposit: $420
+      deposit: $330
       rental: $9
     - title: Pulk
       deposit: $0
@@ -160,7 +163,7 @@ xc_skiing:
           deposit: $200
           rental: $9
         - title: NNN-BC Ski Boot
-          deposit: $175
+          deposit: $155
           rental: $5
     - title: Both
       items:
@@ -202,7 +205,7 @@ at_skiing:
     - title: Snowboarding
       items:
         - title: Splitboard + Skins
-          deposit: $600
+          deposit: $650
           rental: $25
 
 purchasable:
@@ -231,17 +234,19 @@ purchasable:
       price: $1
     - title: MITOC bumper sticker
       price: $1
+    - title: Goggles
+      price: $18
 
 biking:
   items:
     - title: Mountain Bike
-      deposit: $400
+      deposit: $780
       rental: $15
     - title: Fat Bike
       deposit: $400
       rental: $15
     - title: Bike Rack
-      deposit: $80
+      deposit: $65
       rental: $5
     - title: Bike Helmet
       deposit: $40
