@@ -43,7 +43,6 @@ Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). Thi
 
 #### Trips
 
-**Note: no trip will take place this year**
 
 Outdoor trips are held every Saturday and Sunday, and often involve travel to New Hampshire's White Mountains. These trips include hiking, ice climbing, skiing, overnights, and fat biking. Gear ranging from ice axes to winter boots is available for rent at-cost.
 
