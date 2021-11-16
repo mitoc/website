@@ -129,7 +129,7 @@ winter_hiking:
       deposit: $20
       rental: $3
     - title: Ice Screw
-      deposit: $60
+      deposit: $40
       rental: $3
     - title: Fluke
       deposit: $40
