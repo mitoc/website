@@ -1,10 +1,10 @@
 camping:
   items:
     - title: Tent (2 person)
-      deposit: $160
+      deposit: $250
       rental: $8
     - title: Tent (4 person)
-      deposit: $250
+      deposit: $400
       rental: $12
     - title: Sleeping Bag (Synthetic, –30°F – +40°F)
       deposit: $200
@@ -95,7 +95,7 @@ winter_hiking:
       deposit: $50
       rental: $3
     - title: Snowshoes
-      deposit: $200
+      deposit: $140
       rental: $7
     - title: Winter Sleeping Bag (Synthetic, –30°F – 0°F)
       deposit: $200
