@@ -182,7 +182,7 @@ at_skiing:
           deposit: $40
           rental: $2
         - title: Ski Helmet
-          deposit: $75
+          deposit: $60
           rental: $1
         - title: Telemark Skis
           deposit: $200
