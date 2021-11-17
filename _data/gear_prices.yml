@@ -28,7 +28,7 @@ camping:
       deposit: $35
       rental: $1
     - title: Trekking Poles
-      deposit: $65
+      deposit: $40
       rental: $4
     - title: Tarp Shelter
       deposit: $140
@@ -167,7 +167,7 @@ xc_skiing:
           rental: $5
     - title: Both
       items:
-        - title: XC Ski Pole
+        - title: XC Ski
           deposit: $40
           rental: $2
 
