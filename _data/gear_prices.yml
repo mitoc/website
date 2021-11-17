@@ -40,7 +40,7 @@ camping:
 climbing:
   items:
     - title: ATC and Locking Biner
-      deposit: $40
+      deposit: $30
       rental: $2
     - title: Climbing Shoes
       deposit: $60
