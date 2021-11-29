@@ -22,13 +22,6 @@ If you are an MIT student renting gear for a MITOC trip and this cost is prohibi
 
 
 <div class="row" markdown="1">
-<div class="col-md-6" markdown="1">
-
-### Camping
-
-{% include price-table.html category = site.data.gear_prices.camping %}
-
-</div>
 
 <div class="col-md-6" markdown="1">
 
@@ -38,6 +31,14 @@ If you are an MIT student renting gear for a MITOC trip and this cost is prohibi
 
 MITOC's climbing ropes are not for rental. They are for official club
 trips only.
+
+</div>
+
+<div class="col-md-6" markdown="1">
+
+### Camping
+
+{% include price-table.html category = site.data.gear_prices.camping %}
 
 </div>
 
@@ -96,6 +97,10 @@ _\*\* All sizes are in cm._
 ### Biking
 
 {% include price-table.html category = site.data.gear_prices.biking %}
+
+</div>
+
+<div class="col-md-6" markdown="1">
 
 ### Books
 

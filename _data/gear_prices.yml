@@ -55,12 +55,6 @@ climbing:
       deposit: $180
       rental: $6
   restricted_items:
-    - title: Ice Climbing Axe
-      deposit: $300
-      rental: $9
-    - title: Ice Climbing Crampons
-      deposit: $200
-      rental: $7
     - title: Bouldering Pad
       deposit: $200
       rental: $5
