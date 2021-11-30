@@ -19,7 +19,7 @@ camping:
       deposit: $90
       rental: $3
     - title: Stove
-      deposit: $100
+      deposit: $150
       rental: $5
     - title: Fuel Bottle (inc. fuel)
       deposit: $20
