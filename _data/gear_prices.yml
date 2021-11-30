@@ -117,7 +117,7 @@ winter_hiking:
       deposit: $330
       rental: $9
     - title: Pulk
-      deposit: $0
+      deposit: $75
       rental: $3
     - title: Picket
       deposit: $20
