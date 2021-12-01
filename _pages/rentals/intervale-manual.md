@@ -4,6 +4,31 @@
 ---
 The below contains information which **you must read and follow.** This is not an online license agreement.
 
+## <span style="color:red;">Use During Covid</span>
+
+In order to mitigate the risks of COVID-19, some rules for accessing Intervale
+have been modifed. Below is a list of all updated rules pertaining to Intervale
+access and COVID-19. These rules are intended to supercede any other rule
+listed on this page which may be in contradiction.
+
+### Outdoor/Cambing Only
+
+- **Vaccination Status:** All guests must attest that they are either fully vaccinated or that they have a valid medical or religious excemption.
+- **Guest Information:** For the purposes of contact tracing, the full name of each guest as well as their contact information (email or phone) must be provided at the time of reservation.
+- **Daily Attestation:** All guests staying at the property must submit a daily attestation of health.
+
+### Cabin & Yurt
+
+In addition to all of the requirements above for camping & outdoor use only, the following rules also apply to using the cabin or yurt.
+
+- **Occupancy:** The cabin and yurt are indoor spaces and may be reserves separately. Only 1 group of up to 10 people may reserve the cabin or yurt for any single night. 
+- **Ventilation:** As much as possible, keep a window(s) cracked to improve ventilation.
+- **Masking:** Masks are required indoors (cabin/yurt) except while eating, drinking, or sleeping.
+- **Distancing:** As much as possible, guests inside the cabin & yurt should attempt to social distance.
+- **Cleaning:** Guests must thoroughly clean all surfaces prior to departing.
+
+**NOTE:** Vaccination status and daily health attestations are not shared with anyone. Contact tracing information is only shared in the event that there may be a reason to believe someone may have been exposed.
+
 ## Purpose
 
 This document is intended as an instruction set for Intervale Keyholders. It is similar to the instructions told to new Keyholders during training trips. However, this document is not a substitute for a training trip. If you want to become a Keyholder for Intervale, you must attend one of these trips. 
@@ -97,16 +122,19 @@ In order to make a reservation a Keyholder must:
 ### Reservation Procedure
 All of these steps must be completed in order to legally access the property.
 
-1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3).
-Upon express email or written approval from a Cabin Manager following your application, pay for your entire group in one payment on the [Pay MITOC](https://mitoc.mit.edu/pay) page and email the receipt as a 2. reply to your approval email. **Fees are non-refundable**. You will receive an electronic lock code after payment, for cabin stays.
-3. Confirm by email with the Cabin Managers that your group and plans have not changed before leaving for Intervale. Detail any changes if applicable.
-4. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
+1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). <span style="color:red;">NOTE: The full names and contact information of every member in your party is required</span>
+1. Upon express email or written confirmation from a Cabin Manager following your application, pay for your entire group in one payment on the [Pay MITOC](https://mitoc.mit.edu/pay) page and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
+1. <span style="color:red;">Every member of your party must submit an [Attestation of Vaccination or Exemption](https://mitoc.mit.edu/404) 24 hours prior to your reservation. It is recommended that you have every member of your party submit this form prior to submitting the reservation request.</span>
+1. A Cabin Manager will then email you specific, written approval to ccess the property. If relevant, you will also receive a cabin door code for your stay.
+1. Confirm by email with the Cabin Managers that your group and plans have not changed before leaving for Intervale. Detail any changes if applicable.
+1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
 Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email
  
 ### Reservation Policies
 - All reservations are at the discretion of the Cabin Managers. Requests can be denied on suspicion/expectation of potential issues with the visit.
 - We require a 1:1 ratio of members to non-members in each group
-- There can be a maximum of fifteen people in the cabin and twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
+- There can be a maximum of ~fifteen~ <span style="color:red;">ten</span> people in the cabin or yurt and twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
+- <span style="color:red;">Only one group at a time may reserve the cabin or yurt.</span>
 - Reservation requests for weekends must be submitted by Thursday at 11:59pm before the weekend of use.
 - Reservations must all fit in one vehicle or maintain a one-to-four ratio of Keyholders to guests (or one-to-nine in the case of official MITOC trips.)
 - Pets may be allowed at the discretion of the Cabin Managers. Advanced notice is required.
