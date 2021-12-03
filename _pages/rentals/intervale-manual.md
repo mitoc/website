@@ -4,20 +4,20 @@
 ---
 The below contains information which **you must read and follow.** This is not an online license agreement.
 
-## <span style="color:red;">Use During Covid</span>
+# <span style="color:red;">Use During Covid</span>
 
 In order to mitigate the risks of COVID-19, some rules for accessing Intervale
 have been modifed. Below is a list of all updated rules pertaining to Intervale
 access and COVID-19. These rules are intended to supercede any other rule
 listed on this page which may be in contradiction.
 
-### Outdoor/Cambing Only
+### <span style="color:red;">Outdoor/Cambing Only</span>
 
-- **Vaccination Status:** All guests must attest that they are either fully vaccinated or that they have a valid medical or religious excemption.
+- **Vaccination Status:** All guests must use MIT's Tim Tickets "Visitor" portal to attest that they are either fully vaccinated or that they have a valid medical or religious excemption.
+- **Daily Attestation:** All guests staying at the property must use MIT's Tim Tickets "Visitor" portal to submit a daily attestation of health.
 - **Guest Information:** For the purposes of contact tracing, the full name of each guest as well as their contact information (email or phone) must be provided at the time of reservation.
-- **Daily Attestation:** All guests staying at the property must submit a daily attestation of health.
 
-### Cabin & Yurt
+### <span style="color:red;">Cabin & Yurt</span>
 
 In addition to all of the requirements above for camping & outdoor use only, the following rules also apply to using the cabin or yurt.
 
@@ -29,11 +29,14 @@ In addition to all of the requirements above for camping & outdoor use only, the
 
 **NOTE:** Vaccination status and daily health attestations are not shared with anyone. Contact tracing information is only shared in the event that there may be a reason to believe someone may have been exposed.
 
-## Purpose
+
+---
+# Purpose
+---
 
 This document is intended as an instruction set for Intervale Keyholders. It is similar to the instructions told to new Keyholders during training trips. However, this document is not a substitute for a training trip. If you want to become a Keyholder for Intervale, you must attend one of these trips. 
 
-### Keyholders
+# Keyholders
 
 **Being an Intervale Keyholder is an important responsibility, and should not be taken lightly.**
 
@@ -47,9 +50,9 @@ The reserving Keyholder MUST be present at the property for the duration of the 
 
 **Keyholder status is contingent upon correct and dutiful observance of the rules and procedures detailed in this document. Failure to comply with (including ignorance of) any of these rules and procedures can result in loss or Keyholder status (and other disciplinary action.)**
 
- ***
-
-## Location and Access
+---
+# Location and Access
+---
 
 Intervale is located a few miles north of North Conway, NH. The exact location of the property and the parking area are shown to Keyholders during Keyholder training. There is no street address for either. Keyholders can make whatever personal notes are needed to find the property, but should not share any information whatsoever about the location of the parking area or the property.
 
@@ -78,7 +81,7 @@ All of these rules must be followed at **all times** by anyone accessing the pro
 - **No vehicles may be operated on the right-of-way to the MITOC property. (Use is reserved for cabin managers, as needed to maintain the property.)**
 - **Any complaints or confrontations with neighbors or visits by the police must be reported *immediately* to the cabin managers.**
 
-## Parking
+### Parking
 
 Parking for the cabin is in a small lot. Do not park anywhere else but here, not even to unload gear. If you attempt to drive the rest of the way, you may disturb our neighbors. Please keep in mind that this parking lot is owned by the Ski Club. MITOC has been granted permission to park here under two conditions.
 - **That MITOC leaves enough space such that the Ski Club can park two cars side-by-side in the lot on the right without blocking the driveway.**
@@ -90,9 +93,9 @@ Additionally:
 - **You may NOT consume alcohol, block the roadway, create any disturbance, or camp in the parking lot.**
 - **Do not leave any trash in the parking area.**
 
-***
-
-## Reserving the Property
+---
+# Reserving the Property
+---
 
 ### Types of Use
 
@@ -122,19 +125,20 @@ In order to make a reservation a Keyholder must:
 ### Reservation Procedure
 All of these steps must be completed in order to legally access the property.
 
-1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). <span style="color:red;">NOTE: The full names and contact information of every member in your party is required</span>
-1. Upon express email or written confirmation from a Cabin Manager following your application, pay for your entire group in one payment on the [Pay MITOC](https://mitoc.mit.edu/pay) page and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
-1. <span style="color:red;">Every member of your party must submit an [Attestation of Vaccination or Exemption](https://mitoc.mit.edu/404) 24 hours prior to your reservation. It is recommended that you have every member of your party submit this form prior to submitting the reservation request.</span>
-1. A Cabin Manager will then email you specific, written approval to ccess the property. If relevant, you will also receive a cabin door code for your stay.
-1. Confirm by email with the Cabin Managers that your group and plans have not changed before leaving for Intervale. Detail any changes if applicable.
+1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** The full names and contact information of every member in your party is required.
+1. Upon express email or written confirmation from a Cabin Manager of receipt of your request, please instruct every member of your party to use [MIT's Tim Tickets "Visitor" portal](mitoc.mit.edu/404) to submit an attestation of vaccination or exemption at least 24 hours prior to your reservation. It is recommended that you have every member of your party submit this form prior to submitting the reservation request.
+1. A cabin manager will confirm receipt of your request and confirmation of vaccination attestation and request that you pay for your group. Please submit a payment for your entire group (we do not accept individual payments from each guest) at [Pay MITOC}(https://mitoc.medi.edu/pay) and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
+1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
+1. Confirm by email with the Cabin Managers that your group and plans have not changed no later than 1 day in advance of leaving for Intervale. Detail any changes if applicable.
+1. No more than 24 hours in advance, everyone in your party **must** use [MIT's Tim Tickets "Visitor" portal](mitoc.mit.edu/404) to complete a daily health attestation confirming that they do not have any symptoms of COVID-19. If any member of your group has any symptoms of COVID-19, they should not visit the property and should email the Cabin managers who will work with them to either receive desk credit for their payment, or find some other acceptable solution.
 1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
 Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email
  
 ### Reservation Policies
 - All reservations are at the discretion of the Cabin Managers. Requests can be denied on suspicion/expectation of potential issues with the visit.
+- There can be a maximum of ~fifteen~ **ten** people in the cabin or yurt and twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
+- Only one group at a time may reserve the cabin or yurt.
 - We require a 1:1 ratio of members to non-members in each group
-- There can be a maximum of ~fifteen~ <span style="color:red;">ten</span> people in the cabin or yurt and twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
-- <span style="color:red;">Only one group at a time may reserve the cabin or yurt.</span>
 - Reservation requests for weekends must be submitted by Thursday at 11:59pm before the weekend of use.
 - Reservations must all fit in one vehicle or maintain a one-to-four ratio of Keyholders to guests (or one-to-nine in the case of official MITOC trips.)
 - Pets may be allowed at the discretion of the Cabin Managers. Advanced notice is required.
@@ -143,9 +147,9 @@ Please keep in mind that Intervale is managed by volunteers with other responsib
 ## Communication
 Any and all questions/communication about Intervale should be directed to the Cabin Managers, who can most easily be reached at intervale-mgr@mit.edu. It is especially important not to communicate the location of the cabin to anyone.
  
-***
-
-## At The Cabin
+---
+# At The Cabin
+---
 
 ### Arriving
 
@@ -172,7 +176,9 @@ Other alcohol-related behaviors prohibited by MIT include but are not limited to
 MIT also adheres to the provisions concerning alcohol under the federal Drug-Free Workplace and Drug-Free Schools and Communities Acts (DFSCA).
 The Institute does not intend through its guidelines or policies to restrict the responsible use of alcohol by members of the MIT community who are at or above the legal drinking age of 21. However, efforts to observe existing laws and regulations in an environment where the majority of the undergraduate student body is not of legal drinking age will impose some constraints on those who are of legal drinking age.”
 
-## Facilities and Equipment
+---
+# Facilities and Equipment
+---
 
 ### Cabin Gas and Appliances
 
