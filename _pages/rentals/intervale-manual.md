@@ -21,7 +21,7 @@ listed on this page which may be in contradiction.
 
 In addition to all of the requirements above for camping & outdoor use only, the following rules also apply to using the cabin or yurt.
 
-- **Occupancy:** The cabin and yurt are indoor spaces and may be reserves separately. Only 1 group of up to 10 people may reserve the cabin or yurt for any single night. 
+- **Occupancy:** The cabin and yurt are indoor spaces and may be reserved separately. Only 1 group of up to 10 people may reserve the cabin or yurt for any single night. 
 - **Ventilation:** As much as possible, keep a window(s) cracked to improve ventilation.
 - **Masking:** Masks are required indoors (cabin/yurt) except while eating, drinking, or sleeping.
 - **Distancing:** As much as possible, guests inside the cabin & yurt should attempt to social distance.
