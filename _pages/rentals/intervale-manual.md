@@ -11,7 +11,7 @@ have been modifed. Below is a list of all updated rules pertaining to Intervale
 access and COVID-19. These rules are intended to supercede any other rule
 listed on this page which may be in contradiction.
 
-### <span style="color:red;">Outdoor/Cambing Only</span>
+### <span style="color:red;">Outdoor/Camping Only</span>
 
 - **Vaccination Status:** All guests must use MIT's Tim Tickets "Visitor" portal for Intervale to attest that they are either fully vaccinated or that they have a valid medical or religious excemption.
 - **Daily Attestation:** All guests staying at the property must use MIT's Tim Tickets "Visitor" portal for Intervale to submit a daily attestation of health.
