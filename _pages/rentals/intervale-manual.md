@@ -27,7 +27,7 @@ In addition to all of the requirements above for camping & outdoor use only, the
 - **Distancing:** As much as possible, guests inside the cabin & yurt should attempt to social distance.
 - **Cleaning:** Guests must thoroughly clean all surfaces prior to departing.
 
-**NOTE:** Vaccination status and daily health attestations are not shared with anyone. Contact tracing information is only shared in the event that there may be a reason to believe someone may have been exposed.
+**NOTE:** Vaccination status and daily health attestations are shared only with MIT Medical for contact tracing purposes. Guest contact information is also subject to sharing for contact tracing purposes only.
 
 
 ---
@@ -126,11 +126,10 @@ In order to make a reservation a Keyholder must:
 All of these steps must be completed in order to legally access the property.
 
 1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** The full names and contact information of every member in your party is required.
-1. Upon express email or written confirmation from a Cabin Manager of receipt of your request, please instruct every member of your party to use [MIT's Tim Tickets "Visitor" portal for Intervale](https://tim-tickets.atlas-apps.mit.edu/hsrvi1ei5CcY14uq6) to submit an attestation of vaccination or exemption at least 24 hours prior to your reservation. It is recommended that you have every member of your party submit this form prior to submitting the reservation request.
-1. A cabin manager will confirm receipt of your request and confirmation of vaccination attestation and request that you pay for your group. Please submit a payment for your entire group (we do not accept individual payments from each guest) at [Pay MITOC](https://mitoc.medi.edu/pay) and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
+1. A cabin manager will confirm receipt of your request and request that you pay for your group. Please submit a payment for your entire group (we do not accept individual payments from each guest) at [Pay MITOC](https://mitoc.medi.edu/pay) and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
 1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
 1. Confirm by email with the Cabin Managers that your group and plans have not changed no later than 1 day in advance of leaving for Intervale. Detail any changes if applicable.
-1. No more than 24 hours in advance, everyone in your party **must** use [MIT's Tim Tickets "Visitor" portal for Intervale](https://tim-tickets.atlas-apps.mit.edu/hsrvi1ei5CcY14uq6) to complete a daily health attestation confirming that they do not have any symptoms of COVID-19. If any member of your group has any symptoms of COVID-19, they should not visit the property and should email the Cabin managers who will work with them to either receive desk credit for their payment, or find some other acceptable solution.
+1. No more than 24 hours in advance of your stay, everyone in your party **must** use [MIT's Tim Tickets "Visitor" portal for Intervale](https://tim-tickets.atlas-apps.mit.edu/hsrvi1ei5CcY14uq6) to complete a **daily health attestation** confirming that they do not have any symptoms of COVID-19 and **vaccination attestation** documenting that they are fully vaccinated or have a valid religious or health exemption. If any member of your group has any symptoms of COVID-19, they should not visit the property and should email the Cabin managers who will work with them to either receive desk credit for their payment, or find some other acceptable solution.
 1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
 Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email
  
