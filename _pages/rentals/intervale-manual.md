@@ -137,7 +137,7 @@ Please keep in mind that Intervale is managed by volunteers with other responsib
  
 ### Reservation Policies
 - All reservations are at the discretion of the Cabin Managers. Requests can be denied on suspicion/expectation of potential issues with the visit.
-- There can be a maximum of ~fifteen~ **ten** people in the cabin or yurt and twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
+- There can be a maximum of ~fifteen~ **ten** people in the cabin, **five** people yurt, and a total of twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
 - Only one group at a time may reserve the cabin or yurt.
 - We require a 1:1 ratio of members to non-members in each group
 - Reservation requests for weekends must be submitted by Thursday at 11:59pm before the weekend of use.
