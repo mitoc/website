@@ -11,6 +11,7 @@
 <div class="jumbotron" markdown="1">
 
 Winter School 2022 will happen from January 4, 2022 to January 30, 2022.
+
 Sign up for mandatory lectures [here](https://mitoc-trips.mit.edu/trips/1425/) and [here](https://mitoc-trips.mit.edu/trips/1426/).
 
 </div>
