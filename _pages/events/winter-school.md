@@ -70,3 +70,11 @@ Yes, returning students are welcome to come learn more skills. Remember that the
 For more information, contact [the Winter School chair](mailto:ws-chair@mit.edu).
 
 Think snow!
+
+
+-----------------
+
+
+<div style="max-width:150px;margin-top:20px;" markdown="1">
+![Event sponsored by the Graduate Student Concil](https://gsc.mit.edu/wp-content/uploads/2014/09/gsc-sponsored_highres.png)
+</div>
