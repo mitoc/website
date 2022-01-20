@@ -104,8 +104,8 @@ winter_hiking:
       deposit: $40
       rental: $4
     - title: Small Sled
-      deposit: $15
-      rental: $1
+      deposit: $25
+      rental: $2
     - title: Bivy Bags
       deposit: $120
       rental: $4
