@@ -8,17 +8,8 @@
       - /images/winter-school/pic4.jpg
 ---
 
-<div class="jumbotron" markdown="1">
 
-Winter School 2022 will happen from January 4, 2022 to January 30, 2022.
-
-Sign up for mandatory lectures [here](https://mitoc-trips.mit.edu/trips/1425/) and [here](https://mitoc-trips.mit.edu/trips/1426/).
-
-</div>
-
-### Winter school 2022
-
-After a year and a half of shutdown, MITOC is back to life and it's time to get excited for Winter School 2022!
+### Winter School 2022
 
 Do you enjoy being outdoors but don't know what to do when the temperature drops? Do you live for summer but suffer in winter? Are you cooped up from November to March? Don't hide from the cold — celebrate winter! During IAP, participate in MIT Outing Club's Winter School, where you can have fun learning skills like cross-country skiing, snowshoeing, ice climbing and more. Winter School is MITOC's crash course in cold weather activities.
 
@@ -32,7 +23,7 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 #### Lectures
 
-Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). This year’s lecture schedule is as follows:
+Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2022’s lecture schedule was as follows:
 
 - **Mandatory Lecture** 7pm-9pm Tuesday Jan 4th. Intro, MITOC policies, clothing, basic gear, hiking, weather.
 - **Mandatory Lecture** 7pm-9pm Thursday Jan 6th. Safety, gear rentals, eating and drinking, winter driving.
@@ -76,5 +67,5 @@ Think snow!
 
 
 <div style="max-width:150px;margin-top:20px;" markdown="1">
-![Event sponsored by the Graduate Student Concil](https://gsc.mit.edu/wp-content/uploads/2014/09/gsc-sponsored_highres.png)
+![Event sponsored by the Graduate Student Council](https://gsc.mit.edu/wp-content/uploads/2014/09/gsc-sponsored_highres.png)
 </div>
