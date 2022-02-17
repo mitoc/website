@@ -18,15 +18,6 @@ layout: default
     }
 </script>
 
-
-<div class="jumbotron" markdown="1">
-
-Winter School 2022 will happen from January 4, 2022 to January 30, 2022.
-
-Sign up for mandatory lectures [here](https://mitoc-trips.mit.edu/trips/1425/) and [here](https://mitoc-trips.mit.edu/trips/1426/).
-
-</div>
-
 <div class="row hidden-sm hidden-xs" style="margin-bottom: 20px;">
     <div class="col-md-3" style="overflow:hidden;"><img src="images/front/pic1.jpg" alt="" width="220" height="286"/>
     </div>
