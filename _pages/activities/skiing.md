@@ -31,6 +31,6 @@ In the Northeast, locations include:
 
 The 22/23 Ikon Base Pass does not have access to Aspen/Snowmass, Jackson Hole, Alta, Deer Valley, Snowbasin or Sun Valley. The 22/23 Ikon Pass now gives you 7 days access to Crystal.
 
-To benefit from the discount, please **[fill out this form](https://forms.office.com/r/19DYpESatr)**. It asks for some info to help us and Ikon verify your student status. Follow the instructions, and after we validate everything we will contact you with a single-use code to use on the [Ikon Pass website](https://www.ikonpass.com/en/shop-passes).
+To benefit from the discount, please **[fill out this form](https://forms.office.com/r/19DYpESatr)**. It asks for some info to help us and Ikon verify your student status. Follow the instructions, and after we validate everything we will contact you with a single-use code to use on the [Ikon Pass website](https://www.ikonpass.com/en/shop-passes). Passes must be purchased by December 1, 2022 - codes will not work after that date!
 
 Please direct questions to [mitoc.ikon@gmail.com](mailto:mitoc.ikon@gmail.com).
