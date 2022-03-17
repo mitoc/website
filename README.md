@@ -83,3 +83,12 @@ If you're curious about that, please refer to:
 All branches (draft versions of the website) are automatically deployed to preview changes. A branch named `test` would be deployed on the domain https://test--mitoc.netlify.com/.
 
 Branch deployment should not take more than 2 minutes. 
+
+## Local development
+If you want to develop locally and see your changes before committing them to Github, you will need to use [Jekyll](https://jekyllrb.com/). This will involve installing `Ruby`, `Bundler`, `Jekyll`, and the `github-pages` gem and running a local web server. [Github has some instructions](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+### Docker for Local Development
+If you don't want to deal with `rvm` and the above local development setup, and you can use `docker-compose`. Docker install [here](https://www.docker.com/get-started). The [`jekyll-serve` image](https://hub.docker.com/r/bretfisher/jekyll-serve/) is ~450MB; repo for that [is here](https://github.com/BretFisher/jekyll-serve).
+`cd dir/of/this/repo/website`
+`docker-compose up`
+Let the image pull, `bundle` run, and then navigate to `localhost:4000` to see a local copy of the site.
