@@ -22,6 +22,8 @@ The MIT Outing Club regularly runs School of Rock (also known as the MITOC Rock 
 
 Open to MIT Outing Club members - [join](/join).
 
+Article about School of Rock Fall 2021: [https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208](https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208)
+
 ## Application
 - [Application Form](https://forms.gle/nVJYw3xe5xVpnWe87)
 - Due: Monday, May 2
