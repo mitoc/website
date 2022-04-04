@@ -3,6 +3,7 @@
     title: Rock Climbing
     carousel:
       - /images/rock-climbing/mrp_june_2019.jpg
+      - /images/rock-climbing/bertrand_follow_sor.jpeg
       - /images/rock-climbing/alex_rumney_stp.jpg
       - /images/rock-climbing/noah_acadia_2021.jpg
       - /images/rock-climbing/self-rescue.jpg
@@ -15,7 +16,7 @@
 ---
 {% include carousel.html height="40" unit="%" duration="7" images=page.images %}
 
-MITOC holds numerous climbing trips throughout the year. They include:
+MITOCers have been rock climbing since the 1940s, and put up first ascents of many classic Northeast climbs. MITOC holds numerous climbing trips throughout the year. They include:
 
 *   [Circus](/events/circus) - Held monthly April through October.
 *   [Acadia](/events/acadia) - Held annually, typically in May.
