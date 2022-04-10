@@ -107,6 +107,10 @@
     price: 150
     category: trip
 -
+    name: "Women's / Non-Binary Cabin Night"
+    price: 10
+    category: trip
+-
     name: "WS ice climbing trip fee: $20"
     price: 20
     category: trip
