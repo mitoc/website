@@ -166,12 +166,11 @@
     description: Leads sea kayaking trips; maintains sea kayaks
     officers:
       - Vacant
-  # -
-  #   title: Whitewater Chair
-  #   description: Leads whitewater paddling trips; maintains whitewater boats; organizes rolling clinics
-  #   officers:
-  #     - Adam
-  #     - Bo
+  -
+    title: Whitewater Chair
+    description: Leads whitewater paddling trips; maintains whitewater boats; organizes rolling clinics
+    officers:
+      - SusanCarter
   -
     title: Canoe Chair
     description: Leads canoeing trips; maintains canoe fleet
