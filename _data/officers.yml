@@ -74,7 +74,7 @@ Evan:
 Florian:
   email: florian.pagnoux@gmail.com
   name: "Florian Pagnoux"
-  photo: florianpagnoux.jpg
+  photo: florian.jpeg
 Greg:
   email: wallaceg@mit.edu
   name: "Greg Wallace"
@@ -88,6 +88,7 @@ JamesD:
   photo: james-douberley.jpg
 JamesH:
   name: "James Hermus"
+  photo: james-hermus.jpeg
 JamesT:
   email: jturitto@gmail.com
   name: "James Turitto"
@@ -225,3 +226,38 @@ AlejandroDiaz:
 MaxwellYun:
   name: Maxwell Yun
   photo: maxwell-yun.jpg
+GradyThomas:
+  name: Grady Thomas
+SunheeBae:
+  name: Sunhee Bae
+  photo: sunhee.jpeg
+OomiPammit:
+  name: Oomi Pammit
+  photo: oomi-pammit.jpeg
+CarolinaWarneryd:
+  name: Carolina Warneryd
+  photo: carolina-warneryd.jpeg
+AndreaLehn:
+  name: Andrea Lehn
+JaneyFarina:
+  name: Janey Farina
+RikaSugimoto:
+  name: Rika Sugimoto Dimitrova
+KatieSelig:
+  name: Katie Selig
+YuntingFang:
+  name: Yunting Fang
+  photo: yunting.jpeg
+ElenaWesteinde:
+  name: Elena Westeinde
+AlexiaLochmann:
+  name: Alexia Lochmann
+  photo: alexia.jpeg
+NatalieFerris:
+  name: Natalie Ferris
+TarynJohnson:
+  name: Taryn Johnson
+JasonJong:
+  name: Jason Jong
+Vacant:
+  name: Vacant

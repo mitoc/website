@@ -5,31 +5,31 @@
     title: President
     description: Schedules, organizes, and moderates meetings; represents the club in the ASA
     officers:
-      - Karina
+      - GradyThomas
   -
     title: Vice President
     description: Records meeting minutes; responds to public inquiries; manages mailing lists
     officers:
-      - Nico
+      - CarolinaWarneryd
   -
     title: Treasurer
     description: Manages reimbursements and requisitions from the club; prepares annual financial report
     officers:
-      - JamesH
+      - OomiPammit
   -
     title: Bursar
     description: Manages club revenue
     officers:
-      - Aileen
+      - SunheeBae
   -
     title: Member-at-Large
     description: Spearheads larger club efforts; assists officers as needed
     officers:
-      - Hannah
-      - Shannon
-      - Neil
+      - Asha
+      - Florian
+      - Nico
       - Blox
-      - ChrisSa
+      - JamesH
 -
   title: Managers
   positions:
@@ -46,14 +46,14 @@
     description: Maintains Intervale cabin and grounds; trains cabin keyholders and property users
     email: intervale-mgr@mit.edu
     officers:
-      - DavidJ
       - Josh
-  # -
-  #   title: Boathouse Manager
-  #   description: Maintains boathouse; trains boathouse keyholders; manages boat rentals
-  #   email: boathouse-mgr@mit.edu
-  #   officers:
-  #     - AlexB
+      - DavidJ
+  -
+    title: Boathouse Manager
+    description: Maintains boathouse; trains boathouse keyholders; manages boat rentals
+    email: boathouse-mgr@mit.edu
+    officers:
+      - Abby
   -
     title: Climbing Wall Manager
     description: Maintains climbing wall; organizes annual climbing competition
@@ -63,13 +63,14 @@
     title: Gear Manager
     description: Maintains gear used for club trips and personal rental
     officers:
-      - Mason
-      - Cole
+      - Josh
+      - Noah
   -
     title: Desk Captain
     description: Schedules office hours; provides notices about overdue gear rentals; trains desk workers
     officers:
-      - Noah
+      - AndreaLehn
+      - JaneyFarina
   -
     title: Leader Coordinator
     description: Manages course subsidies and other incentives for trip leaders
@@ -80,8 +81,8 @@
     description: Maintains club website and databases
     officers:
       - Michele
-      - DavidC
       - Florian
+      - DavidC
   -
     title: Librarian
     description:
@@ -98,10 +99,9 @@
     officers:
       - Greg
   -
-    title: (Undergrad) Recruitment Manager
+    title: Student Recruitment
     officers:
-      - Lulu
-
+      - RikaSugimoto
 -
   title: Event Chairs
   positions:
@@ -109,20 +109,21 @@
     title: Winter School Chair
     description: Organizes annual Winter School
     officers:
-      - Florian
+      - Vacant
     email: ws-chair@mit.edu
   -
     title: Circus Chair
     description: Organizes monthly Circus (April to October)
     officers:
       - Asha
+      - KatieSelig
     email: circus-chair@mit.edu
   -
     title: Social Chair
     description: Organizes monthly social events
     officers:
       - Asha
-      - Suzy
+      - YuntingFang
   # -
   #   title: Acadia Chair
   #   description: Organizes yearly Acadia Memorial Day trip
@@ -142,29 +143,29 @@
     officers:
       - Cole
       - Mason
-      - Annie
+      - Noah
   -
     title: Backcountry Skiing Chair
     description: Recruits winter leaders for backcountry skiing; maintains backcountry skiing gear
     officers:
-      - Angie
-      - Colin
       - Blox
+      - ElenaWesteinde
+      - AlexiaLochmann
   -
     title: XC Skiing Chair
     description: Recruits winter leaders for XC skiing; maintains XC ski gear.
     officers:
-      - Natalie
-  -
-    title: Mountaineering Chair
-    description: Organizes mountaineering trips and courses
-    officers:
-      - Nick
+      - NatalieFerris
   # -
-  #   title: Sea Kayaking Chair
-  #   description: Leads sea kayaking trips; maintains sea kayaks
+  #   title: Mountaineering Chair
+  #   description: Organizes mountaineering trips and courses
   #   officers:
-  #     - Stephanie
+  #     - Nick
+  -
+    title: Sea Kayaking Chair
+    description: Leads sea kayaking trips; maintains sea kayaks
+    officers:
+      - Vacant
   # -
   #   title: Whitewater Chair
   #   description: Leads whitewater paddling trips; maintains whitewater boats; organizes rolling clinics
@@ -181,10 +182,10 @@
     description: Leads mountain biking trips; maintains mountain bikes
     officers:
       - MaxwellYun
-  -
-    title: Speed Walking Chair
-    officers:
-      - Angie
+  # -
+  #   title: Speed Walking Chair
+  #   officers:
+  #     - Angie
   -
     title: Mountain/Trail Running Chair
     description: Leads mountain and trail running trips
@@ -195,17 +196,16 @@
   #   description: Organizes races and competitions for the community
   #   officers:
   #     - Nico
-  # -
-  #   title: Surfing Chair
-  #   description: Leads surfing trips
-  #   officers:
-  #     - Jan
-  #     - Zac
+  -
+    title: Surfing Chair
+    description: Leads surfing trips
+    officers:
+      - TarynJohnson
   -
     title: Packrafting Chair
     description: Leads packrafting trips; maintains packrafts
     officers:
-      - Lily
+      - JasonJong
   -
     title: Paddleboarding Chair
     officers:
@@ -228,14 +228,16 @@
     description: Leads the committee that selects Collier Adventure Grant recipients
     officers:
       - Evan
+      - AlexiaLochmann
+      - KatieSelig
   -
     title: Camelot Finance Committee
     officers:
-      - ChrisGlazner
-      - PaulinaVarshavskaya
-      - Dlaw
       - Neil
-      - Nico
+      - Karina
+      - Dlaw
+      - Evan
+      - Greg
   # -
   #   title: Mediation Chair
   #   description: Leads committee that resolves conflicts
