@@ -156,11 +156,11 @@
     description: Recruits winter leaders for XC skiing; maintains XC ski gear.
     officers:
       - NatalieFerris
-  # -
-  #   title: Mountaineering Chair
-  #   description: Organizes mountaineering trips and courses
-  #   officers:
-  #     - Nick
+  -
+    title: Mountaineering Chair
+    description: Organizes mountaineering trips and courses
+    officers:
+      - Vacant
   -
     title: Sea Kayaking Chair
     description: Leads sea kayaking trips; maintains sea kayaks
