@@ -66,7 +66,7 @@ DavidC:
     photo: dcain.jpg
 Dlaw:
   name: "David Lawrence"
-  photo: dlaw.png
+  photo: dlaw.jpeg
 Evan:
   email: circus-chair@mit.edu
   name: "Evan Williams"
@@ -244,6 +244,7 @@ JaneyFarina:
   name: Janey Farina
 RikaSugimoto:
   name: Rika Sugimoto Dimitrova
+  photo: rika.jpeg
 KatieSelig:
   name: Katie Selig
 YuntingFang:
@@ -265,3 +266,4 @@ Vacant:
   name: Vacant
 SusanCarter:
   name: Susie Carter
+  photo: susie-carter.jpeg
