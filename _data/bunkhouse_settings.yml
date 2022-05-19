@@ -1,0 +1,12 @@
+donate_link: &donate_link https://giving.mit.edu/form/?fundId=3892696&amount=1000
+menu:
+  - title: Camelot Bunkhouse
+    href: /camelot
+  # - title: History
+  #   href: /camelot/history
+  - title: Project Details
+    href: /camelot/project
+  - title: FAQs
+    href: /camelot/faqs
+  - title: Donate
+    href: *donate_link
