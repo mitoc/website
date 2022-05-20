@@ -43,6 +43,11 @@ local authorities.
 
 Construction of the bunkhouse will be fully funded by donations. Once completed, ongoing maintenance of the bunkhouse will be funded by modest user fees of about $15 per person per night in accordance with MITOC’s current practices.
 
+
+### Is my donation to the Camelot Bunkhouse tax deductible?
+
+Yes, if you **[donate]({{site.data.bunkhouse_settings.donate_link}})** to contribute to the MIT Outing Club Camelot Cabin Fund, you will receive a statement from MIT at the end of the year documenting your tax deductible charitable contribution.
+
 ### How long will the bunkhouse last?
 
 We expect the bunkhouse to last 100 years, allowing it to serve MITOC members for many generations to come. The design has been optimized for robustness in many different aspects: exterior rigid insulation (to maintain structural members at a controlled temperature and humidity), generous roof overhangs, and durable cladding materials, to name a few.
