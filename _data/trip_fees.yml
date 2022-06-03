@@ -3,6 +3,10 @@
     price: 45
     category: trip
 -
+    name: "Paddleboarding Trip: $5"
+    price: 5
+    category: trip
+-
     name: "AIARE 1 (full): $350"
     price: 350
     category: trip
