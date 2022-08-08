@@ -23,7 +23,7 @@ jobs:
           command: |
             sudo apt-get update
             sudo apt-get install -y python-pip
-            pip install --user --upgrade html5validator  # will install in $HOME/.local
+            pip install --user --upgrade html5validator==0.4.0  # will install in $HOME/.local
 
       - save_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
