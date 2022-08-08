@@ -9,7 +9,7 @@ Frigid New England winters are not what comes to mind when one pictures surfing,
 
 As you become a surfer, you quickly realize there is much more to it than the time spent in the water. Therefore, we also organize activities ranging from balance training sessions, to science of board design, to becoming an amateur meteorologist. In addition, we aim to instill a sense of responsibility in caring for the community and for the beaches and oceans that provide us with this unrivaled experience.
 
-You can [contact us directly](mailto:gslg-surfing-organizer@mit.edu) or subscribe to the [surfing-mitoc mailing list](http://mailman.mit.edu/mailman/listinfo/surfing-mitoc) to stay updated on all news and activities.
+You can subscribe to the [surfing-mitoc mailing list](http://mailman.mit.edu/mailman/listinfo/surfing-mitoc) to stay updated on all news and activities.
 
 ### Activities Include:
 
