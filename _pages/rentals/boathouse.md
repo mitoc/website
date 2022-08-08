@@ -76,6 +76,12 @@ If you've never done this before, read on for...
         <td>$18</td>
         <td>Windsurfing chair</td>
     </tr>
+    <tr class="danger">
+        <td>Surfboard</td>
+        <td>$1000</td>
+        <td>$10</td>
+        <td>Surfing chair</td>
+    </tr>
     <tr>
         <td>Canoe paddle (if rented separately from canoe)</td>
         <td>$30</td>
