@@ -19,7 +19,7 @@ To rent surfboards on your own:
 
 1.  Be a MITOC member
 2.  Have completed a boathouse training/work session annually
-3.  E-mail the [surf chair](mailto:boathouse-mgr@mit.edu) to check for board availability. You must establish that you will be able to use the gear safely.
+3.  E-mail the [surf chair](mailto:boathouse-mgr@mit.edu) to check for board availability and fill out a [surfing float plan form](https://forms.gle/A4WZEaHvCCeYMTe39). You must establish that you will be able to use the gear safely.
 4.  After your trip, a brief report to the surf chair would be appreciated about any issues with the boards as well as any comments of interest about your experience
 
 For more detailed information about renting surfboards, see the [boathouse rental page](/rentals/boathouse).
