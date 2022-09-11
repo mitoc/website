@@ -185,3 +185,39 @@ p img {
   padding: 20px;
   min-width: min(300px, 80%);
 }
+
+.camelot-banner {
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 768px) {
+  .camelot-banner {
+    flex-direction: row;
+  }
+  .camelot-banner-text {
+    max-width: 55%;
+  }
+}
+.camelot-banner img {
+  max-width: 100%;
+}
+
+.camelot-banner-img {
+  margin-right: 2rem;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.camelot-banner .links-box {
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .camelot-banner .links-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+}
