@@ -10,7 +10,7 @@ layout: bunkhouse_base
       >${{site.data.bunkhouse_settings.donations_amount | thousands_separated
       }}</strong
     ><br />
-    <p>RAISED BY <strong>40</strong> PEOPLE</p>
+    <p>RAISED BY <strong>{{site.data.bunkhouse_settings.number_donors}}</strong> PEOPLE</p>
     <div class="thermometer">
       {% assign goal_float = site.data.bunkhouse_settings.donations_goal | times: 1.0 %}
       {% assign total_donations_float = site.data.bunkhouse_settings.donations_amount | times: 1.0 %}
