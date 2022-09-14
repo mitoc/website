@@ -6,14 +6,24 @@ layout: bunkhouse_base
   <h1>Camelot bunkhouse</h1>
   <h2>Coming 2023</h2>
   <div class="donations-block">
-    <strong class="donations-amount">$194,000</strong><br />
+    <strong class="donations-amount"
+      >${{site.data.bunkhouse_settings.donations_amount | thousands_separated
+      }}</strong
+    ><br />
     <p>RAISED BY <strong>40</strong> PEOPLE</p>
     <div class="thermometer">
-      <div class="thermometer donation-progress-pledges" style="width: 38.8%">
-        <div class="thermometer donation-progress" style="width: 43.3%"></div>
+      {% assign goal_float = site.data.bunkhouse_settings.donations_goal | times: 1.0 %}
+      {% assign total_donations_float = site.data.bunkhouse_settings.donations_amount | times: 1.0 %}
+      {% assign progress_total = total_donations_float | divided_by: goal_float | times: 100 %}
+      {% assign percent_account_balance = site.data.bunkhouse_settings.donations_account_balance | divided_by: total_donations_float | times: 100 %}
+      <div
+        class="thermometer donation-progress-pledges"
+        style="width: {{progress_total | round: 2}}%"
+      >
+        <div class="thermometer donation-progress" style="width: {{percent_account_balance | round: 2}}%"></div>
       </div>
     </div>
-    <p class="text-right">Goal: <strong>$500,000</strong></p>
+    <p class="text-right">Goal: <strong>${{site.data.bunkhouse_settings.donations_goal | thousands_separated}}</strong></p>
     <a
       href="{{site.data.bunkhouse_settings.donate_link}}"
       class="bunkouse-donate-button"
