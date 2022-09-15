@@ -123,6 +123,13 @@ We provide this service as a convenience to MITOCers whose schedule may not perm
 
 <div class="well" markdown="1">
 
+#### Can I leave rental returns outside of the office door?
+
+Absolutely not. Gear is not considered returned until it has been secured inside the office and returned through the gear database. If gear left outside the office is lost, the renter of record will be charged for the full amount of the deposit. If you cannot make it yourself, try to get a friend to return your gear for you during office hours. In extraordinary circumstances (illness, etc) please contact [mitoc-desk@mit.edu](mailto:mitoc-desk@mit.edu). 
+</div>
+
+<div class="well" markdown="1">
+
 #### Is there a time limit on rentals?
 
 During the month of January (Winter School), all gear must be returned by Wednesday of the next week after it is checked out. The rest of the year, rentals are limited to 10 weeks. Cabin keys, restricted gear, and boats have different rules.
