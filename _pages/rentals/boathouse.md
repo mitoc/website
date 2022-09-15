@@ -14,7 +14,7 @@ MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, and wind
 
 1.  Become a boathouse keyholder.
 2.  Get certified by the appropriate boat chair to rent out the boat you want.
-3.  For each trip that you want to use a sea kayak or take a canoe on a car, fill out a [float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfphwLNGRzg6e_8CIA_WcPSr7tzmsM69MkmcFHqfUyMzrwP3A/viewform).
+3.  For each trip that you want to use a sea kayak or take a canoe on a car, fill out a [float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfphwLNGRzg6e_8CIA_WcPSr7tzmsM69MkmcFHqfUyMzrwP3A/viewform). For surfboards, fill out a [surfing float plan form](https://forms.gle/A4WZEaHvCCeYMTe39).
 4.  Drop off deposit checks (frequent flyer) at MITOC office (if not done previously).
 5.  As early as possible, email the [boat chairs](mailto:boathouse-mgr@mit.edu) with your reservation request and respond promptly to any of their concerns. If your reservation is approved, the appropriate boat chair will let you know.
 6.  Make an [online pre-payment](/pay) for your equipment, sending confirmation of payment to the chair. The chair will then provide the lockbox PIN to access the boathouse key. Note: your unique PIN will be active (up to) 3 days prior to your trip-start and expire 1 day after your trip-end.
@@ -75,6 +75,12 @@ If you've never done this before, read on for...
         <td>$1000</td>
         <td>$18</td>
         <td>Windsurfing chair</td>
+    </tr>
+    <tr class="danger">
+        <td>Surfboard</td>
+        <td>$1000</td>
+        <td>$10</td>
+        <td>Surfing chair</td>
     </tr>
     <tr>
         <td>Canoe paddle (if rented separately from canoe)</td>
