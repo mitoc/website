@@ -30,9 +30,9 @@ There is a maximum trip size of 10 within the White Mountain National Forest. Ou
 *   Co-leader: participate in two MITOC hiking events
 *   Leader: upgrade from a co-leader by co-leading two hikes and having a leader submit a recommendation.
 
-The two hikes should be on different weekends.
+Ideally the 2 hikes should be on different weekends. However, please submit an application even if you don’t fulfill all of the requirements. Applications are evaluated on a case by case basis. If you have any questions or are unsure if your application has been reviewed please email [3s-hiking-chair@mit.edu](mailto:3s-hiking-chair@mit.edu)
 
-Most new leaders will start as a co-leader. This provides an opportunity to under the guidance of a full leader. If you already have outside institutional leadership experience, you may be granted a full leader rating on a case-by-case basis.
+Most new leaders will start as a co-leader. This provides an opportunity to learn under the guidance of a full leader. If you already have outside institutional leadership experience, you may be granted a full leader rating on a case-by-case basis.
 
 ### How do I become a leader?
 
