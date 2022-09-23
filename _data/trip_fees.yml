@@ -31,6 +31,14 @@
     price: 10
     category: trip
 -
+    name: "Bike for the Bunkhouse (Student): $75"
+    price: 75
+    category: trip
+-
+    name: "Bike for the Bunkhouse (Non-Student): $125"
+    price: 125
+    category: trip
+-
     name: "Camelot exclusive rental: $300"
     price: 300
     category: cabin
@@ -73,6 +81,10 @@
 -
     name: "Rolling Clinic: $15"
     price: 15
+    category: trip
+-
+    name: "Rumney Ruckus: $50"
+    price: 50
     category: trip
 -
     name: "Sea Kayak Trip: $15"
