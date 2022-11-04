@@ -9,7 +9,7 @@
 ---
 
 
-### Winter School 2022
+### Winter School 2023
 
 Do you enjoy being outdoors but don't know what to do when the temperature drops? Do you live for summer but suffer in winter? Are you cooped up from November to March? Don't hide from the cold — celebrate winter! During IAP, participate in MIT Outing Club's Winter School, where you can have fun learning skills like cross-country skiing, snowshoeing, ice climbing and more. Winter School is MITOC's crash course in cold weather activities.
 
@@ -23,16 +23,16 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 #### Lectures
 
-Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2022’s lecture schedule was as follows:
+Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2023’s lecture schedule was as follows:
 
-- **Mandatory Lecture** 7pm-9pm Tuesday Jan 4th. Intro, MITOC policies, clothing, basic gear, hiking, weather.
-- **Mandatory Lecture** 7pm-9pm Thursday Jan 6th. Safety, gear rentals, eating and drinking, winter driving.
-- 7pm-9pm Tuesday Jan 11th. Optional instructional lecture.
-- 7pm-9pm Thursday Jan 13th. Optional instructional lecture.
-- 7pm-9pm Tuesday Jan 18th. Guest lectures.
-- 7pm-9pm Thursday Jan 20th. Guest lectures.
-- 7pm-9pm Tuesday Jan 25th. Guest lectures.
-- 7pm-9pm Thursday Jan 27th. Winter School Stories and Recap.
+- **Mandatory Lecture** 7pm-9pm Tuesday Jan 10th. Mandatory safety lecture
+- **Mandatory Lecture** 7pm-9pm Thursday Jan 12th. Mandatory safety lecture
+- 7pm-9pm Tuesday Jan 17th. Optional instructional lecture.
+- 7pm-9pm Thursday Jan 19th. Optional instructional lecture.
+- 7pm-9pm Tuesday Jan 24th. Guest lectures.
+- 7pm-9pm Thursday Jan 26th. Guest lectures.
+- 7pm-9pm Tuesday Jan 31st. Guest lectures.
+- 7pm-9pm Thursday Feb 2nd. Winter School Stories and Recap.
 
 #### Trips
 
