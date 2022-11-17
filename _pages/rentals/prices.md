@@ -64,23 +64,19 @@ The backcountry touring skis have metal edges and use burlier boots with a wider
 
 {% include ski-price-table.html category = site.data.gear_prices.at_skiing %}
 
+**IMPORTANT:** We approve Alpine Touring and Splitboard equipment rental requests on a weekend-by-weekend basis. You can pick up skis during Thursday or Friday office hours and **MUST** return them during the next Tuesday office hours. (Longer rentals are rare and on a case-by-case basis.) Please email your requests on Sunday or Monday before you want to rent, including: (1) what ski/boot/splitboard size you want (including gear numbers if you know specific skis and boots have fit you well in the past), (2) which weekend you want to rent for, (3) a confirmation that you can return the gear by or at Tuesday office hours, (4) where and when you are going (our gear is only for backcountry skiing/riding, not resorts), and (5) your experience backcountry skiing/riding and using the gear. We will grant approvals on Tuesday or Wednesday. You will be approved for specific gear numbers and CANNOT substitute other items for any reason without explicit approval from the ski chairs (desk workers cannot grant this approval).
 
-**IMPORTANT:** In order to better serve our community, we approve Alpine Touring and Splitboard equipment rental requests on a first-come, first serve basis. In your request, please let us know (1) what ski size you want, (2) what boot size you want; (3) the day you will be renting them out; and (4) the day you will return them. Ski rentals are restricted to a one week/weekend rental (requests for longer term may be granted on a case-by-case basis). You may rent approved AT setups at office hours only after you receive confirmation from the ski chairs. Please return all ski equipment together—skis, boots, and skins--at the beginning of the next week.
+AT boots sizes (Mondo):
+: All half sizes from Mondo 22.5 (US women’s 5.5 / Euro 35.5) to Mondo 30.5 (US women’s 13.5 / Euro 46)
 
-AT boots sizes:
-: 23 (x2), 24, 24.5 (x2), 25, 25.5, 26 (x2), 26.5, 27, 27.5 (x2), 28 (x2), 28.5, 29, 29.5, 30, 30.5
+Ski sizes (Dynafit Tech Binding, cm):
+: 148 (x2), 155 (x3), 157, 162 (x2), 169 (x2), 176
 
-Ski sizes (Frame Binding):
-: 155, 157, 165 (x2), 173 (x2), 175, 176, 180, 181
+Ski sizes (Frame Binding, cm):
+: 155, 157, 165 (x2), 173, 175, 176, 180, 181
 
-Ski sizes (Tech Binding):
-: 155 (x2), 157, 162 (x2), 169, 176
-
-Splitboards:
+Splitboards (cm):
 : 154, 158
-
-_\*\* All sizes are in cm._
-
 
 </div>
 
