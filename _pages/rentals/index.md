@@ -60,9 +60,9 @@
 During MITOC Winter School (during MIT's IAP term), there are a few additional policies in effect for renting gear from MITOC:
 
 *   Gear rental office hours are on Tuesdays, Thursdays, and Fridays.
-*   Tuesdays are for RETURNS ONLY. All gear checked out the previous week MUST be returned on Tuesday. No exceptions.
-*   Thursdays are for checking out gear for Winter School participants only. If you are not participating in Winter School, you will be turned away from office hours.
-*   Fridays are the only days that non-Winter School participants can rent out gear. You must return the gear the following Tuesday, no exceptions.
+*   Tuesdays are for RETURNS ONLY. No checkouts allowed. All gear checked out the previous week MUST be returned on Tuesday. No exceptions.
+*   Thursdays are for checking out gear for official Winter School trips only. If you are not checking out gear for an official Winter School trip, you will be turned away from office hours.
+*   Fridays are the only days that non-Winter School participants can rent out gear. Anyone can check out gear for personal trips, or exchange gear for their Winter School trip if needed. You must return the gear the following Tuesday, no exceptions.
 
 * * *
 
