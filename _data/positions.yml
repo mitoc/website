@@ -203,9 +203,8 @@
         - Dlaw
         - Evan
         - Greg
-  # -
-  #   title: Mediation Chair
-  #   description: Leads committee that resolves conflicts
-  #   officers:
-  #     - TaylorBiron
-  #     - MikeChan
+    - title: Mediation Chair
+      description: Leads committee that resolves conflicts
+      officers:
+        - MikeChan
+        - TaylorBiron
