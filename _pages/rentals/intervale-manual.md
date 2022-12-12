@@ -4,31 +4,6 @@
 ---
 The below contains information which **you must read and follow.** This is not an online license agreement.
 
-# <span style="color:red;">Use During Covid</span>
-
-In order to mitigate the risks of COVID-19, some rules for accessing Intervale
-have been modifed. Below is a list of all updated rules pertaining to Intervale
-access and COVID-19. These rules are intended to supercede any other rule
-listed on this page which may be in contradiction.
-
-### <span style="color:red;">Outdoor/Camping Only</span>
-
-- **Vaccination Status:** All guests must use MIT's Tim Tickets "Visitor" portal for Intervale to attest that they are either fully vaccinated or that they have a valid medical or religious excemption.
-- **Daily Attestation:** All guests staying at the property must use MIT's Tim Tickets "Visitor" portal for Intervale to submit a daily attestation of health.
-- **Guest Information:** For the purposes of contact tracing, the full name of each guest as well as their contact information (email or phone) must be provided at the time of reservation.
-
-### <span style="color:red;">Cabin & Yurt</span>
-
-In addition to all of the requirements above for camping & outdoor use only, the following rules also apply to using the cabin or yurt.
-
-- **Occupancy:** The cabin and yurt are indoor spaces and may be reserved separately. Only 1 group of up to 10 people may reserve the cabin or yurt for any single night. 
-- **Ventilation:** As much as possible, keep a window(s) cracked to improve ventilation.
-- **Masking:** Masks are required indoors (cabin/yurt) except while eating, drinking, or sleeping.
-- **Distancing:** As much as possible, guests inside the cabin & yurt should attempt to social distance.
-- **Cleaning:** Guests must thoroughly clean all surfaces prior to departing.
-
-**NOTE:** Vaccination status and daily health attestations are shared only with MIT Medical for contact tracing purposes. Guest contact information is also subject to sharing for contact tracing purposes only.
-
 
 ---
 # Purpose
