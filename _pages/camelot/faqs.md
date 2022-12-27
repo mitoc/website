@@ -21,7 +21,7 @@ We would prefer to have our sleeping space and living space in separate structur
 
 ### Can the existing cabin be brought up to code?
 
-The Camelot managers and the town of Groton do not see a viable path for the loft space to be reopened. With minor modifications, the cabin will remain suitable for use as a cooking and gathering space, but there is no realistic path to making it fit to sleep a large group of students.
+The Camelot managers and the town of Groton do not see a viable path for the existing cabin to serve as sleeping space for anywhere near 50 people.  With ongoing repairs and improvements, the existing cabin will remain suitable for use as a cooking and gathering space, but there is no realistic path to making it safely sleep a large group of students.
 
 ### How much will the new bunkhouse cost?
 
@@ -29,20 +29,15 @@ We estimate that the new bunkhouse will cost $500,000. This figure is based on s
 
 ### Why not buy a house instead?
 
-The safety requirements for a structure that can legally sleep 50 people are quite different from the safety requirements for a single-family residence. The cost of the necessary modifications to a typical house would be a large fraction of the cost of building a new bunkhouse. We also want to preserve the special outdoor space and rustic atmosphere of the MITOC cabins.
+The safety requirements for a structure that can legally sleep 50 people are quite different from the safety requirements for a single-family residence. The cost of the necessary modifications to a typical house would be a large fraction of the cost of building a new bunkhouse. We also want to preserve the special outdoor space and rustic atmosphere of MITOC cabins.
 
 ### Why not buy new land for a bunkhouse somewhere else?
 
-The current Camelot property meets the needs of the club. Although it
-is about 45 minutes away from Franconia Notch, we do not have difficulty
-running hiking trips out of Camelot. We do not wish to give up on the
-existing improvements to Camelot nor our working relationship with the
-local authorities.
+The current Camelot property meets the needs of the club. Although it is about 45 minutes away from Franconia Notch, this distance does not pose difficulty for running hiking trips out of Camelot. We do not wish to give up on the existing improvements to Camelot nor our working relationship with the local authorities.
 
 ### How will the bunkhouse be funded?
 
 Construction of the bunkhouse will be fully funded by donations. Once completed, ongoing maintenance of the bunkhouse will be funded by modest user fees of about $15 per person per night in accordance with MITOC’s current practices.
-
 
 ### Is my donation to the Camelot Bunkhouse tax deductible?
 
@@ -50,27 +45,22 @@ Yes, if you **[donate]({{site.data.bunkhouse_settings.donate_link}})** to contri
 
 ### Can I donate to the bunkhouse project by check? 
 
-Yes, It is possible to donate by check!  
-You should make the check payable to MIT Fund 3892696 and include this [contribution form](https://giving.mit.edu/check). The address for gifts by check is:  
->Massachusetts Institute of Technology  
->P. O. Box 412926  
->Boston, MA 02241-2926  
+Yes, it is possible to donate by check!  Please make your check payable to MIT Fund 3892696, enclose the MIT [contribution form](https://giving.mit.edu/check), and mail your check to:
+>Massachusetts Institute of Technology
+>P. O. Box 412926
+>Boston, MA 02241-2926
 
-### How long will the bunkhouse last?
+### When will construction start?
 
-We expect the bunkhouse to last 100 years, allowing it to serve MITOC members for many generations to come. The design has been optimized for robustness in many different aspects: exterior rigid insulation (to maintain structural members at a controlled temperature and humidity), generous roof overhangs, and durable cladding materials, to name a few.
-
-### When do we plan to start construction?
-
-If fundraising goes well, we will begin construction in March 2023. We are uncertain about how long it will take to meet our fundraising targets, so our fallback plan is to begin construction in March 2024.
+We have already started surveying and permitting work.  Site preparation, including construction of the new parking lot and hardening of the access road, is scheduled to begin in summer 2023.  The bunkhouse structure itself will be erected starting in spring of 2024.
 
 ### How long will construction take?
 
-Construction will take about six months until the structure is ready for occupancy. We will start building in the spring when the ground dries out, and the bunkhouse will be ready for occupancy by the time the winter snows arrive.
+Construction of the bunkhouse will take about six months. We'll start building in spring 2024 when the ground dries out, and the bunkhouse will be ready for occupancy before snow arrives at the end of fall 2024.  The new bunkhouse will be in operation in time for MITOC's 2025 winter school program.
 
 ### Will the bunkhouse be heated?
   
-The bunkhouse will be tightly insulated with modern building materials, and our calculations indicate that heating will not be required to maintain a comfortable temperature overnight. That said, the bunkhouse will be equipped with electric heat to assist with the initial heat-up when the first occupants arrive on the coldest nights. 
+The bunkhouse will be tightly insulated with modern building materials, and our calculations indicate that heating will not be required to maintain a comfortable temperature overnight. That said, the bunkhouse will be equipped with electric heat to assist with initial heat-up when the first occupants arrive on the coldest nights.
 
 ### What construction method will be used for the bunkhouse?
 
@@ -78,11 +68,11 @@ The bunkhouse will be an above-grade wooden structure with exterior rigid insula
 
 ### What about parking?
 
-At the request of the town of Groton, we will be enlarging our existing parking area and adding a small buffer to separate it from North Groton Road. While this adds some cost to the project, the parking situation was a major area of negotiation with the town and will ultimately result in a better experience for Camelot users.
+At the request of the town of Groton, we will enlarge our existing parking area and add a small buffer to separate it from North Groton Road. While this adds some cost to the project, it will improve our relationship with our neighbors and will ultimately result in a better experience for Camelot visitors.
 
 ### Will there be vehicle access to the bunkhouse?
 
-There will be a rough trail which will be accessible by all-terrain vehicles for construction and safety purposes. (The local fire department has an all-terrain firefighting vehicle). Regular property users will continue to park their vehicles near the road and hike in about 200 meters to reach the complex.
+There will be a rough road accessible by all-terrain vehicles for construction and safety purposes. (The local fire department has an all-terrain firefighting vehicle.) Regular property users will continue to park their vehicles near North Groton Road and hike in about 200 meters to reach the Camelot buildings.
 
 ### Will students be involved in construction? Alums?
 
@@ -92,9 +82,13 @@ The new bunkhouse will be built by a professional general contractor, and their 
 
 MITOC hired Maclay Architects to execute the design for the new bunkhouse. Maclay Architects previously worked with the Dartmouth Outing Club on several of their bunkhouses. Maclay Architects had an extremely close collaboration with the Camelot managers and MITOC board, and we feel that the proposed design exactly represents the interests of the MITOC community.
 
+### How long will the bunkhouse last?
+
+We expect the bunkhouse to last 100 years, allowing it to serve MITOC members for many generations to come. The design has been optimized for robustness in many different aspects: exterior rigid insulation (to maintain structural members at a controlled temperature and humidity), generous roof overhangs, and durable cladding materials, to name a few.
+
 ### Who is managing this project?
 
-David Lawrence ‘14, a former MITOC president and Camelot manager, is the director of the Camelot bunkhouse project. Neil Titchener is the fundraising chair. We have active participation from the MIT Department of Facilities, the MIT Division of Student Life, and many other MITOC board members.
+David Lawrence ‘14, a former MITOC president and Camelot manager, is the director of the Camelot bunkhouse project. The fundraising committee also includes graduate student Karina Smolyar and MITOC's alumni liaison Greg Wallace. We have active participation from the MIT Department of Facilities, the MIT Division of Student Life, and many other MITOC board members.
 
 ### Who should I contact with a different question?
 
