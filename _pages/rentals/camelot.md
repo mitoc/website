@@ -40,7 +40,7 @@ This summary does not substitute for attending a keyholder training day and is n
 
 ### Camelot rentals
 
-To pay for a cabin rental please head to the [Pay MITOC](/pay) page. **Cabin fees are non-refundable.** Do not pay for a visit until you have received permission to use the cabin from the cabin managers. The cost is $7.00 per person per night. (Camping costs $3.50 per person per night and is entered into the payment form as a 0.5-night stay.) Keyholders must pay for their entire group in advance and then collect payment from their guests. You may wish to consult the [Camelot Property Map](/docs/camelot/camelot_map.pdf) or the somewhat outdated [Camelot Manual](/docs/camelot/camelot_manual.pdf).
+To pay for a cabin rental please head to the [Pay MITOC](/pay) page. **Cabin fees are non-refundable.** Do not pay for a visit until you have received permission to use the cabin from the cabin managers. The cost is $10.00 per person per night. (Camping costs $5.00 per person per night and is entered into the payment form as a 0.5-night stay.) Keyholders must pay for their entire group in advance and then collect payment from their guests. You may wish to consult the [Camelot Property Map](/docs/camelot/camelot_map.pdf) or the somewhat outdated [Camelot Manual](/docs/camelot/camelot_manual.pdf).
 
 The Camelot calendar is embedded below. Reservations are not mutually exclusive unless they are labeled as "exclusive" on the calendar.
 

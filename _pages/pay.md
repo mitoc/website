@@ -151,8 +151,8 @@ Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost 0.5
         id="merchantDefinedData1cabin"
         class="form-control"
       >
-        <option value="camelot">Camelot ($7/person/night)</option>
-        <option value="intervale">Intervale ($7/person/night)</option>
+        <option value="camelot">Camelot ($10/person/night)</option>
+        <option value="intervale">Intervale ($10/person/night)</option>
       </select>
     </div>
     <div class="form-group">
@@ -165,7 +165,7 @@ Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost 0.5
         min="0.5"
         step="0.5"
         class="form-control"
-        onkeyup="document.forms['cabin_form'].amount.value = document.forms['cabin_form'].merchantDefinedData2.value * 7.0;"
+        onkeyup="document.forms['cabin_form'].amount.value = document.forms['cabin_form'].merchantDefinedData2.value * 10.0;"
         onchange="document.forms['cabin_form'].merchantDefinedData2.onkeyup();"
       />
     </div>
@@ -183,7 +183,7 @@ Days spent on-site but not in the cabin (e.g. Yurt / Lean-to / camping) cost 0.5
       <input
         name="amount"
         id="amount-cabins"
-        value="7"
+        value="10"
         class="form-control"
         readonly
       />
