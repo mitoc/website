@@ -25,8 +25,8 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2023’s lecture schedule was as follows:
 
-- **Mandatory Lecture** 7pm-9pm Tuesday Jan 10th. Mandatory safety lecture
-- **Mandatory Lecture** 7pm-9pm Thursday Jan 12th. Mandatory safety lecture
+- **Mandatory Lecture** 7pm-9pm Tuesday Jan 10th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1787/)
+- **Mandatory Lecture** 7pm-9pm Thursday Jan 12th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1788/)
 - 7pm-9pm Tuesday Jan 17th. Optional instructional lecture.
 - 7pm-9pm Thursday Jan 19th. Optional instructional lecture.
 - 7pm-9pm Tuesday Jan 24th. Guest lectures.
@@ -44,7 +44,7 @@ In order to participate you simply need to complete three things.
 
 1.  Make sure you are a current [MITOC member](https://mitoc-trips.mit.edu/profile/membership/)
 2.  Make sure you have signed the [MITOC waiver](https://mitoc-trips.mit.edu/profile/waiver/)
-3.  Attend the two mandatory lectures (we'll give sign in instructions during lectures).
+3.  Attend the two mandatory lectures (sign up in advance [here](https://mitoc-trips.mit.edu/trips/1787/) and [here](https://mitoc-trips.mit.edu/trips/1788/); we'll give additional sign-in instructions during lectures).
 
 ### I'm going to miss one of the two mandatory lectures. May I still participate?
 
