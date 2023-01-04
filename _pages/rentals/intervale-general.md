@@ -15,7 +15,7 @@ Intervale is about a 15-minute drive from rock climbing at Cathedral Ledge or Wh
 
 Intervale is our newest cabin and is modern and well-insulated. However, it has no electricity or running water, and users will have to bring all their own drinking water with them or use a spring near the cabin. There is a carpeted sleeping loft that will fit about 12 people. We recommend bringing a sleeping pad and sleeping bag. There is plenty of camping space outside. Intervale has a liquid propane gas stove and heater, cooking pans and utensils. There is also a dining table and plates and cutlery for about 10 people.
 
-The cost for use is $7 per person per night.
+The cost for use is $10 per person per night.
 
 #### The Yurt
 
