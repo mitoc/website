@@ -23,16 +23,16 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 #### Lectures
 
-Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2023’s lecture schedule was as follows:
+Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2023’s lecture schedule is as follows:
 
-- **Mandatory Lecture** 7pm-9pm Tuesday Jan 10th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1787/)
-- **Mandatory Lecture** 7pm-9pm Thursday Jan 12th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1788/)
-- 7pm-9pm Tuesday Jan 17th. Optional instructional lecture.
-- 7pm-9pm Thursday Jan 19th. Optional instructional lecture.
-- 7pm-9pm Tuesday Jan 24th. Guest lectures.
-- 7pm-9pm Thursday Jan 26th. Guest lectures.
-- 7pm-9pm Tuesday Jan 31st. Guest lectures.
-- 7pm-9pm Thursday Feb 2nd. Winter School Stories and Recap.
+- **Mandatory Lecture** 7pm-9pm Tuesday Jan 10th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1787/) in [26-100](http://whereis.mit.edu/?go=26)
+- **Mandatory Lecture** 7pm-9pm Thursday Jan 12th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1788/) in [26-100](http://whereis.mit.edu/?go=26)
+- 7pm-9pm Tuesday Jan 17th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Jan 19th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 24th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Jan 26th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 31st. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Feb 2nd. Guest lecture, Winter School Stories & Recap. [6-120](http://whereis.mit.edu/?go=6)
 
 #### Trips
 
