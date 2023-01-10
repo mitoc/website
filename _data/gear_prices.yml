@@ -36,6 +36,9 @@ camping:
     - title: Bear Canister
       deposit: $75
       rental: $4
+    - title: Compass
+      deposit: $16
+      rental: $1
 
 climbing:
   items:
@@ -73,6 +76,12 @@ climbing:
 
 winter_hiking:
   items:
+    - title: Hard Shell Jacket
+      deposit: $270
+      rental: $8
+    - title: Waterproof Insulated Mittens
+      deposit: $120
+      rental: $5
     - title: Sorel Boots
       deposit: $110
       rental: $6
@@ -161,7 +170,7 @@ xc_skiing:
           rental: $5
     - title: Both
       items:
-        - title: XC Ski
+        - title: XC Ski Poles
           deposit: $40
           rental: $2
 
@@ -221,7 +230,7 @@ purchasable:
     - title: Whistle
       price: $2
     - title: Compass
-      price: $12
+      price: $16
     - title: Petzl Headlamp TIKKINA 250
       price: $20
     - title: Black Diamond Headlamp Cosmo 300
@@ -237,6 +246,8 @@ purchasable:
       price: $1
     - title: Ski Goggles
       price: $18
+    - title: Above Treeline Goggles
+      price: $5
     - title: Gaiters
       price: $19
     - title: Emergency Foil Blankets
