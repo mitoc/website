@@ -126,3 +126,7 @@
     name: "WS trip fee: $5"
     price: 5
     category: trip
+-
+    name: "Yoga donation"
+    price: 1
+    category: trip
