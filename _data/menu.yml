@@ -80,8 +80,10 @@
       items:
         - href: https://mitoc-gallery.s3.amazonaws.com/html/index.html
           title: Photo Gallery (1946–2017)
-        - href: https://docs.google.com/forms/d/15v7LERtuqIF_5dARBcvzRk_y20z3yF4QZ6VOK15oKSI/prefill
+        - href: https://docs.google.com/forms/d/e/1FAIpQLSdcH9cqTBp0ROyZxnreim2MlpRK8zKUh-tmP5Nkn2GWlnSoHw/viewform?usp=sf_link
           title: Submit photos to MITOC
+        - href: https://instagram.com/mitoutingclub?igshid=YmMyMTA2M2Y=
+          title: MITOC Instagram
 - title: Trip Signup
   href: https://mitoc-trips.mit.edu/trips/
 - /pay
