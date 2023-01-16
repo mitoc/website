@@ -127,6 +127,14 @@
     price: 5
     category: trip
 -
-    name: "Yoga"
+    name: "Yoga - $5"
     price: 5
+    category: trip
+-
+    name: "Yoga - $10"
+    price: 10
+    category: trip
+-
+    name: "Yoga - $20"
+    price: 20
     category: trip
