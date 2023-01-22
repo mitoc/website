@@ -78,12 +78,14 @@
           title: Board Wiki
     - title: Social Media
       items:
-        - href: https://mitoc-gallery.s3.amazonaws.com/html/index.html
-          title: Photo Gallery (1946–2017)
         - href: https://docs.google.com/forms/d/e/1FAIpQLSdcH9cqTBp0ROyZxnreim2MlpRK8zKUh-tmP5Nkn2GWlnSoHw/viewform?usp=sf_link
           title: Submit photos to MITOC
         - href: https://instagram.com/mitoutingclub?igshid=YmMyMTA2M2Y=
           title: MITOC Instagram
+        - href: https://www.facebook.com/groups/mitoutingclub/
+          title: MITOC Facebook Group
+        - href: https://mitoc-gallery.s3.amazonaws.com/html/index.html
+          title: Photo Gallery (1946–2017)
 - title: Trip Signup
   href: https://mitoc-trips.mit.edu/trips/
 - /pay
