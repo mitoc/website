@@ -30,6 +30,8 @@ The exclusive rental rate for Camelot is $300 per night, and the exclusive renta
 
 We do not permit exclusive rentals during certain weekends. For example, both cabins are used by MITOC's winter school program for every weekend in January. Always contact the cabin managers before you submit payment for a reservation.
 
+We emphasize again: RESERVATION FEES ARE NOT REFUNDABLE. 
+
 ### A bit of history
 
 Both Camelot and Intervale were constructed entirely by MITOC members. Camelot was built on a shoestring budget in the 1960s. Intervale was built from a prefabricated cabin kit in the 1990s after the previous structure burned down. The keyholder system was created as a result of this fire.
