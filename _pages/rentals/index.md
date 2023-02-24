@@ -9,11 +9,11 @@
       - /images/rental/pic4.jpg
 ---
 <div class="alert alert-danger"> 
-<p><strong>Stratton Student Center Closure (Feb 4th, 2023): The student center and gear office are closed indefinitely due to burst pipes and flooding. Official MIT updates can be found <a href="https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates">here</a>. There is no access for anyone to the gear office at this time. </strong></p>
+<p><strong>Stratton Student Center Closure (Updated Feb 23th, 2023): The student center and gear office are closed until fall due to burst pipes and flooding. Official MIT updates can be found <a href="https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates">here</a>. There is no access for anyone to the MITOC office at this time and we have not yet been allowed in to retrieve gear. We are resuming office hours out of the MITOC boathouse in N52 but still have an exceedlingly limited supply of gear. Check the <a href="https://mitoc.mit.edu/calendar">calendar</a> for office hour locations and times.</strong></p>
 </div>
 
 <div class="alert alert-warning"> 
-<p><strong>COVID Access Update (Jan 2023): You must comply with <a href="http://web.mit.edu/covid19/">MIT's COVID-19 policies</a> to access the Stratton Student Center. The Stratton Student Center is only accessible to the public until 7pm. An MIT ID card or Tim Ticket is required to enter the building after 7pm.</strong></p>
+<p><strong>COVID Access Update (Jan 2023): You must comply with <a href="http://web.mit.edu/covid19/">MIT's COVID-19 policies</a> to visit MIT's campus.</strong></p>
 </div>
 
 **Please read this whole page before coming in to rent gear for the first time.** There is some administrativia involved, and planning ahead will help your rental go smoothly.
