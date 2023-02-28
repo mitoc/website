@@ -30,7 +30,7 @@ The exclusive rental rate for Camelot is $300 per night, and the exclusive renta
 
 We do not permit exclusive rentals during certain weekends. For example, both cabins are used by MITOC's winter school program for every weekend in January. Always contact the cabin managers before you submit payment for a reservation.
 
-We emphasize again: RESERVATION FEES ARE NOT REFUNDABLE. 
+We emphasize again: *reservation fees are not refundable.*
 
 ### A bit of history
 
