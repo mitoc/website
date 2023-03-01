@@ -12,7 +12,7 @@
 **Stratton Student Center Closure (Updated Feb 28th, 2023): The student center and gear office are closed until fall due to burst pipes and flooding. Official MIT updates can be found [here](https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates).**
     
 **We are resuming office hours out of the MITOC boathouse in N52. The boathouse is located at the [MIT building N52 loading doc](https://www.google.com/maps/search/+42%C2%B021'43.7%22N+71%C2%B005'49.1%22W?source=mc) (42°21'43.7"N 71°05'49.1"W).**
-**Enter through the loading dock and look for the mitoc boathouse signs on the doors. Most of the gear has been relocated to the boathouse, but the gear catelogue is still disorganized as a result of the move. Check the [calendar](/calendar) for office hour times.**
+**Enter through the loading dock and look for the mitoc boathouse signs on the doors. Most of the gear has been relocated to the boathouse, but the gear catalogue is still disorganized as a result of the move. Check the [calendar](/calendar) for office hour times.**
 </div>
 
 <div class="alert alert-warning"> 
