@@ -25,6 +25,10 @@ The reserving Keyholder MUST be present at the property for the duration of the 
 
 **Keyholder status is contingent upon correct and dutiful observance of the rules and procedures detailed in this document. Failure to comply with (including ignorance of) any of these rules and procedures can result in loss or Keyholder status (and other disciplinary action.)**
 
+# Special exemptions
+
+Active members of MITOC's board of directors are allowed to stay at the cabin for free. Former cabin managers keyholder status does not expire, and they get free cabin stays for life. Both groups are required to create reservations and follow all of the other cabin policies. 
+
 ---
 # Location and Access
 ---
