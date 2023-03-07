@@ -23,7 +23,7 @@ The Keyholder is responsible for the actions of the group and is the organizer f
 
 The reserving Keyholder MUST be present at the property for the duration of the reservation with their group. Reservations cannot be transferred to other individuals; a separate reservation request must be submitted.
 
-**Keyholder status is contingent upon correct and dutiful observance of the rules and procedures detailed in this document. Failure to comply with (including ignorance of) any of these rules and procedures can result in loss or Keyholder status (and other disciplinary action.)**
+**Keyholder status is contingent upon correct and dutiful observance of the rules and procedures detailed in this document. Failure to comply with (including ignorance of) any of these rules and procedures can result in loss of Keyholder status (and other disciplinary action.)**
 
 # Special exemptions
 
