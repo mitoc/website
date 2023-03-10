@@ -53,7 +53,7 @@ Come to a [Circus](/events/circus)! A circus is a weekend of hiking and climbing
 ### Week 3
 - TRS: Tuesday, June 13, 7-9pm
 - TRS: Tuesday, June 15, 7-9pm
-- Weekend Trip: June 17-18
+- Weekend Trip: June 17-19
 
 ## Cost
 **$100, which includes:**
