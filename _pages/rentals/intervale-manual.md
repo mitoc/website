@@ -111,7 +111,7 @@ Please get in touch with us as early as possible about official club programming
 1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
 1. Ensure that **everyone** in your group has signed [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/). As long as this is an official trip, this should be automatically handled by the trips website.
 1. Have the group members submit their cabin dues individually at [Pay MITOC](https://mitoc.medi.edu/pay). Typically you communicate this in the trip planning email or rideshare spreadsheet.
-3. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
+1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
 
 ### Reservation Procedure for personal use 
 All of these steps must be completed in order to legally access the property.
