@@ -102,11 +102,21 @@ In order to make a reservation a Keyholder must:
 - Have $1,000 in MITOC “Frequent Flyer” checks currently on file in the MITOC office to act as a deposit against any damages or legal fees incurred by your visit
 - Have contact information for the current Cabin Managers on hand
 
-### Reservation Procedure
+### Reservation Procedure for official MITOC Programming
+
+1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** You can simply link the mitoc-trips page as opposed to providing full contact information for your group. For important club programming like School of Rock, you may ask us to block out weekends months in advance while you finalize your plans.
+1. A cabin manager will confirm receipt of your request and request.
+1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
+1. Ensure that **everyone** in your group has signed [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/).
+1. Have the group members submit their cabin dues individually at [Pay MITOC](https://mitoc.medi.edu/pay).
+3. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
+Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email
+
+### Reservation Procedure for personal use 
 All of these steps must be completed in order to legally access the property.
 
 1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** The full names and contact information of every member in your party is required.
-1. A cabin manager will confirm receipt of your request and request that you pay for your group. Please submit a payment for your entire group (we do not accept individual payments from each guest) at [Pay MITOC](https://mitoc.medi.edu/pay) and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
+1. A cabin manager will confirm receipt of your request and request that you pay for your group. Please submit a payment for your entire group (we do not accept individual payments from each guest for personal reservations) at [Pay MITOC](https://mitoc.medi.edu/pay) and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
 1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
 1. Confirm by email with the Cabin Managers that your group and plans have not changed no later than 1 day in advance of leaving for Intervale. Detail any changes if applicable.
 1. Ensure that **everyone** in your group has signed [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/).
