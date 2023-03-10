@@ -113,7 +113,7 @@ Please get in touch with us as early as possible about official club programming
 1. Have the group members submit their cabin dues individually at [Pay MITOC](https://mitoc.medi.edu/pay). Typically you communicate this in the trip planning email or rideshare spreadsheet.
 1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
 
-### Reservation Procedure for personal use 
+### Reservation Procedure for Personal Use 
 All of these steps must be completed in order to legally access the property.
 
 1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** The full names and contact information of every member in your party is required.
