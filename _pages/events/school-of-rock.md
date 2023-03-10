@@ -25,8 +25,7 @@ Open to MIT Outing Club members - [join](/join).
 Article about School of Rock Fall 2021: [https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208](https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208)
 
 ## Application
-- [Application Form](https://forms.gle/nVJYw3xe5xVpnWe87)
-- Due: Monday, May 2
+- Applications will open in April. They'll be linked here and sent to [mitoc-announce@mit.edu](https://mailman.mit.edu/mailman/listinfo/mitoc-announce) when they open.
 - We will give preference to MIT students, those that can commit to all or a majority of weekends and TRSs (this is important as the skills build on each other), and our desire to create a diverse climbing community and climbing leader pipeline within MITOC
 - Unfortunately, we cannot accept everyone that applies. We do our very best to accommodate as many folks as possible, but we typically receive 4-5x the number of applications as we have spots.
 - If you are accepted, you will need to have an active MITOC membership and to sign the MITOC trips waiver.
@@ -40,21 +39,21 @@ In short, we encourage applications from folks of all levels of experience! We'r
 #### What if I don't have enough experience or just want to try rock climbing outside for the first time?
 Come to a [Circus](/events/circus)! A circus is a weekend of hiking and climbing trips in New Hampshire. It’s a great way to meet fellow outdoorsy folks and check out the White Mountains of New Hampshire. We typically run these once a month, May through October. They will be announced on the main MITOC [mailing lists](/mailing-lists) at least two weeks in advance.
 
-## Schedule
+## Schedule for 2023
 ### Week 1
-- TRS: Tuesday, May 31, 7pm-9pm
-- TRS: Thursday, June 2, 7pm-9pm
-- Weekend Trip: June 4-5
+- TRS: Tuesday, May 30, 7pm-9pm
+- TRS: Thursday, June 1, 7pm-9pm
+- Weekend Trip: June 3-4
 
 ### Week 2
-- TRS: Tuesday, June 7, 7-9pm
-- TRS: Tuesday, June 9, 7-9pm
-- Weekend Trip: June 11-12
+- TRS: Tuesday, June 6, 7-9pm
+- TRS: Tuesday, June 8, 7-9pm
+- Weekend Trip: June 10-11
 
 ### Week 3
-- TRS: Tuesday, June 14, 7-9pm
-- TRS: Tuesday, June 16, 7-9pm
-- Weekend Trip: June 18-19
+- TRS: Tuesday, June 13, 7-9pm
+- TRS: Tuesday, June 15, 7-9pm
+- Weekend Trip: June 17-19
 
 ## Cost
 **$100, which includes:**
