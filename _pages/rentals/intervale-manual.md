@@ -102,15 +102,16 @@ In order to make a reservation a Keyholder must:
 - Have $1,000 in MITOC “Frequent Flyer” checks currently on file in the MITOC office to act as a deposit against any damages or legal fees incurred by your visit
 - Have contact information for the current Cabin Managers on hand
 
-### Reservation Procedure for official MITOC Programming
+### Reservation Procedure for Official MITOC Programming
+
+Please get in touch with us as early as possible about official club programming. Major club events like winter school typically recieve extra support from the cabin managers.
 
 1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** You can simply link the mitoc-trips page as opposed to providing full contact information for your group. For important club programming like School of Rock, you may ask us to block out weekends months in advance while you finalize your plans.
 1. A cabin manager will confirm receipt of your request and block off the relevant days on the calendar. Official club programming is exempt from the property exclusive fee.
 1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
 1. Ensure that **everyone** in your group has signed [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/). As long as this is an official trip, this should be automatically handled by the trips website.
-1. Have the group members submit their cabin dues individually at [Pay MITOC](https://mitoc.medi.edu/pay).
+1. Have the group members submit their cabin dues individually at [Pay MITOC](https://mitoc.medi.edu/pay). Typically you communicate this in the trip planning email or rideshare spreadsheet.
 3. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
-Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email
 
 ### Reservation Procedure for personal use 
 All of these steps must be completed in order to legally access the property.
