@@ -8,11 +8,6 @@
       - /images/intervale/pic4.jpg
 ---
 
-**Due to to the ongoing COVID-19 pandemic, Intervale use has been adjusted to allow for safe use of the property.**
-
-Please, review the Propery Manual linked below for a detailed list of all
-current Intervale access rules during COVID-19.
-
 The Intervale cabin is a few miles from North Conway, NH, and is a convenient base for MITOC members to go hiking, climbing, and skiing in the eastern White Mountains. Keyholder training is required to use the property. This training is typically offered 2-3 times per year and is announced through the mitoc@mit.edu mailing list and the mitoc-trips.mit.edu website.
 
 **WARNING**: Due to serious ongoing access issues, access to the cabin is tightly controlled. **The consequences for any unauthorized or incorrect/improper access to the Intervale property will be severe.** Please see the Property Manual for details.
