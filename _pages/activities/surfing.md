@@ -13,7 +13,7 @@ You can contact the [surf chair](mailto:boathouse-mgr@mit.edu) or subscribe to t
 
 ### Surfboard Rental:
 
-MITOC has several 8ft soft-top surfboards available for rental. If wetsuits, boots, or gloves are required, they must be supplied by the user or rented from a surf shop.
+MITOC has several 8ft soft-top surfboards available for rental.
 
 To rent surfboards on your own:
 
@@ -25,6 +25,11 @@ To rent surfboards on your own:
 For more detailed information about renting surfboards, see the [boathouse rental page](/rentals/boathouse).
 
 You must be able to swim to rent a surfboard. Be aware that North Atlantic water is cold and conditions can change quickly, so be experienced and prepared.
+
+### Wetsuit Rental:
+
+MITOC has a small selection of wetsuits, boots, and surf gloves available for rent. Please see the [gear rental information page](/rentals) for details.
+
 
 ### Activities Include:
 
