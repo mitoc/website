@@ -282,3 +282,18 @@ biking:
     - title: Truing Stand
       deposit: $200
       rental: $3
+
+surfing:
+  items:
+    - title: Surfboard
+      deposit: $400
+      rental: $10
+    - title: Wetsuit
+      deposit: $100
+      rental: $10
+    - title: Surf Gloves
+      deposit: $20
+      rental: $3
+    - title: Surf Booties
+      deposit: $20
+      rental: $3
