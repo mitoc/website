@@ -294,7 +294,7 @@ surfing:
     - title: Surf Booties
       deposit: $20
       rental: $3
-   restricted_items:
+  restricted_items:
     - title: Surfboard
       deposit: $400
       rental: $10
