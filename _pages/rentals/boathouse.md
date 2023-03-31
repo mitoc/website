@@ -44,7 +44,7 @@ If you've never done this before, read on for...
         <th>Deposit</th>
         <th>Rental</th>
         <th>Approver<br>
-        (email boathouse-mgr)</th>
+        email boathouse-mgr@mit.edu</th>
     </tr>
     <tr>
         <td>Flatwater canoe (inc. 2 paddles &amp; PFDs)</td>
@@ -78,9 +78,24 @@ If you've never done this before, read on for...
     </tr>
     <tr class="danger">
         <td>Surfboard</td>
-        <td>$1000</td>
+        <td>$500</td>
         <td>$10</td>
         <td>Surfing chair</td>
+    </tr>
+    <tr>
+        <td>Surf Wetsuit</td>
+        <td>$100</td>
+        <td>$10</td>
+    </tr>
+     <tr>
+        <td>Surf Gloves</td>
+        <td>$20</td>
+        <td>$3</td>
+    </tr>
+    <tr>
+        <td>Surf Booties</td>
+        <td>$20</td>
+        <td>$3</td>
     </tr>
     <tr>
         <td>Canoe paddle (if rented separately from canoe)</td>
