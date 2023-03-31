@@ -98,6 +98,14 @@ Splitboards (cm):
 
 <div class="col-md-6" markdown="1">
 
+### Surfing
+
+{% include price-table.html category = site.data.gear_prices.surfing %}
+
+</div>
+
+<div class="col-md-6" markdown="1">
+
 ### Books
 
 MITOC has a library of guidebooks, maps, and other outdoor literature. They can be perused free of charge during office hours, or you can check them out for $1/week (days of use are not counted like other rentals.)
