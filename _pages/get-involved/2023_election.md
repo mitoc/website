@@ -28,7 +28,7 @@ The 5 Members-at-large make up the remainder of the voting BoD members for purpo
 
 Formally per the Constitution and Bylaws, all positions beyond the Executive Board are established as needed and appointed by the Executive Board. Practically, there are several positions that are necessary for the club to operate effectively and have continued to exist for a long time, and are traditionally voted on during the elections meeting. The listing here is not exhaustive, members may create new chair positions at any time as new activities become popular within the club. 
 
-### Desk Captain x2 - INCUMBENT NOT RUNNING
+### Desk Captain x2 - incumbent not running
 
 Must be an active deskworker, ideally one desk captain is MIT affiliated with an engage account for office access management - former desk captains Janey Farina and Andrea Lehn will help train the new members and be available for questions for as long as needed
 
@@ -48,7 +48,7 @@ Role duties include:
 
 The role is mostly administrative, we have lots of wonderful deskworkers and other volunteers who run office hours and help out with inventorying and such. You're never in charge of doing all the work, just coordinating!
 
-### Gear Manager x2 - INCUMBENT NOT RUNNING
+### Gear Manager x2 - incumbent not running
 
 - The gear manager’s duties involve:
 - Purchasing new equipment
@@ -67,7 +67,7 @@ Josh Bradshaw was the gear manager for the 2022/2023 season. He would like to re
 
 Besides these tasks that carry over across the election cycle, Josh wants to cede all of the duties involved in gear management to the new managers. MITOC has a huge amount of gear and things break frustratingly often, so the club could use a lot of help in this area. It would be perfectly fine for the club to have several gear managers working together.
 
-### Intervale Managers  - INCUMBENT RUNNING AND SEEKING NEW TRAINEES
+### Intervale Managers  - incumbent running and seeking new trainees
 
 Duties include:
 - Administrative work such as paying property taxes
@@ -86,11 +86,11 @@ There can be up to 4 Intervale cabin managers. Ideally seeking at least one MIT 
 
 Traveling to and from the cabin is expensive. Josh will petition the board of directors to grant a travel subsidy or reimbursement budget for cabin maintenance in the upcoming year. 
 
-### Winterschool Chair x2 - INCUMBENTS NOT RUNNING
+### Winterschool Chair x2 - incumbents not running
 
 Must have been an active winterschool leader for at least one winterschool 
 
-### Circus Chair x2 INCUMBENTS NOT RUNNING
+### Circus Chair x2 - incumbents not running
 
 The circus chairs coordinate group events at Camelot between April and October. Usually ends up with one every 1-2 months depending on schedules.
 
@@ -104,7 +104,7 @@ Logistics around circuses include:
 - Sending follow up emails w/ reminders post circus
 - Biggest skills for this involve staying on top of emails / participant list, demonstrating empathy towards new-to-the-outdoors students / people, and confidence / flexibility when sorting hikes + leaders + cars late at night. Aka, lots of competent camp counselor stoke. 
 
-### Camelot Managers - INCUMBENTS: James, David, Pavel, Blue are running
+### Camelot Managers - incumbents James, David, Pavel, Blue are running
 
 There are currently 4 Camelot managers, who all intend to remain involved. We are not actively looking for additional managers, but if somebody is super hyped you should reach out to us.
 
@@ -115,7 +115,7 @@ Our responsibilities include ongoing cabin and grounds maintenance year-round, r
 
 The climbing chairs review and approve climbing leadership applications, and organize the spring and/or summer school of rock event. 
 
-### Leader coordinator
+### Leader coordinator - incumbent Paul Lilin is considering running again
 
 
 Current leader coordinator is Paul Lilin. The leader coordinator organizes the WS Leader Gear order and manages the subsidies and other programs that are open to leaders. I intend to remain involved but would consider taking on a different role if someone is interested in being 
@@ -138,32 +138,32 @@ This member organizes the Acadia trip that MITOC typically runs sometime in May 
 
 The surfing chair handles purchasing surfing equipment and organizing surfing events.
 
-### Boathouse Manager: 
+### Boathouse Manager - incumbent is running (we hope)
 
 The boathouse manager manages access and inventory of the boathouse. 
 
-### Trail running chair
+### Trail running chair - incumbents may be running again
 
 The trail running chair organizes trail running meetups and races.
 
-### Mountain bike Chair
+### Mountain Bike Chair - incumbent not running
 
 The mountain bike chair handles ongoing maintenance of the club’s fleet of bikes and organizes some group rides.
 
-### Sea Kayak Chair
+### Sea Kayak Chair - incumbent may be running again
 
 Maintains sea kayak boats
 Approve or deny requests for sea kayak boat rentals.
 Holds sea kayaking trips
 
-### Whitewater Cair
+### Whitewater Chair - incumbent is running
 
 Maintains whitewater boats
 Approve or deny requests for whitewater boat rentals.
 Holds whitewater trips.
 Run (or appoint a delegate for) pool rolling classes in winter.
 
-### Climbing Wall Manager 
+### Climbing Wall Manager - incumbent is running
 
 ### Film Chair - incumbent may be running
 
@@ -175,11 +175,11 @@ Hosts film screens in assocation with MIT open space initiative.
 
 ### Social Media Chair - incumbent running again (Taylor Biron) 
 
-### MITOC Trips Website Webmaster
+### MITOC Trips Website Webmaster - 
 
-David Cain. This is not an elected position, but anyone can submit issues or pull requests on github.
+David Cain. This is not an elected position, but anyone can submit [issues or pull requests on github](https://github.com/DavidCain/mitoc-trips)
 
-### MITOC Website Webmaster
+### MITOC Website Webmaster - incumbent is running
 
 Florian Pagnoux
 
