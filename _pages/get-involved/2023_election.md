@@ -1,3 +1,9 @@
+---
+    permalink: /get-involved/2023-election
+    title: Officer Election 2023
+---
+
+
 # MITOC 2023 Election
 
 All MITOC members attending the election meeting vote in the election! Come to the meeting to help decide who runs the club! The 2023 election will be held in INSERT BUILDING HERE at INSERT TIME HERE. Anyone can [submit a nomination](https://docs.google.com/forms/d/e/1FAIpQLSeQ_eMvWDgqQN6zIeNk1o0ROmhd24S0fxfr5hlXayU_aKWpIA/viewform). 
