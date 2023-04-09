@@ -125,7 +125,7 @@ If you've never done this before, read on for...
 
 ### Surfing
 
-Approver is the Windsurf chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
+Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
 
 {% include price-table.html category = site.data.gear_prices.surfing %}
 
