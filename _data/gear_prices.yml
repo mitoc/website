@@ -55,7 +55,7 @@ climbing:
       deposit: $60
       rental: $4
     - title: Plastic Boot
-      deposit: $180
+      deposit: $200
       rental: $6
   restricted_items:
     - title: Bouldering Pad
