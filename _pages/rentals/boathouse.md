@@ -1,6 +1,6 @@
 ---
     permalink: /rentals/boathouse
-    title: Boat Rentals
+    title: Water Sports Rentals
     images:
       - /images/boathouse/pic1.jpg
       - /images/boathouse/pic2.jpg
@@ -8,7 +8,7 @@
       - /images/boathouse/pic4.jpg
 ---
 
-MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, and windsurfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
+MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurfing, and surfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
 
 ### Rental procedure outline
 
@@ -44,7 +44,7 @@ If you've never done this before, read on for...
         <th>Deposit</th>
         <th>Rental</th>
         <th>Approver<br>
-        (email boathouse-mgr)</th>
+        (email boathouse-mgr@mit.edu)</th>
     </tr>
     <tr>
         <td>Flatwater canoe (inc. 2 paddles &amp; PFDs)</td>
@@ -75,12 +75,6 @@ If you've never done this before, read on for...
         <td>$1000</td>
         <td>$18</td>
         <td>Windsurfing chair</td>
-    </tr>
-    <tr class="danger">
-        <td>Surfboard</td>
-        <td>$1000</td>
-        <td>$10</td>
-        <td>Surfing chair</td>
     </tr>
     <tr>
         <td>Canoe paddle (if rented separately from canoe)</td>
@@ -128,6 +122,13 @@ If you've never done this before, read on for...
         <td>$3</td>
     </tr>
 </tbody></table>
+
+### Surfing
+
+Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
+
+{% include price-table.html category = site.data.gear_prices.surfing %}
+
 
 ### Paddling Leaders
 

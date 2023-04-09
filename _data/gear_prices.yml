@@ -284,6 +284,7 @@ biking:
       rental: $3
 
 surfing:
+  approver: boathouse-mgr@mit.edu
   items:
     - title: Wetsuit
       deposit: $100
