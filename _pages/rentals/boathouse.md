@@ -128,8 +128,3 @@ If you've never done this before, read on for...
 Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
 
 {% include price-table.html category = site.data.gear_prices.surfing %}
-
-
-### Paddling Leaders
-
-{% include leaders.html activity='boating' id='paddle-leaders' %}

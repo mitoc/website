@@ -34,8 +34,3 @@ Please fill out [this form](https://docs.google.com/spreadsheet/embeddedform?for
 ### I want to become a leader but I'm not ready yet.
 
 The MITOC paddling community offers a wide array of trips, sessions, and socials throughout the year. These are announced via email on the paddle list and on the MITOC trip sign-up page. The best way to develop your paddling skills and gain confidence as a prospective leader is to get involved! We’re here to help so let us know if you're interested!
-
-### Current Paddling Leaders
-
-{% include leaders.html activity='boating' id='paddle-leaders' %}
-
