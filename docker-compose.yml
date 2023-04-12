@@ -1,9 +1,9 @@
-version: '2.4'
+version: "2.4"
 
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    image: bretfisher/jekyll-serve:gha-3065492800
     volumes:
       - .:/site
     ports:
-      - '4000:4000'
+      - "4000:4000"
