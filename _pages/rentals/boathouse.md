@@ -7,6 +7,10 @@
       - /images/boathouse/pic3.jpg
       - /images/boathouse/pic4.jpg
 ---
+<div class="alert alert-danger"> 
+<p><strong>Stratton Student Center Closure (Updated March 8th, 2023): The student center and gear office are closed until fall due to burst pipes and flooding. Official MIT updates can be found <a href="https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates">here</a>. We are resuming office hours out of the MITOC boathouse in N52 **not at the river**. We have most but not 100% of our gear available for rent. Check the <a href="https://mitoc.mit.edu/calendar">calendar</a> for office hour locations and times.</strong></p>
+</div>
+
 
 MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurfing, and surfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
 
