@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-       - image: ruby:2.6.2-browsers-tools  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
+       - image: cimg/ruby:2.6.2-browsers-tools  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
 
     steps:
       - checkout
