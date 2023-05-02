@@ -1,9 +1,10 @@
 # CircleCI 2.0 configuration file. See <https://circleci.com/docs/2.0/language-ruby/>.
 version: 2
+
 jobs:
   build:
     docker:
-       - image: cimg/ruby:2.6.2-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
+       - image: cimg/ruby:2.6-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
 
     steps:
       - checkout
