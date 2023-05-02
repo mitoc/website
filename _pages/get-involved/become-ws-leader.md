@@ -61,7 +61,3 @@ Any prospective leader is also strongly encouraged to become a keyholder for one
 ### Questions?
 
 Contact [ws-chair@mit.edu](mailto:ws-chair@mit.edu)
-
-### Current Winter School Leaders
-
-{% include leaders.html activity='winter_school' id='ws-leaders' %}

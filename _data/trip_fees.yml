@@ -1,6 +1,6 @@
 -
-    name: "Acadia: $45"
-    price: 45
+    name: "Acadia: $60"
+    price: 60
     category: trip
 -
     name: "Paddleboarding Trip: $5"
@@ -111,8 +111,12 @@
     price: 150
     category: trip
 -
-    name: "Women's / Non-Binary Cabin Night"
-    price: 10
+    name: "Women's / Non-Binary Cabin Night - Camping + Food"
+    price: 16
+    category: trip
+-
+    name: "Women's / Non-Binary Cabin Night - Food only"
+    price: 6
     category: trip
 -
     name: "WS ice climbing trip fee: $20"
