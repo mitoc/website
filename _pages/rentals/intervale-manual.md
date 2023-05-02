@@ -37,6 +37,8 @@ Intervale is located a few miles north of North Conway, NH. The exact location o
 
 Intervale is not road-accessible. Therefore, we have an easement which gives us a Right of Way (RoW) to access our property. Our RoW passes by a pair of other homes and directly adjacent the property of a third. It is important that you follow all of the rules below regarding our RoW when you access our property. We must respect our neighbors at all times. Failure to follow these procedures constitutes trespassing.
 
+Please note that accessing the cabin involves a moderate 250 meter hike, with uneven terrain and one rather steep hill. In winter, it can be useful to have spikes or some additional traction to assist with footing.
+
 ### Intervale’s Neighbors
 
 Contrary to popular belief, Intervale is not in an isolated wilderness. There are indeed neighbors, and they can be disturbed by the actions of Intervale’s users. In particular, please respect the privacy of the neighbors who live in the houses along the path up to the cabin. It is the responsibility of the Keyholder to be present during all RoW crossing by their group and ensure that everyone in their group adheres to the regulations described here.
