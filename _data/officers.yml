@@ -18,8 +18,14 @@ AlexG:
   email: alex.cas.garcia@gmail.com
   name: "Alex Garcia"
   photo: alexgarcia.jpg
-Asha:
-  email: circus-chair@mit.edu
+AliBrodeur:
+  name: "Ali Brodeur"
+AnishAthalye:
+  name: "Anish Athalye"
+AnishDighe:
+  name: "Anish Dighe"
+  photo: AnishDighe.jpeg
+AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
 Ashwin:
@@ -37,6 +43,10 @@ Bo:
   email: bodwyer651@gmail.com
   name: "Bo Dwyer"
   photo: bodwyer.jpg
+BloxBloxham:
+  email: wbloxham@gmail.com
+  name: "Blox Bloxham"
+  photo: blox-bloxham.jpg
 Carlos:
   email: csandova@mit.edu
   name: "Carlos Sandoval"
@@ -53,10 +63,15 @@ ChrisSu:
   name: Chris Summerfield
   email: chris@chrissummerfield.com
   photo: chrissummerfield.jpg
-Cole:
+ColeCrawford:
   email: cdc43339@gmail.com
   name: "Cole Crawford"
   photo: colecrawford.jpg
+CristianCavedon:
+  name: "Cristian Cavedon"
+DanielYang:
+  name: "Daniel Yang"
+  photo: DanielYang.png
 DavidJ:
   name: "David Johnson"
   photo: johnson_.png
@@ -67,6 +82,8 @@ DavidC:
 Dlaw:
   name: "David Lawrence"
   photo: dlaw.jpeg
+DorotaJarecka:
+  name: "Dorota Jarecka"
 Evan:
   email: circus-chair@mit.edu
   name: "Evan Williams"
@@ -75,6 +92,10 @@ Florian:
   email: florian.pagnoux@gmail.com
   name: "Florian Pagnoux"
   photo: florian.jpeg
+GabrielKammer:
+  name: "Gabriel Kammer"
+GradyThomas:
+  name: Grady Thomas
 Greg:
   email: wallaceg@mit.edu
   name: "Greg Wallace"
@@ -83,7 +104,7 @@ Hannah:
   email: varnerh@mit.edu
   name: "Hannah Varner"
   photo: hannahvarner.png
-JamesD:
+JamesDouberley:
   name: "James Douberley"
   photo: james-douberley.jpg
 JamesH:
@@ -93,10 +114,19 @@ JamesT:
   email: jturitto@gmail.com
   name: "James Turitto"
   photo: james_turitto.jpg
+JaneyFarina:
+  name: Janey Farina
+  photo: Janey-Farina.jpg
 Jan:
   email: jtiepelt@mit.edu
   name: "Jan Tiepelt"
   photo: jantiepelt.jpg
+JolienVanNieuwenhuizen:
+  name: "Jolien van Nieuwenhuizen"
+  photo: JolienVanNieuwenhuizen.png
+JulianZucker:
+  name: "Julian Zucker"
+  photo: JulianZucker.jpeg
 Karina:
   email: ws-chair@mit.edu
   name: "Karina Smolyar"
@@ -105,22 +135,26 @@ Kate:
   email: kal@mit.edu
   name: "Kate Lawrence"
   photo: katelawrence.jpg
-Kathy:
-  email: ws-chair@mit.edu
+KathyCamenzind:
   name: "Kathy Camenzind"
   photo: kathycamenzind.jpg
-Kris:
+KrisBrewer:
   email: brew@mit.edu
   name: "Kris Brewer"
   photo: brew.jpg
+KyleBertram:
+  name: "Kyle Bertram"
 Lily:
   email: lily.rachel.cohen@gmail.com
   name: "Lily Cohen"
   photo: lilycohen.jpg
-Lucas:
+LucasArthur:
   email: lmarthur@mit.edu
   name: "Lucas Arthur"
   photo: lucasarthur2.png
+LucasEhinger:
+  name: "Lucas Ehinger"
+  photo: LucasEhinger.jpg
 Luke:
   email: elplumplum@gmail.com
   name: "Luke Plummer"
@@ -133,13 +167,18 @@ Mason:
   email: mason@masonglidden.com
   name: "Mason Glidden"
   photo: mason.jpg
-Michael:
+MelissaSeib:
+  name: "Melissa Seib"
+MichaelSkuhersky:
   name: "Michael Skuhersky"
   photo: vex.jpg
 Michele:
   email: mprat@alum.mit.edu
   name: "Michele Pratusevich"
   photo: mprat.jpg
+MikeChan:
+  name: Mike Chan
+  photo: MikeChan.jpg
 Natalie:
   email: natnorth@mit.edu
   name: "Natalie Northrup"
@@ -148,6 +187,9 @@ Neil:
   email: nat25@mit.edu
   name: "Neil Titchener"
   photo: nat25.jpg
+NiamhBrown:
+  name: "Niamh Brown"
+  photo: NiamhBrown.jpg
 Nick:
   email: nick.lingler@gmail.com
   name: "Nick Lingler"
@@ -156,6 +198,14 @@ Nico:
   email: nromeo@mit.edu
   name: "Nicolas Romeo"
   photo: nicolasromeo.jpg
+PaulLilin:
+  name: Paul Lilin
+  photo: paul-lilin.jpg
+PaulinaVarshavskaya:
+  name: Paulina Varshavskaya
+PaulNickish:
+  name: "Paul Nickish"
+  photo: PaulNickish.jpeg
 Pavel:
   name: "Pavel Gorelik"
   photo: pavel.jpg
@@ -171,10 +221,10 @@ Tyler:
   email: ttoth@mit.edu
   name: "Tyler Toth"
   photo: tylertoth.png
-Blox:
-  email: wbloxham@gmail.com
-  name: "Blox Bloxham"
-  photo: blox-bloxham.jpg
+Vacant:
+  name: Vacant
+VasiliySysoev:
+  name: "Vasiliy Sysoev"
 Zac:
   email: ztobias@mit.edu
   name: "Zac Tobias"
@@ -188,9 +238,6 @@ Abraham:
 Noah:
   name: Noah Luther
   photo: noah.jpg
-Paul:
-  name: Paul Lilin
-  photo: paul-lilin.jpg
 Amy:
   name: Amy Chen
   photo: amy.jpg
@@ -219,16 +266,12 @@ Suzy:
   photo: Suzey-McKinney.jpg
 ChrisGlazner:
   name: Chris Glazner
-PaulinaVarshavskaya:
-  name: Paulina Varshavskaya
 AlejandroDiaz:
   name: Alejandro Diaz
   photo: AlejandroDiaz.jpeg
 MaxwellYun:
   name: Maxwell Yun
   photo: maxwell-yun.jpg
-GradyThomas:
-  name: Grady Thomas
 SunheeBae:
   name: Sunhee Bae
   photo: sunhee.jpeg
@@ -241,9 +284,6 @@ CarolinaWarneryd:
 AndreaLehn:
   name: Andrea Lehn
   photo: Andrea-Lehn.jpg
-JaneyFarina:
-  name: Janey Farina
-  photo: Janey-Farina.jpg
 RikaSugimoto:
   name: Rika Sugimoto Dimitrova
   photo: rika.jpeg
@@ -265,8 +305,6 @@ TarynJohnson:
   photo: taryn-leaf.jpeg
 JasonJong:
   name: Jason Jong
-Vacant:
-  name: Vacant
 SusanCarter:
   name: Susie Carter
   photo: susie-carter.jpeg
@@ -282,6 +320,3 @@ KateLane:
 TaylorBiron:
   name: Taylor Biron
   photo: TaylorBiron.jpeg
-MikeChan:
-  name: Mike Chan
-  photo: MikeChan.jpg
