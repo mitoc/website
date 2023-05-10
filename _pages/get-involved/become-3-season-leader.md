@@ -46,7 +46,8 @@ You can do these in any order.
 *   Co-lead two hikes.
 *   On one hike, let the full leader know you want to upgrade. Take point of the hike and handle the majority of the logistics and group management. This is to evaluate how you would do as a full leader with a potentially inexperienced co-leader.
 *   [Submit an upgrade request](https://mitoc-trips.mit.edu/hiking/leaders/apply/).
-*   The 3s hiking chair will contact the leaders you have co-led with to see how the hikes went. If all the above are successful, you will be granted an upgrade.
+*    Ask the full leader that you hiked with to submit a reccomendation for you by [filling this form](https://docs.google.com/forms/d/e/1FAIpQLSerbe7SweQodUn_1pi122gUsgw5ckvyw3KGEtoC57cPzWGuhw/viewform?usp=sf_link).
+If all the above are successful, you will be granted an upgrade.
 
 ### What constitutes a 3-season hike?
 
