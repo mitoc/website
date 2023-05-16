@@ -7,30 +7,6 @@
     price: 5
     category: trip
 -
-    name: "AIARE 1 (full): $350"
-    price: 350
-    category: trip
--
-    name: "AIARE 1 (subsidized): $250"
-    price: 250
-    category: trip
--
-    name: "AIARE 2 (full): $400"
-    price: 400
-    category: trip
--
-    name: "AIARE 2 (subsidized): $300"
-    price: 300
-    category: trip
--
-    name: "Avalanche rescue (full): $110"
-    price: 110
-    category: trip
--
-    name: "Avalanche rescue (subsidized): $10"
-    price: 10
-    category: trip
--
     name: "Camelot exclusive rental: $300"
     price: 300
     category: cabin
@@ -77,14 +53,6 @@
 -
     name: "Sea Kayak Trip: $15"
     price: 15
-    category: trip
--
-    name: "Self-rescue course (full): $225"
-    price: 225
-    category: trip
--
-    name: "Self-rescue course (subsidized): $125"
-    price: 125
     category: trip
 -
     name: "Ski-a-Palooza $10"
