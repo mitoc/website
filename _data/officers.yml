@@ -14,6 +14,9 @@ Aileen:
 AlexB:
   name: "Alex Bychkovksy"
   photo: AlexBychkovsky.png
+AlexCatullo:
+  name: "Alex Catullo"
+  photo: AlexCatullo.jpg
 AlexG:
   email: alex.cas.garcia@gmail.com
   name: "Alex Garcia"
@@ -47,6 +50,8 @@ BloxBloxham:
   email: wbloxham@gmail.com
   name: "Blox Bloxham"
   photo: blox-bloxham.jpg
+CaitlinMehl:
+  name: "Caitlin Mehl"
 Carlos:
   email: csandova@mit.edu
   name: "Carlos Sandoval"
@@ -144,6 +149,9 @@ KrisBrewer:
   photo: brew.jpg
 KyleBertram:
   name: "Kyle Bertram"
+LawrenceWong:
+  name: "Lawrence Wong"
+  photo: LawrenceWong.jpeg
 Lily:
   email: lily.rachel.cohen@gmail.com
   name: "Lily Cohen"

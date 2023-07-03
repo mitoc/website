@@ -136,7 +136,7 @@
     - title: XC Skiing Chair
       description: Recruits winter leaders for XC skiing; maintains XC ski gear.
       officers:
-        - Vacant
+        - NatalieFerris
     - title: Mountaineering Chair
       description: Organizes mountaineering trips and courses
       officers:
@@ -152,7 +152,7 @@
     - title: Canoe Chair
       description: Leads canoeing trips; maintains canoe fleet
       officers:
-        - Vacant
+        - AlexCatullo
     - title: Mountain Biking Chair
       description: Leads mountain biking trips; maintains mountain bikes
       officers:
@@ -185,16 +185,12 @@
       description: Organizes film screenings
       officers:
         - KrisBrewer
-  # -
-  #   title: Conservation and Service Chair
-  #   description: Raises awareness of and organizes participation in outdoor service opportunities
-  #   officers:
-  #     - Evan
-  # -
-  #   title: Photography Chair
-  #   description: Organizes outdoor photography events; maintains MITOC instagram/facebook
-  #   officers:
-  #     - Mary
+    - title: Community Service Chair
+      description: Raises awareness of and organizes participation in outdoor service opportunities
+      officers:
+        - TaylorBiron
+        - CaitlinMehl
+        - LawrenceWong
 - title: Committee Chairs
   positions:
     - title: Collier Committee
