@@ -15,12 +15,16 @@
     price: 15
     category: trip
 -
-    name: "Circus (MIT student): $20"
+    name: "Circus (MIT Affiliate/ MIT Grad student): $20"
     price: 20
     category: trip
 -
-    name: "Circus (not MIT student): $30"
+    name: "Circus (Non-Affiliate Grad Student): $30"
     price: 30
+    category: trip
+-
+    name: "Circus (Non-Affiliate): $40"
+    price: 40
     category: trip
 -
     name: "Intervale exclusive rental: $250"
