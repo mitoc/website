@@ -7,30 +7,6 @@
     price: 5
     category: trip
 -
-    name: "AIARE 1 (full): $350"
-    price: 350
-    category: trip
--
-    name: "AIARE 1 (subsidized): $250"
-    price: 250
-    category: trip
--
-    name: "AIARE 2 (full): $400"
-    price: 400
-    category: trip
--
-    name: "AIARE 2 (subsidized): $300"
-    price: 300
-    category: trip
--
-    name: "Avalanche rescue (full): $110"
-    price: 110
-    category: trip
--
-    name: "Avalanche rescue (subsidized): $10"
-    price: 10
-    category: trip
--
     name: "Camelot exclusive rental: $300"
     price: 300
     category: cabin
@@ -39,20 +15,24 @@
     price: 15
     category: trip
 -
-    name: "Circus (MIT student): $20"
+    name: "Circus (MIT Affiliate/ MIT Grad student): $20"
     price: 20
     category: trip
 -
-    name: "Circus (not MIT student): $30"
+    name: "Circus (Non-Affiliate Grad Student): $30"
     price: 30
+    category: trip
+-
+    name: "Circus (Non-Affiliate): $40"
+    price: 40
     category: trip
 -
     name: "Intervale exclusive rental: $250"
     price: 250
     category: cabin
 -
-    name: "School of Rock Fee $100"
-    price: 100
+    name: "School of Rock Fee $125"
+    price: 125
     category: trip
 -
     name: "School of Rock T-Shirt $15"
@@ -77,14 +57,6 @@
 -
     name: "Sea Kayak Trip: $15"
     price: 15
-    category: trip
--
-    name: "Self-rescue course (full): $225"
-    price: 225
-    category: trip
--
-    name: "Self-rescue course (subsidized): $125"
-    price: 125
     category: trip
 -
     name: "Ski-a-Palooza $10"
@@ -139,6 +111,14 @@
     price: 10
     category: trip
 -
+    name: "Yoga - $15"
+    price: 15
+    category: trip
+-
     name: "Yoga - $20"
     price: 20
+    category: trip
+-
+    name: "Yoga - $25"
+    price: 25
     category: trip
