@@ -64,7 +64,7 @@
     category: trip
 -
     name: "Surfing trip: $30"
-    price: 30
+    price: 20
     category: trip
 -
     name: "White-water Trip: $15"
