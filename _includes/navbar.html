@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<nav class="navbar navbar-inverse navbar-fixed-top {{include.class}}">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -6,12 +6,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">{{ site.title }}</a>
+            {% unless include.hide_root %}
+                <a class="navbar-brand" href="/">{{ site.title }}</a>
+            {% endunless %}
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
 
-            {% for tab in site.data.menu %}
+            {% for tab in include.menu %}
                 {% if tab.items %}
                     <li class="dropdown">
                         <a href="JavaScript:void(0);" class="dropdown-toggle" data-toggle="dropdown">{{ tab.title }}<b class="caret"></b></a>

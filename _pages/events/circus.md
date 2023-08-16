@@ -12,11 +12,11 @@ A circus is a weekend of hiking and climbing trips in New Hampshire. It's a grea
 
 ### How do circuses work?
 
-Roughly 60-70 participants carpool up to MITOC's Camelot cabin in Groton, New Hampshire on Friday night. Once everyone gets to the cabin, we plan hiking and climbing trips for Saturday. On Saturday we split into smaller groups going to different destinations in the White Mountains. After their trips on Saturday, everyone returns to the cabin, and we'll cook dinner, roast marshmallows, and plan trips for Sunday.
+Anywhere from 30 - 70 participants carpool up to MITOC's Camelot cabin in Groton, New Hampshire on Friday night. Once everyone gets to the cabin, we plan hiking and climbing trips for Saturday. On Saturday we split into smaller groups going to different destinations in the White Mountains. After their trips on Saturday, everyone returns to the cabin, and we'll cook dinner, roast marshmallows, and plan trips for Sunday.
 
 ### When are circuses held?
 
-Circii are held roughly monthly April through October. They will be announced on the main MITOC [mailing lists](/mailing-lists) at least two weeks in advance. Signups usually close the Tuesday before the circus. There will be a pre-trip meeting at 7 PM the Wednesday before the circus. For more specifics, see the announcement email and trip signup page.
+Circii are held roughly monthly April through October. They will be announced on the main MITOC [mailing lists](/mailing-lists) at least two weeks in advance. Signups usually close the Monday before the circus. There will be a pre-trip meeting the Wednesday before the circus. For more specifics, see the announcement email and trip signup page.
 
 ### Who can come on a circus?
 
@@ -35,7 +35,9 @@ We unfortunately don't have the resources to take everyone who wants to try rock
 
 ### Costs
 
-The fee for the trip is $20 for current MIT students, $30 for all others. This covers all gear rentals (sleeping bags, pads, tents, etc.), breakfast Saturday and Sunday, dinner on Saturday, cabin usage, and White Mountains permits. You must also be a current MITOC member (you can pay membership dues [here](/join)) and plan on reimbursing your driver for your share of gas costs.
+The fee for the trip is $0 for current undergraduate students, $20 for MIT affiliates and MIT grad students, $30 for non-affiliated grad students, and $40 for all others. This covers all gear rentals (sleeping bags, pads, tents, etc.), breakfast Saturday and Sunday, dinner on Saturday, cabin usage, and White Mountains permits. You must also be a current MITOC member (you can pay membership dues [here](/join)) and plan on reimbursing your driver for your share of gas costs (budget $40-60 for this). 
+
+Please do not let cost be a reason not to attend. MITOC is committed to helping promote access to the outdoors and has the ability to waive trip and/or membership fees. Contact the Circus chairs if you would like to request a fee waiver.
 
 ### Questions?
 

@@ -61,8 +61,6 @@
         - href: http://mitoc-cag.mit.edu/
           title: Collier Adventure Grant
         - /about/boston-rocks
-        - href: https://mitoc-gallery.s3.amazonaws.com/html/index.html
-          title: Photo Gallery (1946–2017)
     - items:
         - /about/code-of-conduct
         - href: /docs/advisoryboard/MITOCConstitution2019.pdf
@@ -77,7 +75,17 @@
         - href: https://docs.google.com/forms/d/1g2M6qOifsgX1JYpmWa_lkt_jCuJeS4NMyjsBTUxkppc/viewform
           title: Leader Subsidies
         - href: https://wiki.mitoc.org
-          title: BOD Wiki
+          title: Board Wiki
+    - title: Social Media
+      items:
+        - href: https://docs.google.com/forms/d/e/1FAIpQLSdcH9cqTBp0ROyZxnreim2MlpRK8zKUh-tmP5Nkn2GWlnSoHw/viewform?usp=sf_link
+          title: Submit photos to MITOC
+        - href: https://instagram.com/mitoutingclub?igshid=YmMyMTA2M2Y=
+          title: MITOC Instagram
+        - href: https://www.facebook.com/groups/mitoutingclub/
+          title: MITOC Facebook Group
+        - href: https://mitoc-gallery.s3.amazonaws.com/html/index.html
+          title: Photo Gallery (1946–2017)
 - title: Trip Signup
   href: https://mitoc-trips.mit.edu/trips/
 - /pay

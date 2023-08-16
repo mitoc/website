@@ -29,12 +29,6 @@ layout: default
     </div>
 </div>
 
-<div class="jumbotron" markdown="1">
-
-Winter School 2021 will happen - virtually - from January 7, 2021 to January 28, 2021. **[Read more](/events/winter-school)**
-
-</div>
-
 <div class="row" markdown="1">
 <div class="col-md-8" markdown="1">
 

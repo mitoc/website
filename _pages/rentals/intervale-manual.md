@@ -4,31 +4,40 @@
 ---
 The below contains information which **you must read and follow.** This is not an online license agreement.
 
-## Purpose
+
+---
+# Purpose
+---
 
 This document is intended as an instruction set for Intervale Keyholders. It is similar to the instructions told to new Keyholders during training trips. However, this document is not a substitute for a training trip. If you want to become a Keyholder for Intervale, you must attend one of these trips. 
 
-### Keyholders
+# Keyholders
 
 **Being an Intervale Keyholder is an important responsibility, and should not be taken lightly.**
 
-Every group that uses Intervale, no matter how small or large, must be accompanied by a Keyholder, even if the cabin itself is not being used. The purpose of this policy is to ensure that there is always at least one person at the property who is familiar with the property and the situation surrounding it, and who will be explicitly responsible for the duration of the stay.
+Every group that uses Intervale must be accompanied by a Keyholder, even if the cabin itself is not being used. The purpose of this policy is to ensure that there is always at least one person at the property who is familiar with the property and the situation surrounding it, and who will be explicitly responsible for the duration of the stay.
 
-A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is valid for 2 years, after which a new training is required.
+A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is valid for 2 years, but this validity can be extended at the cabin manager's discretion.
 
 The Keyholder is responsible for the actions of the group and is the organizer for the stay. If there are any problems with members of the group it is then up to the Keyholder to enforce proper behavior. When the Keyholder first determines that a problem is occurring, she should first inform the group members as to how to correct the situation. If that does not resolve the problem, the Keyholder should contact the Cabin Managers upon return to Boston who will then follow up with the situation.
 
 The reserving Keyholder MUST be present at the property for the duration of the reservation with their group. Reservations cannot be transferred to other individuals; a separate reservation request must be submitted.
 
-**Keyholder status is contingent upon correct and dutiful observance of the rules and procedures detailed in this document. Failure to comply with (including ignorance of) any of these rules and procedures can result in loss or Keyholder status (and other disciplinary action.)**
+**Keyholder status is contingent upon correct and dutiful observance of the rules and procedures detailed in this document. Failure to comply with (including ignorance of) any of these rules and procedures can result in loss of Keyholder status (and other disciplinary action.)**
 
- ***
+# Special exemptions
 
-## Location and Access
+Active members of MITOC's board of directors are allowed to stay at the cabin for free. Former cabin managers keyholder status does not expire, and they get free cabin stays for life. Both groups are required to create reservations and follow all of the other cabin policies. 
 
-Intervale is located a few miles north of North Conway, NH. The exact location of the property and the parking area are shown to Keyholders during Keyholder training. There is no street address for either. Keyholders can make whatever personal notes are needed to find the property, but should not share any information whatsoever about the location of the parking area or the property.
+---
+# Location and Access
+---
+
+Intervale is located a few miles north of North Conway, NH. The exact location of the property and the parking area are shown to Keyholders during Keyholder training. There is no street address for either. Keyholders can make whatever personal notes are needed to find the property, but should not share any information about the location of the parking area or the property.
 
 Intervale is not road-accessible. Therefore, we have an easement which gives us a Right of Way (RoW) to access our property. Our RoW passes by a pair of other homes and directly adjacent the property of a third. It is important that you follow all of the rules below regarding our RoW when you access our property. We must respect our neighbors at all times. Failure to follow these procedures constitutes trespassing.
+
+Please note that accessing the cabin involves a moderate 750 meter hike (usually ~10-15 minutes), with uneven terrain and one rather steep hill. In winter, it can be useful to have spikes or some additional traction to assist with footing.
 
 ### Intervale’s Neighbors
 
@@ -41,6 +50,7 @@ The nearest house to Intervale is generally not visible through the trees, but i
 All of these rules must be followed at **all times** by anyone accessing the property. ***Violation of any of these policies will result in the revocation of your MITOC cabin privileges and/or MITOC membership. Additionally it could constitute criminal trespassing! NO EXCUSES!!!***
 
 - **Everyone accessing the property must be individually named on a reservation that has been approved in advance by the cabin managers**
+- **Everyone accessing the property must have filled out [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/)**
 - **A Keyholder must escort every guest on the RoW every time the RoW is used.**
 - **All members of a single reservation must arrive at the parking area together, walk to and from the property together, and depart the parking area together. Groups meeting from different origins should meet at a local business or public area and travel together from there.**
 - **If at any point there is any doubt about the correct route to the cabin the group must retreat to an appropriate (public) location and contact the Cabin Managers before proceeding**
@@ -53,7 +63,7 @@ All of these rules must be followed at **all times** by anyone accessing the pro
 - **No vehicles may be operated on the right-of-way to the MITOC property. (Use is reserved for cabin managers, as needed to maintain the property.)**
 - **Any complaints or confrontations with neighbors or visits by the police must be reported *immediately* to the cabin managers.**
 
-## Parking
+### Parking
 
 Parking for the cabin is in a small lot. Do not park anywhere else but here, not even to unload gear. If you attempt to drive the rest of the way, you may disturb our neighbors. Please keep in mind that this parking lot is owned by the Ski Club. MITOC has been granted permission to park here under two conditions.
 - **That MITOC leaves enough space such that the Ski Club can park two cars side-by-side in the lot on the right without blocking the driveway.**
@@ -65,9 +75,9 @@ Additionally:
 - **You may NOT consume alcohol, block the roadway, create any disturbance, or camp in the parking lot.**
 - **Do not leave any trash in the parking area.**
 
-***
-
-## Reserving the Property
+---
+# Reserving the Property
+---
 
 ### Types of Use
 
@@ -94,19 +104,32 @@ In order to make a reservation a Keyholder must:
 - Have $1,000 in MITOC “Frequent Flyer” checks currently on file in the MITOC office to act as a deposit against any damages or legal fees incurred by your visit
 - Have contact information for the current Cabin Managers on hand
 
-### Reservation Procedure
+### Reservation Procedure for Official MITOC Programming
+
+Please get in touch with us as early as possible about official club programming. Major club events (e.g. Winter School) typically recieve extra support from the cabin managers.
+
+1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** You can simply link the mitoc-trips page as opposed to providing full contact information for your group. For club programming like School of Rock, you may ask us to block out weekends months in advance while you finalize your plans.
+1. A Cabin Manager will confirm receipt of your request and block off the relevant days on the calendar. Official club programming is exempt from the property exclusive fee.
+1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
+1. Ensure that **everyone** in your group has signed [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/). As long as this is an official trip, this should be automatically handled by the trips website.
+1. Have the group members submit their cabin dues individually at [Pay MITOC](https://mitoc.mit.edu/pay). Typically you communicate this in a trip planning email or rideshare spreadsheet.
+1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
+
+### Reservation Procedure for Personal Use 
 All of these steps must be completed in order to legally access the property.
 
-1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3).
-Upon express email or written approval from a Cabin Manager following your application, pay for your entire group in one payment on the [Pay MITOC](https://mitoc.mit.edu/pay) page and email the receipt as a 2. reply to your approval email. **Fees are non-refundable**. You will receive an electronic lock code after payment, for cabin stays.
-3. Confirm by email with the Cabin Managers that your group and plans have not changed before leaving for Intervale. Detail any changes if applicable.
-4. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
-Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email
+1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** The full names and contact information of every member in your party is required.
+1. A Cabin Manager will confirm receipt of your request and request that you pay for your group. Please submit a payment for your entire group (we do not accept individual payments from each guest for personal reservations) at [Pay MITOC](https://mitoc.mit.edu/pay) and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
+1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
+1. Confirm by email with the Cabin Managers that your group and plans have not changed no later than 1 day in advance of leaving for Intervale. Detail any changes if applicable.
+1. Ensure that **everyone** in your group has signed [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/).
+1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
+Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email.
  
 ### Reservation Policies
 - All reservations are at the discretion of the Cabin Managers. Requests can be denied on suspicion/expectation of potential issues with the visit.
+- There can be a maximum of fifteen people in the cabin, and a total of twenty-five people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
 - We require a 1:1 ratio of members to non-members in each group
-- There can be a maximum of fifteen people in the cabin and twenty people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
 - Reservation requests for weekends must be submitted by Thursday at 11:59pm before the weekend of use.
 - Reservations must all fit in one vehicle or maintain a one-to-four ratio of Keyholders to guests (or one-to-nine in the case of official MITOC trips.)
 - Pets may be allowed at the discretion of the Cabin Managers. Advanced notice is required.
@@ -115,13 +138,13 @@ Please keep in mind that Intervale is managed by volunteers with other responsib
 ## Communication
 Any and all questions/communication about Intervale should be directed to the Cabin Managers, who can most easily be reached at intervale-mgr@mit.edu. It is especially important not to communicate the location of the cabin to anyone.
  
-***
-
-## At The Cabin
+---
+# At The Cabin
+---
 
 ### Arriving
 
-Complete the first part of the cabin checklist. Have people take their personal gear to the loft or the hooks at the far corners of the den. People have a tendency to dump their stuff in the middle of the floor, where it gets in everyone’s way and is probably even a fire hazard. Please instruct everyone to leave their shoes/boots on the tiled floor at the door. The hardwood floors are in beautiful condition and snow, dirt, etc, from outside will quickly scratch them.
+Complete the first part of the cabin checklist. Have people take their personal gear to the loft or the hooks at the far corners of the den. People have a tendency to dump their stuff in the middle of the floor, where it gets in everyone’s way. Please instruct everyone to leave their shoes/boots on the tiled floor at the door. The hardwood floors are in beautiful condition and snow, dirt, etc, from outside will quickly scratch them.
 
 ### Cleaning
 
@@ -144,24 +167,33 @@ Other alcohol-related behaviors prohibited by MIT include but are not limited to
 MIT also adheres to the provisions concerning alcohol under the federal Drug-Free Workplace and Drug-Free Schools and Communities Acts (DFSCA).
 The Institute does not intend through its guidelines or policies to restrict the responsible use of alcohol by members of the MIT community who are at or above the legal drinking age of 21. However, efforts to observe existing laws and regulations in an environment where the majority of the undergraduate student body is not of legal drinking age will impose some constraints on those who are of legal drinking age.”
 
-## Facilities and Equipment
+---
+# Facilities and Equipment
+---
 
 ### Cabin Gas and Appliances
 
 #### Turning on the Gas
 
-1. Upon arrival at the tanks first ensure all tanks are closed by checking the valve on top of each tank
-2. Identify the tank marked as “IN USE”, open it by opening the valve on top of the tank
-3. Below the regulator is the master shut-off. If the red lever is perpendicular to the gas line it is OFF, turn it parallel to the gas line for ON.
-4. Above the regulator between the second and third tank is the bank selector. Turn it to face the direction (left or right) of the tank which you wish to use.
+1. Ensure that every gas appliance inside the cabin is turned off.
+2. Crack the top window in the cabin 1/2" to allow moisture to escape the cabin.
+3. Upon arrival at the tanks first ensure all tanks are closed by checking the valve on top of each tank
+4. Identify the tank marked as “IN USE”, open it by opening the valve on top of the tank
+5. Below the regulator is the master shut-off. If the red lever is perpendicular to the gas line it is OFF, turn it parallel to the gas line for ON.
+6. Above the regulator between the second and third tank is the bank selector. Turn it to face the direction (left or right) of the tank which you wish to use.
+7. We recommend lighting the largest stove burner inside the cabin to verify gas flow. The stove is much simpler to light than the heater.
+
+#### Stove
+
+Once the gas is turned on, lighting the burners is rather straightforward. Turn the knob of the appropriate burned to the setting marked “light”. The stove is equipped with a battery for the lighter. If the lighter isn’t working due to a dead battery touch a match to the burner. The oven is also gas, and is lit using the same battery lighter. If the battery is dead you can light the oven with a match by carefully lighting the oven pilot under the stove toward the back. Don’t try this if you haven’t been shown how. Please make sure that the stove top is clean and sparkly white before you leave.
 
 #### Lighting the Lamps
 
-After turning on the gas, check to see if it is working by lighting one of the lamps in the cabin. Each lamp has a switch on the side of it which is raised to turn the gas on. First, light a match (or use the lighter if there is one) and then turn on the gas. Now hold the flame BELOW the mantle without actually touching the match, lighter, or anything else, to the mantle. The lamp should light quickly. The mantles are extremely fragile (and expensive) so please do not touch them either with your hands, the match, the lighter, or anything else. In cold weather, it may take a few moments for the gas to flow through the line.
+Each lamp has a switch on the side of it which is raised to turn the gas on. First, light a match (or use the lighter if there is one) and then turn on the gas. Now hold the flame BELOW the mantle without actually touching the match, lighter, or anything else, to the mantle. The lamp should light quickly. The mantles are extremely fragile (and expensive) so please do not touch them either with your hands, the match, the lighter, or anything else. In cold weather, it may take a few moments for the gas to flow through the line.
 
 #### Switching Fuel Bottles
 
-If after several tries, the lamp does not light, it is possible that the current gas bottle is empty and you will need to switch the regulator to a different bottle, which is quite easy. Return to the bottles behind the cabin.
+If after several tries, the stove does not light, it is possible that the current gas bottle is empty and you will need to switch the regulator to a different bottle, which is quite easy. Return to the bottles behind the cabin.
 1. Turn off the main shut-off by returning the red-lever to be perpendicular to the gas line.
 2. Close all tanks by closing the valves on the top of all tanks.
 3. Replace the now old “IN USE” tag with an “EMPTY”
@@ -170,6 +202,7 @@ If after several tries, the lamp does not light, it is possible that the current
 6. Turn the bank selector to face the bottle you wish to use.
 7. Now reopen the main shutoff by turning the red lever to the parallel position.
 8. Please tell the cabin manager that one of the bottles is now empty, along with how many full bottles are remaining on the regulator.
+
 
 #### Turning Off the Gas
 
@@ -183,20 +216,12 @@ If after several tries, the lamp does not light, it is possible that the current
 
 Intervale is heated by a propane heater. Directions for lighting the furnace are found on the panel on the bottom of the heater after removing the cover. Note that it may take a full minute or two of holding the black knob down in the “PILOT” position before the spark will ignite the pilot light.
 
-#### Stove
-
-Once the gas is turned on, lighting the burners is rather straightforward. Turn the knob of the appropriate burned to the setting marked “light”. The stove is equipped with a battery for the lighter. If the lighter isn’t working due to a dead battery touch a match to the burner. The oven is also gas, and is lit using the same battery lighter. If the battery is dead you can light the oven with a match by carefully lighting the oven pilot under the stove toward the back. Don’t try this if you haven’t been shown how. Please make sure that the stove top is clean and sparkly white before you leave.
 
 ### The Kitchen 
 
-Food should be stored in the cabinet by the stove, especially overnight. Feel free to leave behind **non-perishable unopened items**, and feel free to take some food that has been left behind.
+Food should be stored in the cabinet by the stove, especially overnight. Do not leave any food in the cabin between stays. 
 
-Glasses, plates, bowls, and utensils all have storage cabinets. Make sure that they are all properly put away and that the cabinets are properly closed.
-Water at Intervale is drawn from a spring located over the hill by the large wooden platform. There are containers for carrying water to the cabin. The water from this spring has been tested, and is believed to be safe for drinking but you may want to boil it just to be sure. Please be careful around the spring so that it does not become contaminated.
-
-Waste water should be deposited in the sump which is near the cabin. When you leave the cabin, make sure that all water is poured out. Do not leave empty plastic water containers in the kitchen. Take them back to Cambridge with you and recycle them.
-
-The most efficient way to wash dishes at Intervale is to use the tubs on the counter in the back. Heat some water on the stove. If you are with a large group, you will need lots of water, and it will take a long time to heat. You should make every effort to start heating the water immediately as soon as dinner has been cooked, and before everyone eats (or even before dinner is cooked if there is room on the stove.) You can use water that was used to boil pasta or vegetables as the first round of cleaning water. Fill one tub full of hot soapy water, and the other full of hot rinse water. Wash, rinse, and place the drippy dishes in the dish rack on the counter. Be sure to clean the counters, and the stove, with hot water.
+We hope to rebuild our well in 2023, but until then there is no reliable water source on the property. That means that it's very difficult to do dishes at this time. Groups may prepare food if they bring all of their own dishes and take those dishes home with them. 
 
 ### Fires
 

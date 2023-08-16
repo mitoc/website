@@ -21,3 +21,7 @@ defaults:
       path: "_pages" # all files in the project
     values:
       layout: "default"
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"

@@ -1,4 +1,9 @@
 {% assign category = include.category %}
+{% assign approver = "mitoc-approval@mit.edu" %}
+{% if category.approver %}
+  {% assign approver = category.approver %}
+{% endif %}
+
 
 <table class="table table-striped">
   <tr>
@@ -18,7 +23,7 @@
     <tr class="danger">
       <td colspan="3">
         <b>Restricted</b> (Email:
-        <a href="mailto:mitoc-approval@mit.edu">mitoc-approval@mit.edu</a>)
+        <a href="mailto:{{ approver }}">{{ approver }}</a>)
       </td>
     </tr>
   {% endif %}

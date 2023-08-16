@@ -1,46 +1,42 @@
 -
-    name: "No Man's Land Film Festival ticket with MIT ID: $5"
-    price: 5
+    name: "Acadia: $60"
+    price: 60
     category: trip
 -
-    name: "No Man's Land Film Festival ticket General Admission: $10"
-    price: 10
+    name: "Paddleboarding Trip: $5"
+    price: 5
     category: trip
 -
     name: "Camelot exclusive rental: $300"
     price: 300
     category: cabin
 -
-    name: "Intervale exclusive rental: $250"
-    price: 250
-    category: cabin
--
-    name: "SumMIT Bouldering Comp, no shirt: $10"
-    price: 10
-    category: item
--
-    name: "Acadia: $40"
-    price: 40
-    category: trip
--
     name: "Canoe Trip: $15"
     price: 15
     category: trip
 -
-    name: "Circus (MIT student): $20"
+    name: "Circus (MIT Affiliate/ MIT Grad student): $20"
     price: 20
     category: trip
 -
-    name: "Circus (not MIT student): $30"
+    name: "Circus (Non-Affiliate Grad Student): $30"
     price: 30
     category: trip
 -
-    name: "Climbers Retreat $10"
-    price: 10
+    name: "Circus (Non-Affiliate): $40"
+    price: 40
     category: trip
 -
-    name: "MITOC Rock Program $100"
-    price: 100
+    name: "Intervale exclusive rental: $250"
+    price: 250
+    category: cabin
+-
+    name: "School of Rock Fee $125"
+    price: 125
+    category: trip
+-
+    name: "School of Rock T-Shirt $15"
+    price: 15
     category: trip
 -
     name: "Open Pool Session + boat: $12"
@@ -68,15 +64,7 @@
     category: trip
 -
     name: "Surfing trip: $30"
-    price: 30
-    category: trip
--
-    name: "WFA (full)"
-    price: 200
-    category: trip
--
-    name: "WFA (subsidized)"
-    price: 100
+    price: 20
     category: trip
 -
     name: "White-water Trip: $15"
@@ -87,8 +75,20 @@
     price: 15
     category: trip
 -
-    name: "'Women''s Climbing Open Cabin $20'"
-    price: 20
+    name: "WFA (full)"
+    price: 250
+    category: trip
+-
+    name: "WFA (subsidized)"
+    price: 150
+    category: trip
+-
+    name: "Women's / Non-Binary Cabin Night - Camping + Food"
+    price: 16
+    category: trip
+-
+    name: "Women's / Non-Binary Cabin Night - Food only"
+    price: 6
     category: trip
 -
     name: "WS ice climbing trip fee: $20"
@@ -103,26 +103,22 @@
     price: 5
     category: trip
 -
-    name: "AIARE 1 (full): $350"
-    price: 350
+    name: "Yoga - $5"
+    price: 5
     category: trip
 -
-    name: "AIARE 1 (subsidized): $250"
-    price: 250
-    category: trip
--
-    name: "AIARE 2 (full): $400"
-    price: 400
-    category: trip
--
-    name: "AIARE 2 (subsidized): $300"
-    price: 300
-    category: trip
--
-    name: "Avalanche rescue (full): $110"
-    price: 110
-    category: trip
--
-    name: "Avalanche rescue (subsidized): $10"
+    name: "Yoga - $10"
     price: 10
+    category: trip
+-
+    name: "Yoga - $15"
+    price: 15
+    category: trip
+-
+    name: "Yoga - $20"
+    price: 20
+    category: trip
+-
+    name: "Yoga - $25"
+    price: 25
     category: trip

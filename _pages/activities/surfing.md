@@ -9,7 +9,27 @@ Frigid New England winters are not what comes to mind when one pictures surfing,
 
 As you become a surfer, you quickly realize there is much more to it than the time spent in the water. Therefore, we also organize activities ranging from balance training sessions, to science of board design, to becoming an amateur meteorologist. In addition, we aim to instill a sense of responsibility in caring for the community and for the beaches and oceans that provide us with this unrivaled experience.
 
-You can [contact us directly](mailto:gslg-surfing-organizer@mit.edu) or subscribe to the [surfing-mitoc mailing list](http://mailman.mit.edu/mailman/listinfo/surfing-mitoc) to stay updated on all news and activities.
+You can contact the [surf chair](mailto:boathouse-mgr@mit.edu) or subscribe to the [surfing-mitoc mailing list](http://mailman.mit.edu/mailman/listinfo/surfing-mitoc) to stay updated on all news and activities.
+
+### Surfboard Rental:
+
+MITOC has several 8ft soft-top surfboards available for rental.
+
+To rent surfboards on your own:
+
+1.  Be a MITOC member
+2.  Have completed a boathouse training/work session annually
+3.  E-mail the [surf chair](mailto:boathouse-mgr@mit.edu) to check for board availability and fill out a [surfing float plan form](https://forms.gle/A4WZEaHvCCeYMTe39). You must establish that you will be able to use the gear safely.
+4.  After your trip, a brief report to the surf chair would be appreciated about any issues with the boards as well as any comments of interest about your experience
+
+For more detailed information about renting surfboards, see the [boathouse rental page](/rentals/boathouse).
+
+You must be able to swim to rent a surfboard. Be aware that North Atlantic water is cold and conditions can change quickly, so be experienced and prepared.
+
+### Wetsuit Rental:
+
+MITOC has a small selection of wetsuits, boots, and surf gloves available for rent. Please see the [gear rental information page](/rentals) for details.
+
 
 ### Activities Include:
 

@@ -30,9 +30,9 @@ There is a maximum trip size of 10 within the White Mountain National Forest. Ou
 *   Co-leader: participate in two MITOC hiking events
 *   Leader: upgrade from a co-leader by co-leading two hikes and having a leader submit a recommendation.
 
-The two hikes should be on different weekends.
+Ideally the 2 hikes should be on different weekends. However, please submit an application even if you don’t fulfill all of the requirements. Applications are evaluated on a case by case basis. If you have any questions or are unsure if your application has been reviewed please email [3s-hiking-chair@mit.edu](mailto:3s-hiking-chair@mit.edu)
 
-Most new leaders will start as a co-leader. This provides an opportunity to under the guidance of a full leader. If you already have outside institutional leadership experience, you may be granted a full leader rating on a case-by-case basis.
+Most new leaders will start as a co-leader. This provides an opportunity to learn under the guidance of a full leader. If you already have outside institutional leadership experience, you may be granted a full leader rating on a case-by-case basis.
 
 ### How do I become a leader?
 
@@ -46,7 +46,8 @@ You can do these in any order.
 *   Co-lead two hikes.
 *   On one hike, let the full leader know you want to upgrade. Take point of the hike and handle the majority of the logistics and group management. This is to evaluate how you would do as a full leader with a potentially inexperienced co-leader.
 *   [Submit an upgrade request](https://mitoc-trips.mit.edu/hiking/leaders/apply/).
-*   The 3s hiking chair will contact the leaders you have co-led with to see how the hikes went. If all the above are successful, you will be granted an upgrade.
+*    Ask the full leader that you hiked with to submit a reccomendation for you by [filling this form](https://docs.google.com/forms/d/e/1FAIpQLSerbe7SweQodUn_1pi122gUsgw5ckvyw3KGEtoC57cPzWGuhw/viewform?usp=sf_link).
+If all the above are successful, you will be granted an upgrade.
 
 ### What constitutes a 3-season hike?
 

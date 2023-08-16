@@ -3,11 +3,6 @@
     title: Calendar
 ---
 
-<div class="alert alert-warning">
-  In accordance with <a href="http://web.mit.edu/covid19/">MIT's response to COVID-19</a>,
-  <strong>all MITOC office hours are canceled indefinitely.</strong>
-</div>
-
 A great way to stay informed is to check our Google calendar. This calendar has our events, office hours, and cabin reservations.
 
 Add the MITOC calendar to your Google calendar by pressing ![Google calendar logo](/images/calendar/googleplus.png) (lower right corner of the calendar.)

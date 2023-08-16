@@ -1,20 +1,24 @@
 ---
     permalink: /rentals/boathouse
-    title: Boat Rentals
+    title: Water Sports Rentals
     images:
       - /images/boathouse/pic1.jpg
       - /images/boathouse/pic2.jpg
       - /images/boathouse/pic3.jpg
       - /images/boathouse/pic4.jpg
 ---
+<div class="alert alert-danger"> 
+<p><strong>Stratton Student Center Closure (Updated March 8th, 2023): The student center and gear office are closed until fall due to burst pipes and flooding. Official MIT updates can be found <a href="https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates">here</a>. We are resuming office hours out of the MITOC boathouse in N52 **not at the river**. We have most but not 100% of our gear available for rent. Check the <a href="https://mitoc.mit.edu/calendar">calendar</a> for office hour locations and times.</strong></p>
+</div>
 
-MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, and windsurfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
+
+MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurfing, and surfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
 
 ### Rental procedure outline
 
 1.  Become a boathouse keyholder.
 2.  Get certified by the appropriate boat chair to rent out the boat you want.
-3.  For each trip that you want to use a sea kayak or take a canoe on a car, fill out a [float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfphwLNGRzg6e_8CIA_WcPSr7tzmsM69MkmcFHqfUyMzrwP3A/viewform).
+3.  For each trip that you want to use a sea kayak or take a canoe on a car, fill out a [float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfphwLNGRzg6e_8CIA_WcPSr7tzmsM69MkmcFHqfUyMzrwP3A/viewform). For surfboards, fill out a [surfing float plan form](https://forms.gle/A4WZEaHvCCeYMTe39).
 4.  Drop off deposit checks (frequent flyer) at MITOC office (if not done previously).
 5.  As early as possible, email the [boat chairs](mailto:boathouse-mgr@mit.edu) with your reservation request and respond promptly to any of their concerns. If your reservation is approved, the appropriate boat chair will let you know.
 6.  Make an [online pre-payment](/pay) for your equipment, sending confirmation of payment to the chair. The chair will then provide the lockbox PIN to access the boathouse key. Note: your unique PIN will be active (up to) 3 days prior to your trip-start and expire 1 day after your trip-end.
@@ -44,7 +48,7 @@ If you've never done this before, read on for...
         <th>Deposit</th>
         <th>Rental</th>
         <th>Approver<br>
-        (email boathouse-mgr)</th>
+        (email boathouse-mgr@mit.edu)</th>
     </tr>
     <tr>
         <td>Flatwater canoe (inc. 2 paddles &amp; PFDs)</td>
@@ -123,6 +127,8 @@ If you've never done this before, read on for...
     </tr>
 </tbody></table>
 
-### Paddling Leaders
+### Surfing
 
-{% include leaders.html activity='boating' id='paddle-leaders' %}
+Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
+
+{% include price-table.html category = site.data.gear_prices.surfing %}
