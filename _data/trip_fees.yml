@@ -35,8 +35,12 @@
     price: 125
     category: trip
 -
-    name: "School of Rock T-Shirt $15"
-    price: 15
+    name: "School of Rock 2023 T-Shirt $12"
+    price: 12
+    category: trip
+-
+    name: "School of Rock 2023 Sun Hoody $45"
+    price: 45
     category: trip
 -
     name: "Open Pool Session + boat: $12"
