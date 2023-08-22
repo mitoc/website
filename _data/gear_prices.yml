@@ -45,6 +45,9 @@ climbing:
     - title: ATC and Locking Biner
       deposit: $30
       rental: $2
+    - title: Grigri and Locking Biner
+      deposit: $100
+      rental: $3
     - title: Climbing Shoes
       deposit: $60
       rental: $5
@@ -54,25 +57,44 @@ climbing:
     - title: Climbing Harness
       deposit: $60
       rental: $4
-    - title: Plastic Boot
-      deposit: $200
-      rental: $6
+    - title: Stick Clip
+      deposit: $50
+      rental: $5
   restricted_items:
+    # Bouldering
     - title: Bouldering Pad
       deposit: $200
-      rental: $5
-    - title: Ascenders, Daisies, and Ladders
-      deposit: $250
-      rental: $5
+      rental: $6
+    # Sport
     - title: Quickdraws (pack of 6)
       deposit: $80
       rental: $5
     - title: Ohm Assisted Braking Device
       deposit: $100
+      rental: $2
+    # Trad
+    - title: Single rack (.2-3 Camalot, BD offset nuts)
+      deposit: $500
+      rental: $10
+    - title: "Large cams, #4-8 Camalot (individual)"
+      deposit: $60-140
+      rental: $4
+    - title: Microtraxion
+      deposit: $100
+      rental: $3
+    # Aid / Big walls
+    - title: Ascenders, Daisies, and Ladders
+      deposit: $250
       rental: $5
     - title: Haul Bag
       deposit: $140
       rental: $5
+    - title: G7 Pod Portaledge (1p)
+      deposit: $785
+      rental: $10
+    - title: G7 Alpine Shelter
+      deposit: $450
+      rental: $8
 
 winter_hiking:
   items:
