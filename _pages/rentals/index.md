@@ -8,8 +8,8 @@
       - /images/rental/pic3.jpg
       - /images/rental/pic4.jpg
 ---
-<div class="alert alert-danger"> 
-<p><strong>Stratton Student Center Closure (Updated March 8th, 2023): The student center and gear office are closed until fall due to burst pipes and flooding. Official MIT updates can be found <a href="https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates">here</a>. We are resuming office hours out of the MITOC boathouse in N52 **not at the river**. We have most but not 100% of our gear available for rent. Check the <a href="https://mitoc.mit.edu/calendar">calendar</a> for office hour locations and times.</strong></p>
+<div class="alert alert-success"> 
+<p><strong>Stratton Student Center Closure (Updated November 2023): The student center and gear office are open again! We are resuming office hours out of the MITOC office located in the stratton student center, W20 461. Check the <a href="https://mitoc.mit.edu/calendar">calendar</a> for office hour times and staffing.</strong></p>
 </div>
 
 <div class="alert alert-warning"> 
@@ -41,7 +41,7 @@
     
     Deposit checks are mandatory and must be _personal checks_. NO EXCEPTIONS UNDER ANY CIRCUMSTANCES. We will not accept money orders, cashier's checks, cash, credit cards, IDs, valuables, or anything else as collateral for rentals. Do not try to pressure deskworkers to bend this rule.
     
-2.  **Come by the [MITOC boathouse (N52 ground floor, enter at loading dock)](http://whereis.mit.edu/?go=N52) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesday and Thursday evenings and ocasionally Friday afternoons. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
+2.  **Come by the [MITOC office (Student center, 4th floor, room 461)](http://whereis.mit.edu/?go=W20) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesday and Thursday evenings and ocasionally Friday afternoons. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
 3.  **Go outside and have fun! Yay!**
 
 ### Returning Gear
