@@ -1,8 +1,8 @@
 donate_link: &donate_link https://giving.mit.edu/form/?fundId=3892696&amount=1000
-donations_amount: 338,208
-donations_account_balance: 312,208
+donations_amount: 342,830
+donations_account_balance: 316,830
 donations_goal: 500000
-number_donors: 244
+number_donors: 265
 menu:
   - title: Camelot Bunkhouse
     href: /camelot
