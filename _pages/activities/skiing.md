@@ -17,7 +17,7 @@ You can rent cross-country, backcountry, telemark, and AT ski equipment from MIT
 
 <img src="/images/skiing/ikon_map.jpeg" style="width: 50%; height: 50%">
 
-MITOC is part of the [Ikon Pass](https://www.ikonpass.com/) College Ski Club program. MITOC members who are also **current students** (grad or undergrad at any college/university) can get discounted passes ($489 for the base pass, $729 for the Ikon Pass, and $369 for the Ikon Session 4-Day Pass), which is $300-$400 less than the [public pass prices](https://www.ikonpass.com/en/shop-passes). Staff, faculty, affiliates, etc are unfortunately not eligible.
+MITOC is part of the [Ikon Pass](https://www.ikonpass.com/) College Ski Club program. MITOC members who are also **current students** (grad or undergrad at any college/university) can get discounted passes ($839 for the Ikon Pass, $599 for the Ikon Base Pass, and $429 for the Ikon Session 4-Day Pass), which is $300-$400 less than the [public pass prices](https://www.ikonpass.com/en/shop-passes). Staff, faculty, affiliates, etc are unfortunately not eligible.
 
 The major distinction between the Ikon and Base passes are that the Base passes have some blackout dates, and provide 5 days vs 7 days at the non-core resorts. You usually break even on the pass in 3-5 days of skiing at Northeast Ikon resorts vs paying online or window lift ticket prices. 
 
