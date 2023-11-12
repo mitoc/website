@@ -9,7 +9,7 @@
 ---
 
 
-### Winter School 2023
+### Winter School 2024
 
 Do you enjoy being outdoors but don't know what to do when the temperature drops? Do you live for summer but suffer in winter? Are you cooped up from November to March? Don't hide from the cold — celebrate winter! During IAP, participate in MIT Outing Club's Winter School, where you can have fun learning skills like cross-country skiing, snowshoeing, ice climbing and more. Winter School is MITOC's crash course in cold weather activities.
 
@@ -23,20 +23,20 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 #### Lectures
 
-Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2023’s lecture schedule is as follows:
+Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2024’s lecture schedule is as follows:
 
-- **Mandatory Lecture** 7pm-9pm Tuesday Jan 10th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1787/) in [26-100](http://whereis.mit.edu/?go=26)
-- **Mandatory Lecture** 7pm-9pm Thursday Jan 12th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/1788/) in [26-100](http://whereis.mit.edu/?go=26)
-- 7pm-9pm Tuesday Jan 17th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 19th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 24th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 26th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 31st. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Feb 2nd. Guest lecture, Winter School Stories & Recap. [6-120](http://whereis.mit.edu/?go=6)
+- **Mandatory Lecture** 7pm-9pm Tuesday Jan 9th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2237/) in [26-100](http://whereis.mit.edu/?go=26)
+- **Mandatory Lecture** 7pm-9pm Thursday Jan 11th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2238/) in [26-100](http://whereis.mit.edu/?go=26)
+- 7pm-9pm Tuesday Jan 16th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Jan 18th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 23rd. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Jan 25th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 30th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Feb 1st. Guest lecture, Winter School Stories & Recap. [6-120](http://whereis.mit.edu/?go=6)
 
 #### Trips
 
-Outdoor trips are held every Saturday and Sunday, and often involve travel to New Hampshire's White Mountains. These trips include hiking, ice climbing, skiing, overnights, and fat biking. Trips for each weekend are announced the week prior. Gear ranging from ice axes to winter boots is available for rent at-cost.   
+Outdoor trips are held every Saturday and Sunday, and often involve travel to New Hampshire's White Mountains. These trips include hiking, ice climbing, skiing, overnights, and fat biking. Trips for each weekend are announced the week prior. Gear ranging from ice axes to winter boots is available for rent at-cost.
 
 ### What is required to participate?
 
