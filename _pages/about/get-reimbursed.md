@@ -42,7 +42,7 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
   2.  Generate a _Detailed Report with Allocation Summary_ from the Print/Email dropdown and send to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
   3.  Treasurer will reply with a signed approval form, which should then be attached to Concur report and submitted.
 
-  Personal mileage can be reimbursed using Concur, however, that reimbursement rate is determined by MIT (~$0.54/mi). Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) before requesting reimbursement for personal mileage to ensure correct rate is used.
+  Personal mileage can be reimbursed using Concur, however, that reimbursement rate is determined by MIT (~$0.655/mi). Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) before requesting reimbursement for personal mileage to ensure correct rate is used.
 
 {% endtemplate %}
 
@@ -71,3 +71,19 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
   *   A mailing address for the check
 
 {% endtemplate %}
+
+{% template panel.html title: "Financial Aid" id: "financial-aid" %}
+
+  We offer need-blind financial aid to MIT undergrads. If you are not an MIT undergrad, please let us know ([survey](https://docs.google.com/forms/d/e/1FAIpQLSedhCx-Hji2vutwtwclz9smV-dS885JMmT-3Ok2yFAKgUslEQ/viewform?usp=sf_link)). This will help us expand this program in the future.
+  
+  Do NOT pay trip/rental fees. Leaders & desk workers will waive them upon request.
+  To recieve financial aid for gas/travel:
+  *   After your trip, pay your driver/trip leader. Ensure that you keep a proof of payment (screenshot of venmo/zelle payment). MIT will not reimburse cash payments.
+  *   Request a reimbursement from MIT. Follow instructions on the the "Other non-travel (e.g. gear, food) - with MIT certificates" tab, above.
+  *   Attach two "receipts" to the Atlas RFP report.
+      1.   Download and fill out [this invoice form](https://www.dropbox.com/scl/fi/5xseluvej8sx3nfsunpkw/MITOC_Financial-Aid-Invoice.pdf?rlkey=i59gjgb9mzv86mj6a5yxp6zqj&dl=0).
+      2.   A proof of payment (screenshot of venmo/zelle payment). The payee on the invoice must match the payee on the proof of payment.
+
+{% endtemplate %}
+
+
