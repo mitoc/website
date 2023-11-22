@@ -12,7 +12,10 @@ This page can be used to pay money to MITOC using PayPal or a credit/debit card.
 
 If you are having trouble with the payment system, contact [mitoc-bursar@mit.edu](mailto:mitoc-bursar@mit.edu). The most common issue is that the billing address must exactly match what your bank has on file, so if your card is declined, double-check the address you entered.
 
-If you are an MIT student and this cost is prohibitive to your membership/participation, please email [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu) to ask about this fee being waived. If you are a non-MIT student please feel free to email to ask about financial assistance options.
+### Financial Assistance
+We provide need-blind financial assistance to any MIT undergrad, upon request. 
+If finances are at all a factor in your participation, please don’t hesitate to use this resource. MITOC trip and rental fees will be waived upon request (ask your trip leader and/or desk worker). Gas/travel can be reimbursed (details under [get reimbursed](/about/get-reimbursed)).
+For assistance with membership or other costs, please email [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu) to ask about this fee being waived. If you are a non-MIT student please feel free to email to ask about financial assistance options.
 
 ### Membership Fees
 
