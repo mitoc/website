@@ -44,7 +44,7 @@ In order to participate you simply need to complete three things.
 
 1.  Make sure you are a current [MITOC member](https://mitoc-trips.mit.edu/profile/membership/)
 2.  Make sure you have signed the [MITOC waiver](https://mitoc-trips.mit.edu/profile/waiver/)
-3.  Attend the two mandatory lectures (sign up in advance [here](https://mitoc-trips.mit.edu/trips/1787/) and [here](https://mitoc-trips.mit.edu/trips/1788/); we'll give additional sign-in instructions during lectures).
+3.  Attend the two mandatory lectures (sign up in advance [here](https://mitoc-trips.mit.edu/trips/2237/) and [here](https://mitoc-trips.mit.edu/trips/2238/); we'll give additional sign-in instructions during lectures).
 
 ### I'm going to miss one of the two mandatory lectures. May I still participate?
 
@@ -53,6 +53,13 @@ Unfortunately, there are no exceptions to the first week lecture attendance rule
 ### I have done Winter School in the past. May I participate again this year?
 
 Yes, returning students are welcome to come learn more skills. Remember that the first two lectures are mandatory, even if you've attended them before.
+
+### How much does Winter School cost?
+The weekday evening lectures are free!
+For weekend trips, participants are typically responsible for paying a trip fee and gear rental costs (the combined trip + gear costs are capped at $20), along with rideshare costs ($10~$40, depending on the destination). Depending on the activity, trips may also include additional costs allocated to non-MITOC affiliations (e.g., ski passes).
+
+### What gear do I need?
+You can rent most of the gear you need (such as microspikes, snowshoes, and crampons) from our office. Some winter clothing items are available for rental (such as hard-shells, mittens, and winter boots), but you may have to prepare other items like base layers, hats, and gloves. The mandatory lectures will include clothing tips on where to find what you will need at a number of price points.
 
 For more information, contact [the Winter School chair](mailto:ws-chair@mit.edu).
 
