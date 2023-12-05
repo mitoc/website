@@ -25,8 +25,8 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2024’s lecture schedule is as follows:
 
-- **Mandatory Lecture** 7pm-9pm Tuesday Jan 9th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2237/) in [26-100](http://whereis.mit.edu/?go=26)
-- **Mandatory Lecture** 7pm-9pm Thursday Jan 11th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2238/) in [26-100](http://whereis.mit.edu/?go=26)
+- **Mandatory Lecture** 7pm-9pm Tuesday Jan 9th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2237/) in [10-250](http://whereis.mit.edu/?go=10)
+- **Mandatory Lecture** 7pm-9pm Thursday Jan 11th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2238/) in [10-250](http://whereis.mit.edu/?go=10)
 - 7pm-9pm Tuesday Jan 16th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
 - 7pm-9pm Thursday Jan 18th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
 - 7pm-9pm Tuesday Jan 23rd. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
