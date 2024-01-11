@@ -28,3 +28,25 @@ We have elections for positions each year, generally in late spring. Nevertheles
     </div>
   {% endfor %}
 </div>
+
+## Contact MITOC
+
+To contact the Board of Directors with general questions or comments about the club send mail to [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu).
+
+If you have questions about office hours, gear rental, etc., please read the [gear rental information](/rentals) in full. If your question isn't answered there, email the desk workers at [mitoc-desk@mit.edu](mailto:mitoc-desk@mit.edu).
+
+To contact our cabin managers email [camelot-mgr](mailto:camelot-mgr@mit.edu) or [intervale-mgr](mailto:intervale-mgr@mit.edu).
+
+For particular MITOC events, contact:
+*   [Winter School](mailto:ws-chair@mit.edu)
+*   [Winter Safety Committee](mailto:mitoc-wsc@mit.edu)
+*   [Circus](mailto:circus-chair@mit.edu)
+
+For particular MITOC activities, contact:
+
+*   [3 season hiking](mailto:3s-hiking-chair@mit.edu)
+*   [Climbing](mailto:climbing-chair@mit.edu)
+*   [Backcountry skiing](mailto:bcski-chair@mit.edu)
+*   [Mountaineering](mailto:mountaineering-chair@mit.edu)
+*   [Mountain biking](mailto:mtnbike-chair@mit.edu)
+*   [Boathouse](mailto:boathouse-mgr@mit.edu)
