@@ -76,7 +76,7 @@ Ski sizes (Frame Binding, cm):
 : 155, 157, 165 (x2), 173, 175, 176, 180, 181
 
 Splitboards (cm):
-: 154, 158
+: 149, 154, 158
 
 </div>
 
