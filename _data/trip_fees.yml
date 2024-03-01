@@ -1,132 +1,87 @@
--
-    name: "Acadia: $60"
-    price: 60
-    category: trip
--
-    name: "Paddleboarding Trip: $5"
-    price: 5
-    category: trip
--
-    name: "Camelot exclusive rental: $300"
-    price: 300
-    category: cabin
--
-    name: "Canoe Trip: $15"
-    price: 15
-    category: trip
--
-    name: "Circus (MIT Affiliate/ MIT Grad student): $20"
-    price: 20
-    category: trip
--
-    name: "Circus (Non-Affiliate Grad Student): $30"
-    price: 30
-    category: trip
--
-    name: "Circus (Non-Affiliate): $40"
-    price: 40
-    category: trip
--
-    name: "Intervale exclusive rental: $250"
-    price: 250
-    category: cabin
--
-    name: "School of Rock Fee $125"
-    price: 125
-    category: trip
--
-    name: "School of Rock 2023 T-Shirt $12"
-    price: 12
-    category: trip
--
-    name: "School of Rock 2023 Sun Hoody $45"
-    price: 45
-    category: trip
--
-    name: "School of Rock 2023 Sun Hoody + T-Shirt $57"
-    price: 57
-    category: trip
--
-    name: "Open Pool Session + boat: $12"
-    price: 12
-    category: trip
--
-    name: "Open Pool Session: $10"
-    price: 10
-    category: trip
--
-    name: "Rolling Clinic + noseplug: $25"
-    price: 25
-    category: trip
--
-    name: "Rolling Clinic: $15"
-    price: 15
-    category: trip
--
-    name: "Sea Kayak Trip: $15"
-    price: 15
-    category: trip
--
-    name: "Ski-a-Palooza $10"
-    price: 10
-    category: trip
--
-    name: "Surfing trip: $30"
-    price: 20
-    category: trip
--
-    name: "White-water Trip: $15"
-    price: 15
-    category: trip
--
-    name: "Windsurfing Trip: $15"
-    price: 15
-    category: trip
--
-    name: "WFA (full)"
-    price: 250
-    category: trip
--
-    name: "WFA (subsidized)"
-    price: 150
-    category: trip
--
-    name: "Climbers Cabin Night (Camping + Food) - $16"
-    price: 16
-    category: trip
--
-    name: "Climbers Cabin Night (Food only) - $6"
-    price: 6
-    category: trip
--
-    name: "WS ice climbing trip fee: $20"
-    price: 20
-    category: trip
--
-    name: "WS skiing trip fee: $20"
-    price: 20
-    category: trip
--
-    name: "WS trip fee: $5"
-    price: 5
-    category: trip
--
-    name: "Yoga - $5"
-    price: 5
-    category: trip
--
-    name: "Yoga - $10"
-    price: 10
-    category: trip
--
-    name: "Yoga - $15"
-    price: 15
-    category: trip
--
-    name: "Yoga - $20"
-    price: 20
-    category: trip
--
-    name: "Yoga - $25"
-    price: 25
-    category: trip
+- name: "Acadia: $60"
+  price: 60
+  category: trip
+- name: "Paddleboarding Trip: $5"
+  price: 5
+  category: trip
+- name: "Camelot exclusive rental: $300"
+  price: 300
+  category: cabin
+- name: "Canoe Trip: $15"
+  price: 15
+  category: trip
+- name: "Circus (MIT Affiliate/ MIT Grad student): $20"
+  price: 20
+  category: trip
+- name: "Circus (Non-Affiliate Grad Student): $30"
+  price: 30
+  category: trip
+- name: "Circus (Non-Affiliate): $40"
+  price: 40
+  category: trip
+- name: "Intervale exclusive rental: $250"
+  price: 250
+  category: cabin
+- name: "School of Rock Fee $125"
+  price: 125
+  category: trip
+- name: "Open Pool Session + boat: $12"
+  price: 12
+  category: trip
+- name: "Open Pool Session: $10"
+  price: 10
+  category: trip
+- name: "Rolling Clinic + noseplug: $25"
+  price: 25
+  category: trip
+- name: "Rolling Clinic: $15"
+  price: 15
+  category: trip
+- name: "Sea Kayak Trip: $15"
+  price: 15
+  category: trip
+- name: "Surfing trip: $30"
+  price: 20
+  category: trip
+- name: "White-water Trip: $15"
+  price: 15
+  category: trip
+- name: "Windsurfing Trip: $15"
+  price: 15
+  category: trip
+- name: "WFA (full)"
+  price: 250
+  category: trip
+- name: "WFA (subsidized)"
+  price: 150
+  category: trip
+- name: "Climbers Cabin Night (Camping + Food) - $16"
+  price: 16
+  category: trip
+- name: "Climbers Cabin Night (Food only) - $6"
+  price: 6
+  category: trip
+- name: "Ice climbing trip fee: $30"
+  price: 30
+  category: trip
+- name: "AT skiing trip fee: $30"
+  price: 30
+  category: trip
+- name: "WS trip fee: $5"
+  price: 5
+  category: trip
+- name: "Yoga - $5"
+  price: 5
+  category: trip
+- name: "Yoga - $10"
+  price: 10
+  category: trip
+- name: "Yoga - $15"
+  price: 15
+  category: trip
+- name: "Yoga - $20"
+  price: 20
+  category: trip
+- name: "Yoga - $25"
+  price: 25
+  category: trip
