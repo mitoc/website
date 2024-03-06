@@ -18,45 +18,56 @@
 
 ## Overview
 
-### [2023 Application Now Open!](https://forms.gle/BsAKjjTYbwjvt7SX8)
+### 2024 School of Rock
 
-The MIT Outing Club regularly runs School of Rock (also known as the MITOC Rock Program), a mentor session dedicated to getting climbers outside on real rock. SoR currently runs in two tracks, sport climbing and trad climbing. The sport track is for climbers learning to lead bolted sport climbs, and the trad track is for those who want to follow and lead trad (traditional gear protected) climbs. Both tracks focus on developing technical competencies and mentor-mentee relationships through a series of weeknight technical review sessions and weekend trips.
+The MIT Outing Club regularly runs School of Rock (also known as the MITOC Rock Program), a program dedicated to getting climbers outside on real rock. SoR currently runs in two tracks, sport climbing and trad climbing. The sport track is for climbers to learn how to lead bolted sport climbs outside, and the trad track is for those who want to follow and lead trad (traditional gear protected) climbs. Both tracks focus on developing technical competencies and mentor-mentee relationships through a series of weeknight technical review sessions and weekend trips.
 
 Open to MIT Outing Club members - [join](/join).
 
 Article about School of Rock Fall 2021: [https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208](https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208)
 
 ## Application
-- [https://forms.gle/BsAKjjTYbwjvt7SX8](https://forms.gle/BsAKjjTYbwjvt7SX8)
-- Applications are open until May 1.
+- 2024 application link and more info coming soon!
 - We will give preference to MIT students, those that can commit to all or a majority of weekends and TRSs (this is important as the skills build on each other), and our desire to create a diverse climbing community and climbing leader pipeline within MITOC
 - Unfortunately, we cannot accept everyone that applies. We do our very best to accommodate as many folks as possible, but we typically receive 4-5x the number of applications as we have spots.
 - If you are accepted, you will need to have an active MITOC membership and to sign the MITOC trips waiver.
 
+
 ### Application FAQs
 #### How should I decide which track to apply for? 
-- Sport track: you have been climbing in the gym or outside for some time, and often try climbs in the 5.8 to 5.11 range on top-rope. You should be comfortable top rope belaying, and may have started lead belaying or lead climbing. You are looking to learn how to lead climb and set up and tear down two-bolt anchors. Participants in this track will gain the technical skills to safely lead and clean sport routes. 
-- Trad Track: you have been climbing outside for some time on sport. You already know how to lead climb and lead belay confidently. You may be leading some sport routes in the 10s or harder, or can climb 5.7-5.9 for 45-60 minutes while holding stances to place gear. Participants in this track will gain exposure to placing gear, building anchors, and following multipitch climbs.
+- Sport track: you have been climbing in the gym or outside for some time, and often try climbs in the 5.8 to 5.11 range on top-rope. You should be comfortable top rope belaying, and may have started lead belaying or lead climbing. You are looking to learn how to lead climb, transfer your climbing technique to outdoor rock, and safely set up and tear down two-bolt anchors. Participants in this track will gain the technical skills to safely lead and clean sport routes. 
+- Trad Track: you have been climbing outside for some time on sport. You already know how to lead climb and lead belay confidently. You may be leading some sport routes in the 10s or harder, or can climb 5.7-5.9 for 45-60 minutes while holding stances to place gear. Participants in this track will gain exposure to placing gear, building natural anchors, and following multipitch climbs.
 
-In short, we encourage applications from folks of all levels of experience! We're most interested in your stoke and building a wide community of climbers.
+In short, we encourage applications from folks of all levels of experience! We're most interested in your stoke and building a wide community of climbers. If you have questions about which track better suits you, please reach out to the climbing chairs at [climbing-chair@mit.edu](mailto:climbing-chair@mit.edu).
+
 #### What if I don't have enough experience or just want to try rock climbing outside for the first time?
 Come to a [Circus](/events/circus)! A circus is a weekend of hiking and climbing trips in New Hampshire. It’s a great way to meet fellow outdoorsy folks and check out the White Mountains of New Hampshire. We typically run these once a month, May through October. They will be announced on the main MITOC [mailing lists](/mailing-lists) at least two weeks in advance.
 
-## Schedule for 2023
+You can also keep an eye out for ad hoc climbing gym nights or outdoor trips run by climbing leaders on [mitoc-trips.mit.edu](https://mitoc-trips.mit.edu), also usually announced on the mailing lists.
+
+## Schedule for 2024
+
+Weekend trip dates are final, TRS 
+
 ### Week 1
-- TRS: Tuesday, May 30, 7pm-9pm
-- TRS: Thursday, June 1, 7pm-9pm
-- Weekend Trip: June 3-4
+- Tues May 28: TRS, details TBD
+- Thurs May 30: TRS (trad) / Gym climbing (sport), details TBD
+- Weekend Trip: June 1-2
 
 ### Week 2
-- TRS: Tuesday, June 6, 7-9pm
-- TRS: Tuesday, June 8, 7-9pm
-- Weekend Trip: June 10-11
+- Tues June 4: TRS, details TBD
+- Thurs June 6: Gym climbing (sport + trad), details TBD
+- Weekend Trip: June 8-9
 
 ### Week 3
-- TRS: Tuesday, June 13, 7-9pm
-- TRS: Tuesday, June 15, 7-9pm
-- Weekend Trip: June 17-19
+- Tues June 11: TRS, details TBD
+- Thurs June 13: TRS (trad) / Gym climbing (sport), details TBD
+- Weekend Trip: June 15-16
+
+### Week 4
+- Tues June 18: TRS (trad) 
+- Thurs June 20: Trip reports / social
+- Open Cabin / Reunion: June 22-23
 
 ## Cost
 **$125, which includes:**
