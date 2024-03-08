@@ -34,8 +34,8 @@ Article about School of Rock Fall 2021: [https://news.mit.edu/2021/climbing-new-
 
 
 ### Application FAQs
-#### How should I decide which track to apply for? 
-- Sport track: you have been climbing in the gym or outside for some time, and often try climbs in the 5.8 to 5.11 range on top-rope. You should be comfortable top rope belaying, and may have started lead belaying or lead climbing. You are looking to learn how to lead climb, transfer your climbing technique to outdoor rock, and safely set up and tear down two-bolt anchors. Participants in this track will gain the technical skills to safely lead and clean sport routes. 
+#### How should I decide which track to apply for?
+- Sport track: you have been climbing in the gym or outside for some time, and often try climbs in the 5.8 to 5.11 range on top-rope. You should be comfortable top rope belaying, and may have started lead belaying or lead climbing. You are looking to learn how to lead climb, transfer your climbing technique to outdoor rock, and safely set up and tear down two-bolt anchors. Participants in this track will gain the technical skills to safely lead and clean sport routes.
 - Trad Track: you have been climbing outside for some time on sport. You already know how to lead climb and lead belay confidently. You may be leading some sport routes in the 10s or harder, or can climb 5.7-5.9 for 45-60 minutes while holding stances to place gear. Participants in this track will gain exposure to placing gear, building natural anchors, and following multipitch climbs.
 
 In short, we encourage applications from folks of all levels of experience! We're most interested in your stoke and building a wide community of climbers. If you have questions about which track better suits you, please reach out to the climbing chairs at [climbing-chair@mit.edu](mailto:climbing-chair@mit.edu).
@@ -47,34 +47,34 @@ You can also keep an eye out for ad hoc climbing gym nights or outdoor trips run
 
 ## Schedule for 2024
 
-Weekend trip dates are final, TRS 
+Weekend trip dates are final, and will involve camping Saturday night. Each week there will be two local sessions on Tuesday/Thursday from 7-9pm - generally "Technical Review Sessions", with a mix of classroom-style learning, hands-on practice, and social activities.
 
 ### Week 1
-- Tues May 28: TRS, details TBD
-- Thurs May 30: TRS (trad) / Gym climbing (sport), details TBD
+- Tues May 28: TRS, 7-9pm
+- Thurs May 30: TRS, 7-9pm
 - Weekend Trip: June 1-2
 
 ### Week 2
-- Tues June 4: TRS, details TBD
-- Thurs June 6: Gym climbing (sport + trad), details TBD
+- Tues June 4: TRS, 7-9pm
+- Thurs June 6: TRS, 7-9pm
 - Weekend Trip: June 8-9
 
 ### Week 3
-- Tues June 11: TRS, details TBD
-- Thurs June 13: TRS (trad) / Gym climbing (sport), details TBD
+- Tues June 11: TRS, 7-9pm
+- Thurs June 13: TRS, 7-9pm
 - Weekend Trip: June 15-16
 
 ### Week 4
-- Tues June 18: TRS (trad) 
+- Tues June 18: TRS, 7-9pm (trad only)
 - Thurs June 20: Trip reports / social
-- Open Cabin / Reunion: June 22-23
+- Open Cabin / Reunion (trad only, optional): June 22-23
 
 ## Cost
-**$125, which includes:**
+**~$125 (exact price TBD), which includes:**
 - Cabin / tent stays
 - Saturday dinners for weekend trips
 - Group gear (ropes, quickdraws, cams, etc.)
-- Does not include transportation, required personal gear (helmet, shoes, harness, etc), or Gunks passes for trad participants. 
+- Does not include transportation, required personal gear (helmet, shoes, harness, etc), or Gunks passes for trad participants.
 - If the fee is prohibitive, please indicate this on your application.
 - Program fees help cover the above costs. All leaders are volunteers and are not paid for their time.
 
