@@ -59,11 +59,11 @@ Yes, it is possible to donate by check!  Please make your check payable to MIT F
 
 ### When will construction start?
 
-We have already started surveying and permitting work.  Site preparation, including construction of the new parking lot and access trail, is scheduled to begin in fall 2023.  Funding permitting, the bunkhouse structure itself will be erected starting in spring of 2024.
+We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction is scheduled to begin in spring 2024 as soon as ground and weather conditions permit.  Funding permitting, the bunkhouse structure itself will be erected starting in fall 2024.
 
 ### How long will construction take?
 
-Construction of the bunkhouse will take about six months. We'll start building in spring 2024 when the ground dries out, and the bunkhouse will be ready for occupancy before snow arrives at the end of fall 2024.  The new bunkhouse will be in operation in time for MITOC's 2025 winter school program.
+Construction of the bunkhouse will take about six months, but needs to be paused for winter weather.  In the best case, the bunkhouse might be finished in 2024, but we are currently planning for a delayed start (due to fundraising needs) with completion in mid-2025.
 
 ### Will the bunkhouse be heated?
   
