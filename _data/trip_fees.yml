@@ -55,6 +55,9 @@
 - name: "WFA (subsidized)"
   price: 150
   category: trip
+- name: "Sport climbing trip fee: $10"
+  price: 10
+  category: trip
 - name: "Climbers Cabin Night (Food) - $8"
   price: 8
   category: trip
