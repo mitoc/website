@@ -27,11 +27,15 @@ Open to MIT Outing Club members - [join](/join).
 Article about School of Rock Fall 2021: [https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208](https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208)
 
 ## Application
-- 2024 application link and more info coming soon!
+- 2024 applications are LIVE [here](https://forms.gle/zeXpxQFpPQCCy5zTA).
 - We will give preference to MIT students, those that can commit to all or a majority of weekends and TRSs (this is important as the skills build on each other), and our desire to create a diverse climbing community and climbing leader pipeline within MITOC
 - Unfortunately, we cannot accept everyone that applies. We do our very best to accommodate as many folks as possible, but we typically receive 4-5x the number of applications as we have spots.
 - If you are accepted, you will need to have an active MITOC membership and to sign the MITOC trips waiver.
 
+### Important dates:
+- Application closes: May 6 11:59pm
+- Responses of acceptance by: ~May 12
+- Confirmation of participation and fees paid: May 15
 
 ### Application FAQs
 #### How should I decide which track to apply for?
