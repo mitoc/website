@@ -15,23 +15,4 @@ You can rent cross-country, backcountry, telemark, and AT ski equipment from MIT
 
 ### IKON pass student discount (2024-25)
 
-<img src="/images/skiing/ikon_map.jpeg" style="width: 50%; height: 50%">
-
-MITOC is part of the [Ikon Pass](https://www.ikonpass.com/) College Ski Club program. MITOC members who are also **current students** (grad or undergrad at any college/university) can get discounted passes ($799 for the Ikon Pass, $769 for the Ikon Base Plus Pass, and $519 for the Ikon Base Pass), which is $350-$450 less than the [public pass prices](https://www.ikonpass.com/en/shop-passes). Staff, faculty, affiliates, etc are unfortunately not eligible.
-
-The major distinction between the Ikon (Full) and Base passes are that the Base passes have some blackout dates, and provide 5 days vs 7 days at the non-core resorts. You usually break even on the pass in 3-5 days of skiing at Northeast Ikon resorts vs paying online or window lift ticket prices. 
-
-In the Northeast, locations include:
-- Stratton, VT (unlimited - includes spring skiing)
-- Sugarbush, VT (unlimited - includes spring skiing)
-- Tremblant, QC (unlimited)
-- Killington-Pico, VT
-- Sugarloaf, ME
-- Sunday River, ME
-- Loon, NH
-
-The 24/25 Ikon Base Pass does not have access to Aspen/Snowmass, Jackson Hole, Alta, Deer Valley, Snowbasin, Sun Valley, or Taos. These can be accessed with the Full or Base Plus Pass.
-
-To benefit from the discount, please **[fill out this form](https://forms.office.com/r/7Tka0stVG3)**. It asks for some info to help us and Ikon verify your student status. Follow the instructions, and after we validate everything we will contact you with a single-use code to use on the [Ikon Pass website](https://www.ikonpass.com/en/shop-passes). Passes must be purchased by November 30, 2024 - codes will not work after that date!
-
-Please direct questions to [mitoc.ikon@gmail.com](mailto:mitoc.ikon@gmail.com).
+MITOC is part of the [Ikon Pass](https://www.ikonpass.com/) College Club program. MITOC members who are also **current students** (grad or undergrad) can get discounted passes. Instructions can be found on your [trips site profile](https://mitoc-trips.mit.edu/preferences/discounts/).
