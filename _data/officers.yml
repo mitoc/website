@@ -12,6 +12,7 @@ AdamReith:
   photo: adamreith.jpg
 AdamBerger:
   name: "Adam Berger"
+  photo: AdamBerger.jpg
 AileenDevlin:
   name: "Aileen Devlin"
   photo: aileen-devlin.jpg
@@ -261,8 +262,8 @@ PaulLilin:
   photo: paul-lilin.jpg
 PaulinaVarshavskaya:
   name: Paulina Varshavskaya
-PaulNickish:
-  name: "Paul Nickish"
+PaulNicknish:
+  name: "Paul Nicknish"
   photo: PaulNickish.jpeg
 PavelGorelik:
   name: "Pavel Gorelik"
