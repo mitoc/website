@@ -138,6 +138,10 @@
       description: Organizes mountaineering trips and courses
       officers:
         - PaulLilin
+    - title: Backpacking Chair
+      description: Organizes backpacking trips and courses
+      officers:
+        - ThomasOrr
     - title: Sea Kayaking Chair
       description: Leads sea kayaking trips; maintains sea kayaks
       officers:
@@ -187,15 +191,16 @@
       description: Raises awareness of and organizes participation in outdoor service opportunities
       officers:
         - Vacant
+    - title: Yoga Chair
+      description: Coordinates weekly MITOC Yoga sessions
+      officers:
+        - AneeqaMuzammil
 - title: Committee Chairs
   positions:
     - title: Collier Committee
       description: Leads the committee that selects Collier Adventure Grant recipients
       officers:
         - Vacant
-    - title: Camelot Finance Committee Chair
-      officers:
-        - DavidLawrence
     - title: Mediation Chair
       description: Leads committee that resolves conflicts
       officers:
