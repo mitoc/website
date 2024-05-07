@@ -138,6 +138,10 @@
       description: Organizes mountaineering trips and courses
       officers:
         - PaulLilin
+    - title: Backpacking Chair
+      description: Organizes backpacking trips and courses
+      officers:
+        - ThomasOrr
     - title: Sea Kayaking Chair
       description: Leads sea kayaking trips; maintains sea kayaks
       officers:
