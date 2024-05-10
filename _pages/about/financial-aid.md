@@ -13,7 +13,7 @@ Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) requesting a membership fe
 We will gladly waive all trip and rental fees for official MITOC trips. This includes 3-season, winter school, and circuses. [Acadia](/events/acadia) and [safety courses](/events/courses) such as WFA/WFR/AIARE do not qualify (although [desk credit](/get-involved/become-desk-worker) can be used to pay for any trip or course). 
 Please inform your trip leader and/or desk worker that you would like the fee waived. At this point we don’t have an automated way to do waive fees.
 
-### Gas and Travel Fees
+### Gas and Travel Costs
 Most MITOC trips require carpooling and reimbursing the driver for the travel costs. Please reimburse your driver immediately after the trip. MITOC will then reimburse you for the travel costs. Details on how get get reimbursed are available [here](/about/get-reimbursed), under "Financial Aid".
 
 ### Starter Kits
