@@ -3,8 +3,6 @@
     title: Financial Aid
 ---
 
-## Financial Aid
-
 MITOC is excited to provide need-blind financial aid to any MIT undergraduate student. If finances are at all a factor in your participation in MITOC, please don’t hesitate to use this resource. We do not request any personal or financial verification.
 While this program is intended for MIT undergraduates, we are more than happy to extend it to MIT graduate or visiting students with an MIT affiliation. Our financial aid program covers the following expenses.
 
