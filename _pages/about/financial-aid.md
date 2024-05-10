@@ -10,7 +10,7 @@ While this program is intended for MIT undergraduates, we are more than happy to
 Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) requesting a membership fee waiver, and we will provide you with a complimentary 1-year membership (renewable until graduation). Please ensure that you have filled out our [liability waiver](https://mitoc-trips.mit.edu/profile/waiver) beforehand.
 
 ### Trip and Rental Fees
-We will gladly waive all trip and rental fees for official MITOC trips. This includes 3-season, winter school, and circuses. [Acadia](events/acadia) and [safety courses](/events/courses) such as WFA/WFR/AIARE do not qualify (although [desk credit](/get-involved/become-desk-worker) can be used to pay for any trip or course). 
+We will gladly waive all trip and rental fees for official MITOC trips. This includes 3-season, winter school, and circuses. [Acadia](/events/acadia) and [safety courses](/events/courses) such as WFA/WFR/AIARE do not qualify (although [desk credit](/get-involved/become-desk-worker) can be used to pay for any trip or course). 
 Please inform your trip leader and/or desk worker that you would like the fee waived. At this point we don’t have an automated way to do waive fees.
 
 ### Gas and Travel Fees
