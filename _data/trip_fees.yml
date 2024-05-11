@@ -22,8 +22,8 @@
 - name: "Intervale exclusive rental: $250"
   price: 250
   category: cabin
-- name: "School of Rock Fee $125"
-  price: 125
+- name: "School of Rock Fee $175"
+  price: 175
   category: trip
 - name: "Open Pool Session + boat: $12"
   price: 12
