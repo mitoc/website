@@ -74,10 +74,11 @@ Weekend trip dates are final, and will involve camping Saturday night. Each week
 - Open Cabin / Reunion (trad only, optional): June 22-23
 
 ## Cost
-**~$125 (exact price TBD), which includes:**
+**$175, which includes:**
 - Cabin / tent stays
-- Saturday dinners for weekend trips
+- Saturday dinners + Sunday breakfast for weekend trips
 - Group gear (ropes, quickdraws, cams, etc.)
+- School of Rock shirt
 - Does not include transportation, required personal gear (helmet, shoes, harness, etc), or Gunks passes for trad participants.
 - If the fee is prohibitive, please indicate this on your application.
 - Program fees help cover the above costs. All leaders are volunteers and are not paid for their time.
