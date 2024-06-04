@@ -26,7 +26,7 @@ Climbing is inherently dangerous. We want to make sure our leaders are prepared 
 *   Course subsidy for your Wilderness First Aid certification (WFA, WAFA, WFR, WEMT) for every 2 trips led
 *   Course subsidy for a Self Rescue course for every 2 trips led
 
-**Note:**Trips must be announced (on the mailing list) as well as posted to the trip signup at minimum 4 days before the trip goes out. These incentives are intended to meet new people and teach new skills, not to simply have a cheaper ride for your friends. Any trip not adhering to this policy will not be reimbursed (at the discretion of the climbing chair). The climbing chair must be notified of any trips lead as well as the number of participants.
+**Note:**Trips must be announced (on the mailing list) as well as posted to the [MITOC Trips website](https://mitoc-trips.mit.edu/) at minimum 4 days before the trip in order to be eligible for reimbursement. The climbing chair must be notified of any trips lead as well as the number of participants.
 
 ### How do I become a leader?
 
