@@ -7,6 +7,9 @@
       - /images/boathouse/pic3.jpg
       - /images/boathouse/pic4.jpg
 ---
+
+## **06/06/2024: Boathouse rentals are not available due to access issues until further notice, will update paddling listserve when they are available.**
+
 MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurfing, and surfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
 
 ### Rental procedure outline
