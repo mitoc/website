@@ -34,20 +34,19 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
 
 {% template panel.html title: "Travel/gas - with MIT certificates" id: "travel-cert" %}
 
-  Ensure you have access to [Concur](http://concur.mit.edu/). If travel did not involve any personal vehicle mileage:
+  Ensure you have access to [Concur](http://concur.mit.edu/).
 
-  0.  Get approved by the MITOC Bursar **at least 2 weeks** before your trip.
-  1.  Fill out the report using the MITOC cost object/account: 2720209. Attach copies of all receipts, but DO NOT SUBMIT YET.
+  1.  Create and fill out a report using the MITOC cost object/account: 2720209. Attach copies of all receipts, but DO NOT SUBMIT YET. For personal vehicle mileage, include a Google Maps printout of the route for mileage (gas receipts are not accepted). 
   2.  Generate a _Detailed Report with Allocation Summary_ from the Print/Email dropdown and send to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
   3.  Treasurer will reply with a signed approval form, which should then be attached to Concur report and submitted.
 
-  Personal mileage can be reimbursed using Concur, however, that reimbursement rate is determined by MIT (~$0.655/mi). Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) before requesting reimbursement for personal mileage to ensure correct rate is used.
+  Personal mileage can be reimbursed using Concur, however, that reimbursement rate is determined by the [IRS standard mileage ](https://www.irs.gov/tax-professionals/standard-mileage-rates). 
 
 {% endtemplate %}
 
 {% template panel.html title: "Travel/gas - no MIT certificates" id: "travel-nocert" %}
 
-  If you do not have access to the [Concur reporting tool](http://concur.mit.edu/), you must fill out a [travel voucher](http://studentlife.mit.edu/sites/default/files/Travel%20Voucher.pdf) and send to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu). Unlike other reimbursements, HARD COPIES OF RECEIPTS ARE REQUIRED!!! For personal vehicle mileage, include a Google Maps printout of the route for mileage.
+  If you do not have access to the [Concur reporting tool](http://concur.mit.edu/), you must fill out a [travel voucher](http://studentlife.mit.edu/sites/default/files/Travel%20Voucher.pdf) and send to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu), with all receipts attached. For personal vehicle mileage, include a Google Maps printout of the route for mileage (gas receipts are not accepted).
 
 {% endtemplate %}
 
@@ -79,6 +78,7 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
   To recieve financial aid for gas/travel:
   *   After your trip, pay your driver/trip leader. Ensure that you keep a proof of payment (screenshot of venmo/zelle payment). MIT will not reimburse cash payments.
   *   Request a reimbursement from MIT. Submit an Atlas RFP, following the instructions on the the "Other non-travel (e.g. gear, food) - with MIT certificates" tab, above.
+      *   Do NOT submit a travel requst (Concur).
   *   Attach two "receipts" to the Atlas RFP report.
       1.   Download and fill out [this invoice form](https://www.dropbox.com/scl/fi/5xseluvej8sx3nfsunpkw/MITOC_Financial-Aid-Invoice.pdf?rlkey=i59gjgb9mzv86mj6a5yxp6zqj&dl=0).
       2.   A proof of payment (screenshot of venmo/zelle payment). The payee on the invoice must match the payee on the proof of payment.
