@@ -44,6 +44,14 @@ trips only.
 
 <div class="col-md-6" markdown="1">
 
+### Paddleboarding
+
+{% include price-table.html category = site.data.gear_prices.sup %}
+
+</div>
+
+<div class="col-md-6" markdown="1">
+
 ###  Winter Hiking/Mountaineering
 
 {% include price-table.html category = site.data.gear_prices.winter_hiking %}
