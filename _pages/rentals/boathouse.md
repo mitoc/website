@@ -96,7 +96,7 @@ If you've never done this before, read on for...
     <tr>
         <td>PFD (if rented separately from boat)</td>
         <td>$80</td>
-        <td>$1</td>
+        <td>$2</td>
     </tr>
     <tr>
         <td>Spray skirt</td>
@@ -130,3 +130,10 @@ If you've never done this before, read on for...
 Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
 
 {% include price-table.html category = site.data.gear_prices.surfing %}
+
+
+### Paddleboarding
+
+The inflatable stand-up paddleboards and PFDs can be found in the MITOC office, and one does not need to complete the boathouse keyholder training to rent them. For approval to rent the paddleboards, email the Paddleboarding chair via [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) with details of the planned paddling trip.
+
+{% include price-table.html category = site.data.gear_prices.sup %}

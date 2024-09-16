@@ -321,3 +321,14 @@ surfing:
     - title: Surfboard
       deposit: $400
       rental: $10
+
+sup:
+  approver: mitoc-approval@mit.edu
+  items:
+    - title: PFD (life vest; rental price if rented separately from paddleboard)
+      deposit: $80
+      rental: $2
+  restricted_items:
+    - title: Inflatable stand-up paddleboard
+      deposit: $400
+      rental: $15
