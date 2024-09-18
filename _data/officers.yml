@@ -56,6 +56,7 @@ AshaParkCarter:
   photo: ashaparkcarter.jpg
 AshayAthalye:
   name: Ashay Athalye
+  photo: AshayAthalye.jpg
 AshwinNarayan:
   name: "Ashwin Narayan"
   photo: ashwinnarayan.jpg
@@ -333,3 +334,5 @@ YuntingFang:
 ZacTobias:
   name: "Zac Tobias"
   photo: zactobias.jpg
+RoryKnight:
+  name: "Rory Knight"

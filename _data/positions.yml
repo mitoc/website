@@ -60,6 +60,7 @@
       description: Schedules office hours; provides notices about overdue gear rentals; trains desk workers
       officers:
         - KaiXi
+        - RoryKnight
     - title: Leader Coordinator
       description: Manages course subsidies and other incentives for trip leaders
       officers:
@@ -97,6 +98,7 @@
       description: Organizes annual Winter School
       officers:
         - AshutoshKumar
+        - JoePalin
       email: ws-chair@mit.edu
     - title: Circus Chair
       description: Organizes monthly Circus (April to October)
@@ -206,4 +208,4 @@
     - title: Mediation Chair
       description: Leads committee that resolves conflicts
       officers:
-        - Vacant
+        - MikeChan
