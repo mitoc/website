@@ -54,6 +54,8 @@ AmyChen:
 AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
+AshayAthalye:
+  name: Ashay Athalye
 AshwinNarayan:
   name: "Ashwin Narayan"
   photo: ashwinnarayan.jpg
@@ -66,6 +68,9 @@ BenKessel:
 BoDwyer:
   name: "Bo Dwyer"
   photo: bodwyer.jpg
+AshutoshKumar:
+  name: Ashutosh Kumar
+  photo: AshutoshKumar.jpeg
 BloxBloxham:
   name: "Blox Bloxham"
   photo: blox-bloxham.jpg
@@ -105,8 +110,8 @@ DavidJohnson:
   name: "David Johnson"
   photo: johnson_.png
 DavidCain:
-    name: David Cain
-    photo: dcain.jpg
+  name: David Cain
+  photo: dcain.jpg
 DavidLawrence:
   name: "David Lawrence"
   photo: dlaw.jpeg
@@ -172,6 +177,7 @@ JulianZucker:
   photo: JulianZucker.jpeg
 KaiXi:
   name: "Kai Xi"
+  photo: KaiXi.jpg
 KarinaSmolyar:
   name: "Karina Smolyar"
   photo: karinasmolyar.png
