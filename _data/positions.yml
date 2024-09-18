@@ -59,7 +59,6 @@
     - title: Desk Captain
       description: Schedules office hours; provides notices about overdue gear rentals; trains desk workers
       officers:
-        - AnishDighe
         - KaiXi
     - title: Leader Coordinator
       description: Manages course subsidies and other incentives for trip leaders
@@ -85,19 +84,19 @@
         - GregWallace
     - title: Student Recruitment
       officers:
-        - Vacant
+        - AshayAthalye
     - title: Social Media Chair
       description: Handles MITOC's social media presence
       officers:
         - AshaParkCarter
+        - AshayAthalye
 
 - title: Event Chairs
   positions:
     - title: Winter School Chair
       description: Organizes annual Winter School
       officers:
-        - Vacant
-        - Vacant
+        - AshutoshKumar
       email: ws-chair@mit.edu
     - title: Circus Chair
       description: Organizes monthly Circus (April to October)
@@ -202,7 +201,8 @@
     - title: Collier Committee
       description: Leads the committee that selects Collier Adventure Grant recipients
       officers:
-        - Vacant
+        - FlorianPagnoux
+        - AneeqaMuzammil
     - title: Mediation Chair
       description: Leads committee that resolves conflicts
       officers:
