@@ -97,6 +97,7 @@
       description: Organizes annual Winter School
       officers:
         - AshutoshKumar
+        - JoePalin
       email: ws-chair@mit.edu
     - title: Circus Chair
       description: Organizes monthly Circus (April to October)
@@ -206,4 +207,4 @@
     - title: Mediation Chair
       description: Leads committee that resolves conflicts
       officers:
-        - Vacant
+        - MikeChan
