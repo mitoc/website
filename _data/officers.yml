@@ -83,6 +83,9 @@ CarolinaWarneryd:
 CarlosSandoval:
   name: "Carlos Sandoval"
   photo: carlossandoval.jpg
+CharlotteFolinus:
+  name: "Charlotte Folinus"
+  photo: CharlotteFolinus.jpg
 ChiaraSalemi:
   name: "Chiara Salemi"
   photo: chiarasalemi.jpg
@@ -287,6 +290,8 @@ PavelGorelik:
 RikaSugimoto:
   name: Rika Sugimoto Dimitrova
   photo: rika.jpeg
+RoryKnight:
+  name: "Rory Knight"
 ShannonWing:
   name: Shannon Wing
   photo: shannon.jpg
@@ -334,5 +339,3 @@ YuntingFang:
 ZacTobias:
   name: "Zac Tobias"
   photo: zactobias.jpg
-RoryKnight:
-  name: "Rory Knight"
