@@ -17,6 +17,11 @@ Because desk workers are entrusted with significant power and responsibility, we
 *   $15 MITOC credit for purchases/rentals per shift worked
 *   Get more involved in the club and meet cool outdoorsy people
 
+### What can I use MITOC desk credit for?
+
+* Any payment to MITOC (trip, membership, & rental fees, as well as purchasables) can be made with desk credit.
+* Safety courses offered through the MITOC trips page (WFA, WRF, AIARE, Climbing Rescue) can be (fully or partially) paid for with desk credit ([details](/about/get-reimbursed)).
+
 ### What are the obligations of being a desk worker?
 
 To maintain card access to the office, you must work desk at least twice per semester (shifts worked during the summer and January can be counted toward either semester.) Desk workers who are inactive must be retrained to get their access back.
