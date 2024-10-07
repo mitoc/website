@@ -15,4 +15,4 @@ You can rent cross-country, backcountry, telemark, and AT ski equipment from MIT
 
 ### IKON pass student discount (2024-25)
 
-MITOC is part of the [Ikon Pass](https://www.ikonpass.com/) College Club program. MITOC members who are also **current students** (grad or undergrad) can [get discounted passes](https://mitoc-trips.mit.edu/preferences/discounts/).
+MITOC is part of the [Ikon Pass](https://www.ikonpass.com/) College Club program. MITOC members who are also **current students** (grad or undergrad) can [get discounted passes](https://mitoc-trips.mit.edu/preferences/discounts/). You must be logged in to your MITOC account to see information on how to obtain your discount. Contact mitoc.ikon@gmail.com with any questions. 
