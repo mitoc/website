@@ -69,6 +69,6 @@ Think snow!
 -----------------
 
 
-<div style="max-width:150px;margin-top:20px;" markdown="1">
+<div style="max-width:50px;margin-top:10px;" markdown="1">
 ![Event sponsored by the Graduate Student Council](https://gsc.mit.edu/files/2024/05/GSC-Logo-Red-4.png)
 </div>
