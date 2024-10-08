@@ -23,16 +23,16 @@ During IAP, we hold Lectures during the week on Tuesday and Thursday, and go on 
 
 #### Lectures
 
-Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2024’s lecture schedule is as follows:
+Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 2025’s lecture schedule is as follows:
 
-- **Mandatory Lecture** 7pm-9pm Tuesday Jan 9th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2237/) in [10-250](http://whereis.mit.edu/?go=10)
-- **Mandatory Lecture** 7pm-9pm Thursday Jan 11th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2238/) in [10-250](http://whereis.mit.edu/?go=10)
-- 7pm-9pm Tuesday Jan 16th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 18th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 23rd. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 25th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 30th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Feb 1st. Guest lecture, Winter School Stories & Recap. [6-120](http://whereis.mit.edu/?go=6)
+- **Mandatory Lecture** 7pm-9pm Tuesday Jan 7th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2583/) in [26-100](https://whereis.mit.edu/?go=26)
+- **Mandatory Lecture** 7pm-9pm Thursday Jan 9th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2584/) in [26-100](https://whereis.mit.edu/?go=26)
+- 7pm-9pm Tuesday Jan 14th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Jan 16th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 21st. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Jan 23rd. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 28th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Thursday Jan 30th. Guest lecture, Winter School Stories & Recap. [6-120](http://whereis.mit.edu/?go=6)
 
 #### Trips
 
@@ -48,7 +48,7 @@ In order to participate you simply need to complete three things.
 
 ### I'm going to miss one of the two mandatory lectures. May I still participate?
 
-Unfortunately, there are no exceptions to the first week lecture attendance rule. Because very important safety information is covered, we require that all participants be present at the first two lectures.
+Because very important safety information is covered, we require that all participants be present at the first two lectures. If you know in advance that you can’t make the first two safety lectures, but wish to participate in winter school, contact [the Winter School chairs](mailto:ws-chair@mit.edu).
 
 ### I have done Winter School in the past. May I participate again this year?
 
@@ -70,5 +70,5 @@ Think snow!
 
 
 <div style="max-width:150px;margin-top:20px;" markdown="1">
-![Event sponsored by the Graduate Student Council](https://gsc.mit.edu/wp-content/uploads/2014/09/gsc-sponsored_highres.png)
+![Event sponsored by the Graduate Student Council](https://gsc.mit.edu/files/2024/05/GSC-Logo-Red-4.png)
 </div>
