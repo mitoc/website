@@ -9,7 +9,7 @@
 ---
 
 
-### Winter School 2024
+### Winter School 2025
 
 Do you enjoy being outdoors but don't know what to do when the temperature drops? Do you live for summer but suffer in winter? Are you cooped up from November to March? Don't hide from the cold — celebrate winter! During IAP, participate in MIT Outing Club's Winter School, where you can have fun learning skills like cross-country skiing, snowshoeing, ice climbing and more. Winter School is MITOC's crash course in cold weather activities.
 
