@@ -7,10 +7,8 @@
       - /images/boathouse/pic3.jpg
       - /images/boathouse/pic4.jpg
 ---
-<div class="alert alert-danger"> 
-<p><strong>Stratton Student Center Closure (Updated March 8th, 2023): The student center and gear office are closed until fall due to burst pipes and flooding. Official MIT updates can be found <a href="https://studentlife.mit.edu/cac/stratton-student-center/w20-repair-updates">here</a>. We are resuming office hours out of the MITOC boathouse in N52 **not at the river**. We have most but not 100% of our gear available for rent. Check the <a href="https://mitoc.mit.edu/calendar">calendar</a> for office hour locations and times.</strong></p>
-</div>
 
+## **06/06/2024: Boathouse rentals are not available due to access issues until further notice, will update paddling listserve when they are available.**
 
 MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurfing, and surfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
 
@@ -98,7 +96,7 @@ If you've never done this before, read on for...
     <tr>
         <td>PFD (if rented separately from boat)</td>
         <td>$80</td>
-        <td>$1</td>
+        <td>$2</td>
     </tr>
     <tr>
         <td>Spray skirt</td>
@@ -132,3 +130,10 @@ If you've never done this before, read on for...
 Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
 
 {% include price-table.html category = site.data.gear_prices.surfing %}
+
+
+### Paddleboarding
+
+The inflatable stand-up paddleboards and PFDs can be found in the MITOC office, and one does not need to complete the boathouse keyholder training to rent them. For approval to rent the paddleboards, email the Paddleboarding chair via [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) with details of the planned paddling trip.
+
+{% include price-table.html category = site.data.gear_prices.sup %}

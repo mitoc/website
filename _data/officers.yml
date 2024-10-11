@@ -1,150 +1,206 @@
 ---
-Abby:
-  email: ahill9@mit.edu
+AalokSathe:
+  name: "Aalok Sathe"
+AbbyHill:
   name: "Abby Hill"
   photo: abbyhill.jpg
-Adam:
-  email: ajrieth@mit.edu
-  name: "Adam Rieth"
+AbrahamSkandera:
+  name: Abraham Skandera
+  photo: abraham.jpg
+AdamReith:
+  name: "Adam Reith"
   photo: adamreith.jpg
-Aileen:
-  email: amdevlin@mit.edu
+AdamBerger:
+  name: "Adam Berger"
+  photo: AdamBerger.jpg
+AileenDevlin:
   name: "Aileen Devlin"
   photo: aileen-devlin.jpg
-AlexB:
+AlejandroDiaz:
+  name: Alejandro Diaz
+  photo: AlejandroDiaz.jpeg
+AlexBychkovksy:
   name: "Alex Bychkovksy"
   photo: AlexBychkovsky.png
 AlexCatullo:
   name: "Alex Catullo"
   photo: AlexCatullo.jpg
-AlexG:
-  email: alex.cas.garcia@gmail.com
+AlexGarcia:
   name: "Alex Garcia"
   photo: alexgarcia.jpg
+AlexiaLochmann:
+  name: Alexia Lochmann
+  photo: alexia.jpeg
 AliBrodeur:
   name: "Ali Brodeur"
+AndreaLehn:
+  name: Andrea Lehn
+  photo: Andrea-Lehn.jpg
+AngieDiana:
+  name: Angie Diana
 AnishAthalye:
   name: "Anish Athalye"
 AnishDighe:
   name: "Anish Dighe"
   photo: AnishDighe.jpeg
+AneeqaMuzammil:
+  name: "Aneeqa Muzammil"
+AnnieHines:
+  name: Annie Hines
+  photo: annie.jpg
+AmyChen:
+  name: Amy Chen
+  photo: amy.jpg
 AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
-Ashwin:
-  email: ashwinn@mit.edu
+AshayAthalye:
+  name: Ashay Athalye
+  photo: AshayAthalye.jpg
+AshwinNarayan:
   name: "Ashwin Narayan"
   photo: ashwinnarayan.jpg
-Avilash:
-  email: avilash.cramer@gmail.com
+AvilashCramer:
   name: "Avilash Cramer"
   photo: avicramer.jpg
-Ben:
+BenKessel:
   name: "Ben Kessel"
   photo: ben-kessel.jpg
-Bo:
-  email: bodwyer651@gmail.com
+BoDwyer:
   name: "Bo Dwyer"
   photo: bodwyer.jpg
+AshutoshKumar:
+  name: Ashutosh Kumar
+  photo: AshutoshKumar.jpeg
 BloxBloxham:
-  email: wbloxham@gmail.com
   name: "Blox Bloxham"
   photo: blox-bloxham.jpg
 CaitlinMehl:
   name: "Caitlin Mehl"
-Carlos:
-  email: csandova@mit.edu
+CarolinaWarneryd:
+  name: Carolina Warneryd
+  photo: carolina-warneryd.jpeg
+CarlosSandoval:
   name: "Carlos Sandoval"
   photo: carlossandoval.jpg
-Chiara:
-  email: salemi@mit.edu
+CharlotteFolinus:
+  name: "Charlotte Folinus"
+  photo: CharlotteFolinus.jpg
+ChiaraSalemi:
   name: "Chiara Salemi"
   photo: chiarasalemi.jpg
-ChrisSa:
-  email: chris.saulnier@gmail.com
+ChrisGlazner:
+  name: Chris Glazner
+ChrisSaulnier:
   name: "Chris Saulnier"
   photo: saulnier.jpg
-ChrisSu:
+ChrisSumerfield:
   name: Chris Summerfield
-  email: chris@chrissummerfield.com
   photo: chrissummerfield.jpg
+ChrissyGlover:
+  name: "Chrissy Glover"
 ColeCrawford:
-  email: cdc43339@gmail.com
   name: "Cole Crawford"
   photo: colecrawford.jpg
+ColinWilson:
+  name: Colin Wilson
+  photo: colin.jpg
 CristianCavedon:
   name: "Cristian Cavedon"
 DanielYang:
   name: "Daniel Yang"
   photo: DanielYang.png
-DavidJ:
+DavidJohnson:
   name: "David Johnson"
   photo: johnson_.png
-DavidC:
-    name: David Cain
-    email: davidjosephcain@gmail.com
-    photo: dcain.jpg
-Dlaw:
+DavidCain:
+  name: David Cain
+  photo: dcain.jpg
+DavidLawrence:
   name: "David Lawrence"
   photo: dlaw.jpeg
+DheepakArumukhomRevi:
+  name: "Dheepak Arumukhom Revi"
+  photo: DheepakArumukhomRevi.jpg
 DorotaJarecka:
   name: "Dorota Jarecka"
-Evan:
-  email: circus-chair@mit.edu
+ElenaWesteinde:
+  name: Elena Westeinde
+EthanFahnestock:
+  name: "Ethan Fahnestock"
+EvanWilliams:
   name: "Evan Williams"
   photo: evanwilliams.jpg
-Florian:
-  email: florian.pagnoux@gmail.com
+FlorianPagnoux:
+  email: mitoc-webmaster@mit.edu
   name: "Florian Pagnoux"
   photo: florian.jpeg
 GabrielKammer:
   name: "Gabriel Kammer"
 GradyThomas:
   name: Grady Thomas
-Greg:
-  email: wallaceg@mit.edu
+GregWallace:
   name: "Greg Wallace"
   photo: greg.jpg
-Hannah:
-  email: varnerh@mit.edu
+HannahGrupe:
+  name: Hannah Grupe
+  photo: hannah-grupe.jpg
+HannahVarner:
   name: "Hannah Varner"
   photo: hannahvarner.png
 JamesDouberley:
   name: "James Douberley"
   photo: james-douberley.jpg
-JamesH:
+JamesHermus:
   name: "James Hermus"
   photo: james-hermus.jpeg
-JamesT:
-  email: jturitto@gmail.com
+JamesTuritto:
   name: "James Turitto"
   photo: james_turitto.jpg
 JaneyFarina:
   name: Janey Farina
   photo: Janey-Farina.jpg
-Jan:
-  email: jtiepelt@mit.edu
+JanTiepelt:
   name: "Jan Tiepelt"
   photo: jantiepelt.jpg
+JasonJong:
+  name: Jason Jong
+JoePalin:
+  name: "Joe Palin"
 JolienVanNieuwenhuizen:
   name: "Jolien van Nieuwenhuizen"
   photo: JolienVanNieuwenhuizen.png
+JoshBradshaw:
+  name: Josh Bradshaw
+  photo: josh-bradshaw.jpeg
+JuliaAllen:
+  name: "Julia Allen"
+  photo: JuliaAllen.jpg
 JulianZucker:
   name: "Julian Zucker"
   photo: JulianZucker.jpeg
-Karina:
-  email: ws-chair@mit.edu
+KaiXi:
+  name: "Kai Xi"
+  photo: KaiXi.jpg
+KarinaSmolyar:
   name: "Karina Smolyar"
   photo: karinasmolyar.png
-Kate:
-  email: kal@mit.edu
+KateLawrence:
   name: "Kate Lawrence"
   photo: katelawrence.jpg
+KateLane:
+  name: Kate Lane
+  photo: KateLane.jpg
 KathyCamenzind:
   name: "Kathy Camenzind"
   photo: kathycamenzind.jpg
+KatieSelig:
+  name: Katie Selig
+  photo: Katie-Selig.jpg
+KatrinaMagno:
+  name: Katrina Magno
+  photo: katrina.jpg
 KrisBrewer:
-  email: brew@mit.edu
   name: "Kris Brewer"
   photo: brew.jpg
 KyleBertram:
@@ -152,179 +208,134 @@ KyleBertram:
 LawrenceWong:
   name: "Lawrence Wong"
   photo: LawrenceWong.jpeg
-Lily:
-  email: lily.rachel.cohen@gmail.com
+LilyCohen:
   name: "Lily Cohen"
   photo: lilycohen.jpg
 LucasArthur:
-  email: lmarthur@mit.edu
   name: "Lucas Arthur"
   photo: lucasarthur2.png
 LucasEhinger:
   name: "Lucas Ehinger"
   photo: LucasEhinger.jpg
-Luke:
-  email: elplumplum@gmail.com
+LukePlummer:
   name: "Luke Plummer"
   photo: lukeplummer.jpg
-Lulu:
-  email: lulurussell5@gmail.com
+LuluRussell:
   name: "Lulu Russell"
   photo: lulurussell.jpg
-Mason:
-  email: mason@masonglidden.com
+MaddieHickman:
+  name: Maddie Hickman
+  photo: maddie.jpg
+MaryRichardson:
+  name: Mary Richardson
+  photo: mary-richardson.jpeg
+MasonGlidden:
   name: "Mason Glidden"
   photo: mason.jpg
+MaxwellYun:
+  name: Maxwell Yun
+  photo: maxwell-yun.jpg
 MelissaSeib:
   name: "Melissa Seib"
 MichaelSkuhersky:
   name: "Michael Skuhersky"
   photo: vex.jpg
-Michele:
-  email: mprat@alum.mit.edu
+MichelePratusevich:
+  email: mitoc-webmaster@mit.edu
   name: "Michele Pratusevich"
   photo: mprat.jpg
+MichelleODonnell:
+  name: Michelle O'Donnell
+  photo: michelleodonnell.jpg
 MikeChan:
   name: Mike Chan
   photo: MikeChan.jpg
-Natalie:
-  email: natnorth@mit.edu
+MonikaOShea:
+  name: "Monika O'Shea"
+  photo: MonikaOShea.jpg
+NatalieFerris:
+  name: Natalie Ferris
+NatalieNorthrup:
   name: "Natalie Northrup"
   photo: natalienorthrup.jpg
-Neil:
-  email: nat25@mit.edu
+NeilTitchener:
   name: "Neil Titchener"
   photo: nat25.jpg
 NiamhBrown:
   name: "Niamh Brown"
   photo: NiamhBrown.jpg
-Nick:
-  email: nick.lingler@gmail.com
+NickLingler:
   name: "Nick Lingler"
   photo: nicklingler.jpg
-Nico:
-  email: nromeo@mit.edu
+NicolasRomeo:
   name: "Nicolas Romeo"
   photo: nicolasromeo.jpg
+NoahLuther:
+  name: Noah Luther
+  photo: noah.jpg
+OomiPammit:
+  name: Oomi Pammit
+  photo: oomi-pammit.jpeg
 PaulLilin:
   name: Paul Lilin
   photo: paul-lilin.jpg
 PaulinaVarshavskaya:
   name: Paulina Varshavskaya
-PaulNickish:
-  name: "Paul Nickish"
+PaulNicknish:
+  name: "Paul Nicknish"
   photo: PaulNickish.jpeg
-Pavel:
+PavelGorelik:
   name: "Pavel Gorelik"
   photo: pavel.jpg
-Stephanie:
-  email: stephanie.plant@gmail.com
+RikaSugimoto:
+  name: Rika Sugimoto Dimitrova
+  photo: rika.jpeg
+RoryKnight:
+  name: "Rory Knight"
+ShannonWing:
+  name: Shannon Wing
+  photo: shannon.jpg
+StephaniePlant:
   name: "Stephanie Plant"
   photo: stephanieplant.jpg
-Tony:
-  email: hanz@mit.edu
+SunheeBae:
+  name: Sunhee Bae
+  photo: sunhee.jpeg
+SusanCarter:
+  name: Susie Carter
+  photo: susie-carter.jpeg
+SusanKing:
+  name: "Susan King"
+SuzyMcKinney:
+  name: Suzy McKinney
+  photo: Suzey-McKinney.jpg
+TaraSverko:
+  name: "Tara Sverko"
+  photo: TaraSverko.jpg
+TarynJohnson:
+  name: Taryn Johnson
+  photo: taryn-leaf.jpeg
+TaylorBiron:
+  name: Taylor Biron
+  photo: TaylorBiron.jpeg
+ThomasOrr:
+  name: "Thomas Orr"
+  photo: ThomasOrr.jpg
+TianOng:
+  name: "Tian Ong"
+TonyZhu:
   name: "Tony Zhu"
   photo: hanz.jpg
-Tyler:
-  email: ttoth@mit.edu
+TylerToth:
   name: "Tyler Toth"
   photo: tylertoth.png
 Vacant:
   name: Vacant
 VasiliySysoev:
   name: "Vasiliy Sysoev"
-Zac:
-  email: ztobias@mit.edu
-  name: "Zac Tobias"
-  photo: zactobias.jpg
-Hannah:
-  name: Hannah Grupe
-  photo: hannah-grupe.jpg
-Abraham:
-  name: Abraham Skandera
-  photo: abraham.jpg
-Noah:
-  name: Noah Luther
-  photo: noah.jpg
-Amy:
-  name: Amy Chen
-  photo: amy.jpg
-Katrina:
-  name: Katrina Magno
-  photo: katrina.jpg
-Annie:
-  name: Annie Hines
-  photo: annie.jpg
-Mary:
-  name: Mary Richardson
-  photo: mary-richardson.jpeg
-Colin:
-  name: Colin Wilson
-  photo: colin.jpg
-Shannon:
-  name: Shannon Wing
-  photo: shannon.jpg
-Josh:
-  name: Josh Bradshaw
-  photo: josh-bradshaw.jpeg
-Angie:
-  name: Angie Diana
-Suzy:
-  name: Suzy McKinney
-  photo: Suzey-McKinney.jpg
-ChrisGlazner:
-  name: Chris Glazner
-AlejandroDiaz:
-  name: Alejandro Diaz
-  photo: AlejandroDiaz.jpeg
-MaxwellYun:
-  name: Maxwell Yun
-  photo: maxwell-yun.jpg
-SunheeBae:
-  name: Sunhee Bae
-  photo: sunhee.jpeg
-OomiPammit:
-  name: Oomi Pammit
-  photo: oomi-pammit.jpeg
-CarolinaWarneryd:
-  name: Carolina Warneryd
-  photo: carolina-warneryd.jpeg
-AndreaLehn:
-  name: Andrea Lehn
-  photo: Andrea-Lehn.jpg
-RikaSugimoto:
-  name: Rika Sugimoto Dimitrova
-  photo: rika.jpeg
-KatieSelig:
-  name: Katie Selig
-  photo: Katie-Selig.jpg
 YuntingFang:
   name: Yunting Fang
   photo: yunting.jpeg
-ElenaWesteinde:
-  name: Elena Westeinde
-AlexiaLochmann:
-  name: Alexia Lochmann
-  photo: alexia.jpeg
-NatalieFerris:
-  name: Natalie Ferris
-TarynJohnson:
-  name: Taryn Johnson
-  photo: taryn-leaf.jpeg
-JasonJong:
-  name: Jason Jong
-SusanCarter:
-  name: Susie Carter
-  photo: susie-carter.jpeg
-MichelleODonnell:
-  name: Michelle O'Donnell
-  photo: michelleodonnell.jpg
-MaddieHickman:
-  name: Maddie Hickman
-  photo: maddie.jpg
-KateLane:
-  name: Kate Lane
-  photo: KateLane.jpg
-TaylorBiron:
-  name: Taylor Biron
-  photo: TaylorBiron.jpeg
+ZacTobias:
+  name: "Zac Tobias"
+  photo: zactobias.jpg

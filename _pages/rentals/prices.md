@@ -44,6 +44,14 @@ trips only.
 
 <div class="col-md-6" markdown="1">
 
+### Paddleboarding
+
+{% include price-table.html category = site.data.gear_prices.sup %}
+
+</div>
+
+<div class="col-md-6" markdown="1">
+
 ###  Winter Hiking/Mountaineering
 
 {% include price-table.html category = site.data.gear_prices.winter_hiking %}
@@ -76,7 +84,7 @@ Ski sizes (Frame Binding, cm):
 : 155, 157, 165 (x2), 173, 175, 176, 180, 181
 
 Splitboards (cm):
-: 154, 158
+: 149, 154, 158
 
 </div>
 

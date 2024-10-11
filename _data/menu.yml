@@ -48,6 +48,8 @@
         - /rentals
         - /rentals/prices
         - /rentals/boathouse
+        - href: https://www.librarycat.org/lib/mitoc
+          title: MITOC Library
     - title: Cabin Rentals
       items:
         - /rentals/cabins
@@ -60,6 +62,7 @@
         - /about/officers
         - href: http://mitoc-cag.mit.edu/
           title: Collier Adventure Grant
+        - /about/financial-aid
         - /about/boston-rocks
     - items:
         - /about/code-of-conduct

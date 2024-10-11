@@ -93,29 +93,6 @@ If you're a MITOC member or alum living outside the Boston area, check out these
 **[conservation](http://mailman.mit.edu/mailman/listinfo/conservation)**
 : topics related to environmental conservation, trail building, animal rescue
 
-### Contact MITOC
-
-To contact the Board of Directors with general questions or comments about the club send mail to [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu).
-
-If you have questions about office hours, gear rental, etc., please read the [gear rental information](/rentals) in full. If your question isn't answered there, email the desk workers at [mitoc-desk@mit.edu](mailto:mitoc-desk@mit.edu).
-
-To contact our cabin managers email [camelot-mgr](mailto:camelot-mgr@mit.edu) or [intervale-mgr](mailto:intervale-mgr@mit.edu).
-
-For particular MITOC events, contact:
-
-*   [ws-chair](mailto:ws-chair@mit.edu)
-*   [circus-chair](mailto:circus-chair@mit.edu)
-*   [trs-chair](mailto:trs-chair@mit.edu)
-
-For particular MITOC activities, contact:
-
-*   [3s-hiking-chair](mailto:3s-hiking-chair@mit.edu)
-*   [climbing-chair](mailto:climbing-chair@mit.edu)
-*   [bcski-chair](mailto:bcski-chair@mit.edu)
-*   [mountaineering-chair](mailto:mountaineering-chair@mit.edu)
-*   [mtnbike-chair](mailto:mtnbike-chair@mit.edu)
-*   [boathouse-mgr](mailto:boathouse-mgr@mit.edu)
-
 ### Questions or problems?
 
 All users should be able to use the above links to subscribe to these lists. If you keep having problems with our list maintenance utility Mailman or have questions about the lists, email [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu) with your question. This is not an automatic subscription service, so please be friendly.
