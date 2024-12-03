@@ -44,7 +44,7 @@ In order to participate you simply need to complete three things.
 
 1.  Make sure you are a current [MITOC member](https://mitoc-trips.mit.edu/profile/membership/)
 2.  Make sure you have signed the [MITOC waiver](https://mitoc-trips.mit.edu/profile/waiver/)
-3.  Attend the two mandatory lectures (sign up in advance [here](https://mitoc-trips.mit.edu/trips/2237/) and [here](https://mitoc-trips.mit.edu/trips/2238/); we'll give additional sign-in instructions during lectures).
+3.  Attend the two mandatory lectures (sign up in advance [here](https://mitoc-trips.mit.edu/trips/2583/) and [here](https://mitoc-trips.mit.edu/trips/2584/); we'll give additional sign-in instructions during lectures).
 
 ### I'm going to miss one of the two mandatory lectures. May I still participate?
 
