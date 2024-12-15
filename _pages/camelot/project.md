@@ -21,4 +21,4 @@ To minimize site impacts, the bunkhouse will be an above-grade structure built o
 
 <img src="/images/bunkhouse/bunkhouse-elevation.png" alt="Bunkhouse elevation" width="400"/>
 
-The bunkhouse will include a dry pipe fire sprinkler system fed from a small cistern in the insulated basement. Sleeping rooms will be built as 1 hour rated fire enclosures, and each room will have its own direct egress window. The bunkhouse will have a networked fire alarm system. These measures ensure that the bunkhouse will comply with all modern fire safety codes.
+The bunkhouse will include a fire sprinkler system fed from a small cistern in the insulated basement. Sleeping rooms will be built as 1 hour rated fire enclosures, and each room will have its own direct egress window. The bunkhouse will have a networked fire alarm system. These measures ensure that the bunkhouse will comply with all modern fire safety codes.
