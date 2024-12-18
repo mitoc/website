@@ -59,11 +59,11 @@ Yes, it is possible to donate by check!  Please make your check payable to MIT F
 
 ### When will construction start?
 
-We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction is scheduled to begin in spring 2024 as soon as ground and weather conditions permit.  Funding permitting, the bunkhouse structure itself will be erected starting in fall 2024.
+We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction started in summer 2024 and will wrap up in spring 2025.  Funding permitting, the bunkhouse structure itself will be erected starting in summer 2025.
 
 ### How long will construction take?
 
-Construction of the bunkhouse will take about six months, but needs to be paused for winter weather.  In the best case, the bunkhouse might be finished in 2024, but we are currently planning for a delayed start (due to fundraising needs) with completion in mid-2025.
+Construction of the bunkhouse will take about six months, but needs to be paused for winter weather.  In the best case, the bunkhouse could be finished in 2025.  If fundraising proceeds more slowly, construction would slip into 2026.
 
 ### Will the bunkhouse be heated?
   
@@ -75,11 +75,11 @@ The bunkhouse will be an above-grade wooden structure with exterior rigid insula
 
 ### What about parking?
 
-At the request of the town of Groton, we will enlarge our existing parking area and add a small buffer to separate it from North Groton Road. While this adds cost to the project, it will improve our relationship with our neighbors and will ultimately result in a better experience for Camelot visitors.
+At the request of the town of Groton, we constructed a new off-street parking lot at the start of bunkhouse construction. While this added some construction cost, it improved our relationship with our neighbors and will ultimately result in a better experience for Camelot visitors.
 
 ### Will there be vehicle access to the bunkhouse?
 
-There will be a rough trail accessible by all-terrain vehicles for construction and safety purposes. (The local fire department has an all-terrain firefighting vehicle.) Regular property users will continue to park their vehicles near North Groton Road and hike in about 200 meters to reach the Camelot buildings.
+Regular property users will continue to park their vehicles near North Groton Road and hike in about 200 meters to reach the Camelot buildings.  The bunkhouse access trail has steep grades and a loose surface, but seasonal access by construction vehicles may be possible.
 
 ### Will students be involved in construction? Alums?
 
@@ -95,7 +95,7 @@ We expect the bunkhouse to last about 100 years, allowing it to serve MITOC memb
 
 ### Who is managing this project?
 
-David Lawrence ‘14, a former MITOC president and Camelot manager, is the director of the Camelot bunkhouse project. The fundraising committee also includes graduate student Karina Smolyar and MITOC's alumni liaison Greg Wallace. We have active participation from the MIT Department of Facilities, the MIT Division of Student Life, and many other MITOC board members.
+David Lawrence ‘14, a former MITOC president and Camelot manager, is the volunteer director of the Camelot bunkhouse project. The fundraising committee also includes graduate student Karina Smolyar and MITOC's alumni liaison Greg Wallace. We have active participation from the MIT Department of Facilities, the MIT Division of Student Life, and many other MITOC board members.
 
 ### Who should I contact with a different question?
 
