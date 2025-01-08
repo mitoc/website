@@ -11,14 +11,15 @@ Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) requesting a membership fe
 
 ### Trip and Rental Fees
 We will gladly waive all trip and rental fees for official MITOC trips. This includes 3-season, winter school, and circuses. [Safety courses](/events/courses) such as WFA/WFR/AIARE do not qualify (although [desk credit](/get-involved/become-desk-worker) can be used to pay for any trip or course). 
-Please inform your trip leader and/or desk worker that you would like the fee waived. At this point we don’t have an automated way to do waive fees.
+Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeZqFw8u0Pz315Vvke-EmsdagE-DpA0xC5sOBFvhAU0BlCI3Q/viewform?usp=header) and inform your trip leader and/or desk worker that you would like the fee waived.
+The form is anonomous, and only used for club bookkeeping.
 
 ### Gas and Travel Costs
 Most MITOC trips require carpooling and reimbursing the driver for the travel costs. Please reimburse your driver immediately after the trip. MITOC will then reimburse you for the travel costs. Details on how get get reimbursed are available [here](/about/get-reimbursed), under "Financial Aid".
 
 ### Starter Kits
 Most MITOC hikes require a headlamp, compass, and whistle (of which only the compass is rentable). We have a limited number of starter kits available, containing these three items. If you expect to participate in 3 or more MITOC hikes, we will gladly provide you with one of these kits (for permanent use, not a rental).
-The kits are available in the MITOC office; you can request them from deskworkers during [office hours](/calendar) (no prior approval is necessary). 
+The kits are available in the MITOC office; you can request them from deskworkers during [office hours](/calendar) (no prior approval is necessary), after first completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSeZqFw8u0Pz315Vvke-EmsdagE-DpA0xC5sOBFvhAU0BlCI3Q/viewform?usp=header) (same form as for trip/rental fee waiver).
 
 ### Other
 Deskworkers and trip leaders will default to asking everyone to pay, but will gladly waive any of the above costs when requested. Please don't hesitate to use this resource, and please be patient with reminding your trip leaders & desk workers.
