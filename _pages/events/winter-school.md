@@ -27,12 +27,13 @@ Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 202
 
 - **Mandatory Lecture** 7pm-9pm Tuesday Jan 7th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2583/) in [26-100](https://whereis.mit.edu/?go=26)
 - **Mandatory Lecture** 7pm-9pm Thursday Jan 9th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2584/) in [26-100](https://whereis.mit.edu/?go=26)
-- 7pm-9pm Tuesday Jan 14th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 16th. Optional instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 21st. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 23rd. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 28th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 30th. Guest lecture, Winter School Stories & Recap. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 14th. Optional instructional lecture. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Thursday Jan 16th. Optional instructional lecture. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Tuesday Jan 21st. Guest lecture. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Thursday Jan 23rd. Guest lecture. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Tuesday Jan 28th. Guest lecture. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Thursday Jan 30th. Guest lecture, Winter School Stories & Recap. [1-190](http://whereis.mit.edu/?go=1)
+
 
 #### Trips
 
