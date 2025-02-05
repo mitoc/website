@@ -37,7 +37,7 @@
 - name: "Kayak rolling pool instruction, 3 weeks: $27"
   price: 27
   category: trip
-- name: "Kayak nose clips"
+- name: "Kayak nose clips: $10"
   price: 10
   category: trip
 - name: "Sea Kayak Trip: $15"
