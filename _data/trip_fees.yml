@@ -31,17 +31,14 @@
 - name: "School of Rock Fee $175"
   price: 175
   category: trip
-- name: "Open Pool Session + boat: $12"
-  price: 12
+- name: "Kayak rolling pool instruction, 1 week: $9"
+  price: 9
   category: trip
-- name: "Open Pool Session: $10"
+- name: "Kayak rolling pool instruction, 3 weeks: $27"
+  price: 27
+  category: trip
+- name: "Kayak nose clips"
   price: 10
-  category: trip
-- name: "Rolling Clinic + noseplug: $25"
-  price: 25
-  category: trip
-- name: "Rolling Clinic: $15"
-  price: 15
   category: trip
 - name: "Sea Kayak Trip: $15"
   price: 15
