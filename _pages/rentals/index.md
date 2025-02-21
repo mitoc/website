@@ -101,7 +101,7 @@ Check the [calendar](/calendar) for office hours.
 
 #### Can I rent gear for a group?
 
-Each MITOC member may rent up to two of the same item. If you are renting for a group of N people, at least N/2 MITOC members must come to office hours.
+Each MITOC member may rent up to two of the same item. If you are renting for a group of N people, at least N/2 MITOC members must come to office hours. Please note this policy does not apply to backcountry touring skis or boots. Each MITOC member may only check out one pair of skis and boots.
 
 </div>
 
@@ -147,7 +147,7 @@ No. MITOC is open to all.
 
 #### Do you rent downhill/alpine ski gear?
 
-No. We have cross-country, touring, telemark, and AT ski equipment, but not resort alpine skis.
+No. We have cross-country, touring, telemark, and AT ski equipment, but not resort alpine skis. Please note that each MITOC member may only check out one pair of backcountry touring skis and one pair of touring boots.
 
 </div>
 
