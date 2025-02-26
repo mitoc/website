@@ -37,13 +37,16 @@ If you have questions about office hours, gear rental, etc., please read the [ge
 
 To contact our cabin managers email [camelot-mgr](mailto:camelot-mgr@mit.edu) or [intervale-mgr](mailto:intervale-mgr@mit.edu).
 
+For anything safety-related (physical, emotional, or otherwise), contact:
+*   [Winter Safety Committee](mailto:mitoc-wsc@mit.edu)
+*   [3-Season Safety Committee](mailto:mitoc-3ssc@mit.edu)
+*   [Mediation Committee](mailto:mitoc-mediation@mit.edu)
+
 For particular MITOC events, contact:
 *   [Winter School](mailto:ws-chair@mit.edu)
-*   [Winter Safety Committee](mailto:mitoc-wsc@mit.edu)
 *   [Circus](mailto:circus-chair@mit.edu)
 
 For particular MITOC activities, contact:
-
 *   [3 season hiking](mailto:3s-hiking-chair@mit.edu)
 *   [Climbing](mailto:climbing-chair@mit.edu)
 *   [Backcountry skiing](mailto:bcski-chair@mit.edu)
