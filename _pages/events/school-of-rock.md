@@ -27,7 +27,7 @@ Open to MIT Outing Club members - [join](/join).
 Article about School of Rock Fall 2021: [https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208](https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208)
 
 ## Application
-- 2025 applications coming soon!
+- 2025 applications are now LIVE [here](https://docs.google.com/forms/d/e/1FAIpQLSesLITXK_7YGgX_XvQRDtMNRgEEkTpfVQX4xVo4hT-NrPTl7g/viewform?usp=header)!
 - We will give preference to MIT students, those that can commit to all or a majority of weekends and TRSs (this is important as the skills build on each other), and our desire to create a diverse climbing community and climbing leader pipeline within MITOC.
 - Unfortunately, we cannot accept everyone that applies. We do our very best to accommodate as many folks as possible, but we typically receive 4-5x the number of applications as we have spots.
 - If you are accepted, you will need to have an active MITOC membership and to sign the MITOC trips waiver.
@@ -39,7 +39,7 @@ Article about School of Rock Fall 2021: [https://news.mit.edu/2021/climbing-new-
 
 ### Application FAQs
 #### How should I decide which track to apply for?
-- Sport track: you have been climbing in the gym or outside for multiple seasons, and often try climbs in the 5.8 to 5.11 range on top-rope. You should be comfortable top-rope belaying, and may have started lead belaying or lead climbing. You are looking to learn how to lead climb, transfer your climbing technique to outdoor rock, and safely set up and tear down two-bolt anchors. Participants in this track will gain the technical skills to safely lead and clean sport routes.
+- Sport track: you have been climbing in the gym or outside for multiple seasons, and often try climbs in the 5.8 to 5.11 range on top-rope. You should be comfortable top-rope belaying, and we encourage you to have started lead belaying or lead climbing. You are looking to learn how to lead climb, transfer your climbing technique to outdoor rock, and safely set up and tear down two-bolt anchors. Participants in this track will gain the technical skills to safely lead and clean sport routes.
 - Trad Track: you have been climbing outside for multiple seasons on sport. You already know how to lead climb and lead belay confidently. You are likely climbing outdoor sport routes in the 10s or harder, or are confident in your ability to climb 5.7-5.9 (i.e. without taking unexpected falls). Participants in this track will gain exposure to placing gear, building natural anchors, and following multipitch climbs.
 
 In short, we encourage applications from folks of all levels of experience! We're most interested in your stoke and building a wide community of climbers. If you have questions about which track better suits you, please reach out to the climbing chairs at [climbing-chair@mit.edu](mailto:climbing-chair@mit.edu).
@@ -66,12 +66,11 @@ Weekend trip dates are final, and will involve camping Saturday night. Each week
 ### Week 3
 - Tues June 10: TRS, 7-9pm
 - Thurs June 12: TRS, 7-9pm
-- Weekend Trip: June 12-15 (Thursday 12th is Juneteenth; Thurs & Fri are optional)
+- Weekend Trip: June 14-15
 
 ### Week 4
-- Tues June 17: TRS, 7-9pm (trad only)
-- Thurs June 19: Trip reports / social
-- Open Cabin / Reunion (trad only, optional): June 21-22
+- Tues June 17: Trip reports / social
+- Weekend trip to Gunks (trad only): June 19-22 (Thursday is Juneteenth; Thurs & Fri are optional)
 
 ## Cost
 **$175, which includes:**
