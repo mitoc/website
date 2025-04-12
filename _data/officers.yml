@@ -51,6 +51,8 @@ AnnieHines:
 AmyChen:
   name: Amy Chen
   photo: amy.jpg
+AoifeTroxel:
+  namer: Aoife Troxel
 AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
@@ -72,8 +74,8 @@ BoDwyer:
 AshutoshKumar:
   name: Ashutosh Kumar
   photo: AshutoshKumar.jpeg
-BloxBloxham:
-  name: "Blox Bloxham"
+BloxieBloxham:
+  name: "Bloxie Bloxham"
   photo: blox-bloxham.jpg
 CaitlinMehl:
   name: "Caitlin Mehl"
@@ -83,6 +85,8 @@ CarolinaWarneryd:
 CarlosSandoval:
   name: "Carlos Sandoval"
   photo: carlossandoval.jpg
+CatArase:
+  name: Cat Arase
 CharlotteFolinus:
   name: "Charlotte Folinus"
   photo: CharlotteFolinus.jpg
@@ -128,9 +132,13 @@ ElenaWesteinde:
   name: Elena Westeinde
 EthanFahnestock:
   name: "Ethan Fahnestock"
+EvanKindseth:
+  name: Evan Kindseth
 EvanWilliams:
   name: "Evan Williams"
   photo: evanwilliams.jpg
+EvaStrauss:
+  name: Eva Strauss
 FlorianPagnoux:
   email: mitoc-webmaster@mit.edu
   name: "Florian Pagnoux"
@@ -145,6 +153,8 @@ GregWallace:
 HannahGrupe:
   name: Hannah Grupe
   photo: hannah-grupe.jpg
+HannahSchlueter:
+  name: Hannah Schlueter
 HannahVarner:
   name: "Hannah Varner"
   photo: hannahvarner.png
@@ -205,9 +215,15 @@ KrisBrewer:
   photo: brew.jpg
 KyleBertram:
   name: "Kyle Bertram"
+LaurelCiccaglione:
+  name: Laurel Ciccaglione
+LawrenceCen:
+  name: Lawrence Cen
 LawrenceWong:
   name: "Lawrence Wong"
   photo: LawrenceWong.jpeg
+LorenzoShaikewitz:
+  name: Lorenzo Shaikewitz
 LilyCohen:
   name: "Lily Cohen"
   photo: lilycohen.jpg
@@ -226,12 +242,16 @@ LuluRussell:
 MaddieHickman:
   name: Maddie Hickman
   photo: maddie.jpg
+MarlowTracy:
+  name: Marlow Tracy
 MaryRichardson:
   name: Mary Richardson
   photo: mary-richardson.jpeg
 MasonGlidden:
   name: "Mason Glidden"
   photo: mason.jpg
+MaxKenngott:
+  name: Max Kenngott
 MaxwellYun:
   name: Maxwell Yun
   photo: maxwell-yun.jpg
@@ -312,6 +332,8 @@ SusanKing:
 SuzyMcKinney:
   name: Suzy McKinney
   photo: Suzey-McKinney.jpg
+TamaraRossy:
+  name: Tamara Rossy
 TaraSverko:
   name: "Tara Sverko"
   photo: TaraSverko.jpg
