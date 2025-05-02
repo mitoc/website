@@ -28,8 +28,8 @@
 - name: "Intervale exclusive rental: $250"
   price: 250
   category: cabin
-- name: "School of Rock Fee $175"
-  price: 175
+- name: "School of Rock Fee $200"
+  price: 200
   category: trip
 - name: "Kayak rolling pool instruction, 1 week: $9"
   price: 9
