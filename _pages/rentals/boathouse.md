@@ -21,7 +21,7 @@ MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurf
 3. Return and clean your boat and gear at the boathouse. **Make sure to return your gear before your lockbox PIN expires!**
 4. Email the [chairs](mailto:boathouse-mgr@mit.edu) and tell them how your trip went, about conditions of the boats and gear, especially if any boat problems or damage is noticed.
 
-
+<br>
 
 If you’ve never done this before, read on for…
 
