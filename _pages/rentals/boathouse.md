@@ -12,7 +12,7 @@ MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurf
 
 ### Approval Process (activity chairs approve)
 1. Become a boathouse keyholder (training held by boathouse manager) and drop off deposit checks (frequent flyer) at MITOC office.
-2. For each trip that you want to use a sea kayak or take a canoe on a car, fill out a [float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfphwLNGRzg6e_8CIA_WcPSr7tzmsM69MkmcFHqfUyMzrwP3A/viewform). For surfboards, fill out a [surfing float plan form](https://forms.gle/A4WZEaHvCCeYMTe39).
+2. For each trip that you want to use a sea kayak or take a canoe on a car, fill out a [float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfphwLNGRzg6e_8CIA_WcPSr7tzmsM69MkmcFHqfUyMzrwP3A/viewform). For surfboards, fill out a [surfing float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfq2dPflqOhqm1Mx2BidpcMTupy9lQolC72kjGcPlB4M2NztQ/viewform)
 3. As early as possible, email the [activity chairs](mailto:boathouse-mgr@mit.edu). Include where you want to go, any prior relevant experience, and your method of transportation. You must get approval from the respective activity chair to be approved to rent (applies to all restricted gear).
 
 ### Rental Procedure (boathouse manager approves)
