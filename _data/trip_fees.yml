@@ -4,8 +4,8 @@
 - name: "Acadia - non-affiliate: $80"
   price: 80
   category: trip
-- name: "Paddleboarding Trip: $5"
-  price: 5
+- name: "Paddleboarding Trip: $15"
+  price: 15
   category: trip
 - name: "Camelot exclusive rental: $300"
   price: 300
