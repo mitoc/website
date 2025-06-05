@@ -51,9 +51,14 @@ AnnieHines:
 AmyChen:
   name: Amy Chen
   photo: amy.jpg
+AoifeTroxel:
+  name: Aoife Troxel
 AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
+AshayAthalye:
+  name: Ashay Athalye
+  photo: AshayAthalye.jpg
 AshwinNarayan:
   name: "Ashwin Narayan"
   photo: ashwinnarayan.jpg
@@ -63,11 +68,16 @@ AvilashCramer:
 BenKessel:
   name: "Ben Kessel"
   photo: ben-kessel.jpg
+BenMoody:
+  name: Ben Moody
 BoDwyer:
   name: "Bo Dwyer"
   photo: bodwyer.jpg
-BloxBloxham:
-  name: "Blox Bloxham"
+AshutoshKumar:
+  name: Ashutosh Kumar
+  photo: AshutoshKumar.jpeg
+BloxieBloxham:
+  name: "Bloxie Bloxham"
   photo: blox-bloxham.jpg
 CaitlinMehl:
   name: "Caitlin Mehl"
@@ -77,6 +87,11 @@ CarolinaWarneryd:
 CarlosSandoval:
   name: "Carlos Sandoval"
   photo: carlossandoval.jpg
+CatArase:
+  name: Cat Arase
+CharlotteFolinus:
+  name: "Charlotte Folinus"
+  photo: CharlotteFolinus.jpg
 ChiaraSalemi:
   name: "Chiara Salemi"
   photo: chiarasalemi.jpg
@@ -105,8 +120,8 @@ DavidJohnson:
   name: "David Johnson"
   photo: johnson_.png
 DavidCain:
-    name: David Cain
-    photo: dcain.jpg
+  name: David Cain
+  photo: dcain.jpg
 DavidLawrence:
   name: "David Lawrence"
   photo: dlaw.jpeg
@@ -119,9 +134,13 @@ ElenaWesteinde:
   name: Elena Westeinde
 EthanFahnestock:
   name: "Ethan Fahnestock"
+EvanKindseth:
+  name: Evan Kindseth
 EvanWilliams:
   name: "Evan Williams"
   photo: evanwilliams.jpg
+EvaStrauss:
+  name: Eva Strauss
 FlorianPagnoux:
   email: mitoc-webmaster@mit.edu
   name: "Florian Pagnoux"
@@ -136,6 +155,8 @@ GregWallace:
 HannahGrupe:
   name: Hannah Grupe
   photo: hannah-grupe.jpg
+HannahSchlueter:
+  name: Hannah Schlueter
 HannahVarner:
   name: "Hannah Varner"
   photo: hannahvarner.png
@@ -172,6 +193,7 @@ JulianZucker:
   photo: JulianZucker.jpeg
 KaiXi:
   name: "Kai Xi"
+  photo: KaiXi.jpg
 KarinaSmolyar:
   name: "Karina Smolyar"
   photo: karinasmolyar.png
@@ -195,9 +217,15 @@ KrisBrewer:
   photo: brew.jpg
 KyleBertram:
   name: "Kyle Bertram"
+LaurelCiccaglione:
+  name: Laurel Ciccaglione
+LawrenceCen:
+  name: Lawrence Cen
 LawrenceWong:
   name: "Lawrence Wong"
   photo: LawrenceWong.jpeg
+LorenzoShaikewitz:
+  name: Lorenzo Shaikewitz
 LilyCohen:
   name: "Lily Cohen"
   photo: lilycohen.jpg
@@ -216,12 +244,16 @@ LuluRussell:
 MaddieHickman:
   name: Maddie Hickman
   photo: maddie.jpg
+MarlowTracy:
+  name: Marlow Tracy
 MaryRichardson:
   name: Mary Richardson
   photo: mary-richardson.jpeg
 MasonGlidden:
   name: "Mason Glidden"
   photo: mason.jpg
+MaxKenngott:
+  name: Max Kenngott
 MaxwellYun:
   name: Maxwell Yun
   photo: maxwell-yun.jpg
@@ -248,6 +280,9 @@ NatalieFerris:
 NatalieNorthrup:
   name: "Natalie Northrup"
   photo: natalienorthrup.jpg
+NathanaelJenkins:
+  name: "Nathanael Jenkins"
+  photo: NJenkins.jpg
 NeilTitchener:
   name: "Neil Titchener"
   photo: nat25.jpg
@@ -280,6 +315,8 @@ PavelGorelik:
 RikaSugimoto:
   name: Rika Sugimoto Dimitrova
   photo: rika.jpeg
+RoryKnight:
+  name: "Rory Knight"
 ShannonWing:
   name: Shannon Wing
   photo: shannon.jpg
@@ -297,6 +334,9 @@ SusanKing:
 SuzyMcKinney:
   name: Suzy McKinney
   photo: Suzey-McKinney.jpg
+TamaraRossy:
+  name: Tamara Rossy
+  photo: Tamara.jpg
 TaraSverko:
   name: "Tara Sverko"
   photo: TaraSverko.jpg
