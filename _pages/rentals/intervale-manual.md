@@ -17,7 +17,7 @@ This document is intended as an instruction set for Intervale Keyholders. It is 
 
 Every group that uses Intervale must be accompanied by a Keyholder, even if the cabin itself is not being used. The purpose of this policy is to ensure that there is always at least one person at the property who is familiar with the property and the situation surrounding it, and who will be explicitly responsible for the duration of the stay.
 
-A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is valid for 2 years, but this validity can be extended at the cabin manager's discretion.
+A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is initally valid for 2 years. Validity may be extended at the cabin managers' discretion for regular visitors of the cabin who have demonstrated continued knowledge of Intervale rules and procedures. If you are uncertain about the validity of your training status, please reach out to the Intervale managers.
 
 The Keyholder is responsible for the actions of the group and is the organizer for the stay. If there are any problems with members of the group it is then up to the Keyholder to enforce proper behavior. When the Keyholder first determines that a problem is occurring, she should first inform the group members as to how to correct the situation. If that does not resolve the problem, the Keyholder should contact the Cabin Managers upon return to Boston who will then follow up with the situation.
 
@@ -37,7 +37,9 @@ Intervale is located a few miles north of North Conway, NH. The exact location o
 
 Intervale is not road-accessible. Therefore, we have an easement which gives us a Right of Way (RoW) to access our property. Our RoW passes by a pair of other homes and directly adjacent the property of a third. It is important that you follow all of the rules below regarding our RoW when you access our property. We must respect our neighbors at all times. Failure to follow these procedures constitutes trespassing.
 
-Please note that accessing the cabin involves a moderate 750 meter hike (usually ~10-15 minutes), with uneven terrain and one rather steep hill. In winter, it can be useful to have spikes or some additional traction to assist with footing.
+Because we are crossing the property of our neighbors, some of whom have their own pets, visitors to Intervale are not currently permitted to bring any animals. If you have a service animal or other extenuating circumstances please reach out to the Intervale managers directly.
+
+Please note that accessing the cabin involves a moderate 1/2 mile / 750 meter hike (usually ~10-15 minutes), with uneven terrain and one rather steep hill. In winter, it can be useful to have spikes or some additional traction to assist with footing.
 
 ### Intervale’s Neighbors
 
