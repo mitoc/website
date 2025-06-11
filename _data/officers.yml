@@ -1,6 +1,8 @@
 ---
 AalokSathe:
   name: "Aalok Sathe"
+AaronJohnson:
+  name: "Aaron Johnson"
 AbbyHill:
   name: "Abby Hill"
   photo: abbyhill.jpg
@@ -237,6 +239,8 @@ LucasArthur:
 LucasEhinger:
   name: "Lucas Ehinger"
   photo: LucasEhinger.jpg
+LucyNguyen:
+  name: "Lucy Nguyen"
 LukePlummer:
   name: "Luke Plummer"
   photo: lukeplummer.jpg
@@ -314,6 +318,8 @@ PaulNicknish:
 PavelGorelik:
   name: "Pavel Gorelik"
   photo: pavel.jpg
+RebeccaKestin:
+  name: "Rebecca Kestin"
 RikaSugimoto:
   name: Rika Sugimoto Dimitrova
   photo: rika.jpeg

@@ -100,8 +100,7 @@
     - title: Winter School Chair
       description: Organizes annual Winter School
       officers:
-        - AshutoshKumar
-        - JoePalin
+        - Vacant
       email: ws-chair@mit.edu
     - title: Circus Chair
       description: Organizes monthly Circus (April to October)
@@ -113,7 +112,8 @@
     - title: Social Chair
       description: Organizes monthly social events
       officers:
-        - Vacant
+        - AaronJohnson
+        - RebeccaKestin
     - title: Acadia Chair
       description: Organizes yearly Acadia trip
       officers:
@@ -128,7 +128,6 @@
       description: Recruits, trains, and approves climbing leaders; organizes School of Rock, climbing courses, and technical review sessions
       officers:
         - KathyCamenzind
-        - AshaParkCarter
         - JolienVanNieuwenhuizen
         - FlorianPagnoux
     - title: Backcountry Skiing Chair
@@ -203,5 +202,5 @@
     - title: Mediation Chair
       description: Leads committee that resolves conflicts
       officers:
-        - MikeChan
+        - LucyNguyen
         - CarolinaWarneryd
