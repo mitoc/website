@@ -1,8 +1,8 @@
-- name: "Acadia - MIT affiliate: $70"
-  price: 70
+- name: "Acadia - MIT affiliate: $60"
+  price: 60
   category: trip
-- name: "Acadia - non-affiliate: $80"
-  price: 80
+- name: "Acadia - non-affiliate: $70"
+  price: 70
   category: trip
 - name: "Paddleboarding Trip: $15"
   price: 15
