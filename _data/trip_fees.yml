@@ -4,6 +4,12 @@
 - name: "Acadia - non-affiliate: $70"
   price: 70
   category: trip
+- name: "School of Rock - Hoody Upgrade (no shirt): $18"
+  price: 18
+  category: trip
+- name: "School of Rock - Hoody (in addition to shirt): $40"
+  price: 40
+  category: trip
 - name: "Paddleboarding Trip: $15"
   price: 15
   category: trip
