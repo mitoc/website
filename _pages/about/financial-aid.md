@@ -23,3 +23,6 @@ The kits are available in the MITOC office; you can request them from deskworker
 ### Other
 Deskworkers and trip leaders will default to asking everyone to pay, but will gladly waive any of the above costs when requested. Please don't hesitate to use this resource, and please be patient with reminding your trip leaders & desk workers.
 If you have any questions, comments, or suggestions about this program, please reach out to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
+
+### Reporting
+After you receive a fee waiver, please fill out [this form](https://forms.gle/N9zA2CVS1j8upRSTA) to document it.
