@@ -8,7 +8,7 @@
       - /images/boathouse/pic4.jpg
 ---
 
-MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, windsurfing, and surfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
+MITOC's boathouse has equipment for canoeing, whitewater, sea kayaking, and surfing. Get on the [paddle mailing list](http://mailman.mit.edu/mailman/listinfo/paddle) to hear about awesome trips! If you want to rent a boat or two for your own trip, read on...
 
 ### Approval Process (activity chairs approve)
 1. Become a boathouse keyholder (training held by boathouse manager) and drop off deposit checks (frequent flyer) at MITOC office.
@@ -28,7 +28,7 @@ If you’ve never done this before, read on for…
 ### More Details: Approval Process
 1. Become a boathouse keyholder. To become a boathouse keyholder, MITOC members must complete boathouse training and then provide one hour of service to the boathouse once a year to maintain active keyholder status. Training sessions are held monthly, coordinated by the Boathouse Manager, and announced on the [paddle listserv](http://mailman.mit.edu/mailman/listinfo/paddle). If you became a keyholder last year, you can rent boats up to May before renewing your keyholder training.
     1. Drop off deposit checks at the MITOC office during [MITOC office hours](/calendar), prior to your trip. If you have current Frequent Flyer status, you may skip the rest of this step. Otherwise, because boats are restricted and expensive, we require you to deposit checks ($300 and $700 in value) to cover any damage or theft of boathouse equipment you rent. These checks are kept for one year, and you can rent (any MITOC gear) as often as you like without writing more checks.
-2. Get certified to rent out the boat you want. Whitewater kayaks, sea kayaks and windsurfers are all restricted gear; only canoes can be rented out by all keyholders. The best way to get certified is to go on a trip with the appropriate activity chair so that they can make sure you have the skills needed to use the boat safely. Otherwise, you can email the boathouse-mgr listserv.
+2. Get certified to rent out the boat you want. Whitewater kayaks and sea kayaks are all restricted gear; only canoes can be rented out by all keyholders. The best way to get certified is to go on a trip with the appropriate activity chair so that they can make sure you have the skills needed to use the boat safely. Otherwise, you can email the boathouse-mgr listserv.
 3. As early as possible, email the [activity chairs](mailto:boathouse-mgr@mit.edu) with your reservation request and respond promptly to any of their concerns. Please try to email us a week in advance. Allow us a couple days to respond since we are busy and do this on a volunteer basis. As with other MITOC gear, each member can rent gear only for himself and one other person. Boathouse keyholders may borrow more than two boats so long as there is at least one MITOC member in the group for every two boats rented. Official MITOC trips also take precedence over individual rentals, so check that there are no conflicting trips scheduled on the MITOC calendar. If your reservation is approved, the boat house manager will tell you and authorize the MITOC office to rent you a key.
     1. For whitewater: we’ll want to know your whitewater experience (any recent rivers you’ve run, how long you’ve been paddling), who you plan to go with, and how you plan to transport equipment.
 
@@ -71,12 +71,6 @@ If you’ve never done this before, read on for…
         <td>$800</td>
         <td>$12</td>
         <td>Whitewater chair</td>
-    </tr>
-    <tr class="danger">
-        <td>Windsurf (inc. board and full rig)</td>
-        <td>$1000</td>
-        <td>$18</td>
-        <td>Windsurfing chair</td>
     </tr>
     <tr>
         <td>Canoe paddle (if rented separately from canoe)</td>
