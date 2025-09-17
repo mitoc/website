@@ -119,6 +119,8 @@ If you’ve never done this before, read on for…
     </tr>
 </tbody></table>
 
+Two VHF radios, marine flares, and hand bilge pumps are also available with sea kayak rentals. It it your responsibility to ensure that the batteries are charged for the radios (bring spares).
+
 ### Surfing
 
 Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
