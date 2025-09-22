@@ -47,16 +47,16 @@ MITOC provides course subsidies to help offset the cost of learning outdoor safe
 To be eleigible for a subsidy, one must lead (or co-lead) two MITOC trips within +/- 1 year of the course. The same trip cannot count for multiple subsidies. Subsidies are as follow.
 
 #### WFA: 
-+ **Students**: Course is subsidized to cost **$100** (difference is reimbursed)
++ **MIT Students (undergrad and grad)**: Course is subsidized to cost **$100** (difference is reimbursed)
 
-+ **Non-students**: Course is subsidized to cost **$150** (difference is reimbursed)
++ **All other members**: Course is subsidized to cost **$150** (difference is reimbursed)
 
 #### All other safety courses (WFR, AIARE, Rock Rescue, Glacier Travel, etc):
-+ All students recieve $100 off the full price of the course. Eligible for one per course.
++ All mitoc members recieve $100 off the full price of the course. Eligible for one per course.
 
 
 
-Unless stated otherwise on a trip website, pay the course cost in full, and request reimbursement for the subsidy amount within a year of the course date. 
+Unless stated otherwise on a trip website, pay the course cost to the provider in full, and request reimbursement for the subsidy amount within a year of the course date. 
 
 [Desk credit](/get-involved/become-desk-worker) can be used to pay (get reimbursed) for any safety course. Safety courses do not have to be mitoc organized. If there is ambiguity as to whether your safety course would qualify (not direclty listed on this webpage), contact the [leader coordinator](/about/officers). 
 
