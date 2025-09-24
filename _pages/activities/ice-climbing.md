@@ -10,7 +10,7 @@
 
 ### Club Trips
 
-Each winter MITOC runs numerous ice climbing trips to crags in New Hampshire. These trips are open to beginers and all technical gear can be rented from the club. Typical destinations are Rumney, Flume Gorge and Kinsman Notch. Typically these trips are part of [winter school](/events/winter-school) but continue throughout the spring. Get in touch with the club if you aren't a part of winter school but would like to get out on some ice!
+Each winter MITOC runs numerous ice climbing trips to crags in New Hampshire. These trips are open to beginers and all technical gear can be rented from the club. Typical destinations are Rumney, Flume Gorge and Kinsman Notch. Typically these trips are part of [winter school](/events/winter-school) but continue throughout the spring. If you want to ice climb with MITOC, make sure you attend the mandatory winter safety lectures, typically offered in the first week of J-term and sometimes additionally offered outside of J-term.
 
 ### Safety
 
