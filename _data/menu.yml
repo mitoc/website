@@ -66,10 +66,10 @@
         - /about/boston-rocks
     - items:
         - /about/code-of-conduct
-        - href: /docs/advisoryboard/MITOCConstitution2019.pdf
-          title: MITOC Constitution (2019)
-        - href: /docs/advisoryboard/MITOCBylaws2019.pdf
-          title: MITOC By Laws (2019)
+        - href: /docs/advisoryboard/2025MITOCConstitution.pdf
+          title: MITOC Constitution (2025)
+        - href: /docs/advisoryboard/2025MITOCBylaws.pdf
+          title: MITOC By Laws (2025)
     - title: Leader Administrativia
       items:
         - href: https://mitoc-gear.mit.edu
