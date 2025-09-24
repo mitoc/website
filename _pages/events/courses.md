@@ -44,15 +44,15 @@ Glaciers are a common medium necessary to climb some of the bigger peaks in the 
 ### Subsidies
 
 MITOC provides course subsidies to help offset the cost of learning outdoor safety skills.
-To be eleigible for a subsidy, one must lead (or co-lead) two MITOC trips within +/- 1 year of the course. The same trip cannot count for multiple subsidies. Subsidies are as follow.
+**To be eligible for a subsidy, one must lead (or co-lead) two MITOC trips within +/- 1 year of the course**. The same trip cannot count for multiple subsidies. Subsidies are as follows.
 
 #### WFA: 
-+ **MIT Students (undergrad and grad)**: Course is subsidized to cost **$100** (difference is reimbursed)
++ **MIT student leaders (undergrad and grad)**: Course is subsidized to cost **$100** (difference is reimbursed)
 
-+ **All other members**: Course is subsidized to cost **$150** (difference is reimbursed)
++ **All other active leaders**: Course is subsidized to cost **$150** (difference is reimbursed)
 
 #### All other safety courses (WFR, AIARE, Rock Rescue, Glacier Travel, etc):
-+ All mitoc members recieve $100 off the full price of the course. Eligible for one per course.
++ All active mitoc leaders recieve $100 off the full price of the course. Eligible for one per course.
 
 
 
