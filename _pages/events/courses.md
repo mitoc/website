@@ -63,4 +63,4 @@ Unless stated otherwise on a trip website, pay the course cost to the provider i
 
 [Desk credit](/get-involved/become-desk-worker) can be used to pay (get reimbursed) for any safety course. Safety courses do not have to be mitoc organized. If there is ambiguity as to whether your safety course would qualify (not direclty listed on this webpage), contact the [leader coordinator](/about/officers). 
 
-To request a subsidy, complete the instructions under *Course Subsidies or course desk credit payment* on [get reimbursed](/about/get-reimbursed). You can combine desk credit and leader subsidies for the same course. But you may only request one reimbursement, so wait until you fulfill the criteria for both.
+To request a subsidy, complete the instructions under *Course Subsidies or course desk credit payment* on [get reimbursed](/about/get-reimbursed). You can combine desk credit and leader subsidies for the same course. But you may only request one reimbursement per course, so wait until you fulfill the criteria for both.
