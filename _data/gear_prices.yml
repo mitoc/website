@@ -171,6 +171,9 @@ winter_hiking:
     - title: Technical Crampons
       deposit: $150
       rental: $6
+    - title: Satellite Personal Locator Beacon
+      deposit: $400
+      rental: $3
 
 xc_skiing:
   sub_categories:
