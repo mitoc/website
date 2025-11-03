@@ -57,7 +57,7 @@ MITOC provides course subsidies to help offset the cost of learning outdoor safe
 + External WFR recert courses have the same cap if course fees are at most the cost of MITOC's course and are reimbursable up to the maximum reimbursement for that season (for WFA recert or WFA depending on what MITOC is offering that season) for the corresponding student/non-student cap otherwise.
 
 #### All other safety courses (WFR, AIARE, Rock Rescue, Glacier Travel, etc):
-+ All active mitoc leaders receive $100 off the full price of the course. Eligible for one subsidy per course.
++ All active MITOC leaders receive $100 off the full price of the course. Eligible for one subsidy per course.
 
 Unless stated otherwise on a trip website, pay the course cost to the provider in full, and request reimbursement for the subsidy amount within a year of the course date. 
 
