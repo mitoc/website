@@ -51,13 +51,16 @@ MITOC provides course subsidies to help offset the cost of learning outdoor safe
 
 + **All other active leaders**: Course is subsidized to cost **$150** (difference is reimbursed)
 
+#### WFR recert:
+
++ WFR recert organized by MITOC has the same student/non-student leader caps as WFA.
++ External WFR recert courses have the same cap if course fees are at most the cost of MITOC's course and are reimbursable up to the maximum reimbursement for that season (for WFA recert or WFA depending on what MITOC is offering that season) for the corresponding student/non-student cap otherwise.
+
 #### All other safety courses (WFR, AIARE, Rock Rescue, Glacier Travel, etc):
-+ All active mitoc leaders recieve $100 off the full price of the course. Eligible for one per course.
-
-
++ All active MITOC leaders receive $100 off the full price of the course. Eligible for one subsidy per course.
 
 Unless stated otherwise on a trip website, pay the course cost to the provider in full, and request reimbursement for the subsidy amount within a year of the course date. 
 
 [Desk credit](/get-involved/become-desk-worker) can be used to pay (get reimbursed) for any safety course. Safety courses do not have to be mitoc organized. If there is ambiguity as to whether your safety course would qualify (not direclty listed on this webpage), contact the [leader coordinator](/about/officers). 
 
-To request a subsidy, complete the instructions under *Course Subsidies or course desk credit payment* on [get reimbursed](/about/get-reimbursed).
+To request a subsidy, complete the instructions under *Course Subsidies or course desk credit payment* on [get reimbursed](/about/get-reimbursed). You can combine desk credit and leader subsidies for the same course. But you may only request one reimbursement per course, so wait until you fulfill the criteria for both.
