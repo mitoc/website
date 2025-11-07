@@ -174,18 +174,18 @@ winter_hiking:
 
 xc_skiing:
   sub_categories:
-    - title: Light Touring
+    - title: Resort
       items:
-        - title: Touring Skis
-          deposit: $200
+        - title: XC Resort Skis
+          deposit: $250
           rental: $6
         - title: NNN Ski Boot
           deposit: $75
           rental: $5
-    - title: Backcountry Touring
+    - title: Touring
       items:
-        - title: Backcountry Skis
-          deposit: $200
+        - title: XC Touring Skis
+          deposit: $400
           rental: $9
         - title: NNN-BC Ski Boot
           deposit: $155
