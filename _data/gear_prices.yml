@@ -179,7 +179,7 @@ xc_skiing:
   sub_categories:
     - title: Resort
       items:
-        - title: XC Resort Skis
+        - title: XC Recreational Skis
           deposit: $250
           rental: $6
         - title: NNN Ski Boot
