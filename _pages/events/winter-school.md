@@ -27,12 +27,12 @@ Lectures are held every Tuesday and Thursday from 19:00 - 21:00 (7pm - 9pm). 202
 
 - **Mandatory Lecture** 7pm-9pm Tuesday Jan 6th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2969/) in [26-100](https://whereis.mit.edu/?go=26)
 - **Mandatory Lecture** 7pm-9pm Thursday Jan 8th. [Mandatory safety lecture](https://mitoc-trips.mit.edu/trips/2970/) in [26-100](https://whereis.mit.edu/?go=26)
-- 7pm-9pm Tuesday Jan 13th. Instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 15th. Instructional lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 20th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 22nd. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Tuesday Jan 27th. Guest lecture. [6-120](http://whereis.mit.edu/?go=6)
-- 7pm-9pm Thursday Jan 29th. Guest lecture, Winter School Stories & Recap. [6-120](http://whereis.mit.edu/?go=6)
+- 7pm-9pm Tuesday Jan 13th. Instructional lecture. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Thursday Jan 15th. Instructional lecture. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Tuesday Jan 20th. Guest lecturers: Hilary McCloy and Andrew Drummond. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Thursday Jan 22nd. Guest lecturer: Mardi Fuller. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Tuesday Jan 27th. Guest lecturers: Matthew and Eric Gilbertson. [1-190](http://whereis.mit.edu/?go=1)
+- 7pm-9pm Thursday Jan 29th. Guest lecturer: Lhakpa Sherpa. Winter School Stories & Recap. [1-190](http://whereis.mit.edu/?go=1)
 
 #### Trips
 
