@@ -24,7 +24,7 @@ You can rent cross-country, backcountry, telemark, and AT ski equipment from MIT
 
 You need an active membership and need to have provided two personal checks – see [MITOC rentals](/rentals) for more information. MITOC rents alpine touring and splitboard equipment with prior approval from the backcountry ski chairs. **Cross country (nordic) skis and Telemark skis are not restricted gear and can be rented without prior approval.**
 
-You can find the alpine touring (AT) ski and splitboard request form [here](/https://forms.gle/7tcaCrP4AtGFbPrz5), or email us at mitoc-approval@mit.edu .
+You can find the alpine touring (AT) ski and splitboard request form [here](https://forms.gle/7tcaCrP4AtGFbPrz5), or email us at mitoc-approval@mit.edu .
 
 <p align="center">
     <img style="max-width: 80%; height: auto;" alt="Rental request flowchart" src="https://github.com/user-attachments/assets/e594708a-46e3-4629-ad3c-834d270a72a5" />
@@ -49,7 +49,7 @@ Classic cross-country skis are available on a first-come, first-served basis in 
 Telemark skis are available on a first-come, first-served basis in a variety of lengths. Stop by the office during office hours to rent or for inventory information.
 
 #### Rental request form
-Find it [here](/https://forms.gle/7tcaCrP4AtGFbPrz5). 
+Find it [here](https://forms.gle/7tcaCrP4AtGFbPrz5). 
 
 ### FAQ
 Q) Can I rent for longer than one weekend?
@@ -108,7 +108,7 @@ Q) When is the MITOC office open?
 
 Q) Who do I ask to rent gear?
 
->A) Please fill out [our google form](/https://forms.gle/7tcaCrP4AtGFbPrz5). 
+>A) Please fill out [our google form](https://forms.gle/7tcaCrP4AtGFbPrz5). 
 
 
 ### IKON pass student discount (2025-26)
