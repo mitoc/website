@@ -14,7 +14,7 @@ Security deposits vary by individual item. The deposit amounts below are average
 
 ### Restricted Gear
 
-Items highlighted in <span style="color: red">red</span> require a safety review and permission from the appropriate MITOC officer before you can rent them. You can get approval by emailing [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) 24 hours ahead of time. Be sure to include exactly what restricted gear you want to check out, what dates you'll have it, how and where it will be used, and your level of experience with the activity.
+Items highlighted in <span style="color: red">red</span> require a safety review and permission from the appropriate MITOC officer before you can rent them. You can get approval by emailing [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) 24 hours ahead of time (**EXCEPT** for alpine touring equipment, which needs 5 days prior approval- see below for details). Be sure to include exactly what restricted gear you want to check out, what dates you'll have it, how and where it will be used, and your level of experience with the activity.
 
 ### Financial aid
 
@@ -72,7 +72,9 @@ The backcountry touring skis have metal edges and use burlier boots with a wider
 
 {% include ski-price-table.html category = site.data.gear_prices.at_skiing %}
 
-**IMPORTANT:** We approve Alpine Touring and Splitboard equipment rental requests on a weekend-by-weekend basis. You can pick up skis during Thursday or Friday office hours and **MUST** return them during the next Tuesday office hours. (Longer rentals are rare and on a case-by-case basis.) Please email your requests on Sunday or Monday before you want to rent, including: (1) what ski/boot/splitboard size you want (including gear numbers if you know specific skis and boots have fit you well in the past), (2) which weekend you want to rent for, (3) a confirmation that you can return the gear by or at Tuesday office hours, (4) where and when you are going (our gear is only for backcountry skiing/riding, not resorts), and (5) your experience backcountry skiing/riding and using the gear. We will grant approvals on Tuesday or Wednesday. You will be approved for specific gear numbers and CANNOT substitute other items for any reason without explicit approval from the ski chairs (desk workers cannot grant this approval).
+**IMPORTANT:** We approve Alpine Touring and Splitboard equipment rental requests on a weekend-by-weekend basis. You can pick up skis during Thursday or Friday office hours and MUST return them during the next Tuesday office hours. Office hour calendar can be found here. (Longer rentals are rare and on a case-by-case basis.) 
+
+Please submit the [rental request form](/https://forms.gle/7tcaCrP4AtGFbPrz5) on Sunday or Monday before you want to rent. We will grant approvals on Tuesday or Wednesday. You will be approved for specific gear numbers and CANNOT substitute other items for any reason without explicit approval from the ski chairs (desk workers cannot grant this approval).
 
 AT boots sizes (Mondo):
 : All half sizes from Mondo 22.5 (US women’s 5.5 / Euro 35.5) to Mondo 30.5 (US women’s 13.5 / Euro 46)
