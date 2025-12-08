@@ -15,7 +15,7 @@ MITOC has an active group of cross country and backcountry skiers, with trips ty
 You can rent cross-country, backcountry, telemark, and AT ski equipment from MITOC. We encourage personal trips and rent out our fleet for personal use, except during [Winter School](/events/winter-school). Please use our gear responsibly and adhere to the club rules. **MITOC does not have downhill/alpine ski equipment for rental.**
 
 <p align="center">
-    <img style="max-width: 100%; height: auto;" alt="Our skis are for backcountry use ONLY. Resort skiing is not allowed unless the user is uphill skiing. Do not aggressively load the equipment. MITOC has a strict no avalanche terrain policy. There can be no exceptions." src="https://github.com/user-attachments/assets/518dfb6c-a22b-4fe2-8b88-08b396478fd2" />
+    <img style="max-width: 50%; height: auto;" alt="Our skis are for backcountry use ONLY. Resort skiing is not allowed unless the user is uphill skiing. Do not aggressively load the equipment. MITOC has a strict no avalanche terrain policy. There can be no exceptions." src="https://github.com/user-attachments/assets/518dfb6c-a22b-4fe2-8b88-08b396478fd2" />
 </p>
 
 *Disclaimer: We are NOT a guiding service nor a rental service. We do not guarantee the availability of our equipment; and while we strive to keep all our gear in safe and working order, we cannot be responsible for personal rentals of our gear. We do not adjust nor fit boots and skis; these are responsibilities left to the user.*
@@ -27,7 +27,7 @@ You need an active membership and need to have provided two personal checks – 
 You can find the alpine touring (AT) ski and splitboard request form [here](/https://forms.gle/7tcaCrP4AtGFbPrz5), or email us at mitoc-approval@mit.edu .
 
 <p align="center">
-    <img style="max-width: 100%; height: auto;" alt="Rental request flowchart" src="https://github.com/user-attachments/assets/e594708a-46e3-4629-ad3c-834d270a72a5" />
+    <img style="max-width: 80%; height: auto;" alt="Rental request flowchart" src="https://github.com/user-attachments/assets/e594708a-46e3-4629-ad3c-834d270a72a5" />
 </p>
 
 ***IMPORTANT:*** We approve AT and splitboard equipment rental requests on a weekend-by-weekend basis. You can pick up skis during Thursday or Friday office hours and MUST return them during the next Tuesday office hours. Office hour calendar can be found [here](/calendar). (Longer rentals are rare and on a case-by-case basis.) 
