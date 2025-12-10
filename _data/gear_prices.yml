@@ -181,18 +181,18 @@ xc_skiing:
       items:
         - title: XC Recreational Skis
           deposit: $250
-          rental: $6
+          rental: $8
         - title: NNN Ski Boot
-          deposit: $75
-          rental: $5
+          deposit: $100
+          rental: $6
     - title: Touring
       items:
         - title: XC Touring Skis
           deposit: $400
-          rental: $9
+          rental: $10
         - title: NNN-BC Ski Boot
-          deposit: $155
-          rental: $5
+          deposit: $200
+          rental: $6
     - title: Both
       items:
         - title: XC Ski Poles
