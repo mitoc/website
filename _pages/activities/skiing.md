@@ -53,7 +53,10 @@ Stop by the office during office hours to rent or for inventory information.
 #### Rental request form
 Find it [here](https://forms.gle/7tcaCrP4AtGFbPrz5). 
 
+* * *
+
 ### FAQ
+
 <div class="well" markdown="1">
 
  #### Q) Can I rent for longer than one weekend?
@@ -162,6 +165,8 @@ Find it [here](https://forms.gle/7tcaCrP4AtGFbPrz5).
     A) Please fill out [our google form](https://forms.gle/7tcaCrP4AtGFbPrz5). 
 
 </div>
+
+* * *
 
 ### IKON pass student discount (2025-26)
 
