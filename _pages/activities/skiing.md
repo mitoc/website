@@ -44,72 +44,129 @@ Ski sizes (Frame Binding, cm): 155, 157, 165 (x2), 173, 175, 176, 180, 181
 
 Splitboards (cm): 149, 154, 158
 
-Classic cross-country skis are available on a first-come, first-served basis in a variety of lengths. XC Backcountry skis are also available- please stop by during office hours to rent or for inventory information.
+Classic cross-country skis are available on a first-come, first-served basis in a variety of lengths. 
+XC Backcountry skis are also available- please stop by during office hours to rent or for inventory information.
 
-Telemark skis are available on a first-come, first-served basis in a variety of lengths. Stop by the office during office hours to rent or for inventory information.
+Telemark skis are available on a first-come, first-served basis in a variety of lengths. 
+Stop by the office during office hours to rent or for inventory information.
 
 #### Rental request form
 Find it [here](https://forms.gle/7tcaCrP4AtGFbPrz5). 
 
+* * *
+
 ### FAQ
-Q) Can I rent for longer than one weekend?
 
->A) Only under special circumstances. Please reach out to us separately at mitoc-approval@mit.edu
+<div class="well" markdown="1">
 
-Q) Can I rent a specific set of equipment?
+ #### Q) Can I rent for longer than one weekend?
 
->A) You can request an alpine touring ski/splitboard and boot size, but not a specific set of gear. If you would prefer a specific item, you can email us at mitoc-approval@mit.edu  and we will try to accommodate you, pending availability.
+    A) Only under special circumstances. Please reach out to us separately at mitoc-approval@mit.edu
 
-Q) Can I splitboard/are there splitboarding trips?
+</div>
 
->A) Yes! We have three splitboards available in the dropdown menu on the form. Most trips are open to splitboarders unless otherwise specified. Please keep in mind that trip leaders may not have the expertise to help you with your gear, but you can reach out to us mitoc-approval@mit.edu with questions.
+<div class="well" markdown="1">
+    
+#### Q) Can I rent a specific set of equipment?
 
-Q) How can I request Cross Country (Nordic) skis?
+    A) You can request an alpine touring ski/splitboard and boot size, but not a specific set of gear. 
+    If you would prefer a specific item, you can email us at mitoc-approval@mit.edu and we will try to accommodate you.
 
->A) There is no need for prior approval for Nordic skis. Stop by the office to rent Classic skis or XC Backcountry skis.
+</div>
 
-Q) How can I request Telemark skis?
+<div class="well" markdown="1">
+    
+ #### Q) Can I splitboard/are there splitboarding trips?
+    
+    A) Yes! We have three splitboards available in the dropdown menu on the form. 
+    Most trips are open to splitboarders unless otherwise specified. 
+    Please keep in mind that trip leaders may not have the expertise to help you with your gear, 
+    but you can reach out to us mitoc-approval@mit.edu with questions.
 
->A) There is no need for prior approval for Telemark skis. Stop by the office to rent.
+</div>
 
-Q) Can I ski Tucks?
+<div class="well" markdown="1">
 
->A) Not with our gear. Sorry!
+#### Q) How can I request Cross Country (Nordic) skis?
 
-Q) How can I adjust the alpine touring (AT) ski/splitboard bindings?
+    A) There is no need for prior approval for Nordic skis. 
+    Stop by the office to rent Classic skis or XC Backcountry skis.
 
->A) Some of our kits have Dynafit ST Rotation bindings; others have frame bindings. The splitboards have puck-style soft boot bindings. Please watch these videos for how to adjust and use the Dynafit bindings
+</div>
 
-> https://www.youtube.com/watch?v=99kNB63fWUI&t=23s   
+<div class="well" markdown="1">
+
+#### Q) How can I request Telemark skis?
+
+    A) There is no need for prior approval for Telemark skis. Stop by the office to rent.
+
+</div>
+
+<div class="well" markdown="1">
+    
+#### Q) Can I ski Tucks?
+
+    A) Not with our gear. Sorry!
+
+</div>
+
+<div class="well" markdown="1">
+    
+#### Q) How can I adjust the alpine touring (AT) ski/splitboard bindings?
+
+    A) Some of our kits have Dynafit ST Rotation bindings; others have frame bindings. 
+    The splitboards have puck-style soft boot bindings. 
+    Please watch these videos for how to adjust and use the Dynafit bindings
+
+     https://www.youtube.com/watch?v=99kNB63fWUI&t=23s   
  
-> https://www.youtube.com/watch?v=2sUZrgawY5c&t=9s 
+    https://www.youtube.com/watch?v=2sUZrgawY5c&t=9s 
  
->For the frame bindings,
+    For the frame bindings,
 
->https://www.youtube.com/watch?v=WnH2ljZUVLc
+    https://www.youtube.com/watch?v=WnH2ljZUVLc
 
->For the splitboard,
+    For the splitboard,
 
->https://www.youtube.com/watch?v=X7jPRcPbOJQ
+    https://www.youtube.com/watch?v=X7jPRcPbOJQ
 
->You will need to make all adjustments by yourself. You can use the in-office repair kits to adjust the bindings. Please return all items back to the kits.
+    You will need to make all adjustments by yourself. You can use the in-office tools to adjust the bindings.
 
-Q) What fit should my alpine touring (AT) boots have? What size AT skis should I choose? 
+</div>
 
->A) Alpine touring boots should not fit as tightly as alpine ski boots. When you step into the boot and stand up, your toes should be close to the front of the boot but should NOT be touching the front. When you lean forward in an athletic stance, your toes should NOT be touching the front.
-You should also ensure your ankles are not too snug or too loose. Too snug and you will get hotspots on the uphill. Too loose and you will lose responsiveness of the skis on the downhills.
-On the uphills, you can unbuckle your boots almost completely to give your feet more room and prevent hotspots.
+<div class="well" markdown="1">
+   
+#### Q) What fit should my alpine touring (AT) boots have? What size AT skis should I choose? 
 
->We recommend choosing skis that are shoulder to chin height. Choose shorter skis for easier maneuverability.
+    A) Alpine touring boots should not fit as tightly as alpine ski boots. 
+    When you step into the boot and stand up, your toes should be close to the front of the boot but should NOT be touching the front. 
+    When you lean forward in an athletic stance, your toes should NOT be touching the front. 
+    You should also ensure your ankles are not too snug or too loose. 
+    Too snug and you will get hotspots on the uphill. 
+    Too loose and you will lose responsiveness of the skis on the downhills. 
+    On the uphills, you can unbuckle your boots almost completely to give your feet more room and prevent hotspots.
 
-Q) When is the MITOC office open?
+    We recommend choosing skis that are shoulder to chin height. Choose shorter skis for easier maneuverability.
 
->A) Consult the [Office Hour Calendar](/calendar).
+</div>
 
-Q) Who do I ask to rent gear?
+<div class="well" markdown="1">
+    
+#### Q) When is the MITOC office open?
 
->A) Please fill out [our google form](https://forms.gle/7tcaCrP4AtGFbPrz5). 
+    A) Consult the [Office Hour Calendar](/calendar).
 
+</div>
+
+<div class="well" markdown="1">
+    
+#### Q) Who do I ask to rent gear?
+
+    A) Please fill out [our google form](https://forms.gle/7tcaCrP4AtGFbPrz5). 
+
+</div>
+
+* * *
 
 ### IKON pass student discount (2025-26)
 
