@@ -18,6 +18,13 @@
 
 Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
 
+### Payee registration (non-MIT affiliate)
+
+If you don't have access to the MIT Atlas app, you need to be set up as a payee in MIT's reimbursement system first. 
+Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) with your full name and preferred email address to start the registration process. 
+
+Note that the registration process can take up to a month. To make sure you're reimbursed quicker, you can start the registration process before doing things that require reimbursement. The registration expires after 18 months.
+
 ### To Get Reimbursed
 
 1.  **Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe0tR-cIxVUJy_Ci0Rsk7zajWchs-bv8XzXdvSXfi3CFKVLkA/viewform). Remember to subtract sales tax if included.**
@@ -67,6 +74,8 @@ Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
 
 {% template panel.html title: "Other non-travel (e.g. gear, food) - no MIT certificates" id: "other-nocert" %}
 
+  Ensure you've been registered as a payee (see "Payee registration" above) within the last 18 months. 
+  
   Email receipt(s) scan(s) (itemized and with proof of payment) to [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu), along with:
 
   *   A description of what reimbursement is for. If reimbursement request is for food for a meeting, include roughly how many MIT students/affiliates/others attended
