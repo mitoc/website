@@ -64,12 +64,13 @@ Note that the registration process can take up to a month. To make sure you're r
 
 {% template panel.html title: "Other non-travel (e.g. gear, food) - with MIT certificates" id: "other-cert" %}
 
-  *   Go to [Atlas](http://atlas.mit.edu/) and click on “Full Catalog.” Under “My Reimbursements,” select “Request a Reimbursement for Me.”
-  *   Fill out the RFP (“Request for Payment”), leaving the G/L Account and Cost Object values empty. Include a description of the expense and if it came out of a discretionary budget. For food reimbursements, include what it was for and roughly how many MIT students/affiliates/others attended. In the amount box, be sure to subtract sales tax for all items.  
-      NOTE: If you have multiple receipts, you can submit them all on the same RFP. Click “Add Line” to add other items.
-  *   Click Save & Continue
+  *   Go to the MIT Atlas app and click on the “Payments & Reimbursements” rectangle. Under “Reimbursements” select “New Request” and "Myself".
   *   Add a scanned image of the itemized receipt(s) and proof of payment. If the receipt does not have proof of payment, a statement with everything but the name and transaction whited out is acceptable (but not preferred).
-  *   Using the button on the RFP page, send the RFP to the current treasurer (see the [list of current BOD members](/about/officers) if you aren't sure who that is)
+  *   Add line items for each receipt with the amount to reimburse and a brief description.
+      *   In the amount box, be sure to subtract sales tax for all items.
+      *   Include a description of the expense and if it came out of a discretionary budget. For food reimbursements, include what it was for and roughly how many MIT students/affiliates/others attended. You can link the trip page if it was for an official trip.
+      *   You can leave the G/L Account and Cost Object values empty. 
+  *   Send the request to the current treasurer (see the [list of current BOD members](/about/officers) if you aren't sure who that is) to review.
 
 {% endtemplate %}
 
@@ -89,11 +90,11 @@ Note that the registration process can take up to a month. To make sure you're r
   We offer need-blind [financial aid](/about/financial-aid) to any MIT student, upon request.
   
   Do NOT pay trip/rental fees. Leaders & desk workers will waive them upon request.
-  To recieve financial aid for gas/travel:
+  To receive financial aid for gas/travel:
   *   After your trip, pay your driver/trip leader. Ensure that you keep a proof of payment (screenshot of venmo/zelle payment). MIT will not reimburse cash payments.
-  *   Request a reimbursement from MIT. Submit an Atlas RFP, following the instructions on the the "Other non-travel (e.g. gear, food) - with MIT certificates" tab, above.
+  *   Request a reimbursement from MIT. Submit a request through the MIT Atlas app, following the instructions on the the "Other non-travel (e.g. gear, food) - with MIT certificates" tab, above.
       *   Do NOT submit a travel requst (Concur).
-  *   Attach two "receipts" to the Atlas RFP report.
+  *   Attach two "receipts" to the Atlas reimbursement request.
       1.   Download and fill out [this invoice form](https://www.dropbox.com/scl/fi/5xseluvej8sx3nfsunpkw/MITOC_Financial-Aid-Invoice.pdf?rlkey=i59gjgb9mzv86mj6a5yxp6zqj&dl=0).
       2.   A proof of payment (screenshot of venmo/zelle payment). The payee on the invoice must match the payee on the proof of payment.
 
