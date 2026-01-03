@@ -15,6 +15,7 @@
 *   Sales tax cannot be reimbursed; however, purchases made on MIT's behalf can be exempted from sales tax. Use the forms [here](http://vpf.mit.edu/forms/7/1220) (MIT certificates required) if vendors require proof of exemption. MITOC has tax exempt accounts with many large outdoor vendors. 
 *   DO NOT pay more than $1000 for computers/software, or $5000 for other items. Large purchases must be made with requisitions. Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) prior to placing large orders.
 *   If you are paying a single individual (e.g. a speaker), you may need the payee to fill out a [W-9 form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) ahead of time.
+*   If you are requesting a travel reimbursement (rental car, campground reservation etc.), MIT will only process the reimbursement after the dates of your trip. If you can't wait that long, contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) before paying to have MIT pay the vendor directly.
 
 Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
 
