@@ -16,6 +16,8 @@ Please inform your trip leader and/or desk worker that you would like the fee wa
 ### Gas and Travel Costs
 Most MITOC trips require carpooling and reimbursing the driver for the travel costs. Please reimburse your driver immediately after the trip. MITOC will then reimburse you for the travel costs. Details on how get get reimbursed are available [here](/about/get-reimbursed), under "Financial Aid".
 
+If you are planning to request financial aid and your trip requires a rental car, please ask someone else to rent / pay for the rental car. And then pay your share when driving costs a split after the trip and request reimbursement for that as above. Do not pay a rental car company yourself, as this will make reimbursements more difficult. 
+
 ### Starter Kits
 Most MITOC hikes require a headlamp, compass, and whistle (of which only the compass is rentable). We have a limited number of starter kits available, containing these three items. If you expect to participate in 3 or more MITOC hikes, we will gladly provide you with one of these kits (for permanent use, not a rental).
 The kits are available in the MITOC office; you can request them from deskworkers during [office hours](/calendar) (no prior approval is necessary). 
