@@ -70,7 +70,7 @@ Note that the registration process can take up to a month. To make sure you're r
       *   In the amount box, be sure to subtract sales tax for all items.
       *   Include a description of the expense and if it came out of a discretionary budget. For food reimbursements, include what it was for and roughly how many MIT students/affiliates/others attended. You can link the trip page if it was for an official trip.
       *   You can leave the G/L Account and Cost Object values empty. 
-  *   Send the request to the current treasurer (see the [list of current BOD members](/about/officers) if you aren't sure who that is) to review.
+  *   Select "send it for review" and select the current treasurer (see the [list of current BOD members](/about/officers) if you aren't sure who that is) as the reviewer.
 
 {% endtemplate %}
 
