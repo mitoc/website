@@ -26,6 +26,8 @@ Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) with your full name and pr
 
 Note that the registration process can take up to a month. To make sure you're reimbursed quicker, you can start the registration process before doing things that require reimbursement. The registration expires after 18 months.
 
+(Note that this registration will not give you access to the MIT Atlas app, but it will allow the treasurer to select you there as a payee. After registration, follow the instructions below for "no MIT certificates" to get reimbursed.)
+
 ### To Get Reimbursed
 
 1.  **Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe0tR-cIxVUJy_Ci0Rsk7zajWchs-bv8XzXdvSXfi3CFKVLkA/viewform). Remember to subtract sales tax if included.**
@@ -70,7 +72,7 @@ Note that the registration process can take up to a month. To make sure you're r
       *   In the amount box, be sure to subtract sales tax for all items.
       *   Include a description of the expense and if it came out of a discretionary budget. For food reimbursements, include what it was for and roughly how many MIT students/affiliates/others attended. You can link the trip page if it was for an official trip.
       *   You can leave the G/L Account and Cost Object values empty. 
-  *   Send the request to the current treasurer (see the [list of current BOD members](/about/officers) if you aren't sure who that is) to review.
+  *   Select "send it for review" and select the current treasurer (see the [list of current BOD members](/about/officers) if you aren't sure who that is) as the reviewer.
 
 {% endtemplate %}
 
