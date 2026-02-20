@@ -13,7 +13,7 @@
 - name: "Canoe Trip: $15"
   price: 15
   category: trip
-- name: "Chocolate Festival"
+- name: "Chocolate Festival: $30"
   price: 30
   category: trip
 - name: "Circus (Student): $20"
