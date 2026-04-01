@@ -111,6 +111,6 @@ Q) Who do I ask to rent gear?
 >A) Please fill out [our google form](https://forms.gle/7tcaCrP4AtGFbPrz5). 
 
 
-### IKON pass student discount (2025-26)
+### IKON pass student discount (2026-27)
 
 MITOC is part of the [Ikon Pass](https://www.ikonpass.com/) College Club program. MITOC members who are also **current students** (grad or undergrad) can [get discounted passes](https://mitoc-trips.mit.edu/preferences/discounts/). You must be logged in to your MITOC account to see information on how to obtain your discount. Contact mitoc.ikon@gmail.com with any questions. 
