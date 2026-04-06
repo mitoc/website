@@ -35,7 +35,7 @@
 
     Deposit checks are mandatory and must be _personal checks_. NO EXCEPTIONS UNDER ANY CIRCUMSTANCES. We will not accept money orders, cashier's checks, cash, credit cards, IDs, valuables, or anything else as collateral for rentals. Do not try to pressure deskworkers to bend this rule.
 
-2.  **Come by the [MITOC office (Student center, 4th floor, room 461)](https://whereis.mit.edu/?go=W20) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesday and Thursday evenings and ocasionally Friday afternoons. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
+2.  **Come by the [MITOC office (Student center, 4th floor, room 461)](https://whereis.mit.edu/?go=W20) during office hours.** Office hours can be found on our [calendar](/calendar) and are usually Tuesday and Thursday evenings and occasionally Friday afternoons. Check the calendar to make sure a volunteer desk worker has signed up before coming in to the office. An event titled "Office Hours" without names appended to it means that nobody has signed up for that shift yet (note that shifts are usually staffed a few days beforehand, it's perfectly normal for future shifts to not have a name alongside them).
 3.  **Go outside and have fun! Yay!**
 
 ### Returning Gear

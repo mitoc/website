@@ -1,49 +1,75 @@
 <div class="alert alert-info" style="margin-top: -10px">
-  <div class="container camelot-banner">
-    <div class="camelot-banner-img cbox">
-      <img
-        src="/images/bunkhouse/bunkhouse-exterior-rendering.jpg"
-        alt="Drawing of the future cabin"
-      />
-    </div>
-    <div class="camelot-banner-text">
-      <h3>Camelot Bunkhouse Project</h3>
-      <p>
-        A core part of the MITOC community, and in particular our access to the
-        mountains, continues to be our well-loved “Camelot” cabin, located in
-        central New Hampshire. As you may know, Camelot was built in the 1970s
-        (on a shoestring budget), and it is nearing the end of its useful life.
-        Since 2013, the Outing Club has been working to build new, safe and
-        modern sleeping quarters on the Camelot property, which will ensure that
-        MITOC can fulfill our mission for decades to come.
-      </p>
+  <div class="camelot-banner-wrapper collapsed">
+    <div class="container camelot-banner">
+      <div class="camelot-banner-img cbox">
+        <img
+          src="/images/bunkhouse/bunkhouse-exterior-rendering.jpg"
+          alt="Drawing of the future cabin"
+        />
+      </div>
+      <div class="camelot-banner-text">
+        <h3>Camelot Bunkhouse Project</h3>
+        <p>
+          A core part of the MITOC community, and in particular our access to the
+          mountains, continues to be our well-loved “Camelot” cabin, located in
+          central New Hampshire. As you may know, Camelot was built in the 1970s
+          (on a shoestring budget), and it is nearing the end of its useful life.
+          Since 2013, the Outing Club has been working to build new, safe and
+          modern sleeping quarters on the Camelot property, which will ensure that
+          MITOC can fulfill our mission for decades to come.
+        </p>
 
-      <p>
-        MITOC partnered with Maclay Architects to design a new bunkhouse for
-        Camelot which will be located approximately 100m from the existing
-        cabin. The new bunkhouse will contain five bedrooms (sleeping ten
-        persons each), a large central hallway, and a covered deck. We
-        anticipate the cost of the new bunkhouse to be approximately $500,000.
-      </p>
+        <p>
+          MITOC partnered with Maclay Architects to design a new bunkhouse for
+          Camelot which will be located approximately 100m from the existing
+          cabin. The new bunkhouse will contain five bedrooms (sleeping ten
+          persons each), a large central hallway, and a covered deck. We
+          anticipate the cost of the new bunkhouse to be approximately $500,000.
+        </p>
 
-      <p>
-        With the design now complete, we are actively seeking donations. If you
-        are able, please consider donating to help us hit our fundraising target
-        in 2025. We broke ground on site preparation in 2024, and
-        fundraising permitting, we will complete the new bunkhouse in 2025.
-        This project will ensure we can fulfill our mission for the next
-        generation of MITOCers.
-      </p>
-      <div class="links-box" style="justify-content: space-around">
-        <a
-          href="{{site.data.bunkhouse_settings.donate_link}}"
-          class="bunkouse-donate-button"
-          >Donate</a
-        >
-        <a href="/camelot" style="font-size: 2rem; text-decoration: underline"
-          >Read more</a
-        >
+        <p>
+          With the design now complete, we are actively seeking donations. If you
+          are able, please consider donating to help us hit our fundraising target
+          in 2026. We broke ground on site preparation in 2024, and
+          fundraising permitting, we will complete the new bunkhouse in 2027.
+          This project will ensure we can fulfill our mission for the next
+          generation of MITOCers.
+        </p>
+        <div class="links-box" style="justify-content: space-around">
+          <a
+            href="{{site.data.bunkhouse_settings.donate_link}}"
+            class="bunkouse-donate-button"
+            >Donate</a
+          >
+          <a href="/camelot" style="font-size: 2rem; text-decoration: underline"
+            >Read more</a
+          >
+        </div>
       </div>
     </div>
+    </div>
   </div>
+
+  <div class="camelot-banner-toggle">
+    <button class="camelot-toggle-btn" aria-expanded="false" aria-label="Show more">
+      <svg class="camelot-toggle-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 24" width="72" height="24" aria-hidden="true">
+        <polyline points="6,8 36,18 66,8" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+      </svg>
+    </button>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var wrapper = document.querySelector('.camelot-banner-wrapper');
+      var btn = document.querySelector('.camelot-toggle-btn');
+      if (!wrapper || !btn) return;
+      btn.addEventListener('click', function () {
+        var expanded = wrapper.classList.toggle('expanded');
+        wrapper.classList.toggle('collapsed', !expanded);
+        btn.classList.toggle('is-expanded', expanded);
+        btn.setAttribute('aria-expanded', expanded);
+        btn.setAttribute('aria-label', expanded ? 'Show less' : 'Show more');
+      });
+    });
+  </script>
 </div>

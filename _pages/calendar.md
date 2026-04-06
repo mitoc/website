@@ -5,7 +5,7 @@
 
 A great way to stay informed is to check our Google calendar. This calendar has our events, office hours, and cabin reservations.
 
-Add the MITOC calendar to your Google calendar by pressing ![Google calendar logo](/images/calendar/googleplus.png) (lower right corner of the calendar.)
+Add the MITOC calendar to your Google calendar by pressing 'Add to Google Calendar' (lower left corner of the calendar).
 
 <span style="color:#125A12;">Green = MITOC events and office hours</span>  
 <span style="color:#B1440E;">Red = Camelot reservations</span>  

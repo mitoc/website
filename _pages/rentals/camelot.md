@@ -8,7 +8,7 @@
       - /images/camelot/pic4.jpg
 ---
 
-Camelot is a rustic cabin located near Rumney, NH. The cabin is situated on 20 acres of forest and can accomodate groups of 40 or more people. Camelot is a 2.5 hour drive from Boston and is within 15 minutes of Rattlesnake Mountain and the world-famous sport climbing at Rumney. The cabin is set back about 1000 feet from the road and is only accessible by a rough foot trail.
+Camelot is a rustic cabin located near Rumney, NH. The cabin is situated on 20 acres of forest and can accommodate groups of 40 or more people. Camelot is a 2.5 hour drive from Boston and is within 15 minutes of Rattlesnake Mountain and the world-famous sport climbing at Rumney. The cabin is set back about 1000 feet from the road and is only accessible by a rough foot trail.
 
 **Prior permission from the Camelot managers is required for ALL USES of the cabin or grounds. Contact [camelot-mgr@mit.edu](mailto:camelot-mgr@mit.edu) to request permission. Use of the cabin or grounds without permission is trespassing and we will call the police.** All MITOC members may request permission to camp on the grounds, but only trained keyholders may reserve the cabin itself. Check the [cabins](/rentals/cabins) page for more information.
 
@@ -16,7 +16,7 @@ Camelot is a rustic cabin located near Rumney, NH. The cabin is situated on 20 a
 
 Camelot has electricity supplied by the Groton Wind project. There is a cell phone charging station with AC outlets and USB ports in the back left corner of the living room. The cabin is heated to about 60 degrees F by two wood-burning stoves. It takes two hours from when the wood-burning stoves are started for the cabin to heat up, so be prepared for cold conditions if you are the first to arrive on a cold day.
 
-The cabin has no running water and users must bring their own drinking water. There is a stream through the property which flows year round except during extreme dry periods. Stream water is suitable for cooking and washing dishes _only if has been boiled first_. There is a pump system for delivering water from the stream to the cabin, but it is currently out of order.
+The cabin has no running water and users must bring their own drinking water. There is a stream through the property which flows year round except during extreme dry periods. Stream water is suitable for cooking and washing dishes _only if it has been boiled first_. There is a pump system for delivering water from the stream to the cabin, but it is currently out of order.
 
 There is a kitchen with complete cooking facilities, including a high-end electric range. The kitchen also has an induction cooktop for ultra-fast boiling water. The induction cooktop only works with steel pots. The kitchen is well stocked with dishes and utensils. Disposable cutlery is recommended for large groups due to the difficulty of washing dishes without running water.
 
@@ -26,15 +26,15 @@ There are lots of options for sleeping outside. A sturdy lean-to with space for 
 
 ### General guidelines
 
-The parking lot is a dirt pull-off at the side of the road. Vehicles must be entirely off the pavement. Park as close as possible to any other cars which are already in the parking lot. This maximimizes capacity for busy weekends and also helps with plowing in case it snows during your visit.
+The parking lot is a dirt pull-off at the side of the road. Vehicles must be entirely off the pavement. Park as close as possible to any other cars which are already in the parking lot. This maximizes capacity for busy weekends and also helps with plowing in case it snows during your visit.
 
 Campfires are only allowed in the fire ring in front of the cabin. Burn only dead wood from around the grounds or split logs from under the cabin. **Wood in the wood shed is for heating only and may not be used for campfires.** Do not cut down or otherwise damage standing trees. Do not use any accelerants. Keep campfires small and ensure that they are attended at all times.
 
-Users are expected to thororughly clean the cabin before departure. There is no trash collection, so you must take all trash and perishable food with you. Always sweep the floors and sterilize all the counters. We have mice and squirrels that can get into the cabin, so please don't leave them anything to eat!
+Users are expected to thoroughly clean the cabin before departure. There is no trash collection, so you must take all trash and perishable food with you. Always sweep the floors and sterilize all the counters. We have mice and squirrels that can get into the cabin, so please don't leave them anything to eat!
 
 Although Camelot is in a remote location, our closest neighbors are within earshot (you can just barely see their house though the trees in the winter). Please be respectful and keep the noise down at night. Occasionally we find trash dumped in the parking area. Even if it is not your trash, please take it with you so that our property does not become an eyesore.
 
-When a keyholder opens the cabin, they are taking final responsibility for the everything that happens within the cabin. Non-keyholders will be admitted into the cabin at the keyholder's discretion and may be kicked out by the keyholder at any time. If you are camping on the property, do not assume that a keyholder from a different group will invite you into the cabin. (That happens frequently, but you can't count on it!)
+When a keyholder opens the cabin, they are taking final responsibility for everything that happens within the cabin. Non-keyholders will be admitted into the cabin at the keyholder's discretion and may be kicked out by the keyholder at any time. If you are camping on the property, do not assume that a keyholder from a different group will invite you into the cabin. (That happens frequently, but you can't count on it!)
 
 This summary does not substitute for attending a keyholder training day and is not meant as a comprehensive manual. We hold keyholder trainings once every few months. Keyholder trainings are announced on the MITOC [mailing lists](/mailing-lists) a few weeks in advance. Contact [camelot-mgr@mit.edu](mailto:camelot-mgr@mit.edu) with any questions.
 

@@ -76,7 +76,7 @@ If you're a MITOC member or alum living outside the Boston area, check out these
 ### Other Lists
 
 **[cabin-helpers](http://mailman.mit.edu/mailman/listinfo/cabin-helpers)**
-: For anyone who wants to help out with the cabin's ongoing improvements and maintanence.
+: For anyone who wants to help out with the cabin's ongoing improvements and maintenance.
 
 **[mitoc-gear](http://mailman.mit.edu/mailman/listinfo/mitoc-gear)**
 : gear tips and tricks, questions about gear, available sales and deals

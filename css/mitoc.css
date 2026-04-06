@@ -82,7 +82,7 @@ p img {
   background-image: url(/images/bunkhouse/bunkhouse-exterior-rendering.jpg);
   background-position-y: 34%;
   background-position-x: 50%;
-  min-height: 57vh;
+  min-height: 14vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -219,5 +219,94 @@ p img {
     display: flex;
     align-items: center;
     justify-content: space-around;
+  }
+}
+
+.camelot-banner-wrapper {
+  /* much smaller collapsed height to reduce visual dominance */
+  max-height: 80px;
+  overflow: hidden;
+  position: relative; /* ensure this is the positioned ancestor for the toggle */
+  transition: max-height 0.45s ease;
+}
+.camelot-banner-wrapper.expanded {
+  max-height: 2000px; /* large enough to reveal full content */
+}
+.camelot-banner-toggle {
+  display: flex;
+  justify-content: center;
+  margin-top: -54px; /* move toggle up to sit higher on smaller collapsed banner */
+  z-index: 40;
+}
+.camelot-toggle-btn {
+  background: transparent;
+  color: #0b3d91; /* make V black */
+  border: none;
+  min-width: 72px;
+  height: 36px;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  cursor: pointer;
+  padding: 6px 0;
+}
+
+.camelot-toggle-icon {
+  transition: transform 0.25s ease;
+  transform: rotate(0deg) scaleX(1);
+  display: block;
+}
+.camelot-toggle-btn.is-expanded .camelot-toggle-icon {
+  transform: rotate(180deg) scaleX(1);
+}
+
+/* Remove default focus outline for the toggle button (visual only) */
+.camelot-toggle-btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* Remove browser default focus rings and inner borders for the toggle */
+.camelot-toggle-btn {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.camelot-toggle-btn:focus,
+.camelot-toggle-btn:active,
+.camelot-toggle-btn:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.camelot-toggle-btn::-moz-focus-inner { border: 0; }
+.camelot-toggle-btn:focus {
+  outline: 2px solid #ddd;
+}
+
+@media (max-width: 767px) {
+  .camelot-banner-wrapper { max-height: 120px; }
+}
+
+.alert.alert-info { position: static; }
+
+/* Fade the banner text near the bottom when the banner is collapsed */
+.camelot-banner-wrapper.collapsed {
+  -webkit-mask-image: linear-gradient(180deg, black 55%, transparent 100%);
+  mask-image: linear-gradient(180deg, black 55%, transparent 100%);
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+.camelot-banner-wrapper.expanded {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+
+@media (max-width: 767px) {
+  .camelot-banner-wrapper.collapsed {
+    -webkit-mask-image: linear-gradient(180deg, black 55%, transparent 100%);
+    mask-image: linear-gradient(180deg, black 55%, transparent 100%);
   }
 }

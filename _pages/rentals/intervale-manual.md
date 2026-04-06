@@ -17,7 +17,7 @@ This document is intended as an instruction set for Intervale Keyholders. It is 
 
 Every group that uses Intervale must be accompanied by a Keyholder, even if the cabin itself is not being used. The purpose of this policy is to ensure that there is always at least one person at the property who is familiar with the property and the situation surrounding it, and who will be explicitly responsible for the duration of the stay.
 
-A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is initally valid for 2 years. Validity may be extended at the cabin managers' discretion for regular visitors of the cabin who have demonstrated continued knowledge of Intervale rules and procedures. If you are uncertain about the validity of your training status, please reach out to the Intervale managers.
+ A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is initially valid for 2 years. Validity may be extended at the cabin managers' discretion for regular visitors of the cabin who have demonstrated continued knowledge of Intervale rules and procedures. If you are uncertain about the validity of your training status, please reach out to the Intervale managers.
 
 The Keyholder is responsible for the actions of the group and is the organizer for the stay. If there are any problems with members of the group it is then up to the Keyholder to enforce proper behavior. When the Keyholder first determines that a problem is occurring, she should first inform the group members as to how to correct the situation. If that does not resolve the problem, the Keyholder should contact the Cabin Managers upon return to Boston who will then follow up with the situation.
 
@@ -108,7 +108,7 @@ In order to make a reservation a Keyholder must:
 
 ### Reservation Procedure for Official MITOC Programming
 
-Please get in touch with us as early as possible about official club programming. Major club events (e.g. Winter School) typically recieve extra support from the cabin managers.
+ Please get in touch with us as early as possible about official club programming. Major club events (e.g. Winter School) typically receive extra support from the cabin managers.
 
 1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** You can simply link the mitoc-trips page as opposed to providing full contact information for your group. For club programming like School of Rock, you may ask us to block out weekends months in advance while you finalize your plans.
 1. A Cabin Manager will confirm receipt of your request and block off the relevant days on the calendar. Official club programming is exempt from the property exclusive fee.
@@ -187,7 +187,7 @@ The Institute does not intend through its guidelines or policies to restrict the
 
 #### Stove
 
-Once the gas is turned on, lighting the burners is rather straightforward. Turn the knob of the appropriate burned to the setting marked “light”. The stove is equipped with a battery for the lighter. If the lighter isn’t working due to a dead battery touch a match to the burner. The oven is also gas, and is lit using the same battery lighter. If the battery is dead you can light the oven with a match by carefully lighting the oven pilot under the stove toward the back. Don’t try this if you haven’t been shown how. Please make sure that the stove top is clean and sparkly white before you leave.
+ Once the gas is turned on, lighting the burners is rather straightforward. Turn the knob of the appropriate burner to the setting marked “light”. The stove is equipped with a battery for the lighter. If the lighter isn’t working due to a dead battery touch a match to the burner. The oven is also gas, and is lit using the same battery lighter. If the battery is dead you can light the oven with a match by carefully lighting the oven pilot under the stove toward the back. Don’t try this if you haven’t been shown how. Please make sure that the stove top is clean and sparkly white before you leave.
 
 #### Lighting the Lamps
 

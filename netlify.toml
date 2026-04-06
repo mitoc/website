@@ -1,3 +1,13 @@
 [build]
   publish = "_site"
   command = "jekyll build"
+
+[[headers]]
+  for = "/images/main_page/*.webm"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/images/main_page/*.mp4"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
