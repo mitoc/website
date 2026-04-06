@@ -434,8 +434,7 @@ layout: default
 
 <div class="home-background-fallback" aria-hidden="true"></div>
 <video class="home-background-media" autoplay muted loop playsinline preload="metadata" poster="/images/main_page/mitoc_winter_Florian_2024.jpg" aria-hidden="true">
-    <source src="/images/main_page/mitoc_winter_ashay.webm" type="video/webm">
-    <source src="/images/main_page/mitoc_winter_ashay.mp4" type="video/mp4">
+    <source src="/images/main_page/mitoc_winter_ashay_fast.mp4" type="video/mp4">
 </video>
 <div class="home-background-overlay" aria-hidden="true"></div>
 
