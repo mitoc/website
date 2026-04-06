@@ -44,6 +44,16 @@ layout: default
                         }
                     }, 2500);
                     vid.addEventListener('loadedmetadata', function() { clearTimeout(timeout); });
+                    // Ensure the video restarts after finishing unless we've switched to fallback
+                    vid.addEventListener('ended', function() {
+                        try {
+                            if (!document.documentElement.classList.contains('use-fallback')) {
+                                // Reset to start and attempt to play again (some browsers require this)
+                                vid.currentTime = 0;
+                                vid.play().catch(function(){});
+                            }
+                        } catch (e) {}
+                    });
                     vid.addEventListener('error', function() { document.documentElement.classList.add('use-fallback'); clearTimeout(timeout); });
                 } catch (e) {}
             });
@@ -97,13 +107,14 @@ layout: default
         try {
             if (window.location.hash) return; // respect anchors
             // Desktop default ~45% viewport; reduce on smaller screens for better UX
-            var fraction = 0.45;
+            // Reduced scroll fractions because banner height was halved
+            var fraction = 0.30;
             if (window.innerWidth <= 768) {
                 // Mobile: scroll much less so header and hero remain visible
-                fraction = 0.25;
+                fraction = 0.15;
             } else if (window.innerWidth <= 992) {
                 // Tablet/smaller laptops: slightly less than desktop
-                fraction = 0.30;
+                fraction = 0.20;
             }
             const startY = Math.round(window.innerHeight * fraction);
             window.scrollTo({ top: startY, left: 0, behavior: 'auto' });
@@ -269,7 +280,7 @@ layout: default
     }
 
     .home-cta-text {
-        margin-top: 28px;
+        margin-top: 60px;
         color: #ffffff;
         font-size: 30px;
         line-height: 1.3;
@@ -279,12 +290,34 @@ layout: default
 
     .home-cta-text a {
         color: #ffffff;
-        text-decoration: underline;
+        text-decoration: none;
         transition: opacity 0.2s ease;
     }
 
     .home-cta-text a:hover {
-        opacity: 0.85;
+        opacity: 0.9;
+    }
+
+    .home-cta-text .btn {
+        display: inline-block;
+        font-size: 28px;
+        font-weight: 700;
+        padding: 14px 28px;
+        border-radius: 10px;
+        background: rgba(0,0,0,0.28) !important;
+        border: 2px solid rgba(255,255,255,0.95) !important;
+        color: #ffffff !important;
+        text-decoration: none !important;
+        box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+        transition: transform 0.12s ease, opacity 0.12s ease, box-shadow 0.12s ease, background 0.12s ease;
+        backdrop-filter: blur(4px);
+    }
+
+    .home-cta-text .btn:hover {
+        transform: translateY(-2px);
+        opacity: 0.98;
+        box-shadow: 0 12px 32px rgba(0,0,0,0.45);
+        background: rgba(0,0,0,0.36) !important;
     }
 
     .home-body-text {
@@ -384,6 +417,12 @@ layout: default
 
         .home-cta-text {
             font-size: 23px;
+            margin-top: 36px;
+        }
+
+        .home-cta-text .btn {
+            font-size: 18px;
+            padding: 10px 18px;
         }
 
         .home-body-text {
@@ -408,7 +447,7 @@ layout: default
 <div class="home-scroll-content first-section" id="home-intro">
     <div class="home-hero-block">
         <h1 class="home-hero-text">The MIT Outing Club (MITOC) is dedicated to helping the MIT and Cambridge community enjoy the great outdoors.</h1>
-        <p class="home-cta-text"><a href="/mailing-lists">Join our email lists</a>, <a href="/join">become a member</a>, <a href="https://mitoc-trips.mit.edu/trips/">sign up for trips</a>, or <a href="/rentals">rent gear</a>.</p>
+        <p class="home-cta-text"><a class="btn btn-primary btn-lg" href="/join" role="button">Join MITOC</a></p>
     </div>
 </div>
 
@@ -421,4 +460,3 @@ layout: default
         <p class="home-body-text">If you want to sign up for a MITOC-organized trip or rent gear from us, you'll have to <a href="/join">become a member</a>.</p>
     </div>
 </div>
-
