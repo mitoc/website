@@ -40,7 +40,7 @@ Note that the registration process can take up to a month. To make sure you're r
 
   Pay the course cost in full (to the provider, not MITOC).
   
-  For a subsity, email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) listing the course you will be reimbursed for & links to the led trips being used for the subsity. Then follow the directions on this page for "Other non-travel" that applies to you.
+  For a subsidy, email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) listing the course you will be reimbursed for & links to the led trips being used for the subsidy. Then follow the directions on this page for "Other non-travel" that applies to you.
 
   For desk credit 'payment', the treasurer will reimburse you for the specified amount in the google form. Follow the directions on this page for "Other non-travel" that applies to you.
 

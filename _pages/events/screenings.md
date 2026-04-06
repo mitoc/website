@@ -175,7 +175,7 @@ and click on Pay to enter your credit card information.
     </div>
 </div>
 
-No Man's Land Film Festival is an all-woman adventure film festival based out of the Rocky Mountains of Colorado that meets a need and desire to highlight and connect individuals who identify as women in pursuit of the radical. We are a collaboration and celebration of humans who are deeply engaged in enhancing the female presence in the adventure arena. The goal of this festival is to connect like-minded individuals who are action-oriented, wish to support a shared vision of gender equality, have a desire to experience their passions and environments through a uniquely female lens, and above all, love adventure. Along with cultivating a deep interest in exploring the vastness of our planet from a female point of view, No Man's Land strives to create a history of motivating audiences to implement and inspire change. Our mission transcends the films presented; this festival acts as a platform for progressive thought and movement in the outdoor industry.  At No Man's Land, we aim to **un-****define feminine** in adventure and sport through film. 
+No Man's Land Film Festival is an all-woman adventure film festival based out of the Rocky Mountains of Colorado that meets a need and desire to highlight and connect individuals who identify as women in pursuit of the radical. We are a collaboration and celebration of humans who are deeply engaged in enhancing the female presence in the adventure arena. The goal of this festival is to connect like-minded individuals who are action-oriented, wish to support a shared vision of gender equality, have a desire to experience their passions and environments through a uniquely female lens, and above all, love adventure. Along with cultivating a deep interest in exploring the vastness of our planet from a female point of view, No Man's Land strives to create a history of motivating audiences to implement and inspire change. Our mission transcends the films presented; this festival acts as a platform for progressive thought and movement in the outdoor industry. At No Man's Land, we aim to un-define 'feminine' in adventure and sport through film.
 
 * * *
 
@@ -255,7 +255,7 @@ MITOC and [MIT LSC](http://lsc.mit.edu/) are pleased to bring you
 
 ### "[Reel Rock 12](https://reelrocktour.com/)"
 
-on **Friday, Decemer 8th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mit.edu/?go=26)
+on **Friday, December 8th @ 7:30 PM** in [MIT Building 26-100](http://whereis.mit.edu/?go=26)
 
 **_$5 with a valid MIT ID or $10 for General Admission_**
 
@@ -416,7 +416,7 @@ on **Tuesday, March 15th @ 7:30 PM** in [**MIT Building 26-100**](http://whereis
 Professional skier and filmmaker **[Kt Miller](http://www.ktmiller.photo/Website-Content/Pages/About)** is an ambassador for the Winter Wildlands Alliance and will help MIT's Outing Club host the Backcountry Film Festival. Her film about a skiing and sailing expedition from Iceland to Greenland, Shifting Ice + Changing Tides, won the festival's award for Best Environmental Message. During Intermission, Kt will give a talk about her work as a professional skier, photographer, and environmentalist, and the push by groups like the Winter Wildlands Alliance to preserve our winters.
 
 Further Bio:<br/>
-Kt is a Montana gal with a zest for adventure and knack for storytelling. She is one of only a handful of female adventure photographers capturing imagery in some of the wildest corners of the planet. Her raw storytelling is both thought provoking and inspiring. Along with her media skills she is an accomplished athlete in her own right and has skied many high level routes and first descents around the world. As a professional athlete for Dynafit,LowePro, and Winter Wildlands Alliance Kt specializes in human powered adventure. Each fall Kt spends a few months working in the Arctic with Polar Bears International as a media specialist, troubleshooting wireless internet on the tundra, photographing polar bears, and hosting the worlds leading polar bear and climate scientists for large digital outreach initiatives. She hopes her work inspires others to take action on climate change, connect more with the natural world, and become better stewards of the environment.
+Kt is a Montana gal with a zest for adventure and knack for storytelling. She is one of only a handful of female adventure photographers capturing imagery in some of the wildest corners of the planet. Her raw storytelling is both thought provoking and inspiring. Along with her media skills she is an accomplished athlete in her own right and has skied many high level routes and first descents around the world. As a professional athlete for Dynafit,LowePro, and Winter Wildlands Alliance Kt specializes in human powered adventure. Each fall Kt spends a few months working in the Arctic with Polar Bears International as a media specialist, troubleshooting wireless internet on the tundra, photographing polar bears, and hosting the world's leading polar bear and climate scientists for large digital outreach initiatives. She hopes her work inspires others to take action on climate change, connect more with the natural world, and become better stewards of the environment.
 
 * * *
 
