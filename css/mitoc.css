@@ -82,7 +82,7 @@ p img {
   background-image: url(/images/bunkhouse/bunkhouse-exterior-rendering.jpg);
   background-position-y: 34%;
   background-position-x: 50%;
-  min-height: 57vh;
+  min-height: 14vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -222,9 +222,9 @@ p img {
   }
 }
 
-/* Collapsible Camelot banner: collapsed height with optional expansion */
 .camelot-banner-wrapper {
-  max-height: 160px; /* reduced collapsed height */
+  /* much smaller collapsed height to reduce visual dominance */
+  max-height: 80px;
   overflow: hidden;
   position: relative; /* ensure this is the positioned ancestor for the toggle */
   transition: max-height 0.45s ease;
@@ -235,7 +235,7 @@ p img {
 .camelot-banner-toggle {
   display: flex;
   justify-content: center;
-  margin-top: -60px; /* pull further into the bottom of the banner */
+  margin-top: -54px; /* move toggle up to sit higher on smaller collapsed banner */
   z-index: 40;
 }
 .camelot-toggle-btn {
