@@ -69,7 +69,7 @@ Weekend trip dates are final, and will involve camping Saturday night. Each week
 ### Week 5
 
 - Tuesday June 23: Trip reports / social, 7-9pm (optional)
-- Backup weekend for sport track
+- Backup weekend for sport track: June 27-28
   - For the sport track, this will be a full weekend of instruction *only if we have to cancel 2+ days* of climbing on previous weekends because of weather.
 
 ## Cost
