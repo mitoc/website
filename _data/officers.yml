@@ -1,89 +1,22 @@
 ---
-AalokSathe:
-  name: "Aalok Sathe"
 AaronJohnson:
   name: "Aaron Johnson"
-AbbyHill:
-  name: "Abby Hill"
-  photo: abbyhill.jpg
-AbrahamSkandera:
-  name: Abraham Skandera
-  photo: abraham.jpg
-AdamReith:
-  name: "Adam Reith"
-  photo: adamreith.jpg
-AdamBerger:
-  name: "Adam Berger"
-  photo: AdamBerger.jpg
-AileenDevlin:
-  name: "Aileen Devlin"
-  photo: aileen-devlin.jpg
-AlejandroDiaz:
-  name: Alejandro Diaz
-  photo: AlejandroDiaz.jpeg
-AlexBychkovksy:
-  name: "Alex Bychkovksy"
-  photo: AlexBychkovsky.png
-AlexCatullo:
-  name: "Alex Catullo"
-  photo: AlexCatullo.jpg
-AlexGarcia:
-  name: "Alex Garcia"
-  photo: alexgarcia.jpg
 AlexiaLochmann:
   name: Alexia Lochmann
   photo: alexia.jpeg
 AliBrodeur:
   name: "Ali Brodeur"
-AndreaLehn:
-  name: Andrea Lehn
-  photo: Andrea-Lehn.jpg
-AngieDiana:
-  name: Angie Diana
-AnishAthalye:
-  name: "Anish Athalye"
-AnishDighe:
-  name: "Anish Dighe"
-  photo: AnishDighe.jpeg
-AneeqaMuzammil:
-  name: "Aneeqa Muzammil"
-AnnieHines:
-  name: Annie Hines
-  photo: annie.jpg
-AmyChen:
-  name: Amy Chen
-  photo: amy.jpg
 AoifeTroxel:
   name: Aoife Troxel
   photo: Aoife.jpeg
 AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
-AshayAthalye:
-  name: Ashay Athalye
-  photo: AshayAthalye.jpg
-AshwinNarayan:
-  name: "Ashwin Narayan"
-  photo: ashwinnarayan.jpg
-AvilashCramer:
-  name: "Avilash Cramer"
-  photo: avicramer.jpg
-BenKessel:
-  name: "Ben Kessel"
-  photo: ben-kessel.jpg
 BenMoody:
   name: Ben Moody
-BoDwyer:
-  name: "Bo Dwyer"
-  photo: bodwyer.jpg
-AshutoshKumar:
-  name: Ashutosh Kumar
-  photo: AshutoshKumar.jpeg
 BloxieBloxham:
   name: "Bloxie Bloxham"
   photo: blox-bloxham.jpg
-CaitlinMehl:
-  name: "Caitlin Mehl"
 CarolinaWarneryd:
   name: Carolina Warneryd
   photo: carolina-warneryd.jpeg
@@ -96,260 +29,106 @@ CatArase:
 CharlotteFolinus:
   name: "Charlotte Folinus"
   photo: CharlotteFolinus.jpg
-ChiaraSalemi:
-  name: "Chiara Salemi"
-  photo: chiarasalemi.jpg
-ChrisGlazner:
-  name: Chris Glazner
-ChrisSaulnier:
-  name: "Chris Saulnier"
-  photo: saulnier.jpg
-ChrisSumerfield:
-  name: Chris Summerfield
-  photo: chrissummerfield.jpg
 ChrissyGlover:
   name: "Chrissy Glover"
-ColeCrawford:
-  name: "Cole Crawford"
-  photo: colecrawford.jpg
-ColinWilson:
-  name: Colin Wilson
-  photo: colin.jpg
 CristianCavedon:
   name: "Cristian Cavedon"
 DanielYang:
   name: "Daniel Yang"
   photo: DanielYang.png
-DavidCharatan:
-  name: "David Charatan"
-DavidJohnson:
-  name: "David Johnson"
-  photo: johnson_.png
 DavidCain:
   name: David Cain
   photo: dcain.jpg
-DavidLawrence:
-  name: "David Lawrence"
-  photo: dlaw.jpeg
+DavidCharatan:
+  name: "David Charatan"
 DheepakArumukhomRevi:
   name: "Dheepak Arumukhom Revi"
   photo: DheepakArumukhomRevi.jpg
-DorotaJarecka:
-  name: "Dorota Jarecka"
-ElenaWesteinde:
-  name: Elena Westeinde
-EthanFahnestock:
-  name: "Ethan Fahnestock"
-EvanKindseth:
-  name: Evan Kindseth
-EvanWilliams:
-  name: "Evan Williams"
-  photo: evanwilliams.jpg
 EvaStrauss:
   name: Eva Strauss
+EvanKindseth:
+  name: Evan Kindseth
 FlorianPagnoux:
   email: mitoc-webmaster@mit.edu
   name: "Florian Pagnoux"
   photo: florian.jpeg
-GabrielKammer:
-  name: "Gabriel Kammer"
-GradyThomas:
-  name: Grady Thomas
-GregWallace:
-  name: "Greg Wallace"
-  photo: greg.jpg
-HannahGrupe:
-  name: Hannah Grupe
-  photo: hannah-grupe.jpg
+GraceEvans:
+  name: "Grace Evans"
+  photo: GraceEvans.jpg
 HannahSchlueter:
   name: Hannah Schlueter
-HannahVarner:
-  name: "Hannah Varner"
-  photo: hannahvarner.png
 JamesDouberley:
   name: "James Douberley"
   photo: james-douberley.jpg
-JamesHermus:
-  name: "James Hermus"
-  photo: james-hermus.jpeg
-JamesTuritto:
-  name: "James Turitto"
-  photo: james_turitto.jpg
 JaneyFarina:
   name: Janey Farina
   photo: Janey-Farina.jpg
-JanTiepelt:
-  name: "Jan Tiepelt"
-  photo: jantiepelt.jpg
-JasonJong:
-  name: Jason Jong
 JoePalin:
   name: "Joe Palin"
 JolienVanNieuwenhuizen:
   name: "Jolien van Nieuwenhuizen"
   photo: JolienVanNieuwenhuizen.png
-JoshBradshaw:
-  name: Josh Bradshaw
-  photo: josh-bradshaw.jpeg
 JuliaAllen:
   name: "Julia Allen"
   photo: JuliaAllen.jpg
 JulianZucker:
   name: "Julian Zucker"
   photo: JulianZucker.jpeg
-KaiXi:
-  name: "Kai Xi"
-  photo: KaiXi.jpg
-KarinaSmolyar:
-  name: "Karina Smolyar"
-  photo: karinasmolyar.png
-KateLawrence:
-  name: "Kate Lawrence"
-  photo: katelawrence.jpg
 KateLane:
   name: Kate Lane
   photo: KateLane.jpg
 KathyCamenzind:
   name: "Kathy Camenzind"
   photo: kathycamenzind.jpg
-KatieSelig:
-  name: Katie Selig
-  photo: Katie-Selig.jpg
-KatrinaMagno:
-  name: Katrina Magno
-  photo: katrina.jpg
-KrisBrewer:
-  name: "Kris Brewer"
-  photo: brew.jpg
 KyleBertram:
   name: "Kyle Bertram"
 LaurelCiccaglione:
   name: Laurel Ciccaglione
 LawrenceCen:
   name: Lawrence Cen
-LawrenceWong:
-  name: "Lawrence Wong"
-  photo: LawrenceWong.jpeg
 LorenzoShaikewitz:
   name: Lorenzo Shaikewitz
   photo: Lorenzo.jpeg
-LilyCohen:
-  name: "Lily Cohen"
-  photo: lilycohen.jpg
-LucasArthur:
-  name: "Lucas Arthur"
-  photo: lucasarthur2.png
 LucasEhinger:
   name: "Lucas Ehinger"
   photo: LucasEhinger.jpg
 LucyNguyen:
   name: "Lucy Nguyen"
-LukePlummer:
-  name: "Luke Plummer"
-  photo: lukeplummer.jpg
-LuluRussell:
-  name: "Lulu Russell"
-  photo: lulurussell.jpg
-MaddieHickman:
-  name: Maddie Hickman
-  photo: maddie.jpg
 MargaretPeng:
   name: "Margaret Peng"
+MarkSimon:
+  name: "Mark Simon"
+  photo: MarkSimon.jpeg
 MarlowTracy:
   name: Marlow Tracy
   photo: Marlow.jpeg
-MaryRichardson:
-  name: Mary Richardson
-  photo: mary-richardson.jpeg
-MasonGlidden:
-  name: "Mason Glidden"
-  photo: mason.jpg
 MaxKenngott:
   name: Max Kenngott
-MaxwellYun:
-  name: Maxwell Yun
-  photo: maxwell-yun.jpg
-MelissaSeib:
-  name: "Melissa Seib"
-MichaelSkuhersky:
-  name: "Michael Skuhersky"
-  photo: vex.jpg
 MichelePratusevich:
   email: mitoc-webmaster@mit.edu
   name: "Michele Pratusevich"
   photo: mprat.jpg
-MichelleODonnell:
-  name: Michelle O'Donnell
-  photo: michelleodonnell.jpg
-MikeChan:
-  name: Mike Chan
-  photo: MikeChan.jpg
-MonikaOShea:
-  name: "Monika O'Shea"
-  photo: MonikaOShea.jpg
-NatalieFerris:
-  name: Natalie Ferris
-NatalieNorthrup:
-  name: "Natalie Northrup"
-  photo: natalienorthrup.jpg
 NathalieVerlinde:
   name: "Natalie Verlinde"
 NathanaelJenkins:
   name: "Nathanael Jenkins"
   photo: NJenkins.jpg
-NeilTitchener:
-  name: "Neil Titchener"
-  photo: nat25.jpg
 NiamhBrown:
   name: "Niamh Brown"
   photo: NiamhBrown.jpg
-NickLingler:
-  name: "Nick Lingler"
-  photo: nicklingler.jpg
-NicolasRomeo:
-  name: "Nicolas Romeo"
-  photo: nicolasromeo.jpg
-NoahLuther:
-  name: Noah Luther
-  photo: noah.jpg
-OomiPammit:
-  name: Oomi Pammit
-  photo: oomi-pammit.jpeg
-PaulLilin:
-  name: Paul Lilin
-  photo: paul-lilin.jpg
-PaulinaVarshavskaya:
-  name: Paulina Varshavskaya
 PaulNicknish:
   name: "Paul Nicknish"
   photo: PaulNickish.jpeg
-PavelGorelik:
-  name: "Pavel Gorelik"
-  photo: pavel.jpg
 RebeccaKestin:
   name: "Rebecca Kestin"
 RikaSugimoto:
   name: Rika Sugimoto Dimitrova
   photo: rika.jpeg
-RoryKnight:
-  name: "Rory Knight"
-ShannonWing:
-  name: Shannon Wing
-  photo: shannon.jpg
-StephaniePlant:
-  name: "Stephanie Plant"
-  photo: stephanieplant.jpg
 SunheeBae:
   name: Sunhee Bae
   photo: sunhee.jpeg
-SusanCarter:
-  name: Susie Carter
-  photo: susie-carter.jpeg
 SusanKing:
   name: "Susan King"
-SuzyMcKinney:
-  name: Suzy McKinney
-  photo: Suzey-McKinney.jpg
 TamaraRossy:
   name: Tamara Rossy
   photo: Tamara.jpg
@@ -359,27 +138,10 @@ TaraSverko:
 TarynJohnson:
   name: Taryn Johnson
   photo: taryn-leaf.jpeg
-TaylorBiron:
-  name: Taylor Biron
-  photo: TaylorBiron.jpeg
 ThomasOrr:
   name: "Thomas Orr"
   photo: ThomasOrr.jpg
 TianOng:
   name: "Tian Ong"
-TonyZhu:
-  name: "Tony Zhu"
-  photo: hanz.jpg
-TylerToth:
-  name: "Tyler Toth"
-  photo: tylertoth.png
 Vacant:
   name: Vacant
-VasiliySysoev:
-  name: "Vasiliy Sysoev"
-YuntingFang:
-  name: Yunting Fang
-  photo: yunting.jpeg
-ZacTobias:
-  name: "Zac Tobias"
-  photo: zactobias.jpg
