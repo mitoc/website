@@ -186,6 +186,86 @@ p img {
   min-width: min(300px, 80%);
 }
 
+.camelot-banner-wrapper {
+  cursor: pointer;
+  padding: 0;
+}
+
+.camelot-banner-wrapper.expanded {
+  padding: 15px;
+}
+
+.camelot-banner-collapsible {
+  overflow: hidden;
+  max-height: min(20vh, 120px);
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .camelot-banner-collapsible {
+    max-height: min(20vh, 200px);
+  }
+}
+
+.camelot-banner-wrapper:not(.expanded) .camelot-banner-collapsible::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background: linear-gradient(transparent, #d9edf7);
+  pointer-events: none;
+}
+
+.camelot-banner-wrapper.expanded .camelot-banner-collapsible {
+  max-height: none;
+}
+
+@media (max-width: 767px) {
+  .camelot-banner-wrapper:not(.expanded) .camelot-banner-img {
+    display: none;
+  }
+  .camelot-banner-text h3 {
+    font-size: 22px;
+  }
+}
+
+.camelot-banner-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4px;
+  padding: 0 15px;
+}
+
+.camelot-banner-donate-small {
+  padding: 4px 16px;
+}
+
+@media (max-width: 767px) {
+  .camelot-banner-donate-small {
+    max-width: 150px;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+}
+
+.camelot-banner-wrapper.expanded .camelot-banner-donate-small {
+  display: none;
+}
+
+.camelot-banner-toggle {
+  font-size: 1.2rem;
+  color: #31708f;
+  user-select: none;
+  transform: rotate(90deg);
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
 .camelot-banner {
   display: flex;
   flex-direction: column;
