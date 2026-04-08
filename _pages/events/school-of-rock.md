@@ -74,7 +74,7 @@ Weekend trip dates are final, and will involve camping Saturday night. Each week
 
 ## Cost
 
-**$200, which includes:**
+The cost of the program is **$200**, which includes:
 
 - Cabin / tent stays
 - Saturday dinners + Sunday breakfast for weekend trips
