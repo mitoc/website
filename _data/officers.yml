@@ -36,22 +36,25 @@ CristianCavedon:
 DanielYang:
   name: "Daniel Yang"
   photo: DanielYang.png
-DavidCharatan:
-  name: "David Charatan"
 DavidCain:
   name: David Cain
   photo: dcain.jpg
+DavidCharatan:
+  name: "David Charatan"
 DheepakArumukhomRevi:
   name: "Dheepak Arumukhom Revi"
   photo: DheepakArumukhomRevi.jpg
-EvanKindseth:
-  name: Evan Kindseth
 EvaStrauss:
   name: Eva Strauss
+EvanKindseth:
+  name: Evan Kindseth
 FlorianPagnoux:
   email: mitoc-webmaster@mit.edu
   name: "Florian Pagnoux"
   photo: florian.jpeg
+GraceEvans:
+  name: "Grace Evans"
+  photo: GraceEvans.jpg
 HannahSchlueter:
   name: Hannah Schlueter
 JamesDouberley:
@@ -71,12 +74,12 @@ JuliaAllen:
 JulianZucker:
   name: "Julian Zucker"
   photo: JulianZucker.jpeg
-KathyCamenzind:
-  name: "Kathy Camenzind"
-  photo: kathycamenzind.jpg
 KateLane:
   name: Kate Lane
   photo: KateLane.jpg
+KathyCamenzind:
+  name: "Kathy Camenzind"
+  photo: kathycamenzind.jpg
 KyleBertram:
   name: "Kyle Bertram"
 LaurelCiccaglione:
@@ -93,6 +96,9 @@ LucyNguyen:
   name: "Lucy Nguyen"
 MargaretPeng:
   name: "Margaret Peng"
+MarkSimon:
+  name: "Mark Simon"
+  photo: MarkSimon.jpeg
 MarlowTracy:
   name: Marlow Tracy
   photo: Marlow.jpeg
