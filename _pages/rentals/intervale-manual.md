@@ -4,6 +4,7 @@
 ---
 The below contains information which **you must read and follow.** This is not an online license agreement.
 
+This manual was last updated on April 21st 2026
 
 ---
 # Purpose
@@ -17,7 +18,7 @@ This document is intended as an instruction set for Intervale Keyholders. It is 
 
 Every group that uses Intervale must be accompanied by a Keyholder, even if the cabin itself is not being used. The purpose of this policy is to ensure that there is always at least one person at the property who is familiar with the property and the situation surrounding it, and who will be explicitly responsible for the duration of the stay.
 
-A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is initally valid for 2 years. Validity may be extended at the cabin managers' discretion for regular visitors of the cabin who have demonstrated continued knowledge of Intervale rules and procedures. If you are uncertain about the validity of your training status, please reach out to the Intervale managers.
+A Keyholder is a person who has attended a full-day training trip at Intervale. These trainings teach members how to properly access and close the cabin. Keyholder training is initially valid for 2 years. Validity may be extended at the cabin managers' discretion for regular visitors of the cabin who have demonstrated continued knowledge of Intervale rules and procedures. If you are uncertain about the validity of your training status, please reach out to the Intervale managers. Reservations may be denied and keyholder status expired before 2 years if the keyholder demonstrates that they no longer remember Intervale rules and procedures.
 
 The Keyholder is responsible for the actions of the group and is the organizer for the stay. If there are any problems with members of the group it is then up to the Keyholder to enforce proper behavior. When the Keyholder first determines that a problem is occurring, she should first inform the group members as to how to correct the situation. If that does not resolve the problem, the Keyholder should contact the Cabin Managers upon return to Boston who will then follow up with the situation.
 
@@ -37,7 +38,7 @@ Intervale is located a few miles north of North Conway, NH. The exact location o
 
 Intervale is not road-accessible. Therefore, we have an easement which gives us a Right of Way (RoW) to access our property. Our RoW passes by a pair of other homes and directly adjacent the property of a third. It is important that you follow all of the rules below regarding our RoW when you access our property. We must respect our neighbors at all times. Failure to follow these procedures constitutes trespassing.
 
-Because we are crossing the property of our neighbors, some of whom have their own pets, visitors to Intervale are not currently permitted to bring any animals. If you have a service animal or other extenuating circumstances please reach out to the Intervale managers directly.
+Because we are crossing the property of our neighbors, some of whom have their own pets, dogs and other animals are permitted only on a case by case basis and must be approved explicitly by the managers. Pets are generally discouraged on busy weekends (e.g. Winter School) and may be denied at the discretion of the manager based on cabin capacity or the comfort of others staying at the cabin.
 
 Please note that accessing the cabin involves a moderate 1/2 mile / 750 meter hike (usually ~10-15 minutes), with uneven terrain and one rather steep hill. In winter, it can be useful to have spikes or some additional traction to assist with footing.
 
@@ -121,16 +122,16 @@ Please get in touch with us as early as possible about official club programming
 All of these steps must be completed in order to legally access the property.
 
 1. Fill out the [Reservation Request Form](https://goo.gl/forms/mw87HujKgeDa6IHF3). **NOTE:** The full names and contact information of every member in your party is required.
-1. A Cabin Manager will confirm receipt of your request and request that you pay for your group. Please submit a payment for your entire group (we do not accept individual payments from each guest for personal reservations) at [Pay MITOC](https://mitoc.mit.edu/pay) and email the receipt as a reply to your approval email. **Fees are non-refundable**. 
-1. A Cabin Manager will then email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
-1. Confirm by email with the Cabin Managers that your group and plans have not changed no later than 1 day in advance of leaving for Intervale. Detail any changes if applicable.
+1. A Cabin Manager will email you specific, written approval to access the property. If relevant, you will also receive a cabin door code for your stay.
+1. Upon receiving approval, please submit a payment for your entire group at [Pay MITOC](https://mitoc.mit.edu/pay) and email the receipt as a reply to your approval email. If preferred, each member of the party may pay individually but you must collect all confirmation numbers and email them as a reply to your approval email. **Fees are non-refundable**.
+1. If any changes are needed to the reservation, confirm by email with the Cabin Managers no later than 1 day in advance of leaving for Intervale.
 1. Ensure that **everyone** in your group has signed [MITOC's Liability Waiver](https://mitoc-trips.mit.edu/profile/waiver/).
 1. Email the checkout questionnaire (included in your request confirmation email), as well as any other relevant updates, to the Cabin Managers within 48 hours of leaving the property  
 Please keep in mind that Intervale is managed by volunteers with other responsibilities, and allow ample time for response to reservation requests. (No response is a negative response.) All communication related to a particular reservation should be conducted by the responsible Keyholder and should be kept in the **same email conversation** as the original request confirmation email.
  
 ### Reservation Policies
 - All reservations are at the discretion of the Cabin Managers. Requests can be denied on suspicion/expectation of potential issues with the visit.
-- There can be a maximum of fifteen people in the cabin, and a total of twenty-five people in total on the property. At most eight cars may be parked at the designated parking area, no other vehicles are permitted on or near the MITOC property.
+- There can be a maximum of fifteen people in the cabin, and a total of twenty-five people in total on the property. Cars must leave space for the ski club and must be parked at the at the designated parking area, no other vehicles are permitted on or near the MITOC property.
 - We require a 1:1 ratio of members to non-members in each group
 - Reservation requests for weekends must be submitted by Thursday at 11:59pm before the weekend of use.
 - Reservations must all fit in one vehicle or maintain a one-to-four ratio of Keyholders to guests (or one-to-nine in the case of official MITOC trips.)
@@ -158,6 +159,17 @@ Dishes and cookware that are left at the cabin must be cleaned immediately after
 
 You must pack out your own trash. It is recommended that you bring a sealable bag or container with you large enough to contain any trash you might produce on the property. The trash can and bags that are provided can be used, but it must be agreed upon in advance who will take the trash bag with them upon leaving.
 
+### Quiet Hours
+During winter school and whenever there is more than one reservation group in the cabin, quiet hours are in effect.
+Between the hours of 10pm - 6am 
+- All overhead lights off
+- Minimize talking and noisy activities
+- Do not cook dinner. If you are arriving late plan to eat dinner beforehand
+- Headlamps should use red or green light when possible, white lights should be shielded if unavoidable
+- Step lightly, especially on the porch, and close doors softly
+- If leaving early, pack what you can the evening before
+- If arriving late, consider sleeping outside to minimize disruption
+
 ### Conduct
 
 All official events at the cabin must follow all MIT rules including the [Alcohol Policy](https://handbook.mit.edu/alcohol) and the [Nondiscrimination Policy](https://handbook.mit.edu/nondiscrimination).
@@ -183,13 +195,15 @@ The Institute does not intend through its guidelines or policies to restrict the
 4. Identify the tank marked as “IN USE”, open it by opening the valve on top of the tank
 5. Below the regulator is the master shut-off. If the red lever is perpendicular to the gas line it is OFF, turn it parallel to the gas line for ON.
 6. Above the regulator between the second and third tank is the bank selector. Turn it to face the direction (left or right) of the tank which you wish to use.
-7. We recommend lighting the largest stove burner inside the cabin to verify gas flow. The stove is much simpler to light than the heater.
+7. We recommend lighting the largest stove burner inside the cabin to verify gas flow. The stove is much simpler to light than the heater. If the gas has not been used in a while, it may take a minute or two for air to work itself out of the lines, this will result in sputtering at the burner
 
 #### Stove
 
-Once the gas is turned on, lighting the burners is rather straightforward. Turn the knob of the appropriate burned to the setting marked “light”. The stove is equipped with a battery for the lighter. If the lighter isn’t working due to a dead battery touch a match to the burner. The oven is also gas, and is lit using the same battery lighter. If the battery is dead you can light the oven with a match by carefully lighting the oven pilot under the stove toward the back. Don’t try this if you haven’t been shown how. Please make sure that the stove top is clean and sparkly white before you leave.
+Once the gas is turned on, lighting the burners is rather straightforward. Turn the knob of the appropriate burned to the setting marked “light”. The stove is equipped with a battery for the sparker. If the sparker isn’t working due to a dead battery touch a match to the burner. The oven is also gas, and is lit using the same battery sparker. If the battery is dead you can light the oven with a match by carefully lighting the oven pilot under the stove toward the back. Don’t try this if you haven’t been shown how. Please make sure that the stove top is clean and sparkly white before you leave.
 
 #### Lighting the Lamps
+
+Use of the gas lamps is strongly discouraged. Please use the new solar lights instead.
 
 Each lamp has a switch on the side of it which is raised to turn the gas on. First, light a match (or use the lighter if there is one) and then turn on the gas. Now hold the flame BELOW the mantle without actually touching the match, lighter, or anything else, to the mantle. The lamp should light quickly. The mantles are extremely fragile (and expensive) so please do not touch them either with your hands, the match, the lighter, or anything else. In cold weather, it may take a few moments for the gas to flow through the line.
 
@@ -216,7 +230,16 @@ If after several tries, the stove does not light, it is possible that the curren
 
 #### Propane Heater
 
-Intervale is heated by a propane heater. Directions for lighting the furnace are found on the panel on the bottom of the heater after removing the cover. Note that it may take a full minute or two of holding the black knob down in the “PILOT” position before the spark will ignite the pilot light.
+Intervale is heated by a propane heater. Detailed directions for lighting the furnace are found on the panel on the bottom of the heater after removing the cover. Note that it may take a full minute or two of holding the black knob down in the “PILOT” position before the spark will ignite the pilot light. 
+1. Turn the thermostat to above ambient temp
+2. Press in and turn the black knob to the L in “PILOT”
+3. While holding the black knob in, press the sparker until the pilot light lights
+4. Continue to hold the black knob in until the metal wire in the pilot light glows red
+5. Turn the black knob to "ON". The pilot light should stay lit and the flab should appear. If all flames go out, turn the dial back to "OFF" and try again. If the pilot light will not light after it was recently on, turn the black knob to "OFF" and wait 5-10 minutes before trying again
+
+### Battery and lights
+
+There is a new solar powered battery and lights. If you arrive and there is snow on the solar panels, please gently dust off the snow with a soft item. Do not try and scrape or chip at any ice. Inside the cabin, there is a row of small black switches which control lights in various parts of the cabin. These switches are the only part of the system you should touch. Do not change any of the wires, fuses, etc. There is a set of USB ports that can be used for charging a small number of electronic devices in the summer. Power is more limited in the winter and charging should be reserved for emergency use. Make sure all lights and switches are off when you leave.
 
 
 ### The Kitchen 
