@@ -16,7 +16,7 @@ Are you an experienced paddle-boarder **interested in helping out with official 
 
 ### SUP Rental
 
-MITOC has a 9 inflatable SUPs and a selection of personal floatation devices (PFDs). PFDs are required when using MITOC boards, and are included in the board rental price. All users of MITOC SUP boards must be able to swim.
+MITOC has 9 inflatable SUPs and a selection of personal floatation devices (PFDs). PFDs are required when using MITOC boards, and are included in the board rental price. All users of MITOC SUP boards must be able to swim.
 
 To rent SUPs on your own:
 
