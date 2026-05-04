@@ -1,14 +1,17 @@
 ---
 AaronJohnson:
   name: "Aaron Johnson"
+  photo: AaronJohnson.jpeg
 AbbyHjelmstad:
   name: "Abby Hjelmstad"
 AlexWang:
   name: "Alex Wang"
+  photo: AlexWang.jpeg
 AliBackour:
   name: "Ali Backour"
 AliBrodeur:
   name: "Ali Brodeur"
+  photo: AliBrodeur.jpeg
 AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
@@ -37,6 +40,7 @@ DavidCain:
   photo: dcain.jpg
 DavidCharatan:
   name: "David Charatan"
+  photo: DavidCharatan.jpeg
 ElizabethCable:
   name: "Elizabeth Cable"
 FlorianPagnoux:
@@ -48,8 +52,10 @@ GraceEvans:
   photo: GraceEvans.jpg
 HannahSchlueter:
   name: Hannah Schlueter
+  photo: HannahSchlueter.jpeg
 JacksonMooreOtto:
   name: "Jackson Moore-Otto"
+  photo: JacksonMooreOtto.jpg
 JamesDouberley:
   name: "James Douberley"
   photo: james-douberley.jpg
@@ -89,6 +95,7 @@ MonikaOShea:
   photo: MonikaOShea.jpg
 NathalieVerlinde:
   name: "Natalie Verlinde"
+  photo: NathalieVerlinde.jpeg
 NathanaelJenkins:
   name: "Nathanael Jenkins"
   photo: NJenkins.jpg
@@ -100,6 +107,7 @@ PaulNicknish:
   photo: PaulNickish.jpeg
 RebeccaKestin:
   name: "Rebecca Kestin"
+  photo: RebeccaKestin.jpg
 ShonMackie:
   name: "Shon Mackie"
 SophiaSyritsyna:
@@ -121,3 +129,4 @@ Vacant:
   name: Vacant
 YizhouChen:
   name: "Yizhou Chen"
+  photo: YizhouChen.jpg
