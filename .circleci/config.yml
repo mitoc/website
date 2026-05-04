@@ -19,13 +19,6 @@ jobs:
           name: Install Ruby dependencies
           command: bundle install --jobs=4 --retry=3 --path vendor/bundle
 
-      - run:
-          name: Install html5validator
-          command: |
-            sudo apt-get update
-            sudo apt-get install -y python3-pip
-            pip3 install --user --upgrade html5validator==0.4.0  # will install in $HOME/.local
-
       - save_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
           paths:
@@ -47,10 +40,6 @@ jobs:
       - run:
           name: Check HTML common mistakes
           command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
-
-    #   - run:
-    #       name: Validate HTML spec compliance
-    #       command: $HOME/.local/bin/html5validator --root _site --ignore iframe --blacklist legacy-gallery
 
       - run:
           name: Start server

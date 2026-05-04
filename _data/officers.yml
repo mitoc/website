@@ -1,38 +1,37 @@
 ---
 AaronJohnson:
   name: "Aaron Johnson"
-AlexiaLochmann:
-  name: Alexia Lochmann
-  photo: alexia.jpeg
+  photo: AaronJohnson.jpeg
+AbbyHjelmstad:
+  name: "Abby Hjelmstad"
+AlexWang:
+  name: "Alex Wang"
+  photo: AlexWang.jpeg
+AliBackour:
+  name: "Ali Backour"
 AliBrodeur:
   name: "Ali Brodeur"
-AoifeTroxel:
-  name: Aoife Troxel
-  photo: Aoife.jpeg
+  photo: AliBrodeur.jpeg
 AshaParkCarter:
   name: "Asha Park-Carter"
   photo: ashaparkcarter.jpg
-BenMoody:
-  name: Ben Moody
 BloxieBloxham:
   name: "Bloxie Bloxham"
   photo: blox-bloxham.jpg
+CalderRussell:
+  name: "Calder Russell"
 CarolinaWarneryd:
   name: Carolina Warneryd
   photo: carolina-warneryd.jpeg
-CarlosSandoval:
-  name: "Carlos Sandoval"
-  photo: carlossandoval.jpg
 CatArase:
   name: Cat Arase
   photo: CatArase.jpeg
 CharlotteFolinus:
   name: "Charlotte Folinus"
   photo: CharlotteFolinus.jpg
-ChrissyGlover:
-  name: "Chrissy Glover"
-CristianCavedon:
-  name: "Cristian Cavedon"
+CollinMay:
+  name: "Collin May"
+  photo: CollinMay.jpeg
 DanielYang:
   name: "Daniel Yang"
   photo: DanielYang.png
@@ -41,13 +40,9 @@ DavidCain:
   photo: dcain.jpg
 DavidCharatan:
   name: "David Charatan"
-DheepakArumukhomRevi:
-  name: "Dheepak Arumukhom Revi"
-  photo: DheepakArumukhomRevi.jpg
-EvaStrauss:
-  name: Eva Strauss
-EvanKindseth:
-  name: Evan Kindseth
+  photo: DavidCharatan.jpeg
+ElizabethCable:
+  name: "Elizabeth Cable"
 FlorianPagnoux:
   email: mitoc-webmaster@mit.edu
   name: "Florian Pagnoux"
@@ -57,35 +52,24 @@ GraceEvans:
   photo: GraceEvans.jpg
 HannahSchlueter:
   name: Hannah Schlueter
+  photo: HannahSchlueter.jpeg
+JacksonMooreOtto:
+  name: "Jackson Moore-Otto"
+  photo: JacksonMooreOtto.jpg
 JamesDouberley:
   name: "James Douberley"
   photo: james-douberley.jpg
 JaneyFarina:
   name: Janey Farina
   photo: Janey-Farina.jpg
-JoePalin:
-  name: "Joe Palin"
 JolienVanNieuwenhuizen:
   name: "Jolien van Nieuwenhuizen"
   photo: JolienVanNieuwenhuizen.png
 JuliaAllen:
   name: "Julia Allen"
   photo: JuliaAllen.jpg
-JulianZucker:
-  name: "Julian Zucker"
-  photo: JulianZucker.jpeg
-KateLane:
-  name: Kate Lane
-  photo: KateLane.jpg
-KathyCamenzind:
-  name: "Kathy Camenzind"
-  photo: kathycamenzind.jpg
 KyleBertram:
   name: "Kyle Bertram"
-LaurelCiccaglione:
-  name: Laurel Ciccaglione
-LawrenceCen:
-  name: Lawrence Cen
 LorenzoShaikewitz:
   name: Lorenzo Shaikewitz
   photo: Lorenzo.jpeg
@@ -94,22 +78,24 @@ LucasEhinger:
   photo: LucasEhinger.jpg
 LucyNguyen:
   name: "Lucy Nguyen"
-MargaretPeng:
-  name: "Margaret Peng"
+MariiaSmyk:
+  name: "Mariia Smyk"
 MarkSimon:
   name: "Mark Simon"
   photo: MarkSimon.jpeg
 MarlowTracy:
   name: Marlow Tracy
   photo: Marlow.jpeg
-MaxKenngott:
-  name: Max Kenngott
 MichelePratusevich:
   email: mitoc-webmaster@mit.edu
   name: "Michele Pratusevich"
   photo: mprat.jpg
+MonikaOShea:
+  name: "Monika O'Shea"
+  photo: MonikaOShea.jpg
 NathalieVerlinde:
   name: "Natalie Verlinde"
+  photo: NathalieVerlinde.jpeg
 NathanaelJenkins:
   name: "Nathanael Jenkins"
   photo: NJenkins.jpg
@@ -121,9 +107,11 @@ PaulNicknish:
   photo: PaulNickish.jpeg
 RebeccaKestin:
   name: "Rebecca Kestin"
-RikaSugimoto:
-  name: Rika Sugimoto Dimitrova
-  photo: rika.jpeg
+  photo: RebeccaKestin.jpg
+ShonMackie:
+  name: "Shon Mackie"
+SophiaSyritsyna:
+  name: "Sophia Syritsyna"
 SunheeBae:
   name: Sunhee Bae
   photo: sunhee.jpeg
@@ -132,16 +120,13 @@ SusanKing:
 TamaraRossy:
   name: Tamara Rossy
   photo: Tamara.jpg
-TaraSverko:
-  name: "Tara Sverko"
-  photo: TaraSverko.jpg
 TarynJohnson:
   name: Taryn Johnson
   photo: taryn-leaf.jpeg
-ThomasOrr:
-  name: "Thomas Orr"
-  photo: ThomasOrr.jpg
 TianOng:
   name: "Tian Ong"
 Vacant:
   name: Vacant
+YizhouChen:
+  name: "Yizhou Chen"
+  photo: YizhouChen.jpg
