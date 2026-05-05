@@ -1,3 +1,6 @@
+- name: "School of Rock Fee $200"
+  price: 200
+  category: trip
 - name: "Acadia - MIT affiliate: $60"
   price: 60
   category: trip
@@ -31,9 +34,6 @@
 - name: "Intervale exclusive rental: $250"
   price: 250
   category: cabin
-- name: "School of Rock Fee $200"
-  price: 200
-  category: trip
 - name: "Kayak rolling pool instruction, 1 week: $9"
   price: 9
   category: trip
