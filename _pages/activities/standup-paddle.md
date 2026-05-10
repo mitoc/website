@@ -34,7 +34,7 @@ Please see the [boathouse rental information](https://mitoc.mit.edu/rentals/boat
 
 * [How to paddleboard](https://www.rei.com/learn/expert-advice/paddleboarding.html)
 * [MITOC SUP Safety](https://tinyurl.com/2ww98zvb)
-* [List of loactions around Boston](https://exploresup.com/locations/best-places-paddle-board-boston/)
+* [List of locations around Boston](https://exploresup.com/locations/best-places-paddle-board-boston/)
 
 
 ### Questions?
