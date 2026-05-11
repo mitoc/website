@@ -7,4 +7,4 @@ Your payment was successful. A receipt has been sent to your email.
 
 Questions? Contact [mitoc-bursar@mit.edu](mailto:mitoc-bursar@mit.edu).
 
-<a href="/" class="btn btn-default">Back to home page</a>
+<a href="/pay" class="btn btn-default">Back to payments</a>
