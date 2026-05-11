@@ -7,6 +7,15 @@
 - name: "Acadia - non-affiliate: $60"
   price: 60
   category: trip
+- name: "Climbers' Open Cabin - camping: $13"
+  price: 13
+  category: trip
+- name: "Climbers' Open Cabin - sleeping inside: $18"
+  price: 18
+  category: trip
+- name: "Climbers' Open Cabin - food only: $8"
+  price: 8
+  category: trip
 - name: "Paddleboarding Trip: $15"
   price: 15
   category: trip
