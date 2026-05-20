@@ -59,11 +59,11 @@ Yes, it is possible to donate by check!  Please make your check payable to MIT F
 
 ### When will construction start?
 
-We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction started in summer 2024 and will wrap up in spring 2025.  Funding permitting, the bunkhouse structure itself will be erected starting in summer 2025.
+We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction started in summer 2024 and will wrap up in spring 2025. For the next phase, more funding is needed. Funding permitting, the bunkhouse structure itself will be erected starting in 2026 or 2027.
 
 ### How long will construction take?
 
-Construction of the bunkhouse will take about six months, but needs to be paused for winter weather.  In the best case, the bunkhouse could be finished in 2025.  If fundraising proceeds more slowly, construction would slip into 2026.
+Construction of the bunkhouse will take about six months, but needs to be paused for winter weather. Funding permitting, the bunkhouse could be finished in 2027. 
 
 ### Will the bunkhouse be heated?
   
