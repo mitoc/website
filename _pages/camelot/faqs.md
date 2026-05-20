@@ -59,7 +59,7 @@ Yes, it is possible to donate by check!  Please make your check payable to MIT F
 
 ### When will construction start?
 
-We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction started in summer 2024 and will wrap up in spring 2025. For the next phase, more funding is needed. Funding permitting, the bunkhouse structure itself will be erected starting in 2026 or 2027.
+We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction started in summer 2024 and will wrap up in spring 2025. For the next phase, more funding is needed. Funding permitting, the bunkhouse structure itself will be erected starting in summer 2027.
 
 ### How long will construction take?
 
