@@ -46,6 +46,9 @@
 - name: "Circus (misc): $45"
   price: 45
   category: trip
+- name: "Circus (misc): $60"
+  price: 60
+  category: trip
 - name: "Intervale exclusive rental: $250"
   price: 250
   category: cabin
