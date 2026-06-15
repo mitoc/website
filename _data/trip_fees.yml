@@ -37,8 +37,14 @@
 - name: "Circus (misc): $10"
   price: 10
   category: trip
+- name: "Circus (misc): $15"
+  price: 15
+  category: trip
 - name: "Circus (misc): $30"
   price: 30
+  category: trip
+- name: "Circus (misc): $45"
+  price: 45
   category: trip
 - name: "Intervale exclusive rental: $250"
   price: 250
