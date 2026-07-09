@@ -3,21 +3,63 @@
     title: Get Reimbursed
 ---
 
-### General Guidelines for Reimbursement
-
-*   Follow the instructions on this page carefully. If not, your reimbursement may be delayed or we will be unable to process it. If in doubt, email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
-*   **KEEP ALL RECEIPTS UNTIL REIMBURSED!!!** If you do not have proof of payment, you CANNOT be reimbursed.
-*    To get reimbursed, you must submit an itemized receipt showing a zero/paid balance. If you do not have this, and invoice/receipt showing the items purchased AND a proof of payment (such as a credit card statement) will suffice. 
-*   For Amazon orders, the receipt must show that the item has already shipped. This can be found under Your Account >> Your Orders >> Invoice AFTER the order has shipped.
-*   Avoid cash.
-*   All receipts should be in USD. If not, include screenshots of official conversions to USD.
-*   Tip can be reimbursed with proof of payment.
-*   Sales tax cannot be reimbursed; however, purchases made on MIT's behalf can be exempted from sales tax. Use the forms [here](http://vpf.mit.edu/forms/7/1220) (MIT certificates required) if vendors require proof of exemption. MITOC has tax exempt accounts with many large outdoor vendors. 
-*   DO NOT pay more than $1000 for computers/software, or $5000 for other items. Large purchases must be made with requisitions. Email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) prior to placing large orders.
-*   If you are paying a single individual (e.g. a speaker), you may need the payee to fill out a [W-9 form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) ahead of time.
-*   If you are requesting a travel reimbursement (rental car, campground reservation etc.), MIT will only process the reimbursement after the dates of your trip. If you can't wait that long, contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) before paying to have MIT pay the vendor directly.
+<div class="alert" style="font-size: 1.5em; background-color: #f5f5f5; border: 1px solid #ddd;" markdown="1">
+Find the reimbursement form [here](https://forms.gle/D7LGDWsXBa17aSH38).
+</div>
 
 Questions? Contact [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu).
+
+<h2 style="font-size: 1.5em">Spending Money on MITOC's Behalf</h2>
+
+To spend money on MITOC's behalf:
+
+1. Ensure that your spending is added to [this year's budget](https://docs.google.com/spreadsheets/d/1xqnsZGtBOlnWDqyg1ZbVQpMDVKsKodNdIvz8ISEPU54/edit?usp=sharing) (by vote of MITOC's Executive Board) or falls under valid discretionary spending.
+2. Make your purchase.
+3. Record your purchase [here](https://forms.gle/D7LGDWsXBa17aSH38). If applicable, this triggers the reimbursement process.
+
+<h2 style="font-size: 1.5em">1. Budget Approval</h2>
+
+All spending (with the exception of discretionary spending, see below) must be approved by vote of the Executive Board and recorded in the budget. The Treasurer cannot reimburse non-approved or over-budget spending. Most spending is voted on during the annual budget meeting in June. To request a new budget item outside this meeting, email mitoc-bod@mit.edu with a spending amount and purpose.
+
+<h3 style="font-size: 1.25em">Discretionary Spending</h3>
+
+Each Advisory Board position (ski chair, desk captain, etc.) oversees up to $100 of discretionary spending per month. If a position is shared between multiple people, they share a single spending cap. Discretionary spending may be used for incidentals like spare parts, repair tape, etc. The Treasurer approves discretionary spending. If you are unsure whether something is valid discretionary spending, email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) to ask.
+
+<h2 style="font-size: 1.5em">2. Purchasing</h2>
+
+Most purchases are made using personal credit cards and then reimbursed. However, there are a few exceptions:
+
+- **Large Purchases:** Purchases over $1000 for computers/software or $5000 for other items must be made with requisitions.
+- **Amazon Orders:** Use Coupa/Buy2Pay.
+- **Travel:** Travel can only be reimbursed after the trip concludes.
+
+Keep your receipts. Do not make cash purchases. For food, reasonable tips can be reimbursed.
+
+<h3 style="font-size: 1.25em">Sales Tax</h3>
+
+When making purchases for MITOC, never pay sales tax, as it cannot be reimbursed. Instead, use MIT's [ST-2 and ST-5 forms](http://vpf.mit.edu/forms/7/1220) to ask vendors to remove sales tax.
+
+<h3 style="font-size: 1.25em">Choosing a Vendor</h3>
+
+Be as frugal as possible with MITOC's money. This means:
+
+- **For Gear:** Email vendors to ask for wholesale pricing or buy discounted gear.
+- **For Food:** Shop at Market Basket, Costco, etc.
+
+<h2 style="font-size: 1.5em">3. Recording Purchases (and Getting Reimbursed)</h2>
+
+All purchases—even those that do not require reimbursement—must be recorded using [this form](https://forms.gle/D7LGDWsXBa17aSH38). To get reimbursed, submit your purchase to MITOC using the form.
+
+<br/>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title">
+      <a data-toggle="collapse" href="#prior-july-2026">Reimbursement Procedure: Expenses Prior to July 1, 2026</a>
+    </h4>
+  </div>
+  <div id="prior-july-2026" class="panel-collapse collapse">
+    <div class="panel-body" markdown="1">
 
 ### Payee registration (non-MIT affiliate)
 
@@ -101,5 +143,9 @@ Note that the registration process can take up to a month. To make sure you're r
       2.   A proof of payment (screenshot of venmo/zelle payment). The payee on the invoice must match the payee on the proof of payment.
 
 {% endtemplate %}
+
+</div>
+  </div>
+</div>
 
 
