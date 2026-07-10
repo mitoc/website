@@ -19,22 +19,16 @@
 - name: "Canoe Trip: $15"
   price: 15
   category: trip
-- name: "Circus (Student): $15"
-  price: 15
-  category: trip
-- name: "Circus (Non-Student): $25"
-  price: 25
-  category: trip
-- name: "Circus (Discounted Option 1): $5"
-  price: 5
-  category: trip
-- name: "Circus (Discounted Option 2): $10"
-  price: 10
-  category: trip
-- name: "Circus (Discounted Option 3): $20"
+- name: "Circus (Student): $20"
   price: 20
   category: trip
-- name: "Circus (Misc): $30"
+- name: "Circus (Non-Student): $40"
+  price: 40
+  category: trip
+- name: "Circus (Student discounted): $10"
+  price: 10
+  category: trip
+- name: "Circus (Non-Student discounted): $30"
   price: 30
   category: trip
 - name: "Intervale exclusive rental: $250"
