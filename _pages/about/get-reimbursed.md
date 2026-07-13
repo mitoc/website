@@ -35,6 +35,16 @@ Most purchases are made using personal credit cards and then reimbursed. However
 
 Keep your receipts. Do not make cash purchases. For food, reasonable tips can be reimbursed.
 
+<h3 style="font-size: 1.25em">Shipping</h3>
+
+Ship everything to MIT, not a personal address. Use the following address:
+
+SAO MIT Outing Club (MITOC)<br/>
+84 Massachusetts Ave Room W20-500<br/>
+Cambridge, MA 02139
+
+Note that you may also purchase things in-person at a store.
+
 <h3 style="font-size: 1.25em">Sales Tax</h3>
 
 When making purchases for MITOC, never pay sales tax, as it cannot be reimbursed. Instead, use MIT's [ST-2 and ST-5 forms](http://vpf.mit.edu/forms/7/1220) to ask vendors to remove sales tax.
