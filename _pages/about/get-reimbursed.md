@@ -33,7 +33,7 @@ Most purchases are made using personal credit cards and then reimbursed. However
 - **Amazon Orders:** Use Coupa/Buy2Pay.
 - **Travel:** Travel can only be reimbursed after the trip concludes.
 
-Keep your receipts. Do not make cash purchases. For food, reasonable tips can be reimbursed.
+Keep your receipts. Do not make cash purchases. For food, reasonable tips can be reimbursed. Ship everything to MIT, not a personal address.
 
 <h3 style="font-size: 1.25em">Sales Tax</h3>
 
