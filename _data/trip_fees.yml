@@ -7,8 +7,8 @@
 # - name: "Acadia - non-affiliate: $60"
 #   price: 60
 #   category: trip
-- name: "Climbers Open Cabin - June: $15"
-  price: 15
+- name: "Climbers Open Cabin - June: $20"
+  price: 20
   category: trip
 - name: "Paddleboarding Trip: $15"
   price: 15
