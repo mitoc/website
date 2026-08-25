@@ -45,23 +45,34 @@ If the boats were used in saltwater, please rinse them off before returning them
         <td>$1000</td>
         <td>$12</td>
     </tr>
+    <tr>
+        <td>Flatwater kayak (inc. 1 paddle &amp; PFD)</td>
+        <td>$1000</td>
+        <td>$12</td>
+    </tr>
     <tr class="danger">
-        <td>Whitewater canoe (inc. 1 paddle, PFD, helmet)</td>
+        <td>Whitewater canoe (inc. 1 paddle, PFD, &amp; helmet)</td>
         <td>$1000</td>
         <td>$12</td>
         <td>Whitewater chair</td>
     </tr>
     <tr class="danger">
-        <td>Sea kayak (inc. 1 paddle, skirt &amp; PFD)</td>
+        <td>Sea kayak (inc. 1-2 paddles, skirts, PFDs, pumps, &amp; radios)</td>
         <td>$1200</td>
         <td>$18</td>
         <td>Sea kayak chair</td>
     </tr>
     <tr class="danger">
-        <td>Whitewater kayak (inc. 2 floatbags, 1 paddle, PFD, skirt &amp;
-        helmet)</td>
-        <td>$800</td>
+        <td>Whitewater kayak (inc. 2 float bags, 1 paddle, PFD, skirt, &amp; helmet)</td>
+        <td>$1000</td>
         <td>$12</td>
+        <td>Whitewater chair</td>
+    </tr>
+    <tr class="danger">
+        <td>Whitewater raft (inc. 5 paddles, PFDs, helmets, &amp;
+        1 pump)</td>
+        <td>$2000</td>
+        <td>$40</td>
         <td>Whitewater chair</td>
     </tr>
     <tr>
@@ -85,33 +96,23 @@ If the boats were used in saltwater, please rinse them off before returning them
         <td>$2</td>
     </tr>
     <tr>
-        <td>Spray skirt</td>
+        <td>Spray skirt (if rented separately from boat)</td>
         <td>$120</td>
-        <td>$1</td>
-    </tr>
-    <tr>
-        <td>Cushion</td>
-        <td>$20</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Airbag</td>
-        <td>$20</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Old rope</td>
-        <td>$25</td>
-        <td>-</td>
+        <td>$2</td>
     </tr>
     <tr>
         <td>Dry bag</td>
         <td>$100</td>
         <td>$3</td>
     </tr>
+    <tr>
+        <td>Splash/dry wear, wetsuits</td>
+        <td>$100</td>
+        <td>$5</td>
+    </tr>
 </tbody></table>
 
-Two VHF radios, marine flares, and hand bilge pumps are also available with sea kayak rentals. It it your responsibility to ensure that the batteries are charged for the radios (bring spares).
+Two VHF radios, marine flares, and hand bilge pumps are also available with sea kayak rentals. It it your responsibility to ensure that the batteries are charged for the radios (bring spares). Carts are available at no cost to transport canoes or kayaks to the Charles without a car. Bilge pumps, cam straps, float bags, and other gear are also available at nominal cost.
 
 ### Surfing
 
