@@ -19,11 +19,16 @@
 - name: "Canoe Trip: $15"
   price: 15
   category: trip
-- name: "Circus (Student or leader): $15"
+- name: "Camelot Circus (Student or leader): $15"
   price: 15
   category: trip
-- name: "Circus (Non-student, non-leader): $30"
+- name: "Camelot Circus (Non-student, non-leader): $30"
   price: 30
+- name: "Intervale Circus (Student or leader): $10"
+  price: 10
+  category: trip
+- name: "Intervale Circus (Non-student, non-leader): 20"
+  price: 20
   category: trip
 - name: "Intervale exclusive rental: $250"
   price: 250
