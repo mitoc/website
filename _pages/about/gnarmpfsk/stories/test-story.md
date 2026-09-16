@@ -1,5 +1,5 @@
 ---
-    permalink: /about/gnarmfsk/stories/test-story
+    permalink: /about/gnarmpfsk/stories/test-story
     layout: story
     title: Test Story
     author: A. MITOC'er

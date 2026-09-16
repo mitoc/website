@@ -1,16 +1,16 @@
 ---
-    permalink: /about/gnarmfsk/construction
+    permalink: /about/gnarmpfsk/construction
     title: Intervale III & Yurt Construction
-    # Listed on /about/gnarmfsk. Photos live in /images/gnarmfsk/<folder>/ (full size)
-    # and /images/gnarmfsk/<folder>/thumbs/, numbered 01.jpg, 02.jpg, ...
+    # Listed on /about/gnarmpfsk. Photos live in /images/gnarmpfsk/<folder>/ (full size)
+    # and /images/gnarmpfsk/<folder>/thumbs/, numbered 01.jpg, 02.jpg, ...
     date: "1993-09-01"
     date_display: c. 1993
     keywords: [Cabins]
     thumbnails:
-      - /images/gnarmfsk/cabin/thumbs/01.jpg
-      - /images/gnarmfsk/yurt/thumbs/01.jpg
-      - /images/gnarmfsk/cabin/thumbs/17.jpg
-      - /images/gnarmfsk/yurt/thumbs/04.jpg
+      - /images/gnarmpfsk/cabin/thumbs/01.jpg
+      - /images/gnarmpfsk/yurt/thumbs/01.jpg
+      - /images/gnarmpfsk/cabin/thumbs/17.jpg
+      - /images/gnarmpfsk/yurt/thumbs/04.jpg
     albums:
       - title: Intervale III construction
         folder: cabin
@@ -26,7 +26,7 @@
   .construction-photos img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #eee; }
 </style>
 
-<p><a href="/about/gnarmfsk">&larr; Back to GNARMFSK</a></p>
+<p><a href="/about/gnarmpfsk">&larr; Back to GNARMPFSK</a></p>
 
 Photos from the construction of Intervale III in the early 1990s. Click a photo to see it full size.
 
@@ -36,7 +36,7 @@ Photos from the construction of Intervale III in the early 1990s. Click a photo 
   <div class="construction-photos">
     {% for i in (1..album.count) %}
     {% capture n %}{% if i < 10 %}0{% endif %}{{ i }}{% endcapture %}
-    <a href="/images/gnarmfsk/{{ album.folder }}/{{ n }}.jpg" data-lightbox="{{ album.folder }}"><img src="/images/gnarmfsk/{{ album.folder }}/thumbs/{{ n }}.jpg" alt="{{ album.title }}, photo {{ i }}" loading="lazy"></a>
+    <a href="/images/gnarmpfsk/{{ album.folder }}/{{ n }}.jpg" data-lightbox="{{ album.folder }}"><img src="/images/gnarmpfsk/{{ album.folder }}/thumbs/{{ n }}.jpg" alt="{{ album.title }}, photo {{ i }}" loading="lazy"></a>
     {% endfor %}
   </div>
 </div>

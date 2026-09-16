@@ -1,14 +1,14 @@
 ---
-    permalink: /about/gnarmfsk
-    title: GNARMFSK
-    # PDFs are listed in _data/gnarmfsk.yml and hosted in /docs/gnarmfsk/.
-    # Pages under _pages/about/gnarmfsk/ with a `keywords` list (stories, photo galleries)
+    permalink: /about/gnarmpfsk
+    title: GNARMPFSK
+    # PDFs are listed in _data/gnarmpfsk.yml and hosted in /docs/gnarmpfsk/.
+    # Pages under _pages/about/gnarmpfsk/ with a `keywords` list (stories, photo galleries)
     # are listed too.
 ---
 
-GNARMFSK---the sound made by a newly-awoken hiker in a wet sleeping bag on a frosty morning, as they realize that if they are to have any hot chocolate they are going to have to get up and make it themselves---is MITOC's newsletter, dating back to 1955!
+GNARMPFSK---the sound made by a newly-awoken hiker in a wet sleeping bag on a frosty morning, as they realize that if they are to have any hot chocolate they are going to have to get up and make it themselves---is MITOC's newsletter, dating back to 1955!
 
-Here, you can read (a selection of) old GNARMFSK newsletters, as well as more recent stories from current and former MITOC'ers!
+Here, you can read (a selection of) old GNARMPFSK newsletters, as well as more recent stories from current and former MITOC'ers!
 
 For other cool stories, also check out the [Sean A. Collier Adventure Grant](https://mitoc-cag.mit.edu/) or the [trip report archive (1946-2017)](/legacy-gallery/)!
 
@@ -40,8 +40,8 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   .year-range input[type=range]:focus-visible::-moz-range-thumb { box-shadow: 0 0 0 3px rgba(51, 122, 183, 0.4); }
 </style>
 
-{% assign data = site.data.gnarmfsk %}
-{% assign pages = site.pages | where_exp: "p", "p.url contains '/about/gnarmfsk/'" | where_exp: "p", "p.keywords" %}
+{% assign data = site.data.gnarmpfsk %}
+{% assign pages = site.pages | where_exp: "p", "p.url contains '/about/gnarmpfsk/'" | where_exp: "p", "p.keywords" %}
 {% assign docs = data.documents | concat: pages | sort: "date" | reverse %}
 
 <form class="archive-controls form-inline" onsubmit="return false">
@@ -78,7 +78,7 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
 
 <div class="archive-list" id="archive-list">
   {% for doc in docs %}
-  {% if doc.file %}{% assign url = "/docs/gnarmfsk/" | append: doc.file %}{% else %}{% assign url = doc.url %}{% endif %}
+  {% if doc.file %}{% assign url = "/docs/gnarmpfsk/" | append: doc.file %}{% else %}{% assign url = doc.url %}{% endif %}
   <div class="archive-doc col-xs-12 col-md-6" data-date="{{ doc.date }}" data-keywords="{{ doc.keywords | join: '|' }}" data-title="{{ doc.title | escape }}">
     <h4><a href="{{ url }}">{{ doc.title }}</a></h4>
     <div class="archive-meta">
