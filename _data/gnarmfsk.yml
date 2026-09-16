@@ -1,0 +1,61 @@
+# Archive documents shown on /about/gnarmfsk. Files live in /docs/gnarmfsk/.
+#
+# date:         YYYY-MM-DD, used for sorting and the year filter.
+#               For approximate dates, pick a best guess and set date_display.
+# date_display: optional; shown instead of the formatted date (e.g. "c. 1980").
+# keywords:     one or more of the keywords listed below.
+
+keywords:
+  - Stories
+  - GNARMFSK
+  - Winter School
+  - Cabins
+  - Other
+
+documents:
+  - file: gnarmpfsk-1993-06.pdf
+    title: Gnarmpfsk, June 1993
+    date: "1993-06-17"
+    keywords: [GNARMFSK, Cabins]
+
+  - file: gnarmpfsk-1993-winter.pdf
+    title: Gnarmpfsk, Winter 1993
+    date: "1993-01-01"
+    date_display: Winter 1993
+    keywords: [GNARMFSK, Stories, Winter School, Cabins]
+
+  - file: gnarmfsk-1979-10.pdf
+    title: GNARMFSK, October 1979
+    date: "1979-10-04"
+    keywords: [GNARMFSK, Cabins]
+
+  - file: gnarmpfsk-1981-03.pdf
+    title: GNARMPFSK, March 1981
+    date: "1981-03-01"
+    date_display: March 1981
+    keywords: [GNARMFSK, Cabins]
+
+  - file: mitoc-flyer-c1980.pdf
+    title: MIT Outing Club flyer
+    date: "1980-06-01"
+    date_display: c. 1980
+    keywords: [Other]
+
+  - file: mitoc-flyer-1985.pdf
+    title: MIT Outing Club flyer for new students
+    date: "1985-09-01"
+    date_display: Fall 1985
+    keywords: [Cabins]
+
+  - file: winter-school-info.pdf
+    title: Winter Mountaineering School info
+    date: "1981-01-01"
+    date_display: c. 1981
+    keywords: [Winter School]
+
+  - file: winter-school-daytrip-checklist.pdf
+    title: Winter daytrip checklist
+    date: "1981-01-01"
+    date_display: c. 1981
+    keywords: [Winter School]
+
