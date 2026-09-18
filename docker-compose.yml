@@ -7,3 +7,22 @@ services:
       - .:/site
     ports:
       - "4000:4000"
+
+  functions:
+    image: node:18-alpine
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: node docker/functions-server.js
+    env_file:
+      - .env
+
+  proxy:
+    image: nginx:alpine
+    volumes:
+      - ./docker/nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "8888:8888"
+    depends_on:
+      - jekyll
+      - functions
