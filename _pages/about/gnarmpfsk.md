@@ -36,12 +36,21 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   .archive-hits p:last-child { margin-bottom: 0; }
   .archive-hits .archive-hit-where { font-weight: bold; color: #337ab7; }
   .archive-search-status { font-style: italic; }
-  /* Where to search: the documents here, the old photo gallery, or both. */
-  .archive-scope { margin-top: 8px; }
-  .archive-scope-label { display: block; margin-bottom: 2px; font-size: 13px; color: #777; }
-  /* Bootstrap's .btn sets its own display, which would otherwise beat the
-     `hidden` attribute the script uses to show and hide it. */
-  .gallery-results [hidden] { display: none !important; }
+  /* The search box on its own line, with the other filters folded away behind
+     "Advanced search" until they are wanted. */
+  .archive-search-row { display: flex; flex-wrap: wrap; gap: 8px; max-width: 640px; }
+  .archive-search-row input { flex: 1 1 240px; min-width: 0; }
+  #archive-advanced-toggle .badge { margin-left: 2px; background: #337ab7; }
+  /* Bootstrap's .badge and .btn set their own display, which would otherwise
+     beat the `hidden` attribute the script uses to show and hide them. */
+  .archive-controls [hidden], .gallery-results [hidden] { display: none !important; }
+  .archive-advanced { margin-top: 12px; padding: 15px 15px 5px; background: #f7f7f7; border: 1px solid #e3e3e3; border-radius: 4px; }
+  /* On a phone the three "Search in" buttons would wrap apart; keep them one
+     row and let their labels wrap instead. */
+  @media (max-width: 480px) {
+    #archive-scope { display: flex; width: 100%; }
+    #archive-scope .btn { flex: 1 1 0; white-space: normal; }
+  }
   /* Albums from the S3 photo gallery, listed below the documents. */
   .gallery-results { margin: 10px 0 30px; padding-top: 10px; border-top: 1px solid #e5e5e5; }
   .gallery-results.gallery-only { margin-top: 0; padding-top: 0; border-top: 0; }
@@ -79,47 +88,53 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
 {% assign pages = site.pages | where_exp: "p", "p.url contains '/about/gnarmpfsk/'" | where_exp: "p", "p.type" %}
 {% assign docs = data.documents | concat: pages | sort: "date" | reverse %}
 
-<form class="archive-controls form-inline" onsubmit="return false">
-  <div class="form-group">
-    <label for="archive-search">Search <small class="text-muted">(inside the scans too)</small></label><br>
+<form class="archive-controls" onsubmit="return false">
+  <label for="archive-search">Search <small class="text-muted">(inside the scans too)</small></label>
+  <div class="archive-search-row">
     <input type="search" id="archive-search" class="form-control" placeholder="Intervale, hearse, Katahdin&hellip;" autocomplete="off">
-    <div class="archive-scope">
-      <span class="archive-scope-label" id="archive-scope-label">Search in <small>(the <a href="/legacy-gallery/">photo gallery</a> has 3,418 albums, 2004&ndash;2017)</small></span>
-      <div class="btn-group btn-group-sm" role="group" aria-labelledby="archive-scope-label" id="archive-scope">
+    <button type="button" class="btn btn-default" id="archive-advanced-toggle" aria-expanded="false" aria-controls="archive-advanced">
+      Advanced search <span class="badge" id="archive-advanced-count" hidden></span> <span class="caret"></span>
+    </button>
+  </div>
+  {% comment %}Where to search, type, years and sort: folded away until asked for.{% endcomment %}
+  <div class="archive-advanced form-inline" id="archive-advanced" hidden>
+    <div class="form-group">
+      <label id="archive-scope-label">Search in <small class="text-muted">(the <a href="/legacy-gallery/">photo gallery</a> has 3,418 albums, 2004&ndash;2017)</small></label><br>
+      <div class="btn-group" role="group" aria-labelledby="archive-scope-label" id="archive-scope">
         <button type="button" class="btn btn-default active" data-scope="archive" aria-pressed="true">Newsletters &amp; stories</button>
         <button type="button" class="btn btn-default" data-scope="both" aria-pressed="false">Both</button>
         <button type="button" class="btn btn-default" data-scope="gallery" aria-pressed="false">Photo gallery</button>
       </div>
     </div>
-  </div>
-  <div class="form-group">
-    <label>Type <small class="text-muted">(pick one)</small></label><br>
-    <div class="archive-types" role="group" id="archive-types">
-      <button type="button" class="btn btn-default active" data-type="" aria-pressed="true">All</button>
-      {% for type in data.types %}
-      <button type="button" class="btn btn-default" data-type="{{ type }}" aria-pressed="false">{{ type }}</button>
-      {% endfor %}
+    <div class="form-group">
+      <label>Type <small class="text-muted">(pick one)</small></label><br>
+      <div class="archive-types" role="group" id="archive-types">
+        <button type="button" class="btn btn-default active" data-type="" aria-pressed="true">All</button>
+        {% for type in data.types %}
+        <button type="button" class="btn btn-default" data-type="{{ type }}" aria-pressed="false">{{ type }}</button>
+        {% endfor %}
+      </div>
     </div>
-  </div>
-  {% assign dated = docs | where_exp: "d", "d.date" %}
-  {% assign first_year = dated.last.date | slice: 0, 4 %}
-  {% assign last_year = dated.first.date | slice: 0, 4 %}
-  <div class="form-group">
-    <label id="archive-years-label">Years: <span id="archive-years-value">{{ first_year }}–{{ last_year }}</span></label><br>
-    <div class="year-hist" id="archive-year-hist" aria-hidden="true"></div>
-    <div class="year-range">
-      <div class="year-range-track"><div class="year-range-fill" id="archive-years-fill"></div></div>
-      <input type="range" id="archive-year-from" min="{{ first_year }}" max="{{ last_year }}" step="1" value="{{ first_year }}" aria-label="From year">
-      <input type="range" id="archive-year-to" min="{{ first_year }}" max="{{ last_year }}" step="1" value="{{ last_year }}" aria-label="To year">
+    {% assign dated = docs | where_exp: "d", "d.date" %}
+    {% assign first_year = dated.last.date | slice: 0, 4 %}
+    {% assign last_year = dated.first.date | slice: 0, 4 %}
+    <div class="form-group">
+      <label id="archive-years-label">Years: <span id="archive-years-value">{{ first_year }}–{{ last_year }}</span></label><br>
+      <div class="year-hist" id="archive-year-hist" aria-hidden="true"></div>
+      <div class="year-range">
+        <div class="year-range-track"><div class="year-range-fill" id="archive-years-fill"></div></div>
+        <input type="range" id="archive-year-from" min="{{ first_year }}" max="{{ last_year }}" step="1" value="{{ first_year }}" aria-label="From year">
+        <input type="range" id="archive-year-to" min="{{ first_year }}" max="{{ last_year }}" step="1" value="{{ last_year }}" aria-label="To year">
+      </div>
     </div>
-  </div>
-  <div class="form-group">
-    <label for="archive-sort">Sort by</label><br>
-    <select id="archive-sort" class="form-control">
-      <option value="date-desc">Date (newest first)</option>
-      <option value="date-asc">Date (oldest first)</option>
-      <option value="type">Type (A–Z)</option>
-    </select>
+    <div class="form-group">
+      <label for="archive-sort">Sort by</label><br>
+      <select id="archive-sort" class="form-control">
+        <option value="date-desc">Date (newest first)</option>
+        <option value="date-asc">Date (oldest first)</option>
+        <option value="type">Type (A–Z)</option>
+      </select>
+    </div>
   </div>
 </form>
 
@@ -379,6 +394,15 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   // no thumbnails, only full-size photos, so its results are text cards that
   // link out to the album and photo pages.
   var scopeButtons = document.querySelectorAll('#archive-scope .btn');
+  var advancedToggle = document.getElementById('archive-advanced-toggle');
+  var advancedPanel = document.getElementById('archive-advanced');
+  var advancedCount = document.getElementById('archive-advanced-count');
+  advancedToggle.addEventListener('click', function () {
+    var open = advancedPanel.hidden;
+    advancedPanel.hidden = !open;
+    advancedToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    advancedToggle.classList.toggle('active', open);
+  });
   var galleryBox = document.getElementById('gallery-results');
   var galleryList = document.getElementById('gallery-list');
   var galleryCount = document.getElementById('gallery-count');
@@ -551,6 +575,13 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     fill.style.right = (maxYear - to) / span * 100 + '%';
     document.getElementById('archive-years-value').textContent = from === to ? from : from + '–' + to;
     var sort = sortSelect.value;
+    // With the advanced options folded away, the button says how many of them
+    // are doing something, so a remembered "Photo gallery" or a narrowed year
+    // range never quietly hides documents.
+    var changed = (scope !== 'archive') + !!selected + (from !== minYear || to !== maxYear) + (sort !== 'date-desc');
+    advancedCount.textContent = changed;
+    advancedCount.hidden = !changed;
+    advancedCount.title = changed === 1 ? '1 option changed' : changed + ' options changed';
     // Searching the gallery alone: the documents step aside, giving back their
     // viewers, and the histogram counts albums instead.
     var galleryOnly = scope === 'gallery';
