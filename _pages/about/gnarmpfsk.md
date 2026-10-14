@@ -36,6 +36,17 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   .archive-hits p:last-child { margin-bottom: 0; }
   .archive-hits .archive-hit-where { font-weight: bold; color: #337ab7; }
   .archive-search-status { font-style: italic; }
+  /* Where to search: the documents here, the old photo gallery, or both. */
+  .archive-scope { margin-top: 8px; }
+  .archive-scope-label { display: block; margin-bottom: 2px; font-size: 13px; color: #777; }
+  /* Bootstrap's .btn sets its own display, which would otherwise beat the
+     `hidden` attribute the script uses to show and hide it. */
+  .gallery-results [hidden] { display: none !important; }
+  /* Albums from the S3 photo gallery, listed below the documents. */
+  .gallery-results { margin: 10px 0 30px; padding-top: 10px; border-top: 1px solid #e5e5e5; }
+  .gallery-results.gallery-only { margin-top: 0; padding-top: 0; border-top: 0; }
+  .gallery-results .archive-hits a { color: inherit; }
+  .gallery-path { display: block; margin-top: 2px; font-size: 13px; }
   mark { padding: 0; background: #fff3a3; }
   .archive-article { display: block; margin-bottom: 8px; }
   .archive-note { margin: 4px 0 0; }
@@ -72,6 +83,14 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   <div class="form-group">
     <label for="archive-search">Search <small class="text-muted">(inside the scans too)</small></label><br>
     <input type="search" id="archive-search" class="form-control" placeholder="Intervale, hearse, Katahdin&hellip;" autocomplete="off">
+    <div class="archive-scope">
+      <span class="archive-scope-label" id="archive-scope-label">Search in <small>(the <a href="/legacy-gallery/">photo gallery</a> has 3,418 albums, 2004&ndash;2017)</small></span>
+      <div class="btn-group btn-group-sm" role="group" aria-labelledby="archive-scope-label" id="archive-scope">
+        <button type="button" class="btn btn-default active" data-scope="archive" aria-pressed="true">Newsletters &amp; stories</button>
+        <button type="button" class="btn btn-default" data-scope="both" aria-pressed="false">Both</button>
+        <button type="button" class="btn btn-default" data-scope="gallery" aria-pressed="false">Photo gallery</button>
+      </div>
+    </div>
   </div>
   <div class="form-group">
     <label>Type <small class="text-muted">(pick one)</small></label><br>
@@ -175,6 +194,17 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
 </div>
 
 <p id="archive-empty" class="text-muted" style="display: none">No documents match these filters.</p>
+
+{% comment %}
+  Albums from the old photo gallery on S3, filled in by the script below from
+  search/gallery-index.json when "Search in" is set to Both or Photo gallery.
+{% endcomment %}
+<div id="gallery-results" class="gallery-results" hidden>
+  <h3>From the photo gallery</h3>
+  <p id="gallery-count" class="text-muted archive-search-status"></p>
+  <div class="archive-list" id="gallery-list"></div>
+  <button type="button" class="btn btn-default" id="gallery-more" hidden>Show more albums</button>
+</div>
 
 <script>
 (function () {
@@ -342,6 +372,138 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     box.hidden = false;
   }
 
+  // The old photo gallery (mitoc-gallery on S3) is searched only when "Search
+  // in" asks for it. Its albums live in search/gallery-index.json -- title, place in
+  // the album tree, description and photo captions -- which is several
+  // megabytes, so it too is fetched only on first use. The gallery itself has
+  // no thumbnails, only full-size photos, so its results are text cards that
+  // link out to the album and photo pages.
+  var scopeButtons = document.querySelectorAll('#archive-scope .btn');
+  var galleryBox = document.getElementById('gallery-results');
+  var galleryList = document.getElementById('gallery-list');
+  var galleryCount = document.getElementById('gallery-count');
+  var galleryMore = document.getElementById('gallery-more');
+  var GALLERY_PAGE = 20;
+  var gallery = null, galleryState = 'idle', galleryShown = GALLERY_PAGE, galleryKey = '';
+
+  // 'archive' (the documents on this page), 'both', or 'gallery'.
+  var scope = 'archive';
+  try {
+    var savedScope = localStorage.getItem('gnarmpfsk-scope');
+    if (savedScope === 'both' || savedScope === 'gallery') scope = savedScope;
+  } catch (e) {}
+
+  function setScope(s) {
+    scope = s;
+    Array.prototype.forEach.call(scopeButtons, function (b) {
+      var on = b.getAttribute('data-scope') === scope;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    // Gallery albums have no type, so the type buttons mean nothing on their own.
+    Array.prototype.forEach.call(buttons, function (b) { b.disabled = scope === 'gallery'; });
+  }
+  setScope(scope);
+
+  function loadGallery() {
+    galleryState = 'loading';
+    fetch('/search/gallery-index.json')
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (json) {
+        gallery = json;
+        json.albums.forEach(function (a) {
+          // What the album's own words match on, and what its captions match on,
+          // are kept apart so a card can say where the search was found.
+          a.own = [a.t, a.p, a.d].join(' ').toLowerCase();
+          a.caps = (a.x || []).map(function (c) { return c[1].toLowerCase(); });
+        });
+        galleryState = 'ready';
+        update();
+      })
+      .catch(function () { galleryState = 'failed'; update(); });
+  }
+
+  function escapeAttr(s) { return escapeHtml(s).replace(/"/g, '&quot;'); }
+  function galleryUrl(id) { return /^\d+$/.test(id) ? gallery.base + id + '.html' : '#'; }
+
+  function galleryCard(a, query) {
+    var card = '<div class="archive-doc col-xs-12 col-md-6">' +
+      '<h4><a href="' + escapeAttr(galleryUrl(a.i)) + '" target="_blank" rel="noopener">' + escapeHtml(a.t) + '</a></h4>' +
+      '<div class="archive-meta">' + (a.y ? escapeHtml(a.y) : 'Undated') +
+      ' <span class="label label-default">Photo gallery</span>' +
+      (a.p ? '<small class="gallery-path">in ' + escapeHtml(a.p) + '</small>' : '') + '</div>';
+    var hits = [];
+    if (a.d && a.d.toLowerCase().indexOf(query) >= 0) {
+      hits.push('<p>' + snippet(a.d, query) + '</p>');
+    }
+    var capHits = [];
+    for (var i = 0; i < a.caps.length; i++) {
+      if (a.caps[i].indexOf(query) >= 0) capHits.push(i);
+    }
+    capHits.slice(0, 3).forEach(function (i) {
+      hits.push('<p><a href="' + escapeAttr(galleryUrl(a.x[i][0])) + '" target="_blank" rel="noopener">' +
+        snippet(a.x[i][1], query) + '</a></p>');
+    });
+    if (capHits.length) {
+      hits.unshift('<p class="archive-hit-where">' + (capHits.length === 1 ? 'Found in a photo caption'
+        : 'Found in ' + capHits.length + ' photo captions') + '</p>');
+    }
+    if (hits.length) card += '<div class="archive-hits">' + hits.join('') + '</div>';
+    if (a.d && !hits.length) card += '<p class="archive-excerpt">' + escapeHtml(a.d.length > 300 ? a.d.slice(0, 300).replace(/\s\S*$/, '') + '…' : a.d) + '</p>';
+    card += '<a href="' + escapeAttr(galleryUrl(a.i)) + '" target="_blank" rel="noopener">' +
+      (a.n ? 'View all ' + a.n + (a.n === 1 ? ' photo' : ' photos') : 'Open the album') + ' &rarr;</a></div>';
+    return card;
+  }
+
+  function matchesQuery(a, query) {
+    if (!query || a.own.indexOf(query) >= 0) return true;
+    for (var i = 0; i < a.caps.length; i++) { if (a.caps[i].indexOf(query) >= 0) return true; }
+    return false;
+  }
+
+  // Lists the albums for the current search and returns how many match in
+  // each year (ignoring the year range), for the histogram -- or null when
+  // the gallery is not being searched or has not arrived yet.
+  function updateGallery(query, from, to, sort) {
+    var only = scope === 'gallery';
+    galleryBox.hidden = scope === 'archive';
+    galleryBox.classList.toggle('gallery-only', only);
+    galleryList.innerHTML = '';
+    galleryMore.hidden = true;
+    if (scope === 'archive') return null;
+    // Alongside the documents, the gallery waits for a search rather than
+    // piling all its albums underneath. On its own, an empty search browses it.
+    if (!query && !only) { galleryCount.textContent = 'Type a search above to look through the photo gallery too.'; return null; }
+    if (selected && !only) { galleryCount.textContent = 'Gallery albums are listed only when Type is set to All.'; return null; }
+    if (galleryState === 'idle') loadGallery();
+    if (galleryState === 'loading') { galleryCount.textContent = 'Loading the photo gallery…'; return null; }
+    if (galleryState === 'failed') { galleryCount.textContent = 'The photo gallery could not be searched just now.'; return null; }
+    var whole = from === minYear && to === maxYear;
+    var counts = {};
+    var found = gallery.albums.filter(function (a) {
+      if (!matchesQuery(a, query)) return false;
+      if (a.y) counts[a.y] = (counts[a.y] || 0) + 1;
+      return a.y ? +a.y >= from && +a.y <= to : whole;
+    });
+    // Same order as the documents above: by year, then by when the album was made.
+    found.sort(function (a, b) {
+      var ka = (a.y || '') + (a.c || ''), kb = (b.y || '') + (b.c || '');
+      if (!a.y || !b.y) return !a.y - !b.y;
+      return sort === 'date-asc' ? ka.localeCompare(kb) : kb.localeCompare(ka);
+    });
+    // A new search starts again from the first page of albums.
+    var key = [query, from, to, sort].join('|');
+    if (key !== galleryKey) { galleryKey = key; galleryShown = GALLERY_PAGE; }
+    galleryList.innerHTML = found.slice(0, galleryShown).map(function (a) { return galleryCard(a, query); }).join('');
+    galleryMore.hidden = found.length <= galleryShown;
+    var more = found.length > galleryShown ? ', showing the first ' + galleryShown + '.' : '.';
+    galleryCount.textContent = !found.length ? 'No gallery albums match.'
+      : !query ? found.length + ' albums' + more
+      : found.length === 1 ? '1 gallery album matches.'
+      : found.length + ' gallery albums match' + more;
+    return counts;
+  }
+
   function typeOf(el) { return el.getAttribute('data-type') || ''; }
   function matchesType(el) { return !selected || typeOf(el) === selected; }
   // Undated documents (empty data-date) always sort last.
@@ -366,7 +528,8 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     return bars;
   }());
 
-  function drawHist(counts, from, to) {
+  function drawHist(counts, from, to, noun) {
+    noun = noun || 'document';
     var most = 0;
     for (var y in counts) { if (counts[y] > most) most = counts[y]; }
     for (var year = minYear; year <= maxYear; year++) {
@@ -375,7 +538,7 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
       var n = counts[year] || 0;
       bar.style.height = most ? Math.round(n / most * 100) + '%' : '0';
       bar.classList.toggle('in-range', year >= from && year <= to);
-      bar.title = n === 1 ? year + ': 1 document' : year + ': ' + n + ' documents';
+      bar.title = year + ': ' + n + ' ' + noun + (n === 1 ? '' : 's');
     }
   }
 
@@ -388,6 +551,18 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     fill.style.right = (maxYear - to) / span * 100 + '%';
     document.getElementById('archive-years-value').textContent = from === to ? from : from + '–' + to;
     var sort = sortSelect.value;
+    // Searching the gallery alone: the documents step aside, giving back their
+    // viewers, and the histogram counts albums instead.
+    var galleryOnly = scope === 'gallery';
+    list.style.display = galleryOnly ? 'none' : '';
+    document.getElementById('archive-count').hidden = galleryOnly;
+    if (galleryOnly) {
+      live.slice().forEach(unmount);
+      document.getElementById('archive-empty').style.display = 'none';
+      note.hidden = true;
+      drawHist(updateGallery(query, from, to, sort) || {}, from, to, 'album');
+      return;
+    }
     var sorted = docs.slice().sort(function (a, b) {
       if (sort === 'date-asc') {
         if (!a.getAttribute('data-date') || !b.getAttribute('data-date')) return byDateDesc(a, b);
@@ -443,6 +618,7 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
       : inText + ' of these were found by the text inside the scans, not their titles.';
     note.textContent = message;
     note.hidden = !message;
+    updateGallery(query, from, to, sort);
   }
 
   Array.prototype.forEach.call(buttons, function (btn) {
@@ -474,6 +650,17 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   yearTo.addEventListener('pointerdown', function () { yearTo.style.zIndex = 2; yearFrom.style.zIndex = 1; });
   update();
   sortSelect.addEventListener('change', update);
+  Array.prototype.forEach.call(scopeButtons, function (btn) {
+    btn.addEventListener('click', function () {
+      setScope(btn.getAttribute('data-scope'));
+      try { localStorage.setItem('gnarmpfsk-scope', scope); } catch (e) {}
+      update();
+    });
+  });
+  galleryMore.addEventListener('click', function () {
+    galleryShown += GALLERY_PAGE;
+    update();
+  });
   // Typing scans every OCR'd page, so wait for a pause rather than running on
   // each keystroke.
   var typing = null;
