@@ -1,0 +1,1875 @@
+# Archive documents shown on /about/gnarmpfsk.
+#
+# drive:        Google Drive file ID (the part after /file/d/ in its link). The
+#               file must be shared as "Anyone with the link can view".
+# date:         YYYY-MM-DD, used for sorting and the year filter. Leave it out
+#               for undated documents; they are listed last.
+#               For approximate dates, pick a best guess and set date_display.
+# date_display: optional; shown instead of the formatted date (e.g. "c. 1980").
+# type:         exactly one of the types listed below.
+#
+# External articles use `link` instead of `drive`, plus `image` (a resized copy
+# saved in /images/gnarmpfsk/articles/), `source` (the publication), `summary`,
+# and optionally `author` and `note` (a caveat shown under the link, e.g. when
+# the link goes to a whole issue rather than the article itself).
+#
+# Articles we transcribed ourselves are not listed here at all: they are pages
+# under _pages/about/gnarmpfsk/articles/ and the listing picks them up from
+# their own front matter. See /about/gnarmpfsk/tech-archive for the full index
+# of Tech issues that mention the club.
+
+types:
+  - GNARMPFSK
+  - News article
+  - Stories
+  - Other
+documents:
+  - link: https://news.mit.edu/2021/climbing-new-heights-school-of-rock-mit-outing-club-1208
+    title: "Climbing new heights across New England"
+    source: MIT News
+    author: Stephanie Tran, Division of Student Life
+    date: "2021-12-08"
+    image: /images/gnarmpfsk/articles/mit-news-2021-school-of-rock.jpg
+    summary: "Since 2014, MIT Outing Club members — new and advanced outdoor enthusiasts — come together for School of Rock, a program teaching and advancing outdoor rock-climbing skills."
+    type: "News article"
+
+
+  - link: https://thetech.com/2017/03/23/mit-hosts-summit
+    title: "Reaching for the SumMIT"
+    source: The Tech
+    author: Catherine Yun
+    date: "2017-03-23"
+    image: /images/gnarmpfsk/articles/the-tech-2017-summit.jpg
+    summary: "Seventy-five climbers competed in MITOC's annual bouldering competition, across recreational, intermediate and advanced divisions for men and women. After four years at off-campus gyms the organizers brought SumMIT home to the Walker Memorial wall, replacing old t-nuts, cleaning every hold and buying new volumes to get it competition-ready."
+    type: "News article"
+
+
+  - drive: 1hFJsDXxrAqdx4MkCOlJTHZnNj3kVEJSi
+    title: "GNARMPFSK, alumni newsletter, Winter School 2017 and Gardner Perry III obituary"
+    date: "2017-03-15"
+    date_display: March 2017
+    type: GNARMPFSK
+
+  - drive: 1Fv4iFkGY7Z2XAX0GfapYDQiYMqRasDTW
+    title: "GNARMPFSK, alumni newsletter, Collier Adventure Grant and expedition spotlights"
+    date: "2016-02-15"
+    date_display: February 2016
+    type: GNARMPFSK
+
+  - drive: 1Wn0BYgNZoNIt-TGuvVloXWv-FpiBl7iJ
+    title: "GNARMPFSK, alumni newsletter, activity spotlights"
+    date: "2015-06-15"
+    date_display: June 2015
+    type: GNARMPFSK
+
+  - drive: 18_DQ4UGfZ_jKf5DpN8gQ_OMdpwP3q3Dv
+    title: "GNARMPFSK, alumni newsletter revived after years of hibernation"
+    date: "2015-01-15"
+    date_display: January 2015
+    type: GNARMPFSK
+
+  - link: https://thetech.com/2013/04/23/memorials-v133-n20
+    title: "MIT remembers Officer Sean Collier"
+    source: The Tech
+    author: Greg Steinbrecher
+    date: "2013-04-23"
+    summary: "Officer Sean Collier, killed on campus on April 18, 2013, was a member of the Outing Club. Police Chief John DiFava listed the club among his involvements, alongside the department's IT operations and a local homeless shelter. Michele Pratusevich '13, who became friends with him through the club, set up a place for people to share memories of him; it had taken more than 170 within days."
+    type: "News article"
+
+
+  - link: https://thetech.com/2009/10/09/running-v129-n43
+    title: "MIT Outing Club Wins 19-Mile Relay Race, Ignores Relay Aspect"
+    source: The Tech
+    author: Eric Gilbertson
+    date: "2009-10-09"
+    image: /images/gnarmpfsk/articles/the-tech-2009-relay-race.jpg
+    summary: "The Crazy Alpine Beavers won the 4th annual intercollegiate Presidential Range Relay Race in 4 hours 32 minutes, more than half an hour ahead of the next of thirteen teams. Every other team ran it as a three-by-six-mile relay; the Beavers covered all 19 miles without a single exchange. Bad weather moved the course to Franconia Ridge, where 40 mph winds, rain and snow met the runners."
+    type: "News article"
+
+
+  - drive: 1MGGqJEXeRAVfmmh5z6AfoEHUrfeuThW9
+    title: "MIT Outing Club recruiting flyer"
+    date: "2000-06-01"
+    date_display: c. 2000
+    type: Other
+
+
+  - drive: 1nekgT1o1wy2BfubHuauiRd-bWXEpn4lT
+    title: "Gnarmpfsk, June 17, 1993"
+    date: "1993-06-17"
+    type: GNARMPFSK
+
+
+  - drive: 1_SbFJYJB7pvj2bXjGgYP1f9IG9d2YbLF
+    title: "Gnarmpfsk, Winter 1993"
+    date: "1993-01-15"
+    date_display: Winter 1993
+    type: GNARMPFSK
+
+
+  - drive: 16CB8sKgBpgW89Ec1iyp7Pjcx4vOe8qj1
+    title: "GNARMFSK, September 27, 1989"
+    date: "1989-09-27"
+    type: GNARMPFSK
+
+
+  - drive: 1pRAFGapCuYCUZzIzjtjiHwE2YMBO20Vi
+    title: "GNARMFSK, May 15, 1989"
+    date: "1989-05-15"
+    type: GNARMPFSK
+
+
+  - drive: 160-8HehZqsMQuykMrql4Ka4sJUWDJ67W
+    title: "GNARMPFSK, c. March 1988 (hand-labelled 1983)"
+    date: "1988-03-15"
+    date_display: c. March 1988
+    type: GNARMPFSK
+
+
+  - drive: 1mqw30jkV-5rfaKpnkf82vHl9RbOCcdp2
+    title: "GNARMPFSK, October 2, 1986 — Vol. 87 No. 0.9"
+    date: "1986-10-02"
+    type: GNARMPFSK
+
+
+  - drive: 1ntB8ioFNKWrWF55M8SmcnoUdLLLZ9z6S
+    title: "General Meeting flyer"
+    date: "1986-09-15"
+    type: Other
+
+
+  - drive: 1PsrVf1BdjR7o5yWEkQdUh-CjFy5t4AgM
+    title: "GNARMPFSK, April 1986 — Vol. 86 No. 1"
+    date: "1986-04-15"
+    date_display: April 1986
+    type: GNARMPFSK
+
+
+  - drive: 1yy_EjmODV_r8-zz02dGkNZgGeEIh_B3u
+    title: "MIT Outing Club flyer for new students"
+    date: "1985-09-15"
+    date_display: Fall 1985
+    type: Other
+
+
+  - drive: 1ALlfVEUVoWZjDUHAZJf86Q9O53tlUB9O
+    title: "GNARMPFSK, May 12, 1984 — Summer Issue"
+    date: "1984-05-12"
+    type: GNARMPFSK
+
+
+  - drive: 1nFwlXfZmW0txYswZ3iL1gXFlNwyl5RhI
+    title: "GNARMPFSK, March 29, 1984 — Spring Issue"
+    date: "1984-03-29"
+    type: GNARMPFSK
+
+
+  - drive: 1ldCJXsV1wD5CmdnjDPUJz3H9q52w9SXI
+    title: "GNARMPFSK, March 15, 1984"
+    date: "1984-03-15"
+    type: GNARMPFSK
+
+
+  - drive: 1LLEMIQYGFohjrybuRd4npxzdmkQw6bX5
+    title: "Annual Meeting flyer"
+    date: "1984-03-12"
+    type: Other
+
+
+  - drive: 11Ub6mAzoaSVSzwkaCcmfBXn_gzX6EDJm
+    title: "GNARMPFSK, November 20, 1983 — Holiday Issue"
+    date: "1983-11-20"
+    type: GNARMPFSK
+
+
+  - drive: 1OMSLdlL259UZZ9W3oGgiQ41P_rTkZsFS
+    title: "GNARMPFSK, October 13, 1983 — James G. Watt Memorial Issue"
+    date: "1983-10-13"
+    type: GNARMPFSK
+
+
+  - drive: 1kSWnlWmfpVGyPOqx22MhyQkYYrJOByvM
+    title: "GNARMPFSK, May 12, 1983 — Summer Issue"
+    date: "1983-05-12"
+    type: GNARMPFSK
+
+
+  - drive: 1vYArHBXL-3W4l3tNYc244snrOnSYDFQe
+    title: "Letter from James Bjorken on the GNARMPFSK name"
+    date: "1983-04-29"
+    type: Other
+
+
+  - drive: 1jHMD63oTUBrYrbyT1qYLEMUaCBjkB6HN
+    title: "Technology Review article on MITOC"
+    date: "1983-04-15"
+    date_display: c. April 1983
+    type: "News article"
+
+
+  - drive: 1oS5mEIzXPsmxj_a2qVTD6w6E5lc8aDgz
+    title: "GNARMPFSK, March 9, 1983 — Spring Issue"
+    date: "1983-03-09"
+    type: GNARMPFSK
+
+
+  - drive: 1jtEa8G0Zr5L8w8k-DVcC6Wj26m4z7QA-
+    title: "GNARMPFSK, December 6, 1982 — Winter Issue"
+    date: "1982-12-06"
+    type: GNARMPFSK
+
+
+  - drive: 19sAwVN51hoNaFw-N6HRsfuUgOmKJXuOL
+    title: "GNARMPFSK, October 18, 1982 — October Issue (page 1 only)"
+    date: "1982-10-18"
+    type: GNARMPFSK
+
+
+  - drive: 1wASkM_ISthhH3L-Png1Oq4e7O0cvmP7G
+    title: "GNARMPFSK, May 10, 1982 — Final Issue"
+    date: "1982-05-10"
+    type: GNARMPFSK
+
+
+  - drive: 1Gh3iVrQxwTHMB3KZrJVwELjSNC17baNy
+    title: "GNARMPFSK, March 17, 1982 — Spring Issue"
+    date: "1982-03-17"
+    type: GNARMPFSK
+
+
+  - drive: 1b2VJLy4ASKPjbOSSHGk09dHQiIReCUtg
+    title: "GNARMPFSK, November 1, 1981 — Fall Issue"
+    date: "1981-11-01"
+    type: GNARMPFSK
+
+
+  - drive: 1DZET2BxwQD8iGyPlSd6Uh0ce2jFCXUUZ
+    title: "GNARMPFSK, March 1981"
+    date: "1981-03-15"
+    date_display: March 1981
+    type: GNARMPFSK
+
+
+  - drive: 1_-jPGcc-UYJkQAq1JXRHQLRBhYpD8NnX
+    title: "MIT Outing Club flyer"
+    date: "1980-06-01"
+    date_display: c. 1980
+    type: Other
+
+
+  - drive: 1ESwABYjqUeFogBNAKNNJwU7aFbwTYJe4
+    title: "GNARMPFSK, March 13, 1980 — Elections Monday"
+    date: "1980-03-13"
+    type: GNARMPFSK
+
+
+  - drive: 1V11a3-D0NXEF2bJmmAV_zz6zz6jNfQj7
+    title: "What You Mean GNARMPFSK, February 7, 1980 — No. 4"
+    date: "1980-02-07"
+    type: GNARMPFSK
+
+
+  - drive: 1RX2L2P6fae60pIPc4Ai0EEsHdO6vGGgo
+    title: "GNARMFSK, October 4, 1979 — Vol. 2"
+    date: "1979-10-04"
+    type: GNARMPFSK
+
+
+  - drive: 1Wt6c5Otqqj1JR8cxqRdeSY4l64C7t1QG
+    title: "GNARMPFSK, September 5, 1974 — Back to School Issue"
+    date: "1974-09-05"
+    type: GNARMPFSK
+
+
+  - drive: 1QGF5f4uzSsbrVaHO3WKNQsmebxRe2n17
+    title: "Second Biannual Infamous Mattawamkeag Trip, draft"
+    date: "1974-05-15"
+    date_display: May 1974
+    type: Stories
+
+
+  - drive: 1f0jHSsNYvUs70-ODbvCUG6Yu3zM3995m
+    title: "GNARMPFSK, October 1973"
+    date: "1973-10-15"
+    date_display: October 1973
+    type: GNARMPFSK
+
+
+  - drive: 19X_C6v1JGgBYk9otic3scbJ0a4VNLzCa
+    title: "Presidential Weekend trip to Whitehorse, John Hollerbach"
+    date: "1973-06-01"
+    date_display: c. 1973
+    type: Stories
+
+
+  - drive: 1pOiVyAvcPAQvmtQ6ili5UBxaOD_KLVAA
+    title: "GNARMPFSK, May 1973"
+    date: "1973-05-15"
+    date_display: May 1973
+    type: GNARMPFSK
+
+
+  - drive: 1_p2PHhdHKUU4TKSSSDcWeNFKGc2UqJmn
+    title: "GNARMPFSK, April 1973"
+    date: "1973-04-15"
+    date_display: April 1973
+    type: GNARMPFSK
+
+
+  - drive: 1l1zqFB8GsDXJa4IRC5pbMj_J0stLckGO
+    title: "GNARMPFSK, January 1973"
+    date: "1973-01-15"
+    date_display: January 1973
+    type: GNARMPFSK
+
+
+  - drive: 1CeM6Y19Ui3nqpRCZKQKjCc6jHEeDnUwy
+    title: "GNARMPFSK, November 1972"
+    date: "1972-11-15"
+    date_display: November 1972
+    type: GNARMPFSK
+
+
+  - drive: 1uw1iHG6679Vnc4hIXTq7-MUyHuZ82UWA
+    title: "GNARMPFSK, November 11, 1971"
+    date: "1971-11-11"
+    type: GNARMPFSK
+
+
+  - drive: 18XXfvvqRUSZTxbK5TdOfeBgpVBazNkfF
+    title: "GNARMPFSK, March 12, 1971"
+    date: "1971-03-12"
+    type: GNARMPFSK
+
+
+  - drive: 1cSRPHz5ic9rqNMwdw0DUKobBhdP4rwLs
+    title: "GNARMPFSK, Issue 1 No. 1, edited by C. Hatvany"
+    date: "1968-04-01"
+    date_display: Spring 1968
+    type: GNARMPFSK
+
+  - drive: 1ajjvBiEfkcUD2Uzqfv2sqOjvEF5HN2Nj
+    title: "GNARMPFSK, Fall 1967 to Spring 1968, A Little Bit of Everything"
+    date: "1968-03-01"
+    date_display: Fall 1967 to Spring 1968
+    type: GNARMPFSK
+
+  - drive: 1ZhZt067LGAiyn3W9FCcIFrJe4wsbRiYS
+    title: "GNARMPFSK, with An Introduction to MITOC"
+    date: "1967-10-26"
+    type: GNARMPFSK
+
+  - drive: 1xfF5LPnLKkyhBbT1OyGZWziYL_soCI1o
+    title: "GNARMPFSK, Pony Express"
+    date: "1967-04-02"
+    type: GNARMPFSK
+
+  - drive: 13Qhc9AdOv8hMvwwlV_XNdDvbsBBGHa9g
+    title: "GNARMPFSK, Volume 30"
+    date: "1967-03-13"
+    type: GNARMPFSK
+
+  - drive: 1k7aLD4AtKbJUyDH593gScsi53LNNY9Z2
+    title: "GNARMPFSK, Midway Edition, edited by Bill Mann"
+    date: "1966-09-15"
+    date_display: September 1966
+    type: GNARMPFSK
+
+  - drive: 18MT8PR5NqcBgE61UK7BLMTBANKWgHkdq
+    title: "GNARMPFSK, Quincy Quarries beginners climb"
+    date: "1966-05-15"
+    date_display: c. May 1966
+    type: GNARMPFSK
+
+  - drive: 1U_Vzp-tT-RDn2SC35rWaS34hxJ_jQrl1
+    title: "Mount Katahdin IOCA Winter Mountaineering Trip flyer"
+    date: "1965-11-15"
+    date_display: c. November 1965
+    type: Other
+
+
+  - drive: 1Z4YltS6S6zL9hcKvZJjzVOOPxQ_fN3Jp
+    title: "GNARMPFSK, special Circus issue"
+    date: "1964-10-13"
+    type: GNARMPFSK
+
+  - drive: 1THvrsN1-82TBs4DQG6fG1w7UyJ2dUMGL
+    title: "GNARMPFSK"
+    date: "1964-04-13"
+    type: GNARMPFSK
+
+  - drive: 1BHEr0K9dwj7scSBHoV0BZUSCHVuDrOpA
+    title: "GNARMPFSK, new editor Searle Crate"
+    date: "1964-03-19"
+    type: GNARMPFSK
+
+  - drive: 1V-nLZQKZE5KpQ61bv6XMNRc9uUVGIewl
+    title: "Song Fest, Street Dance and Pre-Valentine's Day Urchin Roast flyer, 66 Dana Street"
+    date: "1964-02-08"
+    type: Other
+
+  - drive: 1wVK4fY9yzf65Lv1nSGBUawj1T-f2mds7
+    title: "GNARMPFSK, Number 3"
+    date: "1963-11-14"
+    type: GNARMPFSK
+
+  - drive: 1l7XCFPztw3AmZ0Pj3pzwHipyQLQIPKBh
+    title: "GNARMPFSK, Number 2"
+    date: "1963-10-15"
+    type: GNARMPFSK
+
+  - drive: 1QeZiEU8WC8ETTvcTADKQdkgTdiAKEyOU
+    title: "GNARMPFSK, Number 1"
+    date: "1963-09-25"
+    type: GNARMPFSK
+
+  - drive: 1s9V6jeHX4C4P_ifr8Sd8SaOVbSnBvapK
+    title: "GNARMPFSK, Summer Edition"
+    date: "1963-06-12"
+    type: GNARMPFSK
+
+  - drive: 16XXxDwVhfPrDikoHAe0a9hbLGL0HfohB
+    title: "GNARMPFSK, No. 8 (second issue so numbered)"
+    date: "1963-05-20"
+    type: GNARMPFSK
+
+  - drive: 1C8mm4n0_g44cOv7O01GbmxgfNaDyvoRH
+    title: "GNARMPFSK, No. 8"
+    date: "1963-04-29"
+    type: GNARMPFSK
+
+  - drive: 1k4S0Dr6gbaNSe_xtzL_-dZdbww_p-zOz
+    title: "GNARMPFSK, No. 7"
+    date: "1963-04-15"
+    type: GNARMPFSK
+
+  - drive: 1bxHKZLJkwiFCjDEzL7go5-oSdUeyX3EV
+    title: "GNARMPFSK, official organ of the MIT Outing Club"
+    date: "1963-04-01"
+    type: GNARMPFSK
+
+  - drive: 1VVZLPDAZtpWEDvHC9RHFWAyqg0u85DMo
+    title: "Is That John Gnarmpfsk? No. 4"
+    date: "1963-03-12"
+    type: GNARMPFSK
+
+  - drive: 1DbnVbWIR0uIAY6hHsairxodos9tMMaei
+    title: "What You Mean GNARMPFSK? No. 5"
+    date: "1963-02-25"
+    type: GNARMPFSK
+
+  - drive: 1zjWWk28wMq-6gK6ytOhjVsjDLdOHBbT2
+    title: "GNARMPFSK, No. 4"
+    date: "1962-11-15"
+    date_display: c. November 1962
+    type: GNARMPFSK
+
+  - drive: 1ESdUOyEUBEOV300-S_NhV9cIi7FFpaVO
+    title: "Mount Katahdin IOCA Winter Mountaineering Trip flyer"
+    date: "1962-11-15"
+    date_display: c. November 1962
+    type: Other
+
+  - drive: 1gE-RJ9L6PBy4IcEomsr2L2lY-H3wPqxF
+    title: "GNARMPFSK, No. 3"
+    date: "1962-10-10"
+    type: GNARMPFSK
+
+  - drive: 1zregZppRb_YpxtX5cszxmay82Z4OCMn7
+    title: "GNARMPFSK, No. 2"
+    date: "1962-10-02"
+    type: GNARMPFSK
+
+  - drive: 1x7wcLnTad_nGGrWEI7S8qW5VCgrfv6Oa
+    title: "GNARMPFSK, No. 1"
+    date: "1962-09-26"
+    type: GNARMPFSK
+
+  - drive: 1k7DMuSlvEuJIbJMg8SJkgX8AcZHiyC9h
+    title: "Glop Report"
+    date: "1962-06-01"
+    date_display: c. 1962
+    type: Stories
+
+  - drive: 1Y1YOAOpN1RhFW9cQTw1G9ZnUkrNruzOJ
+    title: "Conversations by 66 Dana Street, or When It's Springtime in Alaska It's Winter in New England"
+    date: "1962-04-15"
+    date_display: c. April 1962
+    type: Stories
+
+  - drive: 1zvz3eYb0zCXLHARqY0wzp5MMswBxYYVi
+    title: "Twenty Thousand Leagues Only To Ski, a saga of great adventure in the untamed Northeast"
+    date: "1962-03-15"
+    date_display: c. March 1962
+    type: Stories
+
+  - drive: 1HWvbJVNDm-LWQ8XJ20O7pR0uPUGDGNY1
+    title: "GNARMPFSK, No. 13"
+    date: "1962-03-14"
+    type: GNARMPFSK
+
+  - drive: 1W8_AvgiKcrNoN1EoE9PhEvV9wRkNQgvR
+    title: "Outing Club News or GNARMPFSK, No. 5"
+    date: "1961-12-04"
+    type: GNARMPFSK
+
+  - drive: 1cup1VnbFF9G9vTy4YFLfUNFd92oNa3no
+    title: "Outing Club News or GNARMPFSK, No. 2"
+    date: "1961-11-15"
+    date_display: November 1961
+    type: GNARMPFSK
+
+  - drive: 1FCoRhSRcEnyK_2O23HcZ-XSboE9v3nSQ
+    title: "GNARMPFSK, announcing the annual meeting"
+    date: "1961-03-06"
+    type: GNARMPFSK
+
+  - drive: 1XPPmDRGU_SapjO0iKy67QOxJ3asf57r_
+    title: "GNARMPFSK"
+    date: "1961-02-20"
+    type: GNARMPFSK
+
+  - drive: 11B5dCvtwyyKYdl8shRRS8bf03-0updXn
+    title: "MIT Outing Club Song-Fest flyer"
+    date: "1960-12-13"
+    type: Other
+
+  - drive: 1IBaz2r7OVI4iE-Tn3McI1CcWe62SsFGH
+    title: "GNARMPFSK, No. 4"
+    date: "1960-12-08"
+    type: GNARMPFSK
+
+  - drive: 1LtXIM9FCK3SoSDQYF8upHaPTJp4qkJhw
+    title: "GNARMPFSK, No. 3"
+    date: "1960-11-09"
+    type: GNARMPFSK
+
+  - drive: 1k9O0eanadIOjamQuoVXbChXJVHT2L4hc
+    title: "GNARMPFSK, Circus trip reports"
+    date: "1960-10-13"
+    type: GNARMPFSK
+
+  - drive: 1oAyO7Wkjdrlcq4laBRe2Ij2RWXaEVu3f
+    title: "GNARMPFSK, Circus issue"
+    date: "1960-09-29"
+    type: GNARMPFSK
+
+  - drive: 1XWsoRyZF055Cli5FvgkjEEHUlOz383O3
+    title: "An Introduction to MITOC, cabin rules and equipment policy"
+    date: "1960-06-01"
+    date_display: c. 1960
+    type: Other
+
+
+  - drive: 1J0llv_CUfgBidwInCQLQUACpZVtpJaS6
+    title: "GNARMPFSK, Vol. XXI No. 14, Circus May 7-8"
+    date: "1960-04-22"
+    type: GNARMPFSK
+
+  - drive: 1dKuvtUnLAewL36tSuTDHjPZ7nN--Z7Hz
+    title: "GNARMPFSK, Vol. XXI No. 32"
+    date: "1960-03-10"
+    type: GNARMPFSK
+
+  - drive: 14DqAyPb2wKDK66_WS-LfCqMSlF_Gm70l
+    title: "Thanksgiving Adirondack Trip flyer"
+    date: "1959-11-15"
+    date_display: c. November 1959
+    type: Other
+
+
+  - drive: 1aNcnG_P9Mbu6rRzVGHbMsvV9_PZ35IcB
+    title: "Fall Circus poster, everybody invited"
+    date: "1959-10-04"
+    type: Other
+
+  - drive: 1Y5ch5ehlLr_A4TYFIOz8oy5RY6FfYb5l
+    title: "GNARMPFSK, c. March 1958 (formerly MITOC News)"
+    date: "1958-03-15"
+    date_display: c. March 1958
+    type: GNARMPFSK
+
+
+  - drive: 1BgTELxVnI-UjarfhS7NhWTj2JHxE7Qp1
+    title: "GNARMPFSK, Simmons Winter Weekend"
+    date: "1957-02-25"
+    type: GNARMPFSK
+
+  - drive: 1tYpHQLo_BNB7yHbfMIauLpy7gJ0smRuw
+    title: "GNARMPFSK"
+    date: "1957-01-12"
+    type: GNARMPFSK
+
+  - drive: 1Tm9yuIBQtQdpjyKhFIGh8lCdnmhO3iah
+    title: "GNARMPFSK, A Memorial Cover"
+    date: "1956-10-29"
+    type: GNARMPFSK
+
+  - drive: 1krtu5lEcI3aWU_WH6M_yeAkmfLu9A3Vk
+    title: "GNARMPFSK, formerly the MITOC News"
+    date: "1956-10-16"
+    type: GNARMPFSK
+
+  - drive: 16q8TASmPIgr20Ptt9hGPSBeDRRAA16bZ
+    title: "GNARMPFSK, formerly the MITOC News, trips schedule"
+    date: "1956-10-15"
+    date_display: c. October 1956
+    type: GNARMPFSK
+
+  - drive: 11rELWqifCoudaoGLamOhlMgx-trRO1Pf
+    title: "MITOC Monograph Series, outhouse distribution on Turtle Island"
+    date: "1956-10-15"
+    date_display: c. October 1956
+    type: GNARMPFSK
+
+  - drive: 14DNGyzAvc9HPuegsNmMawM0m1yKYz_XS
+    title: "GNARMPFSK, formerly the MITOC News"
+    date: "1956-09-24"
+    type: GNARMPFSK
+
+  - drive: 1obY6oJlQie1yx_szlfosYBfEa_BIxFqb
+    title: "MITOC trips schedule for the fall season"
+    date: "1956-09-15"
+    date_display: c. September 1956
+    type: GNARMPFSK
+
+  - drive: 1PBcoNtQ94yDyL7peIZHYF8XxCdhMUVHQ
+    title: "GNARMPFSK, College Week is coming"
+    date: "1956-08-15"
+    date_display: c. August 1956
+    type: GNARMPFSK
+
+  - drive: 1UC07EZVzHSc5Cos3fvgsxXIeXOlQCWn7
+    title: "GNARMPFSK, summer schedule"
+    date: "1956-07-15"
+    date_display: c. July 1956
+    type: GNARMPFSK
+
+  - drive: 1hVv7Rk-pjY_LKNa4wOLgsLYgLJtiLbae
+    title: "GNARMPFSK"
+    date: "1956-07-03"
+    type: GNARMPFSK
+
+  - drive: 1AMVyMklHbX8NSBAazzvWdQFqbXs44IOZ
+    title: "GNARMPFSK"
+    date: "1956-06-25"
+    type: GNARMPFSK
+
+  - drive: 1HIr7pRsFIkkFlTmFuOhQHhLanirBxMgy
+    title: "GNARMPFSK"
+    date: "1956-06-19"
+    type: GNARMPFSK
+
+  - drive: 15azSCSfa6JV6QyJUQ_DXMrR6iL15lCyq
+    title: "GNARMPFSK"
+    date: "1956-06-12"
+    type: GNARMPFSK
+
+  - drive: 1E5ge2d-PWmYXe7tTQK7jkXzkunY1cLlT
+    title: "GNARMPFSK"
+    date: "1956-06-05"
+    type: GNARMPFSK
+
+  - drive: 1GCG5bWbBxqkV0zUj4SteHq3U2_gEQff0
+    title: "Adams Asphalt Reporter, Vol. I No. 1"
+    date: "1956-06-01"
+    date_display: c. 1956
+    type: GNARMPFSK
+
+  - drive: 1LdTzP_t3xEdyLSKdR5Pckg-WStyvef1F
+    title: "Adams Asphalt Reporter, Vol. I No. 2, on the vote restoring the name Gnarmpfsk"
+    date: "1956-06-01"
+    date_display: c. 1956
+    type: GNARMPFSK
+
+  - drive: 1HjRnReqk28ffiCKrmy-e7zJ8ODCFkMM9
+    title: "Formerly MITOC News, now (ugh!!) gnaRmPfsk"
+    date: "1956-04-24"
+    type: GNARMPFSK
+
+  - drive: 1wQS4jKX-7zzpigdy-vYgQfmnhQLoJ8M7
+    title: "GNARMPFSK, formerly the MITOC News"
+    date: "1956-04-17"
+    type: GNARMPFSK
+
+  - drive: 1Vi7bD83kg1ydFL23WNAPw7nxfB299C0S
+    title: "GNARMPFSK, formerly the MITOC News"
+    date: "1956-04-10"
+    type: GNARMPFSK
+
+  - drive: 1NiJswmJmIzvAn9zPz9uzLy8tIW7rfM54
+    title: "Sometime MITOC News (sob!)"
+    date: "1956-04-03"
+    type: GNARMPFSK
+
+  - drive: 1rKpm_uegIt-WLdWTxBfr41EdD-AW7reh
+    title: "GNARMPFSK, Labor of Our Love section"
+    date: "1956-03-30"
+    type: GNARMPFSK
+
+  - drive: 11JkVjY702dcwAPTtQPIFqATYd21seVIo
+    title: "GNARMPFSK"
+    date: "1956-03-13"
+    type: GNARMPFSK
+
+  - drive: 1xN7XfsBMT2uTdEwYxPeEx0RhpsqHIWkZ
+    title: "GNARMPFSK, notes on the General Meeting of March 5"
+    date: "1956-03-06"
+    type: GNARMPFSK
+
+  - drive: 1M66w789NJZrlYItPRkJe_Q64iNWlArB8
+    title: "GNARMPFSK"
+    date: "1956-02-28"
+    type: GNARMPFSK
+
+  - drive: 1YuPXfiFunyHsNX2mwkVFC_DqLmgfDcrx
+    title: "GNARMPFSK, Special Schizophrenia Issue"
+    date: "1956-02-21"
+    type: GNARMPFSK
+
+  - drive: 1n7X_4sbmSwG-DwGZQD2ZMLHy-t8DAqPK
+    title: "GNARMPFSK, issue dedicated to Charles Adams"
+    date: "1956-02-15"
+    date_display: c. February 1956
+    type: GNARMPFSK
+
+  - drive: 1bMZHcLJtVyz8H6ZKuUmC579XnlrOU5W5
+    title: "GNARMPFSK"
+    date: "1956-02-07"
+    type: GNARMPFSK
+
+  - drive: 1khJf7b285z-9LSkdRAn8P71p3YahxoUj
+    title: "GNARMPFSK"
+    date: "1956-01-16"
+    type: GNARMPFSK
+
+  - drive: 1SApTg57cr4Y04je_z43KGR8s3rOVShGr
+    title: "GNARMPFSK"
+    date: "1956-01-09"
+    type: GNARMPFSK
+
+  - drive: 16V_6nMdR3cW_r12V-QIKpnkMeVm0Lgek
+    title: "MITOC News, ski with MITOC"
+    date: "1955-12-05"
+    type: GNARMPFSK
+
+  - drive: 1vXadjhytkhSE8iUZWGubkK_A5WC6EyyU
+    title: "MITOC News illegitimate edition, Katahdin Thanksgiving trip report"
+    date: "1955-11-29"
+    type: GNARMPFSK
+
+  - drive: 1gscbDbCBIChwh503dJpGZ78E4qnpOs2H
+    title: "Mount Katahdin winter mountaineering IOCA trip circular"
+    date: "1955-11-15"
+    date_display: c. November 1955
+    type: Other
+
+  - drive: 1hsjBOY_o7n1dMvQUiofOEHKvS8vlAJP0
+    title: "MITOC News, Mount Katahdin Thanksgiving trip"
+    date: "1955-11-14"
+    type: GNARMPFSK
+
+  - drive: 1kaZ6M5F3h4FXy3_GX_S2cy0PDJLv6THw
+    title: "MITOC News, a weekend with no trips"
+    date: "1955-11-06"
+    type: GNARMPFSK
+
+  - drive: 1L8wbuDLwxVOw622CyCkCnOhMOhAqsIOf
+    title: "MITOC News, mystery trip with Jim Bjorken"
+    date: "1955-10-31"
+    type: GNARMPFSK
+
+  - drive: 1D3oK13csINzqe_WCwDn73hAV254Vmd1A
+    title: "MITOC News, Smith College square dance"
+    date: "1955-10-24"
+    type: GNARMPFSK
+
+  - drive: 1Mao5w1Ju3qxgjlPZ43-tTJ99l7RCKQ9C
+    title: "MITOC News, calendar of coming events"
+    date: "1955-10-17"
+    type: GNARMPFSK
+
+  - drive: 1VxxbNQ_BT9lfO7tIZoknJ1kdmvlK3Bmt
+    title: "MITOC News, Herman and the Lake George certificate"
+    date: "1955-10-10"
+    type: GNARMPFSK
+
+  - drive: 1lmB2uXmCH3fEFJLyhAwa_iV-VB_6Wyzi
+    title: "MITOC News, Lake George canoe trip"
+    date: "1955-10-04"
+    type: GNARMPFSK
+
+  - drive: 1K33QvD_2VPg4lcFkVOT9XDU069oEIRxu
+    title: "MITOC News, Mount Washington and Monadnock climbs"
+    date: "1955-09-19"
+    type: GNARMPFSK
+
+  - drive: 1Yucm_fH1CLg6IC1ZDI5rIiFmrapttepF
+    title: "MITOC News, MITOC Fall Circus on Great Blue Hill"
+    date: "1955-09-15"
+    date_display: c. September 1955
+    type: GNARMPFSK
+
+  - drive: 1bkUgWmL0HoVPxXTWPCPd9ypzKB6LdIhT
+    title: "MITOC News, freshmen issue"
+    date: "1955-09-15"
+    date_display: c. September 1955
+    type: GNARMPFSK
+
+  - drive: 1ItmRn-BqC-SfBIIDy536-qGP3RRPXWcN
+    title: "MITOC News, College Week at Mount Katahdin"
+    date: "1955-08-15"
+    date_display: c. August 1955
+    type: GNARMPFSK
+
+  - drive: 11Hj5WlT2DdB7G17qJD2HVE_1NNFk2F1M
+    title: "MITOC News, College Week and the Shawangunks"
+    date: "1955-08-15"
+    type: GNARMPFSK
+
+  - drive: 1nrnsDw-AUMf7fAInVJQO8PVJlERwx2tQ
+    title: "MITOC News, salt-water canoe trip and beach party"
+    date: "1955-08-01"
+    type: GNARMPFSK
+
+  - drive: 1uIPTSMx-Dwuc1dGvCnSCYIMNiItHg2WG
+    title: "MITOC News, canoe trip on the lower Ipswich"
+    date: "1955-07-27"
+    type: GNARMPFSK
+
+  - drive: 1l5aUR1xSAh9iaU0G3FTDvgtgesMsLnoG
+    title: "MITOC News, July trip schedule"
+    date: "1955-07-15"
+    date_display: c. July 1955
+    type: GNARMPFSK
+
+  - drive: 1csktLz1dOC1rncvLkgY1X3L8JGLRxD_S
+    title: "MITOC News, rock climb at the Shawangunks"
+    date: "1955-07-08"
+    type: GNARMPFSK
+
+  - drive: 1hlUaUalp8q9YhqHqz0zWFL0229leHJdU
+    title: "MITOC News, which ditch is the Ipswich"
+    date: "1955-06-22"
+    type: GNARMPFSK
+
+  - drive: 1qPWJ_iZ7oHN2Bm5Wd1KwamGGP_ww-ccN
+    title: "MITOC Summer News, Number One"
+    date: "1955-06-02"
+    type: GNARMPFSK
+
+  - drive: 1b9R-IDGJ5Wov7L2nT-KBAoxtiv8-EoGy
+    title: "MITOC News, glorious Whitehorse weather"
+    date: "1955-05-17"
+    type: GNARMPFSK
+
+  - drive: 1InR42G_S6paq0VuWIPO2fu3Qk4Kb6WCC
+    title: "MITOC News, Spring Circus edition"
+    date: "1955-05-15"
+    date_display: c. May 1955
+    type: GNARMPFSK
+
+  - drive: 13tA6QdyMrbmq9khssfFQ6SQKS5VsATZE
+    title: "MITOC News, the Spring Circus Game"
+    date: "1955-05-15"
+    date_display: c. May 1955
+    type: GNARMPFSK
+
+  - drive: 18FUSTs39oFeVGnDKXKML7jCCQAuyxy3X
+    title: "MIT Bulletin page on clubs and activities, describing the Outing Club"
+    date: "1955-05-15"
+    date_display: May 1955
+    type: "News article"
+
+  - drive: 1FqIEvfZ6wdB8kPdRFJwfOFxYO99EGrj6
+    title: "MITOC News, IOCA conference at Cranberry Lake"
+    date: "1955-04-15"
+    date_display: c. April 1955
+    type: GNARMPFSK
+
+  - drive: 1dIr6ByJxT7Ke_9YkQnN1JnJg84GgibMw
+    title: "MITOC News, The Box, monster tentative calendar"
+    date: "1955-04-15"
+    date_display: c. April 1955
+    type: GNARMPFSK
+
+  - drive: 1KP1EoDKLJjyFlMBWs1nR7EBQW2Y_uW76
+    title: "MITOC News, tentative spring calendar"
+    date: "1955-04-15"
+    date_display: c. April 1955
+    type: GNARMPFSK
+
+  - drive: 11pHpzDJGYDfAIWeqxX1y9ftHf45WK02t
+    title: "MITOC News, MITOC moves to Walker Memorial"
+    date: "1955-03-15"
+    date_display: c. March 1955
+    type: GNARMPFSK
+
+  - drive: 1XEtjbQeUXPoKj7WzHNfe8l31l0iuwKYu
+    title: "MITOC Newz, general meeting of March 14"
+    date: "1955-03-08"
+    type: GNARMPFSK
+
+  - drive: 1DPyyQ-3dzC_IHCXYTq1gDb6cAHXL4ybm
+    title: "MITOC Newz and Yeer, Simmons IOCA winter weekend"
+    date: "1955-02-15"
+    date_display: c. February 1955
+    type: GNARMPFSK
+
+  - drive: 1GDiaTWPZknve6W4HAYreQcq99fWM9XHk
+    title: "MITOC News, Katahdin Thanksgiving trip report"
+    date: "1954-12-02"
+    type: GNARMPFSK
+
+  - drive: 1TEcyhmNUbs6qzNfl5kxZC4362PyxmQae
+    title: "MITOC Noose, Northern Presidentials trip report"
+    date: "1954-11-16"
+    type: GNARMPFSK
+
+  - drive: 1er98uPGubYh2yOADXGmPF37ceDFtLd_t
+    title: "MITOC Nooz, MITOC rally"
+    date: "1954-11-09"
+    type: GNARMPFSK
+
+  - drive: 1F1Nikt13dmsddw65ZLt68VsSi_n6yc1U
+    title: "MITOC Nooze, Whitehorse and the Northern Presidentials"
+    date: "1954-11-02"
+    type: GNARMPFSK
+
+  - drive: 1pZFPUerQcZadWo5InBKYGwe2X6m2uDhF
+    title: "MITOC Newz, spelunking and the Gunks"
+    date: "1954-10-26"
+    type: GNARMPFSK
+
+  - drive: 1Qa0GaWy-dgbx1asPa4WTa1Y8nfpzdr-5
+    title: "MITOC News, Joe English Hill and the White Mountains"
+    date: "1954-10-21"
+    type: GNARMPFSK
+
+  - drive: 1KxNO4UR5vpQt1kkpglkKRQxFf6AHc1Ou
+    title: "MITOC News, rock climbs and Fall Danby"
+    date: "1954-10-14"
+    type: GNARMPFSK
+
+  - drive: 1mjcySf5PHOd0N4mseP8DceEP0kpEJJ4o
+    title: "MITOC News, Lake George and fall calendar"
+    date: "1954-10-05"
+    type: GNARMPFSK
+
+  - drive: 1AcmATSxXHOL25WU2sDw_98nHPrX-r2Ys
+    title: "MITOC News, fall calendar"
+    date: "1954-09-28"
+    type: GNARMPFSK
+
+  - drive: 1INUvdg2FBfA734hwUrz2H5d-DLpFvES8
+    title: "MITOC News special edition, fall season schedule"
+    date: "1954-09-15"
+    date_display: c. September 1954
+    type: GNARMPFSK
+
+  - drive: 1Z0OMZpx82QL24-2kfqXwUv1t9tzV9HF8
+    title: "MITOC News, summer supper meetings at GPIII's"
+    date: "1954-06-15"
+    date_display: c. June 1954
+    type: GNARMPFSK
+
+  - drive: 1US_YoJ92l8T25ucADp9hhOFbZlFBq9Z9
+    title: "MITOC News, College Week information for Lake Colden"
+    date: "1954-06-01"
+    date_display: c. 1954
+    type: GNARMPFSK
+
+  - drive: 1-oWglX3US39EpEmCcpp3nKPAWxwR8ZQ6
+    title: "MITOC News, Atlantic storm weather bulletin"
+    date: "1954-05-15"
+    date_display: c. May 1954
+    type: GNARMPFSK
+
+  - drive: 13fjO4XvwseftQQ72q19Vy5ZO0DF_hGbV
+    title: "MITOC News, Crag Camp and Mount Adams"
+    date: "1954-05-15"
+    date_display: c. May 1954
+    type: GNARMPFSK
+
+  - drive: 1kKxAYkW1K6QN_lue_mV3pcnRs4xAOFEt
+    title: "MITOC News, Vol. 16 (issue number illegible), spring circus invitation"
+    date: "1954-05-15"
+    date_display: c. May 1954
+    type: GNARMPFSK
+
+  - drive: 1UgiSR3NT8hRAOzHR6w77-o3LBRA5hJnQ
+    title: "MITOC News, Vol. 16 No. 7"
+    date: "1954-05-04"
+    type: GNARMPFSK
+
+  - drive: 1cD2B8zKBUOixggF_XW5PsWcFTKt5jwKG
+    title: "MITOC News, Saco River canoe trip"
+    date: "1954-04-12"
+    type: GNARMPFSK
+
+  - drive: 1KtHFPVUA1RbiVUBdSQpQQ-HZ1McmC7Ly
+    title: "MITOC News, April calendar"
+    date: "1954-04-06"
+    type: GNARMPFSK
+
+  - drive: 1lWbC6KZfZJWFb7RAoFzy665VDW15XRDU
+    title: "MITOC News special edition, election results"
+    date: "1954-03-16"
+    type: GNARMPFSK
+
+  - drive: 1c9Nwf6K8bcdHLSmgHANpCOJOYMXb8A3q
+    title: "MITOC News, notes on the general meeting of March 15"
+    date: "1954-03-15"
+    date_display: c. March 1954
+    type: GNARMPFSK
+
+  - drive: 1Z6tdl_iE5HJuAiRQLNXtCf7CeiAK9Ll3
+    title: "MITOC News, notice of general elections"
+    date: "1954-03-02"
+    type: GNARMPFSK
+
+  - drive: 1cDM_V6DZJiQryLo_BoTYQwmoHm7ZM6bR
+    title: "MITOC News, future tentative trip schedule"
+    date: "1953-12-09"
+    type: GNARMPFSK
+
+  - drive: 1BQD_3v4Xx3Yqz34U0oVz4XCsFXXR-mjg
+    title: "MITOC News special report issue, Thanksgiving dinner trip to Mount Katahdin"
+    date: "1953-11-30"
+    type: GNARMPFSK
+
+  - drive: 1ts1QS9b5hmDKWhAK7vUd70hSWY9pOC6n
+    title: "Mount Katahdin winter mountaineering IOCA trip circular"
+    date: "1953-11-15"
+    date_display: c. November 1953
+    type: Other
+
+  - drive: 1A8kMwgMjbhGT0Spn3vJnXVGCNHWWsbBx
+    title: "MITOC News, Katahdin trip next week"
+    date: "1953-11-11"
+    type: GNARMPFSK
+
+  - drive: 1o0hg3XkD0o_ADJWm0xL-parpmqxErR74
+    title: "MITOC News, winter on Mount Washington"
+    date: "1953-11-04"
+    type: GNARMPFSK
+
+  - drive: 129qH4kp5o6A-05dogUVtBiVLorRsdg3X
+    title: "MITOC News, winter mountaineering trips"
+    date: "1953-10-23"
+    type: GNARMPFSK
+
+  - drive: 1zKT9URUyU96C7xhcL1ebtr1ARVftatpn
+    title: "MITOC News, 125 from Boston attend Lake George"
+    date: "1953-10-14"
+    type: GNARMPFSK
+
+  - drive: 12d2LHdq6RnADKoqnR2xnrlHJLqV8nj9J
+    title: "MITOC News, Fall Circus big success"
+    date: "1953-10-07"
+    type: GNARMPFSK
+
+  - drive: 1HzaCz-TfSq73qNQdSMear_gvKwHu7Fo2
+    title: "MITOC News, Lake George canoe trip"
+    date: "1953-09-30"
+    type: GNARMPFSK
+
+  - drive: 1XjD9Q0cDQiwNjCyHPzMRVl9467L-Cz2Q
+    title: "MITOC News, last spring issue, College Week 1953"
+    date: "1953-05-30"
+    type: GNARMPFSK
+
+  - drive: 1zGnbQA3lEtPrN5DMDfQr7syRPuIRo3e2
+    title: "MITOC News, Lake Winnipesaukee canoe trip"
+    date: "1953-05-13"
+    type: GNARMPFSK
+
+  - drive: 1PFg4jwz_XFATrJSItzlhjrGaH_gX8490
+    title: "MITOC News, circus notes and the Danby report"
+    date: "1953-05-08"
+    type: GNARMPFSK
+
+  - drive: 1brS6X8_QOnOw3b4ucalPZ9lqlFR9rK1k
+    title: "MITOC News, Vol. 15 No. 5, winter mountaineering on Mount Washington"
+    date: "1952-11-04"
+    type: GNARMPFSK
+
+  - drive: 1toF19p5s1GQD4hHegWqdQd8duRZ8TG5s
+    title: "MITOC News, Vol. 14 No. 14, re - hearsing"
+    date: "1952-03-11"
+    type: GNARMPFSK
+
+  - drive: 1XR31bA_fCAxgSP82qeIxlFIVK6-jxWjM
+    title: "MITOC News, Vol. 14 No. 12, Wellesley and Mount Holyoke IOCA days"
+    date: "1951-12-04"
+    type: GNARMPFSK
+
+  - drive: 14kVqpwseTxhgj2yLm66vi0aA78P0P8vu
+    title: "MITOC News, Vol. 14 No. 11, Krag Camp"
+    date: "1951-11-27"
+    type: GNARMPFSK
+
+  - drive: 1M203wMuuChJfwU9x6ZPJh3YYraYfdiE7
+    title: "MITOC News, Vol. 14 No. 8, Mount Katahdin"
+    date: "1951-11-06"
+    type: GNARMPFSK
+
+  - drive: 1o_9aSDIX69-IbfAp9nhWzp1oqyM2IYMP
+    title: "MITOC News, Vol. 13 No. 25, otherwise known as Term Paper"
+    date: "1951-05-01"
+    type: GNARMPFSK
+
+  - drive: 1swdpPDtOpRFXGbz6vwFHswNWU06jxE79
+    title: "MITOC News, Vol. 13 No. 22"
+    date: "1951-04-10"
+    type: GNARMPFSK
+
+  - drive: 1FucB7nNZ1wuzvL13Sd7ARKjxSt1h8ds_
+    title: "MITOC News, Vol. 13 No. 16, wanted - artist"
+    date: "1951-02-14"
+    type: GNARMPFSK
+
+  - drive: 1mET1TuOgn95egQGLSUfqCRONKtJhT0Ap
+    title: "MITOC News, Vol. 13 No. 15"
+    date: "1951-02-07"
+    type: GNARMPFSK
+
+  - drive: 1P9NN82W1gyiKZMsY37joEpbPhUWDZmSV
+    title: "MIT Outing Club News, Vol. 12 No. 17, Wellesley Hey-Day"
+    date: "1949-12-15"
+    date_display: c. December 1949
+    type: GNARMPFSK
+
+  - drive: 1iKa5M5bJlSJRBqsbXJxBzC-_Dnt7N_GP
+    title: "MIT Outing Club News, Vol. 12 No. 16, ski tow at Nottinghams farm"
+    date: "1949-12-09"
+    type: GNARMPFSK
+
+  - drive: 10o5nu-yWPQ6bDWktSBPJP8LwIUGW_JT8
+    title: "MIT Outing Club News, Vol. 12 No. 15"
+    date: "1949-12-02"
+    type: GNARMPFSK
+
+  - drive: 1odGCAfacxSVi4y5EhuWBBgc5aSdqnlJW
+    title: "MIT Outing Club News, Vol. 12 No. 14, ski dorm at Stowe"
+    date: "1949-11-25"
+    type: GNARMPFSK
+
+  - drive: 1gh5dC7xLdhW7ZKskbf08Tgklh11hFGvt
+    title: "MIT Outing Club News, Vol. 12 No. 13, Katahdin revisited"
+    date: "1949-11-18"
+    type: GNARMPFSK
+
+  - drive: 1qHD5m_iZEp6yhjOLFCpyN0XY4AZYS0iv
+    title: "MIT Outing Club News, Vol. 12 No. 12, rock climbing upside down"
+    date: "1949-11-11"
+    type: GNARMPFSK
+
+  - drive: 1JSndVE4b08qK635c1poAOmIWSzB2xbcZ
+    title: "MIT Outing Club News, Vol. 12 No. 11, MITOC goes underground"
+    date: "1949-11-04"
+    type: GNARMPFSK
+
+  - drive: 1nRFRPy5wjAWVP7eKYepVh12tgk9h_fuq
+    title: "MIT Outing Club News, Vol. 12 No. 10, spelunking at McPhails Hole"
+    date: "1949-10-28"
+    type: GNARMPFSK
+
+  - drive: 1zKd4FyGEXvTpCzZCZ-YkGcoj5XLxc78g
+    title: "MIT Outing Club News, Vol. 12 No. 9"
+    date: "1949-10-21"
+    type: GNARMPFSK
+
+  - drive: 18D55XQHkX7yLs0g8Zzq8T5_MLsTfjvVV
+    title: "MIT Outing Club News, Vol. 12 No. 8, RPI canoe trip"
+    date: "1949-10-14"
+    type: GNARMPFSK
+
+  - drive: 1kPa2g8xoO8Tgcqz4SxtItzBIwzd7DFlN
+    title: "MIT Outing Club News, Vol. 12 No. 7, MITOC has a new office"
+    date: "1949-10-07"
+    type: GNARMPFSK
+
+  - drive: 1nSQ3M6-h0RTvLiSJ1qFgqkZImTb75H1q
+    title: "MIT Outing Club News, Vol. 12 No. 6, gala circus planned"
+    date: "1949-09-30"
+    type: GNARMPFSK
+
+  - drive: 1ukEeDTAC6MVKsWEJN9pkuW-25Xm_igD1
+    title: "MIT Outing Club News, Vol. 12 No. 5, College Week"
+    date: "1949-05-20"
+    type: GNARMPFSK
+
+  - drive: 1Nj4DumP5szNDQZlgya52uh4GaV6w95v4
+    title: "MIT Outing Club News, Vol. 12 No. 4, Joe English Cliffs"
+    date: "1949-05-13"
+    type: GNARMPFSK
+
+  - drive: 15hLL-JB1PxcEBa4orWNhFMosMrS2LllO
+    title: "MIT Outing Club News, Vol. 12 No. 3, Lauletaan"
+    date: "1949-05-06"
+    type: GNARMPFSK
+
+  - drive: 1j-llymM51AIYTMQ6esj17XvduOCiRFwZ
+    title: "MIT Outing Club News, Vol. 12 No. 2, report from underground"
+    date: "1949-04-29"
+    type: GNARMPFSK
+
+  - drive: 1cZ6PI-VpqmsbTW7u5-hicE7w5TA1yMAo
+    title: "MIT Outing Club News, Vol. 12 No. 1, Blue Hills spring circus"
+    date: "1949-04-22"
+    type: GNARMPFSK
+
+  - drive: 1Vq85ROIUfkjzJ3JwN2ao1cfW4PU5JhaU
+    title: "MIT Outing Club News, Vol. 11 (issue number illegible), mid-year convocation"
+    date: "1949-04-15"
+    type: GNARMPFSK
+
+  - drive: 1q7SGGj92Z-pzRORAN9cqI_vjU0dk6TCX
+    title: "MIT Outing Club News, Vol. 11 No. 31, mud at the Tech Cabin"
+    date: "1949-04-08"
+    type: GNARMPFSK
+
+  - drive: 135reUm0Lwoq74nkd61YMy4bE6n0iBpI8
+    title: "MIT Outing Club News, Vol. 11 No. 30, MITOC to visit NY cave"
+    date: "1949-03-25"
+    type: GNARMPFSK
+
+  - drive: 1whoAdRtY7QlPWmFF2H-TAIqHngCOSplq
+    title: "MIT Outing Club News, Vol. 11 No. 29, OC confab date set"
+    date: "1949-03-18"
+    type: GNARMPFSK
+
+  - drive: 1LOu8ZPBPVZdQFQAi0FdOw5h19b6T8MYC
+    title: "MIT Outing Club News, Vol. 11 (issue number illegible), Dartmouth carnival"
+    date: "1949-03-11"
+    type: GNARMPFSK
+
+  - drive: 1pEE_XKB00zIzG-WG-wzWVU-Jt85TFdqq
+    title: "MIT Outing Club News, Vol. 11 No. 27 (second issue so numbered), Magnus chosen queen"
+    date: "1949-03-04"
+    type: GNARMPFSK
+
+  - drive: 1AtbaOUyporrBfLrSr0nsgCOXbQIOCynW
+    title: "MIT Outing Club News, Vol. 11 No. 27, carnival"
+    date: "1949-02-25"
+    type: GNARMPFSK
+
+  - drive: 1jWjjJQZCvOFkWpApeZV7xibregwoTSW9
+    title: "MIT Outing Club News, Vol. 11 No. 26, IOCA winter carnival"
+    date: "1949-02-18"
+    type: GNARMPFSK
+
+  - drive: 1P1BT0lsmZaYFBRXciwGWSiA75pdARtr8
+    title: "MIT Outing Club News, Vol. 11 No. 25, rock climbing at Castle Rock"
+    date: "1949-01-14"
+    type: GNARMPFSK
+
+  - drive: 1H4KbpgEoh2GCQf1r81igyrGrzJn7f-Va
+    title: "MIT Outing Club News, Vol. 11 No. 24, Wellesley weekend"
+    date: "1949-01-07"
+    type: GNARMPFSK
+
+  - drive: 1sWSd6b5ifeZL8C0o4O99SwkLXURVcf0e
+    title: "MIT Outing Club News, Vol. 11 No. 23"
+    date: "1948-12-16"
+    type: GNARMPFSK
+
+  - drive: 1wqoOW64NAZqm9KVnH3bMa5IdtEgGmE3H
+    title: "MIT Outing Club News, Vol. 11 No. 21 (second issue so numbered), first ski trip"
+    date: "1948-12-10"
+    type: GNARMPFSK
+
+  - drive: 1QaaS771siBK-5g_cFMs1ru2GCBSnizo2
+    title: "MIT Outing Club News, Vol. 11 No. 21, MITOC square dance"
+    date: "1948-12-03"
+    type: GNARMPFSK
+
+  - drive: 1G6P8-Fd1RyrpcNw9FdlBB9TIk3lEqgOo
+    title: "MIT Outing Club News, Vol. 11 No. 20, Birchtoft again"
+    date: "1948-11-26"
+    type: GNARMPFSK
+
+  - drive: 1fYfU5FP46U2P3XseujeVkGN1nXuP15Kd
+    title: "MIT Outing Club News, Vol. 11 No. 19, MITOC climbers survive ordeal"
+    date: "1948-11-19"
+    type: GNARMPFSK
+
+  - drive: 1YZlsimTvIsHpo7N9IwaOPBdZm3l4AsHd
+    title: "MIT Outing Club News, Vol. 11 No. 18, Birchtoft trip"
+    date: "1948-11-12"
+    type: GNARMPFSK
+
+  - drive: 1NG0QqcSZWjQGrFcczZFiNuH4tHzQFYrm
+    title: "MIT Outing Club News, Vol. 11 No. 17, Great Gulf trip"
+    date: "1948-11-04"
+    type: GNARMPFSK
+
+  - drive: 1YIosOX7BWSITSdSec_fpMsP5lsdsCTVP
+    title: "MIT Outing Club News, Vol. 11 No. 16, ski lectures"
+    date: "1948-10-29"
+    type: GNARMPFSK
+
+  - drive: 1f_URmT2vgHQ8Sl2RShQOIxGyPiyDv9zP
+    title: "MIT Outing Club News, Vol. 11 No. 15, circus huge success"
+    date: "1948-10-22"
+    type: GNARMPFSK
+
+  - drive: 1ODBputFMcr5gtR791BtgDcSv4kjnO_l7
+    title: "MIT Outing Club News, Vol. 11 No. 14"
+    date: "1948-10-16"
+    type: GNARMPFSK
+
+  - drive: 1VqUajF0LRjD_NTk8ydMmoe9CtjYEssqR
+    title: "MIT Outing Club News, Vol. 11 No. 12 (second issue so numbered)"
+    date: "1948-10-08"
+    type: GNARMPFSK
+
+  - drive: 1XXKUwxkIFkPbZHGIHeFvRv3U1DxvGkJ_
+    title: "MIT Outing Club News, Vol. 11 No. 12, introductory issue"
+    date: "1948-10-01"
+    type: GNARMPFSK
+
+  - drive: 1vyKmNDnq_J_32ACe68pVfmRhOMk984Bp
+    title: "MIT Outing Club News, Vol. 11 No. 10, council announces prize competition"
+    date: "1948-05-14"
+    type: GNARMPFSK
+
+  - drive: 1PGD26v2Fj8vUchEq65buMBacqJH6u2YK
+    title: "MIT Outing Club News, Vol. 11 No. 11, final trips of the term"
+    date: "1948-05-14"
+    type: GNARMPFSK
+
+  - drive: 1l4_1p8FO6QTkHbgQDM7VDvwWQ9WWPJWc
+    title: "MIT Outing Club News, Vol. 11 No. 9"
+    date: "1948-05-07"
+    type: GNARMPFSK
+
+  - drive: 1p1j55jvbyDez0an0tR5eD5kPjaGS6Tg6
+    title: "MIT Outing Club News, Vol. 11 No. 8, with active membership requirements"
+    date: "1948-04-30"
+    type: GNARMPFSK
+
+  - drive: 1PIdo_iqPtFAcogEf--7YAk8P4m1qM_lW
+    title: "MIT Outing Club News, Vol. 11 No. 7, vacation trip to the Presidentials"
+    date: "1948-04-16"
+    type: GNARMPFSK
+
+  - drive: 10RqZfbAGqDZZ1WZRKT2m0f0Dab6CPOYI
+    title: "MIT Outing Club News, Vol. 11 No. 6"
+    date: "1948-04-09"
+    type: GNARMPFSK
+
+  - drive: 1v_Cm6A2jL3HkZA8EOS2GqwNAjt5Wd5oK
+    title: "MIT Outing Club News, Vol. 11 (issue number illegible), athletic program plan"
+    date: "1948-04-01"
+    type: GNARMPFSK
+
+  - drive: 13690ZxSm2lp0FGY4bfxIqO_7hRWeiSkh
+    title: "MIT Outing Club News, Vol. 11 No. 4"
+    date: "1948-03-26"
+    type: GNARMPFSK
+
+  - drive: 1kgjVEJtTKRBolMaWaoLFe-v6juv1PdaY
+    title: "MIT Outing Club News, Vol. 11 (issue number illegible), ski trips cancelled"
+    date: "1948-03-19"
+    type: GNARMPFSK
+
+  - drive: 1iOqUblWfLjWLJa_dXbij_ZvkdOhMA2Fj
+    title: "MIT Outing Club News, Vol. 11 No. 2, ski trips"
+    date: "1948-03-12"
+    type: GNARMPFSK
+
+  - drive: 1P0VrAs2KRB1FH30wHD4OXToPN9-o7XLJ
+    title: "MIT Outing Club News, Vol. 11 No. 1, annual meeting"
+    date: "1948-03-05"
+    type: GNARMPFSK
+
+  - drive: 1GzdLA9fzGhXlvnjU7ZOympTf0QGQQJl_
+    title: "MIT Outing Club News, Vol. 10 (issue number illegible), Lauletaan"
+    date: "1948-02-27"
+    type: GNARMPFSK
+
+  - drive: 1JOFxsWvexMdWfWFaVDjzuxtyj5gVUkqb
+    title: "MIT Outing Club News, Vol. 10 No. 27, annual meeting notice"
+    date: "1948-02-20"
+    type: GNARMPFSK
+
+  - drive: 17_4wymXjQwcxfVxfzmKyMNLiSKZ7C_1E
+    title: "MIT Outing Club News, Vol. 10 No. 26, IOCA carnival"
+    date: "1948-02-13"
+    type: GNARMPFSK
+
+  - drive: 1dAcltyVMqfiN8fvuexhFqJbaft8izVjX
+    title: "MIT Outing Club News, Vol. 10 No. 25 as printed, Lauletaan on the air"
+    date: "1948-01-16"
+    type: GNARMPFSK
+
+  - drive: 1u6C60MDQwxo-KdyK84p0FJQ-shibcCUj
+    title: "MIT Outing Club News, Vol. 10 No. 24 as printed, Lauletaan"
+    date: "1948-01-09"
+    type: GNARMPFSK
+
+  - drive: 1VFZi4xJgxB-yjvcZgW9kyTSSSIg7ZBpK
+    title: "MIT Outing Club News, Vol. 10 (issue number illegible), Christmas issue"
+    date: "1947-12-19"
+    type: GNARMPFSK
+
+  - drive: 1EIBBvchnjqiIWgZFDGF7CfsmTd5Y9MfH
+    title: "MIT Outing Club News, Vol. 10 No. 25, treasure hunt"
+    date: "1947-12-12"
+    type: GNARMPFSK
+
+  - drive: 1NuRFaXJb7YxPjFOr1VN1XuedtJg2iE0z
+    title: "MIT Outing Club News, Vol. 10 No. 24"
+    date: "1947-12-05"
+    type: GNARMPFSK
+
+  - drive: 1ByxjYLc3v-MfG_hlWMm79xuCtADqVggW
+    title: "MIT Outing Club News, Vol. 10 No. 23, ski patrol"
+    date: "1947-11-21"
+    type: GNARMPFSK
+
+  - drive: 15YeMUvrNs5_b1aqdGhtujjQkqCFnSV2-
+    title: "MIT Outing Club News, Vol. 10 No. 16, Blue Hills circus"
+    date: "1947-10-12"
+    type: GNARMPFSK
+
+  - drive: 1hshIWyz6h2rURDTzmebS0rl1Yw2U5I0T
+    title: "MIT Outing Club News, Vol. 9 No. 27, the new office"
+    date: "1947-02-14"
+    type: GNARMPFSK
+
+  - drive: 18m5aT-ZAnoSsZPHGaakcxjekNWc8_Zv2
+    title: "MIT Outing Club News, Vol. 9 No. 26, winter carnival"
+    date: "1947-01-17"
+    type: GNARMPFSK
+
+  - drive: 1xboZGkWdLmoda5GGuuIuQ3JlZtQO4CfA
+    title: "MIT Outing Club News, Vol. 9 No. 17, ski smoker"
+    date: "1946-11-04"
+    type: GNARMPFSK
+
+  - drive: 16_RYT49HYUWfNvr7HrD5puY1VjbFuIsN
+    title: "MIT Outing Club News, Summer Vol. 4, Cape trip"
+    date: "1946-08-09"
+    type: GNARMPFSK
+
+  - drive: 1wQhFdUbj1YY8HYHsBYBrBufUZRvV4YfD
+    title: "MIT Outing Club News, Summer Vol. 3"
+    date: "1946-07-16"
+    type: GNARMPFSK
+
+  - drive: 1wAsnYV7dKm_UYAXMk0fZIboIahsrObas
+    title: "MIT Outing Club News, Summer Vol. 2"
+    date: "1946-07-03"
+    type: GNARMPFSK
+
+  - drive: 1FEj85NF9uoOIxMDaWdU8-j5lCeZoRHww
+    title: "MIT Outing Club News, Summer Vol. 1"
+    date: "1946-06-19"
+    type: GNARMPFSK
+
+  - drive: 1gzTAo_MUYv4POsWaRpOiLRYhaJv7SGpu
+    title: "MIT Outing Club News, Vol. 9 No. 11, IOCA Marblehead trip"
+    date: "1946-05-13"
+    type: GNARMPFSK
+
+  - drive: 1OxPmlxosVM9X0A6mPMFWepexKIZYdwxo
+    title: "MIT Outing Club News, Vol. 9 No. 10, UNHOC cabin trip"
+    date: "1946-05-06"
+    type: GNARMPFSK
+
+  - drive: 1FK8Uh_8eak4FxcorcmeTuTQWdAWSQyN-
+    title: "MIT Outing Club News, Vol. 9 No. 9"
+    date: "1946-04-29"
+    type: GNARMPFSK
+
+  - drive: 1R9XU9InRb_zrlRtJWn0YxHKMTYgILNjg
+    title: "MIT Outing Club News, Vol. 9 No. 7, Outing Club gets charter"
+    date: "1946-04-15"
+    type: GNARMPFSK
+
+  - drive: 1nZzuBfdQRPQu30gtG4ik-eUiOXBWtWVB
+    title: "MIT Outing Club News, Vol. 9 No. 5"
+    date: "1946-04-01"
+    type: GNARMPFSK
+
+  - drive: 1TaQp_gRijJF3XvOKzkmNOkuC3rQ3uvyW
+    title: "MIT Outing Club News, Vol. 9 No. 2"
+    date: "1946-03-11"
+    type: GNARMPFSK
+
+  - drive: 1GPDoCsYV12SVWAhbnLkkcCn7WrCv7Bjz
+    title: "MIT Outing Club News, Vol. 8 No. 29"
+    date: "1946-02-11"
+    type: GNARMPFSK
+
+  - drive: 10cGYDQ8kjnEX-_bGgpcKe79Y9uuIyBHX
+    title: "MIT Outing Club News, Vol. 8 (issue number illegible), Wellesley-Tech ski trip"
+    date: "1946-01-14"
+    type: GNARMPFSK
+
+  - drive: 1huttscgEx5nNKkKSB6MqDw7bLxv0Oato
+    title: "The MITOC News, No. 21"
+    date: "1945-12-03"
+    type: GNARMPFSK
+
+  - drive: 192weDE8BBonq17IK6y_JTa4wjjQ5B9Vp
+    title: "MIT Outing Club News, Vol. 8 No. 16, appointment of new officers"
+    date: "1945-10-27"
+    type: GNARMPFSK
+
+  - drive: 16nP0vrjg-3QhnfOOyIHRQ5J89WdLN2Sb
+    title: "MIT Outing Club News, Vol. 8 No. 15, Harvard circus at Lynn Woods"
+    date: "1945-10-15"
+    date_display: c. October 1945
+    type: GNARMPFSK
+
+  - drive: 1ztoU3Wbcpm8lNJJn3zgDXMDsOneJbU5g
+    title: "MIT Outing Club News, north shore bike trip"
+    date: "1945-09-10"
+    type: GNARMPFSK
+
+  - drive: 1SpRw_UAC497Ab-k8PbZ60C2Kyi2Y5vX7
+    title: "MIT Outing Club News, Vol. 8 No. 5, Quincy Quarries climb"
+    date: "1945-08-06"
+    type: GNARMPFSK
+
+  - drive: 1Vz9RSyOw9Y1lWl9MFqapvaJvGc3zH6Z-
+    title: "MIT Outing Club News, Vol. 8 No. 4"
+    date: "1945-07-30"
+    type: GNARMPFSK
+
+  - drive: 1kWfpM3It8fJg_zEu84LLPfR35LbfcgLa
+    title: "MIT Outing Club News, Vol. 8 No. 2, Cape bike trip"
+    date: "1945-07-23"
+    type: GNARMPFSK
+
+  - drive: 1KN8rPx8pJUJjITlnq5dUIixAilVn8qpy
+    title: "MIT Outing Club News, Vol. 8 No. 2 as printed, O.C. smoker"
+    date: "1945-07-16"
+    type: GNARMPFSK
+
+  - drive: 1ccGCk1qmM1tsvVXfmxL8xXPv7dOXEUZZ
+    title: "MIT Outing Club News, Vol. 7 No. 8 as printed, vacation trips"
+    date: "1945-06-11"
+    type: GNARMPFSK
+
+  - drive: 1rQapqtuRQC9EV9mKIARu_L14MdU9FxdN
+    title: "MIT Outing Club News, Vol. 7 No. 38, Mount Washington trip"
+    date: "1945-06-04"
+    type: GNARMPFSK
+
+  - drive: 1-i0d1SpIT8K9YKGBpYaoRWaA4C9lIbYr
+    title: "MIT Outing Club News, Vol. 7 No. 37"
+    date: "1945-05-28"
+    type: GNARMPFSK
+
+  - drive: 1jv1GNo7RqEAEh79onZKtQD9p4bC4ePdW
+    title: "MIT Outing Club News, Vol. 7 No. 36"
+    date: "1945-05-14"
+    type: GNARMPFSK
+
+  - drive: 1k4jN5r3MlzfQm60xXkLZD5cdyVNPRsxq
+    title: "MIT Outing Club News, Vol. 7 No. 35"
+    date: "1945-05-07"
+    type: GNARMPFSK
+
+  - drive: 1Z_1Z2RYivCL9EtXERumgOH6p2Epj3s7f
+    title: "MIT Outing Club News, Vol. 7 No. 34"
+    date: "1945-04-30"
+    type: GNARMPFSK
+
+  - drive: 1BwShu1OZX-tzvrTl9-SYs5vW9Qr1LTu6
+    title: "MIT Outing Club News, Vol. 7 (issue number illegible)"
+    date: "1945-04-23"
+    type: GNARMPFSK
+
+  - drive: 1f61wZDzCInxUiLtH7n8Jr4eu5NCSpNXY
+    title: "MIT Outing Club News, Vol. 7 No. 33"
+    date: "1945-04-16"
+    type: GNARMPFSK
+
+  - drive: 1DVkwmEXwj5RsV6SQr4bq7-_9f2z0yK_Z
+    title: "MIT Outing Club News, Vol. 7 No. 32"
+    date: "1945-04-09"
+    type: GNARMPFSK
+
+  - drive: 1YE1_LOkSu44mkIpElVDMQ9pmlcbGQhO_
+    title: "MIT Outing Club News, Vol. 7 No. 31"
+    date: "1945-04-02"
+    type: GNARMPFSK
+
+  - drive: 1ehFfEvnrvTaZHmGt3k-RgYnzP815HrdB
+    title: "MIT Outing Club News, Vol. 7 No. 30, election results"
+    date: "1945-03-26"
+    type: GNARMPFSK
+
+  - drive: 1MvYmhS_7PSi0PstwAOOKAPcJaHzIrF94
+    title: "MIT Outing Club News, Vol. 7 No. 29, elections notice"
+    date: "1945-03-19"
+    type: GNARMPFSK
+
+  - drive: 1ZaYgRXUbA4qKYO4ddal-57OEqprBpBVX
+    title: "MIT Outing Club News, ski team wins at Bates"
+    date: "1945-02-12"
+    type: GNARMPFSK
+
+  - drive: 1aSy4kXZdUtHDe4gB_skSkId9IRKTw8NV
+    title: "MIT Outing Club News, Vol. 7 No. 26"
+    date: "1945-02-05"
+    type: GNARMPFSK
+
+  - drive: 12eZCmkQwCd1D28OlDo0hMDvj_wDQ0nRO
+    title: "MIT Outing Club News, Vol. 7 No. 25"
+    date: "1945-01-29"
+    type: GNARMPFSK
+
+  - drive: 1rZlgNkpNkjEkJqpIxwWEYzJrbSkPQBrq
+    title: "MIT Outing Club News, Vol. 7 No. 24"
+    date: "1945-01-22"
+    type: GNARMPFSK
+
+  - drive: 1JQlYB9pbUMGZP9ExlvZWTMjtUjhvQnNP
+    title: "MIT Outing Club News, Tech-Radcliffe ski trip issue, undated"
+    date: "1945-01-15"
+    date_display: c. January 1945
+    type: GNARMPFSK
+
+  - drive: 1EzIYqkpqkLeb1zuCxCL1xWSM_gzZ-0PN
+    title: "MIT Outing Club News, Vol. VII (issue number illegible)"
+    date: "1945-01-08"
+    type: GNARMPFSK
+
+  - drive: 1705gp1iFUqS-WRPdZ6oN8egdQVOzgRbJ
+    title: "MIT Outing Club News, Vol. VII No. 21"
+    date: "1945-01-01"
+    type: GNARMPFSK
+
+  - drive: 1dMNpKeDaCLAWGDSGpMJyiM_Ykb9EDCW5
+    title: "MIT Outing Club News, Vol. VII No. 20"
+    date: "1944-12-18"
+    type: GNARMPFSK
+
+  - drive: 1Yxn8JNaxcIUXv6UYzJaV7BnHU88b0Ibv
+    title: "MIT Outing Club News, Vol. VII No. 19"
+    date: "1944-12-11"
+    type: GNARMPFSK
+
+  - drive: 1feQ7SyDH59sYvnroTd7bd9HVrxNzDEfO
+    title: "MIT Outing Club News, Vol. VII No. 18"
+    date: "1944-12-04"
+    type: GNARMPFSK
+
+  - drive: 1WAGboGBsHkG3y9ZBluJSsLnpy-lPLP0G
+    title: "MIT Outing Club News, Vol. VII No. 17"
+    date: "1944-11-27"
+    type: GNARMPFSK
+
+  - drive: 1BqTgtuCOt-kUicJ6zfYCJnGEYzl4zdS6
+    title: "MIT Outing Club News, Vol. VI No. 17, IOCA Song Fest issue"
+    date: "1944-05-15"
+    type: GNARMPFSK
+
+  - drive: 1vpD3s0fFaHaXZaq4-ETdsNXCcQe7nKpF
+    title: "MIT Outing Club News, Vol. IV No. 8"
+    date: "1942-11-23"
+    type: GNARMPFSK
+
+  - drive: 18Fn7DPQWUiD1SctXC-CvgnhJk6anfXaJ
+    title: "MIT Outing Club News, Vol. IV No. 7"
+    date: "1942-11-16"
+    type: GNARMPFSK
+
+  - drive: 1HFv5KOHLoAFVadlutcVfewp6TUBmrFML
+    title: "MIT Outing Club News, Vol. IV No. 6"
+    date: "1942-11-09"
+    type: GNARMPFSK
+
+  - drive: 1jr2EMJXPCMT750AZvZuf1dgUTEuEzbPy
+    title: "MIT Outing Club News, Vol. IV No. 5"
+    date: "1942-11-02"
+    type: GNARMPFSK
+
+  - drive: 1TTkBIxBB6u_5nEO-VpqcbQQcJa_VNKVl
+    title: "MIT Outing Club News, Vol. IV No. 3"
+    date: "1942-10-19"
+    type: GNARMPFSK
+
+  - drive: 1h9vGGGhfvf_CfEMdC4QvGRwXLu1zayY6
+    title: "MIT Outing Club News, Vol. IV No. 1"
+    date: "1942-10-05"
+    type: GNARMPFSK
+
+  - drive: 1OWZcxYL3l5z-sNRtne4YuypnaHtPADB5
+    title: "MIT Outing Club News, Vol. III No. 24"
+    date: "1942-05-09"
+    type: GNARMPFSK
+
+  - drive: 1NxgXYkOiMu3cJgNigE0J9qv6UCQH75UI
+    title: "MIT Outing Club News, Vol. III No. 23"
+    date: "1942-05-02"
+    type: GNARMPFSK
+
+  - drive: 1gTUSAxxE-axjAUbjmuDzPkC1db_LqbJA
+    title: "MIT Outing Club News, Vol. III No. 22"
+    date: "1942-04-25"
+    type: GNARMPFSK
+
+  - drive: 1pj5PTwDKk99qomyzTvY9Y3tTuD62wIrB
+    title: "MIT Outing Club News, Vol. III No. 21"
+    date: "1942-04-11"
+    type: GNARMPFSK
+
+  - drive: 1xWtpJf-VRGoGp1ypOHVpspUiGnM_5vRg
+    title: "MIT Outing Club News, Vol. III No. 20"
+    date: "1942-04-04"
+    type: GNARMPFSK
+
+  - drive: 16ASE7aWcmXicYMwy7pU445m09rkyBPJr
+    title: "MIT Outing Club News, Vol. III No. 19"
+    date: "1942-03-28"
+    type: GNARMPFSK
+
+  - drive: 1mb6li34hNUuTP5J_bXfgIF_etzb5d6I-
+    title: "MIT Outing Club News, Vol. III No. 18"
+    date: "1942-03-21"
+    type: GNARMPFSK
+
+  - drive: 1R9fg41ZZRWeu1hUZXfMg3KC66vY5K9vN
+    title: "MIT Outing Club News, Vol. III No. 17"
+    date: "1942-03-16"
+    type: GNARMPFSK
+
+  - drive: 1XgNb3AvZJGpHu6rKFS7itKMF2L943cI-
+    title: "MIT Outing Club News, Vol. III No. 15"
+    date: "1942-03-02"
+    type: GNARMPFSK
+
+  - drive: 1xj4if4cG_JFTsd9s2L_k_nBfJOEiMa-y
+    title: "MIT Outing Club News, Vol. III No. 14 (3)"
+    date: "1942-02-17"
+    type: GNARMPFSK
+
+  - drive: 1XrreIvQujj3JitPge5SnV5H4c3f1AU1T
+    title: "MIT Outing Club News, Vol. III No. 14 (2)"
+    date: "1942-02-09"
+    type: GNARMPFSK
+
+  - drive: 1Qp3LfYi64rxNIUn11ca-YqPHcC7d7Jve
+    title: "MIT Outing Club News, Vol. III No. 10"
+    date: "1941-12-15"
+    type: GNARMPFSK
+
+  - drive: 18T9JUVn66L-KWwR8Sb294x7j3hXX9Rsc
+    title: "MIT Outing Club News, Vol. III No. 9"
+    date: "1941-12-08"
+    type: GNARMPFSK
+
+  - drive: 1I4WQsR8ck7LyUvjeDewAA0DqlirXf2tp
+    title: "MIT Outing Club News, Vol. III No. 8"
+    date: "1941-12-01"
+    type: GNARMPFSK
+
+  - drive: 1orxGOMM3twWmLQ93IDjHkQNHkCuzTvGb
+    title: "MIT Outing Club News, Vol. III No. 7"
+    date: "1941-11-24"
+    type: GNARMPFSK
+
+  - drive: 1DmNi86_Tslvuk0mzSJ643x8bctWmXONP
+    title: "MIT Outing Club News, Vol. III No. 6"
+    date: "1941-11-10"
+    type: GNARMPFSK
+
+  - drive: 1ph3rK6QmC2Hjz60bhaOmLDte5GzAy0Uw
+    title: "MIT Outing Club News, Vol. III No. 5"
+    date: "1941-11-03"
+    type: GNARMPFSK
+
+  - drive: 1PPuEiZYST_XyUUDGJOuUIbwvznRCPPTY
+    title: "MIT Outing Club News, Vol. III No. 3"
+    date: "1941-10-20"
+    type: GNARMPFSK
+
+  - drive: 11CednQD3dNwjZAu0y8MoKuLK2uWqybNp
+    title: "MIT Outing Club News, Vol. II No. 25"
+    date: "1941-05-12"
+    type: GNARMPFSK
+
+  - drive: 1l_lBglHYArhVvpisnpBy3TyJdufVbV5y
+    title: "MIT Outing Club News, Vol. II No. 24"
+    date: "1941-05-05"
+    type: GNARMPFSK
+
+  - drive: 1sc-rZOrRhGYTUYEDM66Vxvu9trpLKOJi
+    title: "MIT Outing Club News, Vol. II No. 23"
+    date: "1941-04-28"
+    type: GNARMPFSK
+
+  - drive: 1lzw9iv6hmtHv7C355lfVLPw6XcstLHYe
+    title: "MIT Outing Club News, Vol. II No. 21"
+    date: "1941-04-14"
+    type: GNARMPFSK
+
+  - drive: 11pwSqA9xlVTU613A_xSJA8r67X75FRZW
+    title: "MIT Outing Club News, Vol. II No. 19"
+    date: "1941-03-24"
+    type: GNARMPFSK
+
+  - drive: 10XoMJQZRbmGx6AzE6m-8UhLMb2WgzG2i
+    title: "MIT Outing Club News, Vol. II No. 16"
+    date: "1941-03-03"
+    type: GNARMPFSK
+
+  - drive: 16ZBT1GnyFD4NJWMZScLkeKjjh3gXaMgF
+    title: "MIT Outing Club News, Vol. II No. 15"
+    date: "1941-02-24"
+    type: GNARMPFSK
+
+  - drive: 1QpN3xbB5erNYlpvkwSn8nkywWZNdcQvR
+    title: "MIT Outing Club News, Vol. II No. 13 and a half, Fifth Birthday Blowout extra"
+    date: "1941-01-25"
+    type: GNARMPFSK
+
+  - drive: 1jRK2wQaPXGlvEd3bGFOkDSuBUsuoJ1Lw
+    title: "MIT Outing Club News, Vol. II No. 13"
+    date: "1941-01-23"
+    type: GNARMPFSK
+
+  - drive: 1uvd4rIzelid6Uw-aH1vg806fdTYOYffj
+    title: "Conditioning trip to Liberty Spring Shelter, trip report"
+    date_display: Undated
+    type: Stories
+
+
+  - drive: 1TXdspXsA7qNejaU2jbeaYgNpHjksWUWW
+    title: "It Ain't So, Katahdin sunrise essay"
+    date_display: Undated
+    type: Stories
+
+
+  - drive: 1LHJImJqZy3nQO2Q3w1FdztO8boGWEWOj
+    title: "Skiing Tuckerman Ravine, trip report"
+    date_display: Undated
+    type: Stories
+
+  - drive: 1JR1UCzw85StxArNOdji99NTUXW3wrAJh
+    title: "MIT Outing Club square dance poster, Charlie Webster calling"
+    date_display: Undated
+    type: Other
+
+  - drive: 1A-vSZaLDFR1UFwTbfJSmUz813S4GgERP
+    title: "The MITOC Maximum Entropy Ski Safari, trip report"
+    date_display: Undated
+    type: Stories
+
+  - drive: 1rjbSe81RXDvtwVxgjbaD4IFkcsxKYb0Y
+    title: "Wildcat ski trip report, the Mad Bombers"
+    date_display: Undated
+    type: Stories
+
+  - drive: 1nV7E_-orQEtt1gDlotSrOheH2KpOtqi7
+    title: "Map, How to Get to the Gap"
+    date_display: Undated
+    type: Other

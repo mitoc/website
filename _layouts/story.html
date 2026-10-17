@@ -1,0 +1,43 @@
+---
+layout: base
+---
+{% comment %}
+  Layout for GNARMPFSK stories (_pages/about/gnarmpfsk/stories/).
+  Front matter: title, author, date ("YYYY-MM-DD"), type; optional subtitle
+  and date_display.
+  Photos: wrap an <img> in <a href="full.jpg" data-lightbox="story" data-caption="...">
+  to open it full screen; use <figure> for a single photo or <div class="story-photos">
+  for a grid.
+{% endcomment %}
+<article class="story">
+    <p class="story-back"><a href="/about/gnarmpfsk">&larr; Back to GNARMPFSK</a></p>
+    <header class="page-header">
+        <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}<p class="story-subtitle">{{ page.subtitle }}</p>{% endif %}
+        <p class="story-meta">
+            {% if page.author %}By {{ page.author }} &middot; {% endif %}
+            {% if page.date_display %}{{ page.date_display }}{% else %}{{ page.date | date: "%B %-d, %Y" }}{% endif %}
+        </p>
+    </header>
+    <div class="story-body">
+        {{ content }}
+    </div>
+</article>
+
+<style>
+    .story { max-width: 1000px; margin: 0 auto; }
+    .story-back { margin-top: 20px; }
+    .story-subtitle { font-size: 20px; color: #555; margin: 10px 0 0; }
+    .story-meta { color: #777; margin: 8px 0 0; }
+    .story-body { font-size: 18px; line-height: 1.7; }
+    .story-body p { margin-bottom: 1.2em; }
+    /* Give a figure an inline max-width equal to its image's natural width, so
+       small photos are never upscaled and the caption wraps to the photo. */
+    .story-body figure { margin: 1.5em auto; max-width: 100%; }
+    .story-body figure img { display: block; width: 100%; border-radius: 2px; }
+    .story-body figcaption { color: #777; font-size: 14px; margin-top: 6px; }
+    .story-photos { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px; margin: 1.5em 0; }
+    .story-photos img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+</style>
+
+{% include lightbox.html %}

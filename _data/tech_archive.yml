@@ -1,0 +1,3942 @@
+# Every issue of The Tech that mentions the MIT Outing Club, from a full-text
+# search of The Tech's archive. Rendered by _pages/about/gnarmpfsk/tech-archive.md.
+#
+# date:    read from the issue's own masthead in the scan's OCR (the date that
+#          repeats on every page). Missing for a handful of issues whose
+#          masthead did not survive the scan; `year` is then all we show.
+# year:    the volume's year, which for volumes spanning January can be a year
+#          earlier than the issue's date.
+# pages:   the pages the club is mentioned on.
+# longer:  set when the mention looks like a piece of writing rather than a
+#          trip notice, calendar entry or a passing name in a list. Judged
+#          from the snippet, so it is approximate; issues we transcribed or
+#          that The Tech publishes as an article are always marked.
+# story:   slug of our transcription, under /about/gnarmpfsk/articles/.
+# link:    The Tech's own page, for issues it publishes as more than a scan.
+issues:
+  - vol: 44
+    issue: 4
+    year: 1924
+    date: "1924-03-26"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v44-i4
+    snippet: "A hike through the Blue Hills Reservation on Saturday, March 29, is being planned by the Outing Club, starting from the main lobby and going by street car to Blue Hill Station. The hike will hegin with the ascent of Big Blue, the highest point of lan..."
+    longer: true
+    story: blue-hills-1924
+  - vol: 44
+    issue: 5
+    year: 1924
+    date: "1924-03-28"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i5
+    snippet: "...be continued) Notices and Announcements AJl netices for this column should be in by the morning of the day preOUTING CLUB The cre will be a ten mile hike through the Blue Hills Saturday afternoon March 29. Party will leave from the main lobby at 1:30 and will..."
+  - vol: 44
+    issue: 12
+    year: 1924
+    date: "1924-04-14"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i12
+    snippet: "OUTING CLUB _ sAttention of the members of the Outing Clib ts called to the trips that are being run every week end—horseback riding, hiking, ete. Watch the main bulletin board."
+  - vol: 44
+    issue: 13
+    year: 1924
+    date: "1924-04-16"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i13
+    snippet: "OUTING CLUB _ Attention of the members of the Outing Club is called to the trips that are being rum every week end—horseback riding, hiking, etc. Watch the main Dulletin board."
+    longer: true
+  - vol: 44
+    issue: 17
+    year: 1924
+    date: "1924-04-28"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i17
+    snippet: "...t it’s a fact. Today. football must share the henors and interest with baseball, hockey, basketball, the Outing Club, fencing and even handball! Athletics are a means now, not an end. Health, friendships with men in other colleges, exercise and a wid..."
+    longer: true
+  - vol: 44
+    issue: 19
+    year: 1924
+    date: "1924-05-02"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i19
+    snippet: "OUTING CLUB A meeting of all members of the Outing Club will be held Monday, May 5 at 5:15 in Walker. Elections will be held at this time."
+  - vol: 44
+    issue: 20
+    year: 1924
+    date: "1924-05-05"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i20
+    snippet: "OUTING CLUB A meeting of all members of the Outing Club will be held today at 5:15 in Walker. Elections will be held at this time."
+  - vol: 44
+    issue: 22
+    year: 1924
+    date: "1924-05-09"
+    pages: [1]
+    n: 2
+    id: mit_the_tech_newspaper-v44-i22
+    snippet: "Results of the Outing Club elections have just been announced. These men were elected at meeting held last Mondav but were just made public. The officers for the coming year are: President. G. W. Elkins ‘25: Vice-President, H. N. Sachs ‘25; Seeretary..."
+    longer: true
+    story: elections-1924
+  - vol: 44
+    issue: 36
+    year: 1924
+    date: "1924-10-06"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i36
+    snippet: "...is the two button jacket sketched above. « work of upholding the traditions of the \\Waiker Memorial, M. I. T. OUTING CLUB The M. I T. Outing Club was or- [gam a tmp ease a20 for the pur fase | vo ALLL RRR TT Pal ct au TIE | THE ONLY MONTHLY MAGAZINE FOR COLLEG..."
+  - vol: 44
+    issue: 41
+    year: 1924
+    date: "1924-10-20"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v44-i41
+    snippet: "A smoker will be held Thursday evening by the M. I. T. Outing Club in Walker from 5 until 6 o’clock to serve as a get-together for the members. An informal discussion will take place concerning the club’s policies for the ensuing year. The sports in..."
+  - vol: 44
+    issue: 50
+    year: 1924
+    date: "1924-11-10"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v44-i50
+    snippet: "The Outing Club is running a horseback trip next Sunday afternoon. See bulletin in main lobby for details and sign up there."
+  - vol: 44
+    issue: 51
+    year: 1924
+    date: "1924-11-12"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i51
+    snippet: "OUTING CLUB The Outing Club is running a horseback trip next Sunday afternoon. See bulletin in main lobby for details and sign up there."
+  - vol: 44
+    issue: 55
+    year: 1924
+    date: "1924-11-21"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v44-i55
+    snippet: "Final plans were completed yesterday for the Outing Club smoker to be held in north hall, Walker Memorial, on December 4. At this meeting final"
+    longer: true
+  - vol: 44
+    issue: 57
+    year: 1924
+    date: "1924-11-26"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i57
+    snippet: "OUTING CLUB The Outing Club is running a hike next Sunday afternoon. See the main lobby bulletin board for details and sign up there."
+  - vol: 44
+    issue: 58
+    year: 1924
+    date: "1924-11-28"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i58
+    snippet: "OUTING CLUB The Outing Club is conducting a hike next Sunday afternoon. See the main lobby bulletin board for details and sign up there."
+  - vol: 44
+    issue: 59
+    year: 1924
+    date: "1924-12-01"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v44-i59
+    snippet: "...0--Lecture oon 4-321, &:0—Lectiire om “Functions and Vectors” by Prof. Wiener, north hall, Walker, 8:00—-Outing Club smoker, north hal, Walker Thursday, December 4 4:00—Lecture on ‘*Spectrochemistry room 4-231, Friday, December 5 3:00-—Aldred Lecture..."
+  - vol: 44
+    issue: 60
+    year: 1924
+    date: "1924-12-03"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v44-i60
+    snippet: "The annual smoker oi the Outing Club will be held tomorrow night at eight o'clock in north hall, Walker. There will be pictures at the smoker. The purpose of this conclave is to find out how many members of the club are going to take the annual Winte..."
+  - vol: 44
+    issue: 74
+    year: 1924
+    date: "1925-01-21"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v44-i74
+    snippet: "...on Sunday. January 25. Those who wish to do se imay purchase diner whielr will be provided at the Winchester Outing Club, or Tunch may be brought fram home. hg Carbon Molecule Models Built of The purty will meet at Arlington sane : Center. where the Wincheste..."
+  - vol: 44
+    issue: 78
+    year: 1924
+    date: "1925-02-01"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i78
+    snippet: "OUTING CLUB There will be a skiing party at the Winchester Country Club Sunday, Feb. 1. For particulars see the bulletin board."
+  - vol: 44
+    issue: 83
+    year: 1924
+    date: "1925-02-11"
+    pages: [3, 7]
+    n: 2
+    id: mit_the_tech_newspaper-v44-i83
+    snippet: "OUTING CLUB There will be a trip to Mt. Monadnoch over the 22 of February. ‘Good snowshoeing. Bulletin in basement of building 3 for details."
+  - vol: 44
+    issue: 85
+    year: 1924
+    date: "1925-02-16"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v44-i85
+    snippet: "OUTING CLUB There will be a trip to Mt. Monadnoch over the 22 of February. Good snowshoeing. Bulletin in basement of building 3 for details."
+  - vol: 45
+    issue: 16
+    year: 1925
+    date: "1925-05-03"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v45-i16
+    snippet: "...inations in Information Office. 1:00--Hog Island Trip by R.O.T.C. students. All invited. ; 1:15—Start of Outing Club trip to Mt. Mon-..."
+  - vol: 45
+    issue: 23
+    year: 1925
+    date: "1925-05-18"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v45-i23
+    snippet: "OUTING CLUB ELECTIONS The Outing Club will hold a general meeting in the committee room in Walker, Thursday, May 21 at 5, to elect officers. All members are earnestly requested to be present."
+    longer: true
+  - vol: 45
+    issue: 24
+    year: 1925
+    date: "1925-05-20"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v45-i24
+    snippet: "OUTING CLUB ELECTIONS The Outing Club will hold a general meeting in the committee room in Walker, tomorrow at 5, to elect officers. All members are earnestly requested to be present."
+    longer: true
+  - vol: 45
+    issue: 26
+    year: 1925
+    date: "1925-05-25"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v45-i26
+    snippet: "At a meeting of the Outing Club yesterday evening the following men were elected as officers for the coming year. President, H. P. Sisk '27; Vice President, W. L. Hamilton ’26; SecretaryTreasurer, R. K. Doten ’27; Committee on Outings, Edgar O’Neil ’..."
+  - vol: 45
+    issue: 45
+    year: 1925
+    date: "1925-10-28"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v45-i45
+    snippet: "who like skating, skiing, hiking, hhorseback riding, mountaineering ana other outside recreations; ‘panionship of kindred spirits, are the ones the Outing Club wishes to reach"
+    longer: true
+  - vol: 45
+    issue: 60
+    year: 1925
+    date: "1925-12-02"
+    pages: [7]
+    n: 2
+    id: mit_the_tech_newspaper-v45-i60
+    snippet: "All members are expected to attend an important re-organization meeting of the Outing Club Tuesday,. December S, at 5, in the Faculty Dining Room, Walker."
+  - vol: 45
+    issue: 62
+    year: 1925
+    date: "1925-12-07"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v45-i62
+    snippet: "All members are expected to attend an important re-organization meeting of the Outing Club tomorrow at 5, in the Faculty Dining Room, Walker."
+    longer: true
+  - vol: 45
+    issue: 73
+    year: 1925
+    date: "1926-01-11"
+    pages: [2, 5]
+    n: 3
+    id: mit_the_tech_newspaper-v45-i73
+    snippet: "Tuesday January 12 5:00—Christian Science Society meeting, room 4-132. 5:00-——Outing Club meeting, Faculty Dining room, Walker. 6:00—-Tech Boat Club crew dinner, Walker Grill Room. Wednesday, January 13"
+  - vol: 45
+    issue: 79
+    year: 1925
+    date: "1926-01-27"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v45-i79
+    snippet: "A party of eight or ten members of the M. I. T. Outing Club will go on their annual winter trip to North Woodstock, New Hampshire on Saturday, January 30. The Party will slay at the Agassiz Cabin of the Dartmouth Outing Club."
+  - vol: 46
+    issue: 5
+    year: 1926
+    date: "1926-02-17"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v46-i5
+    snippet: "2-190. 5:00—Outing Club meeting, Faculty Dining Room. ; : 8:00—Menorah Society, _Joint with Radcliffe, North Hail. Friday, February 19 7:00—-Belgian Student’s Dinner Meeting, North Hall, Walker. : 8:00—Informal Dorm Dance, Main Hall, Walker. 8:00—Deb..."
+  - vol: 46
+    issue: 12
+    year: 1926
+    date: "1926-03-08"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v46-i12
+    snippet: "...mittee and Marshalls Meeting, Walker Committee Room 5.00—Christian Science Society Meeting, room 4-132, 5: 00—Outing: Club Meeting, ing Room, Walker. $:15--Whiting Concert, room 10-250. Wednesday, March 10 7:30--Aero Society Smoker, room” 5-330. Thursday, Marc..."
+  - vol: 47
+    issue: 84
+    year: 1927
+    date: "1927-12-21"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v47-i84
+    snippet: "A small group of skiing enthusiasts listened to an absorbing lecture last Monday evening on the art of skiing presented by an expert Alpine skier, Hans O. Kundt, at a meeting of the Technology Outing Club, which"
+    longer: true
+  - vol: 48
+    issue: 26
+    year: 1928
+    date: "1928-04-09"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v48-i26
+    snippet: "...nese Club. Latin-American Club. Menorah Society. M. 1. T. Post Society of Military Engineers. Norwegian Club. Outing Club. Radio Club, Rifle Club. CONFED ERENCE HOUR TO BE HELD THURSDAY Information On Courses May Be Secured By Freshmen As a result of the cours..."
+  - vol: 49
+    issue: 80
+    year: 1929
+    date: "1930-01-06"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v49-i80
+    snippet: "...echnology is among the schools invited to compete in the twentieth annual Winter Sports Meet held by the Outing Club of Dartmouth College at Hanover, New Hampshire on February 6, 7, and 8 inclusive. The members of the various teams taking part in the..."
+    longer: true
+  - vol: 51
+    issue: 10
+    year: 1931
+    date: "1931-03-06"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v51-i10
+    snippet: "...ity of Rochester co-eds of winning their Ietters for athletics. According to the President of the Co-eds Outing Club girl students may obtain credits in athletics by engaging in such extra aclivities,..."
+    longer: true
+  - vol: 53
+    issue: 6
+    year: 1933
+    date: "1933-02-24"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v53-i6
+    snippet: "Any member of the Chess Club, the Chinese Student’s Club, the Outing Club, or the Polo and Riding Club who ig still in the Institute will find an important message awaiting him at the Superintendent’s office. The Institute Committee is endeavoring to..."
+  - vol: 53
+    issue: 12
+    year: 1933
+    date: "1933-03-21"
+    pages: [1, 2]
+    n: 2
+    id: mit_the_tech_newspaper-v53-i12
+    snippet: "...sented to the committee by Thursday, March 23: Architectural Society, Debating Society, Mortar and Ball, Outing Club, Polo and Riding Club, Riffe Club, Squash Racquets Club,..."
+  - vol: 53
+    issue: 13
+    year: 1933
+    date: "1933-03-24"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v53-i13
+    snippet: "The motion that the following activities be abolished was made: Architectural Society, Debating Club, Mortar and Ball, Outing Club, Polo and Riding Club, Rifle Club, and Squash Racquets Club."
+    longer: true
+    story: abolish-1933
+  - vol: 55
+    issue: 50
+    year: 1935
+    date: "1935-12-06"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v55-i50
+    snippet: "...ll kind met last Wednesday and organized a club to be known as the Massachusetts Institute of Technology Outing Club. At present the club is seeking recognition by the Institute Committee. Its members consists of men interested in skiing, skating, sn..."
+    longer: true
+    story: founding-1935
+  - vol: 56
+    issue: 5
+    year: 1936
+    date: "1936-02-25"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v56-i5
+    snippet: "...kiing. At 2:30 o’clock races were held on a course marked out by Tom Kinraide, president of the M. I. T. Outing Club,..."
+  - vol: 56
+    issue: 6
+    year: 1936
+    date: "1936-02-28"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v56-i6
+    snippet: "3:00 nomics of Synthetic Materials.” 5:00 M.I. T. Outing Club Meeting, Room 6-120. 7:45 Debate with New York University, Eastman Lecture Hall. 8:00 Varsity Basketball with Brown at Providence. 8:30 Drama Club presents “Loose Moments,” Brattle Hall, C..."
+  - vol: 56
+    issue: 11
+    year: 1936
+    date: "1936-03-17"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v56-i11
+    snippet: "...freshmen lost by ref- (Continued on Page 4) Wrestling Ski Films In Austrian ‘Alps To Be Shown Wed. , By M.LT. Outing Club Movies Will Depict Winter Sports In The Gurgh, Tyrol, Carinthian Alps A series of films of skiers in the ‘Austrian Alps will be shown on W..."
+  - vol: 56
+    issue: 12
+    year: 1936
+    date: "1936-03-20"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v56-i12
+    snippet: "It was also announced at this meeting that the M. I. T. Outing Club was recently recognized by the Institute Committee as an official activity at Technology."
+    longer: true
+    story: recognition-1936
+  - vol: 56
+    issue: 19
+    year: 1936
+    date: "1936-04-14"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v56-i19
+    snippet: "...ake a rough prediction as to the future on the basis of past experience, and then exam- (Continued on Page 4) Outing Club Plans |Albert Bemis Dies Vacation Ski Trip Trains Leave On Morning Of April 19: Dr. Hauser Will Instruct Real sport is in store for the me..."
+  - vol: 56
+    issue: 43
+    year: 1936
+    date: "1936-11-06"
+    pages: [5]
+    n: 2
+    id: mit_the_tech_newspaper-v56-i43
+    snippet: "The M. I. T. Outing Club will begin its 1936-37 program Tuesday afternoon, November 10, at five o’clock in room 6-120 when Hannes Schneider’s film, “Skiing in Austria” will be shown. All students and members of the faculty are invited to the meeting."
+  - vol: 56
+    issue: 45
+    year: 1936
+    date: "1936-11-13"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v56-i45
+    snippet: "The M. I. T, Outing Club is holding a membership drive today in the Main Lobby, and all members of the Institute are invited to join. In addition to holding entertaining -meetings, the club is trying to give skiing opportunities to as many people as..."
+    longer: true
+    story: members-1936
+  - vol: 56
+    issue: 46
+    year: 1936
+    date: "1936-11-17"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v56-i46
+    snippet: "...Faculty Room, Walker. 7:30—Dramashop Dress Rehearsal, Rogers Building. Wednesday, November 18, 1936 5:00—Outing Club Mass Meeting, Room 6-120. 6:00-—-Graduate House Dinner, North Hall, Walker. 6:30—Assoc. General Contractors, Dinner, Grill Room, Walk..."
+  - vol: 56
+    issue: 47
+    year: 1936
+    date: "1936-11-20"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v56-i47
+    snippet: "...PA Where Boston Business Goes “Homes” to bunch A bump in the plane can fly Feue PY famed [lates he 5 THE TECH Outing Club Members Set Snow Train Date The date for this year’s Technology Snow Train was set’ as January 17 at the mass ‘meetirig’ of the Outing ski..."
+  - vol: 56
+    issue: 48
+    year: 1936
+    date: "1936-11-24"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v56-i48
+    snippet: "Tuesday, November 24, 1936 12:00—-Tau Beta Pi Luncheon, Silver Room, Walker. 5:00—Outing Club Meeting, Room 6-120. 5:00—Debating Club Meeting, West Lounge, Walker. 6:15—Propellor Club Dinner, Grill Room, Watker. 7:15—Glee Club Rehearsal at Wellesley...."
+  - vol: 56
+    issue: 49
+    year: 1936
+    date: "1936-12-01"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v56-i49
+    snippet: "...m showing Hannes Schneider in action. This film was shown for the first time in the United States by the Outing Club last March and was met with such approval that they have decided to present it again. These pictures should also be of great interest..."
+    longer: true
+  - vol: 56
+    issue: 50
+    year: 1936
+    date: "1936-12-04"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v56-i50
+    snippet: "...esley, and Boston University have all been entertained by his music. Hannes Schneider and His Aides Guests At Outing Club Meeting Movies Of Skiing In Austria Given Showing Troupe In Action Hannes Schneider, world’s foremest skiing teacher and his two aides, Ot..."
+  - vol: 56
+    issue: 51
+    year: 1936
+    date: "1936-12-08"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v56-i51
+    snippet: "...l in their first teounter because most of those out ffor the team have had previous exerience in prep school. Outing Club Sponsors ' Dry Course In Skiing The first of a series of instruction iriods in the elements of skiing will te held today at 5:00 P. M. in..."
+  - vol: 56
+    issue: 52
+    year: 1936
+    date: "1936-12-11"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v56-i52
+    snippet: "... Department of Civil Engineering, who represented the faculty club, Roland French, 738, representing the outing club, and Richard Muther, '37, hockey captain, speaking for those interested in hockey. It was suggested that a skating rink be erected on..."
+  - vol: 56
+    issue: 53
+    year: 1936
+    date: "1936-12-15"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v56-i53
+    snippet: "...ce to practice while speed skaters could be developed to represent the Institute as do the skiers of the Outing Club. There are also such possibilities as the development of faculty or interdepartmental curling teams. Ice carnivals might be held and..."
+    longer: true
+  - vol: 56
+    issue: 54
+    year: 1936
+    date: "1936-12-18"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v56-i54
+    snippet: "...nts. The maximum which these men have exceeded is a tota} of 12 points for Seniors and 10 points for Juniors. Outing Club Refused Allocation The request of the Outing Ciub for monetary grant was denied beeause the Institute Committee expressed a feeling that s..."
+    longer: true
+  - vol: 56
+    issue: 56
+    year: 1936
+    date: "1937-01-08"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v56-i56
+    snippet: "...brought their own lunch. At three in the afternoon, races will be held under the supervision of the M. I. T. Outing Club. There will (Continued on Page 4) Snow Train many excellent winter For Undergraduate Activities Corporation Told Of $491,478 Gifts To The..."
+  - vol: 57
+    issue: 5
+    year: 1937
+    date: "1937-02-26"
+    pages: [5]
+    n: 4
+    id: mit_the_tech_newspaper-v57-i5
+    snippet: "...uncertain weather conditions, the official 19387 M. I. T. Snow Train, sponsored by the Faculty Club, the Outing Club, and the Beaver Key Society, has been cancelled, it was announced last night. All those who have purchased options can have their mon..."
+    longer: true
+  - vol: 57
+    issue: 44
+    year: 1937
+    date: "1937-11-16"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v57-i44
+    snippet: "Activities of the M. f. T. Outing Club will begin for this season at ari organization meeting of the old members today. Plans will be laid for an intensive membership drive to be climaxed by a mass meeting at the end"
+    longer: true
+  - vol: 57
+    issue: 47
+    year: 1937
+    date: "1937-11-30"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v57-i47
+    snippet: "Beginning yesterday, the annual membership drive of the Technology Outing Club, which is being held in the Main Lobby from 10 A, M. to 2 P. M. will continue through tomorrow. Twenty members have already paid their dues, which are $1.00 for old member..."
+  - vol: 57
+    issue: 50
+    year: 1937
+    date: "1937-12-10"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v57-i50
+    snippet: "Skiing pictures entitled “Winter Scenes in Austria” will be shown to the Outing Club by Dr. Ernst A. Hauser on Wednesday, December 15, in Room 6-120 at 5:00 P. M. AlIl students are invited."
+  - vol: 57
+    issue: 51
+    year: 1937
+    date: "1937-12-14"
+    pages: [1, 2]
+    n: 5
+    id: mit_the_tech_newspaper-v57-i51
+    snippet: "Eleven members of the Outing Club braved zero weather to climb 4,000foot Whiteface Mountain in New Hampshire last Sunday. The group left Technology at 1 P. M. Saturday, and after a late arrival at Center Sandwich made an attempt at meoonlight skiing..."
+    longer: true
+    story: whiteface-1937
+  - vol: 57
+    issue: 52
+    year: 1937
+    date: "1937-12-17"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v57-i52
+    snippet: "Two action skiing films taken in the Austrian Alps were the feature of an Outing Club meeting held last Wednesday in Eastman. Dr. Ernst Hauser, who gives the dry skiing course sponsored by the Ciub, commented on the movies and discussed the finer poi..."
+    longer: true
+  - vol: 57
+    issue: 53
+    year: 1937
+    date: "1937-12-21"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v57-i53
+    snippet: "Tuesday, Dec. 21 5-6 P. M—MITAA Meeting—East Lounge. 5 P. M.—Outing Club—Dry Skiing Course—Hangar Gym. Wednesday, Dec. 22 5 P. M—Phi Gamma Delta Alumni of Amherst—Coellege Dinner—"
+  - vol: 57
+    issue: 55
+    year: 1937
+    date: "1938-01-07"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v57-i55
+    snippet: "The expedition, under the direction of the Beaver Key Society, in conjunction with the Faculty Club and the M. }. T. Outing Club, will provide facilities for both experienced skiers and novices. No location has been decided upon as yet."
+    longer: true
+  - vol: 57
+    issue: 58
+    year: 1937
+    date: "1938-01-18"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v57-i58
+    snippet: "Members of the Beaver Key Society in conjunction with the Faculty Club and Outing Club have made the arrangements for the expedition, in particular for instruction for beginners at skiing. Professor EK. A. Hauser, of the Chemical Engineering Departme..."
+    longer: true
+  - vol: 58
+    issue: 1
+    year: 1938
+    date: "1938-02-08"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v58-i1
+    snippet: "With the date for the snow train but a week off, a variety of attractions are offered by its sponsors—the Outing Club, the Beaver Key Society, and the Faculty Club."
+    longer: true
+  - vol: 58
+    issue: 4
+    year: 1938
+    date: "1938-02-18"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v58-i4
+    snippet: "...tercollegiate sport is gradually being inaugurated here at Tech—-new, that is, to the Institute. For the Outing Club has sent several ski teams this year to compete in the various winter carnivals in New Engiand. In view of the rising tide of popular..."
+    longer: true
+  - vol: 58
+    issue: 11
+    year: 1938
+    date: "1938-03-15"
+    pages: [6]
+    n: 1
+    id: mit_the_tech_newspaper-v58-i11
+    snippet: "Illustrating his talk by actual movies (Gosh), Mr. Kenneth Henderson, one of the outstanding rockbreakers of the country, introduced rockclimbing to the M. I. T. Outing Club yesterday afternoon in Room 6-120."
+  - vol: 58
+    issue: 17
+    year: 1938
+    date: "1938-04-08"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v58-i17
+    snippet: "...emoriai Committee had become less important. A motion was passed to (Continued on Page 4) Institute Committee Outing Club To Have Movies Next Monday Metion pictures of rock climbing will feature a meeting of the Outing Club on Monday, April 11, in Room 6-120...."
+  - vol: 58
+    issue: 18
+    year: 1938
+    date: "1938-04-12"
+    pages: [2]
+    n: 5
+    id: mit_the_tech_newspaper-v58-i18
+    snippet: "...amous mountains in the vicinity. Mr. Henderson is in an excellent position to present the subject to the Outing Club, for he is a member of the Harvard Mountaineering Club, librarian..."
+    longer: true
+  - vol: 58
+    issue: 23
+    year: 1938
+    date: "1938-05-06"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v58-i23
+    snippet: "...t Paige, ’39, member ait large. They also approved the new officers of the A. S. M. E,, the S. A. E., and the Outing Club. New Officers The new officers of the A. 8. M. E. are Sidney Silber, 739, president, Richard J. Donohue, ’89, vice-president, John MeMulle..."
+    longer: true
+  - vol: 58
+    issue: 33
+    year: 1938
+    date: "1938-10-04"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v58-i33
+    snippet: "...y Room. WEDNESDAY P.M.—-Voo Doo Smoker—Faculty Room. P.M. 5:15 Club Meeting. P.M. Freshman Rally—10-250. P.M. Outing Club—Movies—1-390. P.M. Senior House Dinner—North Hall. P.M. Submaster’s Club Dinner—Silver Room. P.M. Dramashop Smoker—2-190. THURSDAY Noon Ac..."
+  - vol: 58
+    issue: 34
+    year: 1938
+    date: "1938-10-07"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v58-i34
+    snippet: "To introduce freshmen to the pleasant side of the Institute life, the Outing club plans a canoe trip for them with the Outing Club of Radcliffe. For the older and more experienced members of the club, there js to be a trip"
+    longer: true
+  - vol: 58
+    issue: 36
+    year: 1938
+    date: "1938-10-14"
+    pages: [3]
+    n: 5
+    id: mit_the_tech_newspaper-v58-i36
+    snippet: "...essor William D. Allis of the Physics Department who first laid out the route to the top. Members of the Outing Club, under whose auspices the expedition was held, were divided into two parties. one to climb the Pinnacle, and the other to scale the h..."
+    longer: true
+    story: pinnacle-1938
+  - vol: 58
+    issue: 40
+    year: 1938
+    date: "1938-10-28"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v58-i40
+    snippet: "The Technology Peace Federation constitution which was brought up at the last meeting, was accepted. Requested changes in the Outing Club constitution were approved, Jim S&S. Rumsey was appointed Junior member of the Senior Week Committee."
+    longer: true
+  - vol: 58
+    issue: 42
+    year: 1938
+    date: "1938-11-04"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v58-i42
+    snippet: "Outing Club members will climb the Black and White Cliffs in Melrose in a practice trip on Sunday. After memLers have acquired enough skill, an attempt will be made on Armistice Day to seale Joe English Hill under the direction of Professor William P..."
+    longer: true
+  - vol: 58
+    issue: 44
+    year: 1938
+    date: "1938-11-15"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v58-i44
+    snippet: "The Outing Club has announced a meeting to be held Wednesday, in Room 10-250 at 5:00 P.M., at which, in keeping with the advent of cold weather, skiing pictures will beshown, and samples of suitable skiing equipment demonstrated."
+  - vol: 58
+    issue: 46
+    year: 1938
+    date: "1938-11-22"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v58-i46
+    snippet: "...dnock, in New Hampshire, lunching at the summit, on Sunday afternoon. The expedition, sponsored by the !M.LT. Outing Club, ieft Radcliffe at ten o'clock Sunday morning, and nock at about twelve-thirty. , the group drove to the Tech Cabin, 'where they cooked a..."
+    longer: true
+  - vol: 58
+    issue: 48
+    year: 1938
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v58-i48
+    snippet: "...h a “big name” band. Graduate students as well as Seniors are urged by the Committee to come to these events. Outing Club Will Hold Skiing Team Try-outs Balknap Mountain, over 2,000 feet high, and one of New England’s newest skiing developments, is to be the s..."
+    longer: true
+  - vol: 59
+    issue: 1
+    year: 1939
+    date: "1939-02-07"
+    pages: [2, 3]
+    n: 4
+    id: mit_the_tech_newspaper-v59-i1
+    snippet: "A sYroup of ten members of the| Outing Club were guests at the Cloud-| land Cabin of the Dartmouth Quting! Club at Woodstock, Vermont, from Monday ull Friday. Jan, 30 through Feb. 3. Perfect skiing conditions prevailed."
+  - vol: 59
+    issue: 5
+    year: 1939
+    date: "1939-02-21"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v59-i5
+    snippet: "Page Four THE TECH a 7 * al oe eRe L Field House Outing Club Goes Skiing ‘Military Ball (Cantinued from Puge 1) © or P : C FA E N D FX R On L0.C.A.’s Weekend for coaches, 2 dressing room tor ofOp =a TUESDAY, FEB. 21 ficials, and three ruoms tor visit..."
+  - vol: 59
+    issue: 16
+    year: 1939
+    date: "1939-03-31"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v59-i16
+    snippet: "A party of hiking enthusiasts sponsored by the M.I.T. Outing Club took an experimental hiking trip in the White Mountains last weekend. This group, led by Professor Dean Peabody, of che department of Civil Engineering, and Albert A. Sargent, ’39, sca..."
+    longer: true
+    story: huntington-1939
+  - vol: 59
+    issue: 26
+    year: 1939
+    date: "1939-05-09"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v59-i26
+    snippet: "(Continued from Paye 1) , Outing Club [nology at Pittsburgh. The visiting | TUESDAY, MAY 9 steric president 5 team upheld the negative of the ques-] 5:00 P.M. Gridiron Meeting—East Lounge. VineChalvman Secretary-Treasurer 1} tion “Resolved, that the..."
+  - vol: 59
+    issue: 30
+    year: 1939
+    date: "1939-05-23"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v59-i30
+    snippet: "The M.LT. Outing Club will ena attain top flight competition we could at least play the game for the game’s sake with that excellent spirit of post-exam trip to the isolated KatahSportsmanship that has characterized din region, The exact date for the..."
+    longer: true
+  - vol: 59
+    issue: 34
+    year: 1939
+    date: "1939-09-29"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v59-i34
+    snippet: "The M.LT. Outing Club will begin its year’s program tomerrow afternoon, when new members will be taken to the Groton Cabin of the Dartmouth Outing Club of Boston. On Wednesday night of next week the club will hold its first meeting, and on the follow..."
+    longer: true
+  - vol: 59
+    issue: 35
+    year: 1939
+    date: "1939-10-03"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v59-i35
+    snippet: "The first trip of the Outing Club to & the Groton Cabin took place last SatUrday. After hiking and exploring the party had a home cooked supper. The rest of the evening was spent in singing and discussions relating to the * future plans of the club f..."
+    longer: true
+  - vol: 59
+    issue: 36
+    year: 1939
+    date: "1939-10-06"
+    pages: [2, 3]
+    n: 6
+    id: mit_the_tech_newspaper-v59-i36
+    snippet: "The Outing Club was granted $100 by the Institute Committee for the maintenance of a ski team. Previous to this, all expenses were borne by the Members themselves because the Onting. Club’s ski team is not a recoxnized sport and is therefore unable i..."
+    longer: true
+    story: skiteam-1939
+  - vol: 59
+    issue: 37
+    year: 1939
+    date: "1939-10-10"
+    pages: [3]
+    n: 5
+    id: mit_the_tech_newspaper-v59-i37
+    snippet: "...M. ACh de. Smoker—Main Hall. 8:00 P.M. Memorial Society Dance—Nerth Hall, THURSDAY, OCTOBER 12 9:00 A.M. Outing Club Rock Climbing Trip—Walker Steps. 2:00 P.M. Outing Club Freshmen Canoe Trip—Walker Steps. 6:30 PAL. A.S.MLE. Dinner—North Hall. FRIDAY..."
+  - vol: 59
+    issue: 38
+    year: 1939
+    date: "1939-10-17"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v59-i38
+    snippet: "...E TECH Tuesday, October 17, 1939 Jimmy Carmody Plays For Catholic Club Dance Jamming the Main Hall of Walker ‘Outing Club Elects Two New Officers The great man has not only a love for his work, but he has a consciousness and faith in its long range objectives...."
+  - vol: 59
+    issue: 39
+    year: 1939
+    date: "1939-10-20"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v59-i39
+    snippet: "...t Training Lecture—Room 10-250, SATURDAY, OCTOBER 21 1:00 P.M. Chess Club Meeting—East Lounge. 2:00 P.M. Outing Club Overnight Canoe Trip—Ly. Walker Memorial. SUNDAY, OCTOBER 22 10:00 A.M. Outing Club Rock Climbing Trip—Ly. Walker Memorial. 6:30 P.M...."
+  - vol: 59
+    issue: 40
+    year: 1939
+    date: "1939-10-24"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v59-i40
+    snippet: "...t. awards because he felt that a real attempt on the part of a student to . improve his physical health while Outing Club Completes rrying on the burd f studies * ° ° carrying on e burden of studie A other Cli bing Trip should be suitably recognized and reward..."
+    longer: true
+  - vol: 59
+    issue: 41
+    year: 1939
+    date: "1939-10-27"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v59-i41
+    snippet: "... Club Meeting—Last Lounge. 1:00 P.M. Tech Catholic Club Meeting—Room 10-267. SUNDAY, OCTOBER 29 7:30 AM. Outing Club Trip—Leaves from Walker. . 6:30 P.M. T.C.A. Drive Dinner For Solicitors~North Hall. 6:30 P.M. Alpha Phi Omega Dinner—Main Hall. MONDA..."
+  - vol: 59
+    issue: 42
+    year: 1939
+    date: "1939-10-31"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v59-i42
+    snippet: "...make the operation of the Institute run smoothly, than to attend the dance Friday. Tuesday, October 31, 1939 Outing Club Plans Trip Dramashop Plays With Wellesley On Sj. To Be se Presented MALT. have planned a joint overnight trip io The party will leave the..."
+  - vol: 59
+    issue: 43
+    year: 1939
+    date: "1939-11-03"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v59-i43
+    snippet: "...eRe eae oe. [ire P_, |nave been received from the student |{°Tmance at the Boston Opera House: 7:00 P.M. Outing Club Trip—Leave front steps of Walker Memorial. |» use and from 10 fraternities: Alpha| Mr. Massey, although a Canadian by 7:00 P.M. Agend..."
+  - vol: 59
+    issue: 44
+    year: 1939
+    date: "1939-11-07"
+    pages: [1, 3]
+    n: 5
+    id: mit_the_tech_newspaper-v59-i44
+    snippet: "...bin will probably be used for other with the cooperation of the Radeliffe| T.C.A. activities this year.” Outing Club. Alan A. Smith, °41, is Students who wish to redeem theit in charge of the dance; the square| pledges may do so at the T.C.A. office..."
+    longer: true
+  - vol: 59
+    issue: 45
+    year: 1939
+    date: "1939-11-10"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v59-i45
+    snippet: "...memade band will be composed of two fiddies, a mouth organ, and a guitar. The players are members of the Outing Club. Besides square dances there will be some singing. Cider and doughnuts are going to be served at the affair which will last from 8:30..."
+    longer: true
+    story: barndance-1939
+  - vol: 59
+    issue: 46
+    year: 1939
+    date: "1939-11-14"
+    pages: [1]
+    n: 4
+    id: mit_the_tech_newspaper-v59-i46
+    snippet: "...ly a few minor bruises were received. The Institute was represented by about twenty members of the M.LT. Outing Club who left Walker Memorial early Saturday morning...."
+    longer: true
+  - vol: 59
+    issue: 47
+    year: 1939
+    date: "1939-11-17"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v59-i47
+    snippet: "...uare dance, which will be one of the few dances to have been neld in the Hangar Gym in recent years. ihe Outing Club Dance Committee announces that a number of non-members Will be allowed to attend the dance. hose persons wishing to go to the dance m..."
+    longer: true
+  - vol: 59
+    issue: 52
+    year: 1939
+    date: "1939-12-08"
+    pages: [3]
+    n: 5
+    id: mit_the_tech_newspaper-v59-i52
+    snippet: "... 8:00 P.M. A.S.U. Social—Wellesley. 8:30 P.M, Dramaship—Second Performance. SUNDAY, DECEMBER |0 9:30 AM. Outing Club Equestrian Trip with Wellesley — Leaves Walker 9:30 A.M. 2:00 P.M. Chess Cluh—East Lounge. MONDAY, DECEMBER |! 9:00 AM. T.E.N. Comes..."
+  - vol: 59
+    issue: 53
+    year: 1939
+    date: "1939-12-12"
+    pages: [1, 3]
+    n: 2
+    id: mit_the_tech_newspaper-v59-i53
+    snippet: "...ation Dinner—Main Hall. 8:00 P.M. A.S.M.E. Meeting—Faculty Dining Room. WEDNESDAY, DECEMBER 13 5:00 P.M. Outing Club Open Meeting, Ted Hunter Speaker— Room 1-390. 5:45 P.M. Graduate House Dinner, Dr. Compton Speaker on “M.LT. Objectives’—Graduate Hou..."
+  - vol: 59
+    issue: 54
+    year: 1939
+    date: "1939-12-15"
+    pages: [3]
+    n: 6
+    id: mit_the_tech_newspaper-v59-i54
+    snippet: "...he constitution of the Circolo d’Italiano was referred to a special committee for investigation, and the Outing Club constitution was approved, The next meeting was moved to the llth of January...."
+    longer: true
+  - vol: 59
+    issue: 57
+    year: 1939
+    date: "1940-01-09"
+    pages: [2]
+    n: 4
+    id: mit_the_tech_newspaper-v59-i57
+    snippet: "Starting its third year, the ski team is receiving financial aid from the Institute Committee, although it is not @ recognized M.I.T.A.A. sport. It is hot necessary to belong to the Outing Club in order to be eligible for competition on the team."
+    longer: true
+  - vol: 60
+    issue: 4
+    year: 1940
+    date: "1940-02-16"
+    pages: [2, 3]
+    n: 2
+    id: mit_the_tech_newspaper-v60-i4
+    snippet: "...t two winters prevented such an excursion but in 1937 a ski train was organized by the Faculty Club, the Outing Club and the Beaver Key Society. This year’s outing is sponsored by the Faculty Club. Any inquiries concerning the ski train should be add..."
+    longer: true
+  - vol: 60
+    issue: 6
+    year: 1940
+    date: "1940-02-27"
+    pages: []
+    n: 4
+    id: mit_the_tech_newspaper-v60-i6
+    snippet: "...intock, ’42; trips director; Norman I. Shapira, ’41, meetings director; W. Kenneth Davis, '40, editor of outing club news; and Hans W. Aschaffenburg, °42, ski team manager. The selections were made by the retiring executive board...."
+    longer: true
+  - vol: 60
+    issue: 9
+    year: 1940
+    date: "1940-03-08"
+    pages: [1]
+    n: 2
+    id: mit_the_tech_newspaper-v60-i9
+    snippet: "...ren may tend to disrupt married happiness because of the restrictions they place upon individual freedom. New Outing Club Officers Elected Alan Smith Chosen To Head Organization During Coming Year Officers for next term were elected by the Onting Club at a mee..."
+    longer: true
+  - vol: 60
+    issue: 13
+    year: 1940
+    date: "1940-03-22"
+    pages: [1]
+    n: 4
+    id: mit_the_tech_newspaper-v60-i13
+    snippet: "Forty girls from Radcliffe, Smith and Sargent have been invited to attend the third square dance sponsored by the M.LT. Outing Club on Saturday, March 23, from 8:30 P.M. to midnight in the Hangar Gym."
+  - vol: 60
+    issue: 14
+    year: 1940
+    date: "1940-03-26"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v60-i14
+    snippet: "Fur the third time this year, the Outing Club returned to the spirit of pioneer New England by staging an old-fashioned square dance. Girls from the outing clubs of various Boston colleges arrived to join in the fun of the party which was held in Han..."
+    longer: true
+  - vol: 60
+    issue: 16
+    year: 1940
+    date: "1940-04-02"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v60-i16
+    snippet: "The Outing. Club is also planning a vip to the Tech Cabin for next weekend. Fourteen members and their ‘lates will hold a “real old-fashioned” square dance Saturday night followed by a hike on Sunday. Professor and Mrs. F, Alexander Magoun have signi..."
+    longer: true
+  - vol: 60
+    issue: 20
+    year: 1940
+    date: "1940-04-16"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v60-i20
+    snippet: "The annular eclipse on Sunday,} The Outing Club ‘has comp! April 7, was not without its effect ou] partial schedule of fourteen tr: Technology. For would a Tech man|activities for the months of pass by such an opportunity to make!May and June. These..."
+    longer: true
+  - vol: 60
+    issue: 25
+    year: 1940
+    date: "1940-05-07"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v60-i25
+    snippet: "...P.M. AS.U. Meeting—Litchfield Lounge. 6:00 P.M. lnstitute of Aeronautical Sciences—Morss Hall. 7:30 P.M. Outing Club Smoker—Faculty Dining Room. THURSDAY, MAY 9 2:00 P.M. Tennis vs. Rhode Island State—Home. 6:30 P.M. 1E.C. Dinner—Pritchett Hall. 6:30..."
+  - vol: 60
+    issue: 32
+    year: 1940
+    date: "1940-10-01"
+    pages: [5]
+    n: 1
+    id: mit_the_tech_newspaper-v60-i32
+    snippet: "She is also a member of the Outing Club because she loves to ski. Said Anne very generously, “I’ve a house at Gilford, New Hampshire, which we can use on trips, if somebody supplies a car.”"
+    longer: true
+  - vol: 60
+    issue: 33
+    year: 1940
+    date: "1940-10-04"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v60-i33
+    snippet: "... Faculty—President’s House. 8:15 P.M. Dormitory Freshman Danve—Morss Hall. SATURDAY, OCTOBER 5 3:00 P.M. Outing Club hike leaves—Walker steps. 65 PM. ADLM.E. Dinner—Pritchett Tall. 6:15 P.M. Boston Ordnance District—Under East Baleony of Morss Hall...."
+  - vol: 60
+    issue: 34
+    year: 1940
+    date: "1940-10-08"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v60-i34
+    snippet: "...L'T. Catholic Club Smoler—Pritchett Hall. 9:00 P.M. Swimming Rally and Exhibition—Alumni Pool. 3:00 P.M. Outing Club Meeting—Rvom 1-390, 5:00 P.M. Mining and Metal Society Mecting—Room 8-105. 7:00 P.M. Dramashop Smoker—Room 2-190. 8:00 P.M. A.P.O. Me..."
+  - vol: 60
+    issue: 36
+    year: 1940
+    date: "1940-10-15"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v60-i36
+    snippet: "Fifteen members of the M.LT. Outing Club will leave on Friday the eighteenth for a week-end at Mount Greylock, where the Inter-collegiate Outing Club Association is holding among other things, a hike and a square dance. The contingent will"
+  - vol: 60
+    issue: 38
+    year: 1940
+    date: "1940-10-22"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v60-i38
+    snippet: "Thirty-nine members of the M.I.T. Outing Club, about one-half the membership, the largest participation for a long time, turned out for the various trips of the club last weekend. The Technology representation of 12 men at the Mount Greylock trip wit..."
+    longer: true
+  - vol: 60
+    issue: 39
+    year: 1940
+    date: "1940-10-25"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v60-i39
+    snippet: "qh case you’ the Phi FB OI¥s have moved | | notices, his _ offered to members of the Outing Club vat their harn dance tomorrow evening"
+    longer: true
+  - vol: 60
+    issue: 40
+    year: 1940
+    date: "1940-10-29"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v60-i40
+    snippet: "...unge. §:45 P.M 8:00 P.M. M.L.T. Radio Society Meeting—Room 2-390.: WEDNESDAY, OCTOBER 30 . 4:00 P.M 5:00 P.M. Outing Club Meeting—Room 1-390. 5:00 P.M. Hobby Shop Meeting—Hobby Shop. 6:30 P.M. Propeller Club Dinner—Pritchett Hall. 6:30 P.M. Math Society Meetin..."
+  - vol: 60
+    issue: 43
+    year: 1940
+    date: "1940-11-08"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v60-i43
+    snippet: "... Robert Wilson Blake, Jr. ‘Herbert R. Moody SATURDAY, NOVEMBER 9 Roger C. Blum Willard S. Mott 9:00 A.M. Outing Club Rock-Climbing—Walker Steps Trip. John E. Bone ee ie pede i - j \" yy tt Tolle = Albert H. Bowker onra - Nelson : 8:00 P.M. M.LT. Facul..."
+  - vol: 60
+    issue: 44
+    year: 1940
+    date: "1940-11-15"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v60-i44
+    snippet: "...to Squantum -\\ir Base. 6:00 PM. T.C.A. Freshman Cabinet mecting—Wellesley. SUNDAY, NOVEMBER 17 9:00 A.M. Outing Club Rock Climbing Trip—leave Walker. 2:00 P.M. International Club Tea—Pritchett Hail. MONDAY, NOVEMBER [8 11:00 A.M. Mayoun Lecture to Fr..."
+  - vol: 60
+    issue: 45
+    year: 1940
+    date: "1940-11-19"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v60-i45
+    snippet: "Saturday afternoon severai members of the Outing Club will take part in a horseback trip. Those gceing will leave Walker Memorial at 1 P.M. for Blue Hills Reservation."
+  - vol: 60
+    issue: 46
+    year: 1940
+    date: "1940-11-22"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v60-i46
+    snippet: "Menorah Society Meeting—Litchtield Lounge. International Club Dinner—Joy Hong Low Restaurant. Outing Club Dance—Hangar Gym."
+  - vol: 60
+    issue: 47
+    year: 1940
+    date: "1940-11-26"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v60-i47
+    snippet: "...tchett Hall. §:00 P.M. Naval Architecture Society Meeting—Litchfield Lounge. WEDNESDAY, NOVEMBER 27 5:00 P.M. Outing Club Meeting—Room 1-390, 5:00 P.M. Pistol Team Meeting—Tyler Lounge. 5:00 P.M. Bible Study Group Meeting—Room 7-108. 8:00 P.M. Alpha Phi Omega..."
+  - vol: 60
+    issue: 50
+    year: 1940
+    date: "1940-12-06"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v60-i50
+    snippet: "The skiing season of the Technology Outing Club will start when the oftpublicized Tech ski school opens for business on the Commonwealth Golf Course this Saturday. Ski instruction will be under the direction of Hans Aschaifenburg, manager of skiing,..."
+    longer: true
+  - vol: 60
+    issue: 53
+    year: 1940
+    date: "1940-12-17"
+    pages: [1, 3]
+    n: 5
+    id: mit_the_tech_newspaper-v60-i53
+    snippet: "e Outing Club cos) : EXAMINATION SCHEDULE ht een 5 abe 1 Continued from P. - ( OR EEL) O.C. News, the present M.LT. Outing . are organized descendant of the present! Club was organized. Since that initial MONDAY, JANUARY 27~—9 A.M. Subject Examiner B..."
+  - vol: 60
+    issue: 55
+    year: 1940
+    date: "1941-01-07"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v60-i55
+    snippet: "The Outing Club has scheduled its first date Square Dance for Saturday night, January 11, at the Hangar Gym. Alfred J. Freuh, Jr., 42, with his “four fiddlin’ fanatics” will provide the musi¢ and the dance calling. Admission will be forty cents per c..."
+  - vol: 60
+    issue: 56
+    year: 1940
+    date: "1941-01-10"
+    pages: [1, 3]
+    n: 3
+    id: mit_the_tech_newspaper-v60-i56
+    snippet: "...ners and stompin’ round to the musie of Alfred Frueh, Jr., *42, and his four-piece orchestry, Technology Outing Club members will “dos-a-dos” at the first date square dance to be held in the Hangar Gym at 8:00 o’clock on the evening of Saturday, Janu..."
+  - vol: 60
+    issue: 57
+    year: 1940
+    date: "1941-01-14"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v60-i57
+    snippet: "a¢ ® Go Skiing Overnight With plenty of snow in the mountains, ten Outing Club members wil] go on an overnight ski trip to the Gilford-Laconia area on Saturday, January 18. Led by James W. Neigh-"
+  - vol: 60
+    issue: 58
+    year: 1940
+    date: "1941-01-17"
+    pages: [1, 2]
+    n: 7
+    id: mit_the_tech_newspaper-v60-i58
+    snippet: "A winter carnival could take a great many forms. The Outing Club has been experimenting in barn dances and they could plan a novel dance of similar nature for the Institute as a whole by taking advantage of the week-end spirit. Then, of course, there..."
+    longer: true
+  - vol: 60
+    issue: 59
+    year: 1940
+    date: "1941-01-21"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v60-i59
+    snippet: "Under the leadership of James W. Neighbours, G, four members of the Outing Club left in two groups for the Beiknap Mountains near Gilford, N. H. on Saturday."
+    longer: true
+  - vol: 60
+    issue: 60
+    year: 1940
+    date: "1941-01-24"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v60-i60
+    snippet: "...g Society Meeting—Litchfield Lounge. 6:30 P.M. Class of 1923 Dinner—Faculty Lounge. SATURDAY, FEBRUARY | Outing Club Ski Train. Last Mid-term Exams, Vacation Begins. MONDAY, FEBRUARY 10 9:00 A.M. Second Term Registration Begins. 4:00 P.M. Crew Turnou..."
+  - vol: 61
+    issue: 1
+    year: 1941
+    date: "1941-02-11"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v61-i1
+    snippet: "With high hopes for a suecessfu)} showing, the Tech ski team under the sponsorship of the Outing Club will leave this Thursday afternoon for the Middlebury College Winter Carnival at Middlebury, Vermont, The Carnival will take place on Friday, Saturd..."
+  - vol: 61
+    issue: 2
+    year: 1941
+    date: "1941-02-14"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v61-i2
+    snippet: "Under Frank M. McClintock, ’42, six other Outing Club men made a crosscountry trip beginning from the American Youth Hostel at Gilford, New Hampshire to Mousilauke’s A.Y.H. via Meredith, and Plymouth. These men covered a distance of 45 miles in three..."
+  - vol: 61
+    issue: 4
+    year: 1941
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v61-i4
+    snippet: "The Technology Outing Club will sponsor a skating trip tomorrow afternoon to Hammond Pond, at the intersection of the Worcester Turnpike and Hammond Parkway. The party, led by Bob Brown, will leave at 1:30 P.M. from the steps of Walker Memorial. If t..."
+  - vol: 61
+    issue: 5
+    year: 1941
+    date: "1941-02-25"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v61-i5
+    snippet: "On Saturday evening at eight, the Outing Club members will dance with thirty-six girls from Simmons and Radcliffe at a square dance in the Hangar Gym. With Al Smith calling to recorded music, the dancers will be chaperoned by Professor and Mrs. Magou..."
+    longer: true
+  - vol: 61
+    issue: 6
+    year: 1941
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v61-i6
+    snippet: "...a Kabpa Nu.] best features of what & gocd vocalist rize is a book of the winner’s| should possess, noosing, | Outing Club Hold Dance March 1 ders of the Technology Outing} one of the most popular records in 1 conjunction with the Outing} the coin machine list...."
+    longer: true
+  - vol: 61
+    issue: 8
+    year: 1941
+    date: "1941-03-07"
+    pages: [2, 3]
+    n: 4
+    id: mit_the_tech_newspaper-v61-i8
+    snippet: "...icher, Jr., SUNDAY MARCH 9 William R. Kittredge, William G. Franklin, Robert S. Rumsey, Howard 7:45 P.M. Outing Club Snow Train Leaves—North Station. P. McJunkin, John F. Tyrrell, Albert ; C. Saer, Warren L. Knauer, Michael MONDAY, M ARCH 10 Salvator..."
+  - vol: 61
+    issue: 9
+    year: 1941
+    date: "1941-03-11"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v61-i9
+    snippet: "To elect its officers for the coming year the Outing Club has scheduled a meeting to be held in Room 1-390 at 5:00 P.M. tomorrow. In addition to the elections there will be a technicolor film on skiing in New England. This will provide a fifteen minu..."
+  - vol: 61
+    issue: 10
+    year: 1941
+    date: "1941-03-14"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v61-i10
+    snippet: "... last trip to the Arnold Aboretum this winter. There is also a joint trip this week-end with the Sargent Outing Club to Dean Peabody’s Farm at Hubbardston, Mass., where there will be hiking, skiing and square-dancing to ex-president Smith’s calling...."
+    longer: true
+  - vol: 61
+    issue: 12
+    year: 1941
+    date: "1941-03-21"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v61-i12
+    snippet: "Following in the tradition of a successful skitrip held during the spring vacation last year, the outing club is sending a skiing group to Gorham, N. H. where it will find skiing on the Sherburne and Wildcat Trails, at Tuckerman’s Ravine, and in the..."
+    longer: true
+  - vol: 61
+    issue: 13
+    year: 1941
+    date: "1941-03-25"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v61-i13
+    snippet: "Starting its spring season the M.LT. Outing Club has scheduled a joint horseback trip with Radcliffe and an all-day bicycle trip for this week-end. The horseback trip will leave for the Blue Hills from Walker steps at 1:30 P.M, Saturday afternoon and..."
+  - vol: 61
+    issue: 14
+    year: 1941
+    date: "1941-03-28"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v61-i14
+    snippet: "...University of Connecticut—W.T.L.C. 8:00 P.M. 5:15 Club Dance—5:15 Club Room. SUNDAY, MARCH 39 10:00 A.M. Outing Club Bike Trip Leaves—Walker Steps. |..."
+  - vol: 61
+    issue: 17
+    year: 1941
+    date: "1941-04-11"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v61-i17
+    snippet: "sponsored by the Dormitory, the Grad- \" wiieelad » ean m. Tickets for members on a uate House, the 5:15 Club, and the 2 : ‘i . Bar Fe : be obtained today in the Outing Club fraternity groups will depend on the fi office."
+  - vol: 61
+    issue: 18
+    year: 1941
+    date: "1941-04-15"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v61-i18
+    snippet: "The Technology Outing Club began its rock-climbing season last Sunday, April 12, when Alfred J. Frueh, IJr., \"42 led a group of nine members over the Rattlesnake Cliffs in the Blue Hills,"
+  - vol: 61
+    issue: 20
+    year: 1941
+    date: "1941-04-22"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v61-i20
+    snippet: "...00 P.M. Camera Club—Room 4-231. 5:00 P.M. 5:00 P.M. 6:15 P.M. 6:15 P.M. The Tech Boards Meet—Business Office. Outing Club Color Movies—Room 1-390. A.LE.E. Dinner—Pritchett Hall. Gridiron Jnitiation—Dutch Room, Grad House. THURSDAY, APRIL 24 9:00 A.M, 5:00 P.M...."
+  - vol: 61
+    issue: 27
+    year: 1941
+    date: "1941-05-16"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v61-i27
+    snippet: "...Canoe Trip Leaves Walker Steps. 8:30 P.M. Glee Club Concert with Simmons—Morss Hall. SUNDAY, MAY 18 8:00 A.M. Outing Club Roek Climbers Leave Walker Steps. MONDAY, MAY 19 6:00 PLM. MLD. Chem. Society Banquet—Datch Room. Charles W. Thomson ’43 : Directs Foreign..."
+  - vol: 61
+    issue: 28
+    year: 1941
+    date: "1941-05-20"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v61-i28
+    snippet: "A frip te Mount Monadnock ha, been planned by the Outing Club fo this Saturday through the hospitaliry of Professor and Mrs. F. Alexande; Magoun. Happy Valley has beg turned over to the picnickers for the day, and there will be hiking ang swimming ap..."
+    longer: true
+  - vol: 61
+    issue: 29
+    year: 1941
+    date: "1941-05-23"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v61-i29
+    snippet: "4:00 P.M. Intercollegiate Track Meet—Briggs Field. 9:00 P.M. Lowell Institute Dance—Morss Hall. SATURDAY, MAY 24 8:30 A.M. Outing Club Hiking Trip Leaves Walker, 2:30 P.M. Intercollegiate Track Meet Finals—Briggs Field. Inst. Comm. Agenda Elects"
+  - vol: 61
+    issue: 33
+    year: 1941
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v61-i33
+    snippet: "...to Hopkinton B.: this Saturday afternoon will officially f open the season's activities of the FE’ MILT. Outing Club. Led by Alexander F. Smith, °48, and Walter G. Wells, ’43, i the party will leave Walker steps at B 1:00 P.M, for Wells’ place near H..."
+  - vol: 61
+    issue: 35
+    year: 1941
+    date: "1941-10-07"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v61-i35
+    snippet: "The M.LT. Outing Club has an- -N0unced that their second scheduled » tip will be an overnight outing to the - White Mountains leaving Saturday ; tiavning October 11th from the steps _. Of Walker Memorial. There will be } ‘Vo groups leaving, one at 6:..."
+    longer: true
+  - vol: 61
+    issue: 37
+    year: 1941
+    date: "1941-10-17"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v61-i37
+    snippet: "SATURDAY, OCTOBER 18 Frosh Council Nominations—lnstitute. Outing Club Trip—Walker. MONDAY, OCTOBER 20 Pistol] Ralis—-Tyler Lounge. Beaver Club Meeting—-Steuben’s Restaurant."
+  - vol: 61
+    issue: 39
+    year: 1941
+    date: "1941-10-24"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v61-i39
+    snippet: "Sponsoring its first square dance of the season, the M.I.T. Outing Club, in conjunction with the Outing Clubs of Simmons. Radcliffe. and Sargent. is offering its members a chance for a gay evening tonight in the Hangar Gym."
+    longer: true
+  - vol: 61
+    issue: 44
+    year: 1941
+    date: "1941-11-14"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v61-i44
+    snippet: "... the Committee had investigated the organization and activities of the ski team, and its relation tu the Outing Club and the M.1T.A..\\. The motion for the appropriation was tabled at the last meeting, until a committee appointed to find out the neces..."
+    longer: true
+  - vol: 61
+    issue: 58
+    year: 1941
+    date: "1942-01-16"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v61-i58
+    snippet: "The ski Wednesday, January 21, at 5 P.M. in the Outing Club office to discuss training plans during recess. Everybody is invited."
+  - vol: 61
+    issue: 59
+    year: 1941
+    date: "1942-01-20"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v61-i59
+    snippet: "... permit them to take place. A meeting of the organization will be held on Wednesday in the office of the Outing Club at 5:00 to make definite plans for the activities of the club during the mid-term vacation. <According to Frank A. McClintock the tea..."
+  - vol: 62
+    issue: 1
+    year: 1942
+    date: "1942-02-10"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v62-i1
+    snippet: "...the number of Tech skiers we saw floating around the Vermont. and New Hampshire hills this vacation. The Outing Club seemed to have marched on Stowe or should we say skied? Up at North Conway we bumped into a Phi Gam outing. We still don’t know wheth..."
+    longer: true
+  - vol: 62
+    issue: 2
+    year: 1942
+    date: "1942-02-13"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v62-i2
+    snippet: "...n—There. 8:00 P.M. International Club Square Dance—Hangar Gym. 9 SATURDAY, FEBRUARY 14 C y R d 8:00 P.M. Outing Club Square Daunce-—Hangar Gym. a in O u e a . 8:00 P.M. Dormitory Record Dance—Pritchett Hall...."
+  - vol: 62
+    issue: 10
+    year: 1942
+    date: "1942-03-18"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v62-i10
+    snippet: "...n, with a series of photographic subjects covered in -this issue are as varied as fraternity formals and Outing Club Barn Dances...."
+    longer: true
+  - vol: 62
+    issue: 21
+    year: 1942
+    date: "1942-04-24"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v62-i21
+    snippet: "...ations Page Four THERE TECH Friday, April 24, 1949 M.L.T.O.C. Plans | Outing At Stowe With Radcliffe The MIT. Outing Club has Dr. Browning Lectures Fraternity Bloed At Fellowship Meeting Wanted By The It was announced last night that Dr. C. Gordon Brownville,..."
+  - vol: 62
+    issue: 27
+    year: 1942
+    date: "1942-05-15"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v62-i27
+    snippet: "...t—Faculty and Alumni ub Dance—Pritchett Hall. Varsity and Freshman Crew Races—Charles| a; E. I. C. G.—Oakley. Outing Club, Rock Climbing Trip—from Walker Outing Club, Bike Trip—from Walker Steps. T.C.A. Pienic—Riverside Recreation Grounds. 6:00 P.M. Lounges. $..."
+  - vol: 62
+    issue: 28
+    year: 1942
+    date: "1942-05-19"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v62-i28
+    snippet: "...this issue will be mailed to the home address of each man. ROUBLE? Catholic Club, the International Club, the Outing Club, the Glee 24 | Club, and the Walker Staff, being = !most active in this capacity. Variety @ (is the spice of life, and that exempli-4 fies..."
+    longer: true
+  - vol: 62
+    issue: 29
+    year: 1942
+    date: "1942-05-22"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v62-i29
+    snippet: "Intending to excell its policy of supplying the type of recreation that Techmen enjoy the Outing Club promises a summer program as prolific as was its winter one. During the past year a dozen varied types of trips and activities have attracted more t..."
+    longer: true
+  - vol: 62
+    issue: 37
+    year: 1942
+    date: "1942-10-16"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v62-i37
+    snippet: "This week-end the Intercollegiate Outing Club Association’s activities are to start with a square dance from 8:00 P.M. to 12:00 P.M. tonight in Pritchett Hall of Walker Memorial. The policy this year differs from last year’s, as the dances will be op..."
+  - vol: 62
+    issue: 40
+    year: 1942
+    date: "1942-10-23"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v62-i40
+    snippet: "...20 18: 00: 0'C'0ce LOE OW. SATURDAY, OCTOBER 24 pana ‘ ' _ ;one unit will plan the demolition; 1:00 P.M. Outing Club Bicycle Trip—-Walker Memorial, “Resolved, that the liberal arts edu-| audible above the din of his subordiof a stone bHdeevand tue, a..."
+  - vol: 62
+    issue: 46
+    year: 1942
+    date: "1942-11-06"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v62-i46
+    snippet: "The Tech Outing Club has planned many trips this week end with Sargent College, Those who are interested in hiking will be interested to know that last week’s trip in conjunction with Sargent, which was called off on account of rain, is scheduled for..."
+    longer: true
+  - vol: 62
+    issue: 48
+    year: 1942
+    date: "1942-11-13"
+    pages: [3]
+    n: 5
+    id: mit_the_tech_newspaper-v62-i48
+    snippet: "...Fund has an allotment of $15,597.08 of which the Quadrangle Club gets $25 tor selling freshman ties, the Outing Club gets $210, the Musical Clubs, $717.50, the Debating Society, $450, and the Beaver Key Society $150. Although they are the only Class..."
+  - vol: 62
+    issue: 49
+    year: 1942
+    date: "1942-11-17"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v62-i49
+    snippet: "...de a student member| 120 Yard High Hurdles—st, Ste 7:30 P.M. Walker Staff Meeting—Litchfield Lounge. the Outing Club. They are designed | of the American Chemical Society.| art, 19.5; 2nd, Beecher; 3rd, Dor for entertainment rather than in-|His name..."
+  - vol: 62
+    issue: 50
+    year: 1942
+    date: "1942-11-20"
+    pages: [2]
+    n: 5
+    id: mit_the_tech_newspaper-v62-i50
+    snippet: "... G. Wells, 43. Wells made Van Ravenswaay the proud recipient of a box of steel wool, with which to clean Outing Club equipment as one of his executive duties. Joseph Shrier, 44, was elected trip director and Oiva R. Anderson, 45, has been chosen to o..."
+    longer: true
+    story: elections-1942
+  - vol: 62
+    issue: 51
+    year: 1942
+    date: "1942-11-24"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v62-i51
+    snippet: "The Outing Club is planning a Thanksgiving week end trip to the Tech Cabin with twelve to fifteen girls. About fifteen Technology men will go on the trip. About ten of the group pian to bicycle all the way and the rest are going by train and bus."
+    longer: true
+  - vol: 62
+    issue: 52
+    year: 1942
+    date: "1942-12-01"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v62-i52
+    snippet: "... ski season will open tomorrow evening at 5:00 PM. in Room 1-390. The meeting is to be held by the MI.T. Outing Club and is open to everyone interested in skiing whether or not he is a member of the club, Ski team Captain Jim Klein promises some good..."
+  - vol: 62
+    issue: 53
+    year: 1942
+    date: "1942-12-04"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v62-i53
+    snippet: "The Rock Climbing group of the Outing Club will take its last trip this year this week-end. The climbers are to leave at 9:00 A.M., Sunday, December 6, from the steps ( Of Walker Memorial for Rattle. 4; Snake Cliffs or the Railroad Quarries."
+  - vol: 62
+    issue: 54
+    year: 1942
+    date: "1942-12-15"
+    pages: [7]
+    n: 3
+    id: mit_the_tech_newspaper-v62-i54
+    snippet: "The Intercollegiate Outing Club Association is holding an I.0.C.A. Council Square Dance from 8:00 P.M, till 12:00 P.M. tonight at the Harvard Memorial Gym with Alan A. Smith, graduate student calling. Tickets, selling at $35 a person, are still on sa..."
+  - vol: 62
+    issue: 55
+    year: 1942
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v62-i55
+    snippet: "At lower right corner, the caller at a square dance makes use of modern machinery to propagate his calls for old-time dances as the Outing Club makes merry in Hangar Gym."
+    longer: true
+  - vol: 63
+    issue: 1
+    year: 1943
+    date: "1943-01-05"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v63-i1
+    snippet: "Although with exams approaching it will not be possible for the Outing club to plan anything Jarger than ordinary weekend ski trips, they have already made reservations to have another group go to Stowe during the holiday immediately following exams."
+    longer: true
+  - vol: 63
+    issue: 9
+    year: 1943
+    date: "1943-02-16"
+    pages: [6, 8]
+    n: 5
+    id: mit_the_tech_newspaper-v63-i9
+    snippet: "... to the college, which is near Albany, New York. i Also on the bill for this week is a ‘he International Outing Club Assog Clation’s Council Square, to be held Firom 8:00 P.M. until 11:30 P.M. ‘ tomorrow night in the 5:15 Club in Walker Memorial. Out..."
+  - vol: 63
+    issue: 28
+    year: 1943
+    date: "1943-07-02"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v63-i28
+    snippet: "This week the Outing Club plans a cycling trip and a rock climbing excursion. Both events will take place on Sunday, July 4. The cycling tour will lead to the Blue Hills and the rock climbers will indulge in their pastime at Rattlesnake Cliffs. All i..."
+    longer: true
+  - vol: 63
+    issue: 29
+    year: 1943
+    date: "1943-07-09"
+    pages: [3]
+    n: 6
+    id: mit_the_tech_newspaper-v63-i29
+    snippet: "The rock climbers, under the guidance of William T. Van Ravenswaay, 44, President of the Outing Club, are going by subway and bus at a cost of forty cents per person. Climbers are advised to wear rubber soled shoes or sneakers, and asked to bring a c..."
+    longer: true
+  - vol: 63
+    issue: 31
+    year: 1943
+    date: "1943-07-16"
+    pages: [3, 4, 7]
+    n: 10
+    id: mit_the_tech_newspaper-v63-i31
+    snippet: "In regard to its trips the Outing Club has experienced considerable trouble with people signing up and not going. The executive committee requests that anyone who finds he cannot go inform the trip leader, whose name and telephone number are listed o..."
+    longer: true
+  - vol: 63
+    issue: 32
+    year: 1943
+    date: "1943-07-30"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v63-i32
+    snippet: "For next weekend the Outing Club plans a rock climbing trip to the West Quincy Quarries, a hiking trip to the Middlesex Fells, and a swimming trip to Nantasket Beach. Lists for these will be up on Tuesday."
+    longer: true
+  - vol: 63
+    issue: 33
+    year: 1943
+    date: "1943-08-06"
+    pages: [1]
+    n: 4
+    id: mit_the_tech_newspaper-v63-i33
+    snippet: "...hould be brought. The entire cost of the trip will amount to about $.70. This is the first time that the Outing Club has tried a swimming trip, and, if it proves to be popular, others will be run in the future...."
+    longer: true
+  - vol: 63
+    issue: 34
+    year: 1943
+    date: "1943-08-13"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v63-i34
+    snippet: "Sunday, August 22, Intercollegiate Outing Club Association is sponsoring a “3 Ring Circus” with Harvard, Radcliffe, Tufts, Jackson, and M.I.T. participating. The weekend will consist of a bike trip led by Tufts, a rock climbing excursion headed by M...."
+  - vol: 63
+    issue: 35
+    year: 1943
+    date: "1943-08-20"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v63-i35
+    snippet: "5:00 P.M. Debating Society Meeting—Litchfield Lounge. SUNDAY, AUGUST 22 9:00 A.M. Outing Club Rock Climbing Trip—-Walker Memorial Steps. 9:15 A.M. Outing Club Bicycle Trip — Walker Memorial Steps. 9:30 A.M. Outing Club Hiking Trip, Group I, Center Pl..."
+  - vol: 63
+    issue: 36
+    year: 1943
+    date: "1943-08-27"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v63-i36
+    snippet: ".... Field Day Dance—Hotel Continental. SUNDAY, AUGUST 29 9:00 A.M. Rocket Society Test Meeting. 10:30 A.M. Outing Club Canoe Trip—-Arlington Heights. MONDAY, AUGUST 30 5:00 P.M. Crew Turnout—Boat House. 7:15 P.M. Dramashop Rehearsal—Room 2-190. TUESDAY..."
+  - vol: 63
+    issue: 37
+    year: 1943
+    date: "1943-09-03"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v63-i37
+    snippet: "The outing club is beginning work on a handbook, William T. Van Ravenswaay, 2-44, club presi-| dent, announced today. The need for such a publication arose when it was discovered that most members took with them, upon graduation all of the knowledge..."
+    longer: true
+  - vol: 63
+    issue: 38
+    year: 1943
+    date: "1943-09-10"
+    pages: [1, 2, 3]
+    n: 7
+    id: mit_the_tech_newspaper-v63-i38
+    snippet: "Next Friday, September 17, from 700 P.M. to 6:00 P.M., the Outing Club will hold its first open meeting f the term in Room 6-120, to elect fficers for next year. The men ominated for the various posts are: President, John Chamberlain, 2-44; s Secreta..."
+  - vol: 63
+    issue: 39
+    year: 1943
+    date: "1943-09-17"
+    pages: [1, 2, 3]
+    n: 8
+    id: mit_the_tech_newspaper-v63-i39
+    snippet: "The Outing Club will elect officers at their first open meeting of the year this afternoon at 5::00 P.M. in Room 6-120. The men who have been nominated: are as follows: President—John Chamberlain 2-44; Secretary-treasurer Deforest Meehleib, 2-46; Tri..."
+  - vol: 63
+    issue: 40
+    year: 1943
+    date: "1943-09-24"
+    pages: [2]
+    n: 7
+    id: mit_the_tech_newspaper-v63-i40
+    snippet: "...a Upsilon 3 1 Chamberlain Made Pi Lambda Phi 2 3 | Sigma Alpha Epsiion Z j = 5:15 Club 1 3 | Chi Phi 2 3 Outing Club P r €xy Phi Kappa Sigma 1 3 | Phi Sigma Kappa 1 2 Little Giants 1 & | Beta Theta Pi 0 4..."
+  - vol: 63
+    issue: 41
+    year: 1943
+    date: "1943-10-01"
+    pages: [2]
+    n: 5
+    id: mit_the_tech_newspaper-v63-i41
+    snippet: "be obtained at the Outing Club office this afternoon from 5:00 to §:00 P.M. or tomorrow afternoon ) from 12:00 to 1:00 P.M. John W. f; Rowe, 6-45, promises that there will FE} be no shortage of women as an Fi ample supply from Simmons, Welfi lesley,..."
+  - vol: 63
+    issue: 42
+    year: 1943
+    date: "1943-10-08"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v63-i42
+    snippet: "The M.LT. Outing Club has announced that the Tufts OC. is inviting a number of Technology men to spend all or part of their vacation at the Tufts cabin situated about eight miles north of Plymouth, New Hampshire, near Campton. This vacation trip will..."
+    longer: true
+  - vol: 63
+    issue: 44
+    year: 1943
+    date: "1943-11-05"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v63-i44
+    snippet: "The last “Three Ring Circus” of the year will be held by the Outing Club next Sunday, November 7 at the Blue Hilis. All the groups are to meet at fireplace No. 21, for lunch at 1:30 P. M., which is a little earlier than usual."
+  - vol: 63
+    issue: 45
+    year: 1943
+    date: "1943-11-12"
+    pages: [2]
+    n: 3
+    id: mit_the_tech_newspaper-v63-i45
+    snippet: "The first coed hiking trip will be held by the Outing Club with Simmons next Sunday, November 14. The participants will meet Jack Rowe, 6-45, the leader, at the Park Street Under subway station. The cost of transportation, which includes bus and subw..."
+  - vol: 63
+    issue: 46
+    year: 1943
+    date: "1943-11-19"
+    pages: [5, 12]
+    n: 4
+    id: mit_the_tech_newspaper-v63-i46
+    snippet: ". . Should you still be steady enough for a little old-fashioned square dancing by tomorrow night the Outing Club is staging one up at Harvard Memorial Hall with Al Smith calling. The International Club also has a dance planned for the evening. It is..."
+    longer: true
+  - vol: 63
+    issue: 48
+    year: 1943
+    pages: [1, 2]
+    n: 3
+    id: mit_the_tech_newspaper-v63-i48
+    snippet: "...:00 P.M. American Institute of Electrical Engineers Meet. ing—Room 6-120. SATURDAY, DECEMBER 4 1:30 P.M. Outing Club Trip by Bike—meets in front o: Widener Library, Harvard Yard. 12:20 P.M. 2:20 P.M. Outing Club Trip by Bus—leaves from Park Square Te..."
+  - vol: 63
+    issue: 49
+    year: 1943
+    date: "1943-12-10"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v63-i49
+    snippet: "...er, an issue which put Voo Doo on the blacklist for an indefinite period. Plans For Winter Skiing Are Told By Outing Club Hold Christmas Ski Trip To Ranch Camp; » Plan Dance For Jan. 8 The M.LT. Outing Club has announced tentative plans for the coming skiing s..."
+  - vol: 64
+    issue: 1
+    year: 1944
+    pages: [1]
+    n: 5
+    id: mit_the_tech_newspaper-v64-i1
+    snippet: "... taking the Lake-Commonwealth car to the end of the line. Skis and poles may be rented by members of the Outing Club. Plans are also being made for more weekend ski trips...."
+    longer: true
+  - vol: 64
+    issue: 2
+    year: 1944
+    date: "1944-01-14"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i2
+    snippet: "...hotographic work to be done Club, at the end of the line. Memin the near future, and that stubers of the Outing Club may rent dents of all classes are eligible for skis at the club office in Walker|P0sitions as Technique photogMemorial, taphers...."
+    longer: true
+  - vol: 64
+    issue: 7
+    year: 1944
+    date: "1944-02-18"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v64-i7
+    snippet: "The M.LT. Outing Club has announced details about a ski trip during the vacation: next week, which will last about five days, starting on Saturday, Feb. 26, according to present plans,"
+    longer: true
+  - vol: 64
+    issue: 8
+    year: 1944
+    date: "1944-03-10"
+    pages: [1, 2]
+    n: 7
+    id: mit_the_tech_newspaper-v64-i8
+    snippet: "...ocal cliffs in the Blue Hills, where the skill of all degrees of proficient climbers is put to test. The Outing Club has the ropes and other equipment necessary; furthermore, the older club members are always willing to instruct beginners..."
+    longer: true
+  - vol: 64
+    issue: 9
+    year: 1944
+    date: "1944-03-17"
+    pages: [1, 2]
+    n: 3
+    id: mit_the_tech_newspaper-v64-i9
+    snippet: "ical Clubs will hold their smokers. The Outing Club will show movies and describe its activities and the Musical Clubs invite all music lovers to a rally,"
+    longer: true
+  - vol: 64
+    issue: 10
+    year: 1944
+    date: "1944-03-24"
+    pages: [2]
+    n: 4
+    id: mit_the_tech_newspaper-v64-i10
+    snippet: "teen MLT. Outing Club members|10. Busses for the trip will leave will make the trip, and the signup | Park Square tomorrow at 10:20 AM., list is now in the Lobby of Building | 12:20 P.M., and 2:20 P.M."
+  - vol: 64
+    issue: 11
+    year: 1944
+    date: "1944-03-31"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v64-i11
+    snippet: "The Outing Club’s photographic contest is now under way. This is not an annual affair, but rather a means of getting a good picture of the club to put in Technique. The best picture, preferably showing some activity of the club or a group that does n..."
+    longer: true
+  - vol: 64
+    issue: 12
+    year: 1944
+    date: "1944-04-07"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v64-i12
+    snippet: "The M.L.T. Outing Club Camera Contest closes Monday, April 10, at 6:60 P.M. This is the absolute deadline for entering photographs to compete for a place in Technique on the Outing Club page. These pictures may have as their subject any phase of the..."
+  - vol: 64
+    issue: 13
+    year: 1944
+    date: "1944-04-14"
+    pages: [2]
+    n: 3
+    id: mit_the_tech_newspaper-v64-i13
+    snippet: "8:00 P.M. Outing Club Meeting—5:15 Clubroom. SATURDAY, APRIL 15 3:30 P.M. M.I.T. Lacrosse Team vs. Boston Lacrosse Team— Briggs Field. 5:00 P.M. M.I.T. Debating Society vs. Latin-American Club —Faculty Lounge. SUNDAY, APRIL 16 9:00 A.M. Outing Club R..."
+  - vol: 64
+    issue: 14
+    year: 1944
+    date: "1944-04-21"
+    pages: [2, 4]
+    n: 4
+    id: mit_the_tech_newspaper-v64-i14
+    snippet: "Instead of the usual Intercollegiate Outing Club Association Circus run by the M.LT. Outing Club, the one on Saturday, April 29, will be run by Wellesley. It will be quite different from the ones usually presented, mainly on account of the individual..."
+    longer: true
+  - vol: 64
+    issue: 15
+    year: 1944
+    date: "1944-04-28"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v64-i15
+    snippet: "Next week-end the Outing Club will take over the T.C.A. cabin at Lake Massapoag, Massachusetts. This kind of a trip is always popular, featuring a square dance, some hiking, and very probably some fishing. James W. Shearer, 6-45, announced that the s..."
+    longer: true
+  - vol: 64
+    issue: 16
+    year: 1944
+    date: "1944-05-05"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i16
+    snippet: "Two big events—_a Tech Cabin trip and a Memorial Hall square dance—are planned by the Outing Club for this week-end. The two events coincide because of a change in the club’s schedule."
+    longer: true
+  - vol: 64
+    issue: 18
+    year: 1944
+    date: "1944-05-19"
+    pages: [1]
+    n: 4
+    id: mit_the_tech_newspaper-v64-i18
+    snippet: "A songbook, prepared by the L.0.C.A., is on sale at the M.LT.OC. office during regular office hours. This book contains numerous community songs sung all over the country and known well by every outing club. The price is fifty cents."
+  - vol: 64
+    issue: 21
+    year: 1944
+    date: "1944-06-09"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v64-i21
+    snippet: "...d, New York. Details are still being worked out, and anything new that develops will be available at the Outing Club office in Walker Memorial...."
+    longer: true
+  - vol: 64
+    issue: 22
+    year: 1944
+    date: "1944-07-14"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i22
+    snippet: "The Outing Club will continue to function just as actively this summer as it has all year. There will be various activities on weekends as in the past; these will start off with a square dance tomorrow at Harvard’s Memorial Hall. Instruction will be..."
+    longer: true
+  - vol: 64
+    issue: 23
+    year: 1944
+    date: "1944-07-21"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v64-i23
+    snippet: "This weekend a beach trip is being planned to go to Crane’s Beach at Ipswich by the M.LT. Outing Club. The excursion, being an 1.0.C.A. trip, will be lead by mempers of the Radcliffe Outing Club."
+    longer: true
+  - vol: 64
+    issue: 24
+    year: 1944
+    date: "1944-07-28"
+    pages: [1, 3]
+    n: 3
+    id: mit_the_tech_newspaper-v64-i24
+    snippet: "Continuing its extensive program for this term, the Outing Club has planned many trips for the next three week-ends. This Sunday, July 30 two canoe trips are scheduled—one for Ipswich, and one for Concord. This will be an IOCA outing, with girls from..."
+    longer: true
+  - vol: 64
+    issue: 26
+    year: 1944
+    date: "1944-08-11"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i26
+    snippet: "The trip planned for this weekend by the Outing Club is an overnight journey tomorrow and Sunday to Monadnock Mountain. The group will camp out on the trip."
+    longer: true
+  - vol: 64
+    issue: 29
+    year: 1944
+    date: "1944-09-01"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v64-i29
+    snippet: "...d Chick of Watertown, Mass., to lead the band. Mr. Chick is in charge of music for the Watertown Schools Outing Club Plans and has led previous Technology ; bands for many years. Labor Day Trips Several years ago, the Institute had a military band re..."
+    longer: true
+  - vol: 64
+    issue: 30
+    year: 1944
+    date: "1944-09-08"
+    pages: [2, 3]
+    n: 4
+    id: mit_the_tech_newspaper-v64-i30
+    snippet: "One hundred and forty-five tickets | Outing Club; he is the president of | for the Dartmouth-Notre Damé foot-|that organization, Before he was sealaiaie ieueGenesd. foe 4a ; elected to his present office he held|84mes; Stan Fingerhood for t§"
+  - vol: 64
+    issue: 31
+    year: 1944
+    date: "1944-09-15"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v64-i31
+    snippet: "This week-end the Outing Club has planned a beach trip to Scituate, the last such trip for the season. Since a hurricane was threatening to blow this way last night, it is possible that the weather will interfere with this trip."
+    longer: true
+  - vol: 64
+    issue: 32
+    year: 1944
+    date: "1944-09-22"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v64-i32
+    snippet: "...ght from 8:00 to 11:30 P. M. in Memorial Hall at Harvard. Tickets, which cost 40c, may be secured at the Outing Club office in the basement of Walker Memorial, Instructions in square dancing will be given to those who wish it starting at 7:30 P.M...."
+  - vol: 64
+    issue: 37
+    year: 1944
+    date: "1944-11-17"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v64-i37
+    snippet: "Saturday evening, from 8:30 to 11:30, the Outing Club is holding a Square Dance in Memorial Hall, Harvard. Instruction will be available for beginners from 17:30 to 8:30. Tickets may be purchased for $40 at the Outing Club office from 5:00 to 6:00 P...."
+  - vol: 64
+    issue: 38
+    year: 1944
+    date: "1944-11-24"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i38
+    snippet: "This Sunday the Outing Club has planned a horseback riding trip with Radcliffe College. Those going wi:l meet at nine o’clock on Sunday morning on the center platform of the Park Street Under station. They will proceed from here out to the Blue Hills..."
+  - vol: 64
+    issue: 40
+    year: 1944
+    date: "1944-12-08"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i40
+    snippet: "At 9:30 A. M. Sunday, December 10, members of the Outing Club will meet at the Park Street Under Subway Station from where they will start for the Blue Hills. The Treasure Hunt will consist of following the clues written on slips of paper hidden by o..."
+  - vol: 64
+    issue: 41
+    year: 1944
+    date: "1944-12-15"
+    pages: [2]
+    n: 3
+    id: mit_the_tech_newspaper-v64-i41
+    snippet: "...ermont. The skiers plan to leave Friday evening, December 22, and will return the following Tuesday. The Outing Club members get the special rate of $3.00 a day at the Ranch Camp at Stowe, where the skiers will stay. Those who are interested in skiin..."
+  - vol: 64
+    issue: 42
+    year: 1944
+    date: "1944-12-22"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i42
+    snippet: "...dnesday and Thursday, Decem- : i ter sports shown by members, the| ber 27 and 28. The issue contains cae Outing Club has planned several four stories of scientific interest, November 16, in a contest which ski and ice skating trips for the next | alo..."
+    longer: true
+  - vol: 64
+    issue: 43
+    year: 1944
+    date: "1944-12-29"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v64-i43
+    snippet: "...year resultd in Kirk Drumheller hbecomin Senior Class Prexy. Sherry Inf took over the head dorm post. Ty Outing Club, Glee Club, Debatiy Society, and other class B activitig and professional societies launchd extensive programs, lectures, meet and to..."
+    longer: true
+  - vol: 65
+    issue: 1
+    year: 1945
+    date: "1945-01-05"
+    pages: [5]
+    n: 1
+    id: mit_the_tech_newspaper-v65-i1
+    snippet: "...rrespondi (Continued from Page 1) Haybrook Heads. Stage Staff The stage staff for the play is as| mittee. M.- Outing Club ski. trip to Laconia Guilford Area—Meet stadt, 2-46, was appointed as Junior Member of the Senior Week ComCALENDAR | FRIDAY, JANUARY 5, 19..."
+  - vol: 65
+    issue: 2
+    year: 1945
+    date: "1945-01-12"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v65-i2
+    snippet: "...er Gym. SATURDAY, JANUARY 13 Chinese Students Club Meeting—5:15 Club. Glee Club Concert and Dance—Morss Hall. Outing Club Square Dance—Harvard Memorial Hall. MONDAY, JANUARY 15 . Dormitory Committee Meeting—Litchfield Lounge. - International Club Meeting—Room..."
+  - vol: 65
+    issue: 4
+    year: 1945
+    date: "1945-01-26"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i4
+    snippet: "... ‘been laid for square dancing after the meal, but if this is not realized a song fest will be held. The Outing Club extends an invitation to all Technology students to participate in the afternoon of fun...."
+  - vol: 65
+    issue: 8
+    year: 1945
+    date: "1945-03-16"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i8
+    snippet: "The elections meeting of the Technology Outing Club will be held in Room 6-120 on Thursday, March 22,at5:00 P.M. The present executive committee has announced its nominations for the new officers, but nominations may be made from the floor before the..."
+  - vol: 65
+    issue: 9
+    year: 1945
+    date: "1945-03-23"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i9
+    snippet: "The M.1L.T. Outing Club held its election for officers at its meeting on Thursday, March 22. The newly chosen officers are: President, Dee Meehleib; Trips Director, Bob ;O’Donnell; Secretary - Treasurer, Rolfe Glover; and News Editor, Lyman Crittende..."
+  - vol: 65
+    issue: 13
+    year: 1945
+    date: "1945-04-20"
+    pages: [2, 3]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i13
+    snippet: "...Lacrosse, Harvard vs. M.I.T.—Harvard. 9:00 P.M. Junior Prom Party—-Morss Hall. SUNDAY, APRIL 22 9:00 AM. Outing Club Trip—Park St. Under. 2:00 PM. Outing Club Trip—Park St. Under. 4:00 P.M. Dormitory Tea—Burton Room. 5:00 P.M. Glee Club Concert with..."
+  - vol: 65
+    issue: 17
+    year: 1945
+    date: "1945-05-18"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v65-i17
+    snippet: "The Outing Club is spons: a, jubilee of events this Sunda: bicycle trip, led by James She 6-45, is scheduled to leave § Walker Memorial at 9:00 AM: companied by groups from Radé and Harvard the cyclists will; ney as far west as CONGO Groton."
+  - vol: 65
+    issue: 18
+    year: 1945
+    date: "1945-05-25"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v65-i18
+    snippet: "hike will be sponsored this week-end by the Outing Club. The canoeing! ‘group will leave on the Arlington ‘St. car from the Harvard Square | Subway station 9:30 A.M., Sunday, |May 27. Radcliffe will lead the ex- ‘pedition along the Concord River. ‘Ow..."
+  - vol: 65
+    issue: 19
+    year: 1945
+    date: "1945-06-01"
+    pages: [1, 2]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i19
+    snippet: "8:20 AM. Outing Club Bicycle Trip to Nantucket—South Station 2:00 PIM. Lacrosse—Harvard vs. Tech—Briggs Field -.- SUNDAY; JUNE 3 i 10:00 A.M.. Outing Club Bicycle Trip to Concord—Walker steps —- MONDAY, JUNE 4 5:00 P.M. T.AeS. Elections—6-120 - : 5:0..."
+  - vol: 65
+    issue: 21
+    year: 1945
+    date: "1945-07-13"
+    pages: [1, 2, 7, 10]
+    n: 9
+    id: mit_the_tech_newspaper-v65-i21
+    snippet: "... z : - while. He approached a car in the]... attempts of members of the procession which had an. empty | Outing Club to scale the sheer seat, and asked the driver if he cliffs of Hayden ended in failure could have a lift as far as the!last evening. W..."
+    longer: true
+  - vol: 65
+    issue: 25
+    year: 1945
+    date: "1945-08-10"
+    pages: [2]
+    n: 3
+    id: mit_the_tech_newspaper-v65-i25
+    snippet: "M.1.T. Outing Club activities for this week end include a trip to the Quincy Quarries, and a canoe trip on the Concord River. The group going to the Quincy Quarries will assemble on the steps of Walker Memorial at 9:00 A. M. Sunday. Activities for th..."
+  - vol: 65
+    issue: 26
+    year: 1945
+    date: "1945-08-24"
+    pages: [1]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i26
+    snippet: "Member, Associated Collegiate Press Night Editors: Richard Bakal, 2-47 The Outing Club has planned ogee Ee Robert W. Hanpeter, 2-47 several trips for the next two week-| The initiation banquet olf Gordon 0. F. Johnson, 2-47 ends. This Sunday a bicycl..."
+  - vol: 65
+    issue: 30
+    year: 1945
+    date: "1945-09-21"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i30
+    snippet: "e Technology Outing Club is ning a rock-climbing trip into Blue Hills this coming Sunday, tember 23. Plans for a square ce and several trips with other eges are now being made for last week-end of this month. rticipants in this Sunday’s will leave fr..."
+  - vol: 65
+    issue: 32
+    year: 1945
+    date: "1945-10-05"
+    pages: [3, 4]
+    n: 4
+    id: mit_the_tech_newspaper-v65-i32
+    snippet: "...g Mt. Washington, will probably be scaled; otherwise climbing will be restricted to the lower mountains. Outing Club officers said that the weather is usually clear in autumn, and that visibility stitute Committee, a member of the|is much greater tha..."
+    longer: true
+  - vol: 65
+    issue: 35
+    year: 1945
+    date: "1945-11-16"
+    pages: [1]
+    n: 4
+    id: mit_the_tech_newspaper-v65-i35
+    snippet: "... the dormitories and they have ever, elections for all positions wit tion at 7:30 P.M., Back Bay at 7:34 Outing Club on Sunday, November |been requested to print their name, be held. and arrives at Mansfield where it 18. The trip will start from the|..."
+  - vol: 65
+    issue: 36
+    year: 1945
+    date: "1945-11-30"
+    pages: [1, 2]
+    n: 4
+    id: mit_the_tech_newspaper-v65-i36
+    snippet: "Last night, at its bi-weekly session, the Institute Committee extended Class A recognition to the Outing Club. Possibly this is the first time that many people have realized what a large and active organization the Outing Club is. The members of this..."
+    longer: true
+    story: classa-1945
+  - vol: 65
+    issue: 37
+    year: 1945
+    date: "1945-12-07"
+    pages: [1]
+    n: 3
+    id: mit_the_tech_newspaper-v65-i37
+    snippet: "Presently before the membership body of the M.LT. Outing Club is @ plan of incorporation. The idea nas come forward because the club has grown to such an extent that it is now prepared to purchase property, and because the new orzanization would be m..."
+    longer: true
+  - vol: 65
+    issue: 38
+    year: 1945
+    date: "1945-12-14"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v65-i38
+    snippet: "gave Brown another first and th around boston can be very. enlight-] The Outing Club conducted' a with Miskel obtaining a second ening if you keep your ears Open.) business meeting and ski smoker a veenlicor Hieoeay aft . a group of girls on the corn..."
+    longer: true
+  - vol: 65
+    issue: 39
+    year: 1945
+    date: "1945-12-21"
+    pages: [2, 3]
+    n: 3
+    id: mit_the_tech_newspaper-v65-i39
+    snippet: "... singing Christmas carols at Feelings were certainly mixed there. Boyce was swearing up|November 24. The Outing Club lined up its ski team and got up} South Station while scores of perand down that he would resign as chairman of the dance com-|@ Sche..."
+    longer: true
+  - vol: 66
+    issue: 1
+    year: 1946
+    date: "1946-01-04"
+    pages: [1, 3]
+    n: 3
+    id: mit_the_tech_newspaper-v66-i1
+    snippet: "This weekend the Outing Club will take a ski trip to Plymouth, N. H., where instruétion will be given to beginners. On January 11, the I.0.C.A, Square Dance will be held in Harvard Memorial Hall from 8:30 P.M. to 12:30 A.M. with Al Smith calling. <A..."
+  - vol: 66
+    issue: 2
+    year: 1946
+    date: "1946-01-11"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v66-i2
+    snippet: "The Constitution of the M.1L.T. Outing Club was approved. There was considerable discussion regarding the advisability of the incorporation of the O.C, The questions of liability and ownership of propJierty were brought up and disF} posed of."
+    longer: true
+  - vol: 66
+    issue: 4
+    year: 1946
+    date: "1946-01-25"
+    pages: [5]
+    n: 3
+    id: mit_the_tech_newspaper-v66-i4
+    snippet: "The ski team, sponsored by the Outing Club, was entered in the fifteenth annual Middlebury Carnival held at Mddlebury, Vt., last week-end. Although it placed in eighth position in the final totais, the team’s showing may be considered as satisfactory..."
+    longer: true
+  - vol: 66
+    issue: 5
+    year: 1946
+    date: "1946-02-01"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v66-i5
+    snippet: "choice of either skating or skiing this week-end through Outing Club sponsored activities. A joint ski trip with Simmons is planned at Temple Mountain, Peterboro, N. H. The O.C. is also running a skating trip to Jamaica Pond on Sunday. The group will..."
+  - vol: 66
+    issue: 6
+    year: 1946
+    date: "1946-02-08"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v66-i6
+    snippet: "...shes to go should report to the] O™4 Was presented, cups awarded, versity, was an adviser to the State | Outing Club office in Walker Mem-| 2nd results of the recent elections Department on questions of eco-|orial at 10:30 on Sunday morning. for offi..."
+  - vol: 66
+    issue: 7
+    year: 1946
+    date: "1946-03-08"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v66-i7
+    snippet: "...:\\ ALWAYS MILDER BETTER TASTING THE RIGHT COMBINATION OF THE WORLD’S BEST TOBACCOS (C COOLER SMOKING THE TECH Outing Club, Leslie Group Participate In Blue Hills Hike The M.LT.O.C. and a group of girls from Lesley College are going on @ joint hiking trip to th..."
+  - vol: 66
+    issue: 8
+    year: 1946
+    date: "1946-03-15"
+    pages: []
+    n: 4
+    id: mit_the_tech_newspaper-v66-i8
+    snippet: "man, 2-48, news editor, =. The. Outing Club smoker is to be held on Friday evening, March 22, in Pritchett Hall of Walker Memorial, Movies will be shown and a demonstration square dance will be held for the benefit of new members who have yet to take..."
+  - vol: 66
+    issue: 9
+    year: 1946
+    date: "1946-03-22"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v66-i9
+    snippet: "...y is a trip to Wheaton College at Norton, Mass. Plans for this trip, which is run by the Intercollegiate Outing Club Association, include hiking, baseball, swimming, an outdoor supper, and square dancing or singing. The group will meet at the informa..."
+  - vol: 66
+    issue: 10
+    year: 1946
+    date: "1946-03-29"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v66-i10
+    snippet: "...it reports to the committee on April 11, April 18 and April 25, respectively. The newly elected slate of Outing Club officers, including James A. Burns, 2-47: John M. Carney, 2-48; Alan Blechatein, 2-47; Donald E. Ridgely, 2-47; Leonard Bezark, Jr.,..."
+  - vol: 66
+    issue: 11
+    year: 1946
+    date: "1946-04-05"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v66-i11
+    snippet: "...April 4th by President Karl T. Compton when he presented the official Tech, yacht flag to the commodore.—Outing Club plans vacation ski trip to Mt. Washington—Soft ball league finally organized at the Institute.— Baseballers are defeated 12-0 by..."
+    longer: true
+  - vol: 66
+    issue: 12
+    year: 1946
+    date: "1946-04-12"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v66-i12
+    snippet: "The Outing Club has planned a hike to the Blue Hills for this Sunday, April 14. Trippers should meet in the lower level of the Park Street station at 10:00 A.M., and will probably return by 6:30 P.M. Equipment is a pack lunch."
+  - vol: 66
+    issue: 14
+    year: 1946
+    date: "1946-05-03"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v66-i14
+    snippet: "...t at Park Under. All “rings” will congregate in the evening for a supper prepared by the Simmons College Outing Club, followed by group singing, Morning groups should bring lunch...."
+    longer: true
+  - vol: 66
+    issue: 16
+    year: 1946
+    date: "1946-05-17"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v66-i16
+    snippet: "...ega, the Co-ed Canaries, Walker Memorial Dining Staff, Musical Clubs Management, Munroe Dormitories, the Outing Club, Phi Delta Phi, Phi Gamma Delta, Sigma Alpha Epsilon, Theta Delta Chi, third floor Hayden Dormitories, the Veterans’ Association, and..."
+  - vol: 66
+    issue: 18
+    year: 1946
+    date: "1946-09-27"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v66-i18
+    snippet: "...ow, '46 Marvin W. Sweeney, Jr., Watt Webb, °47 Otto Wetzel, *47 William Zimmerman, ’48 Thomas Zsembik, 47 \"47 Outing Club LaCrosse Veterans Swimming T.C.A Debating Society Rifle Technique Tennis Combined Professional Societies Page Four Technology Traditions T..."
+  - vol: 66
+    issue: 19
+    year: 1946
+    date: "1946-10-04"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v66-i19
+    snippet: "... as Managing Editor of Yoo Doo; Morgan H. Cooper, 46, and Lyman B. Crittenden, °47, as Co-editors of the MITOC News. William Maley, ’48, was nominated and elected as a new member of the J. P. Committee to represent the class of °48, and Otto K. Wetze..."
+  - vol: 66
+    issue: 22
+    year: 1946
+    date: "1946-10-18"
+    pages: [4]
+    n: 2
+    id: mit_the_tech_newspaper-v66-i22
+    snippet: "dof rock climbing by experienced 4@MITOC climbers at the Blue Hills Anext Sunday, October 20. The Club “has a perfect safety record of no"
+    longer: true
+  - vol: 66
+    issue: 23
+    year: 1946
+    date: "1946-10-25"
+    pages: [5]
+    n: 2
+    id: mit_the_tech_newspaper-v66-i23
+    snippet: "Mountain climbers of the Outing Club wiil make their first post-war trip to Joe English Mountain next Sunday, October 27. This is a trip for experienced, but not necessarily expert, climbers."
+    longer: true
+    story: squaredance-1946
+  - vol: 66
+    issue: 27
+    year: 1946
+    date: "1946-11-22"
+    pages: [8]
+    n: 4
+    id: mit_the_tech_newspaper-v66-i27
+    snippet: "Sunday, November 23, the Outing @ Club is joining the Katherine Gibbs & Outing Club again for a bike trip, All going will meet at 10:00 AM. on §"
+  - vol: 66
+    issue: 28
+    year: 1946
+    date: "1946-12-06"
+    pages: [7]
+    n: 2
+    id: mit_the_tech_newspaper-v66-i28
+    snippet: "...e club office in Walker Memorial at 12:00 Noon, Saturday, December 7. Transportation will be by car. The Outing Club urges all those who can provide cars to contact the office, since the number who can attend the outing is now limited by a shortage o..."
+  - vol: 67
+    issue: 1
+    year: 1947
+    date: "1947-01-10"
+    pages: [2, 5]
+    n: 3
+    id: mit_the_tech_newspaper-v67-i1
+    snippet: "...r meeting of the Institute Committee held yesterday. Newly elected officers of the Debating Society, the Outing Club, and The Tech were approved by the Committee. Also approved were new constitutions of the Debating Society and the Hobby Shop...."
+    longer: true
+  - vol: 67
+    issue: 5
+    year: 1947
+    date: "1947-02-21"
+    pages: [4]
+    n: 2
+    id: mit_the_tech_newspaper-v67-i5
+    snippet: "{| Outing Club plans to have a skatfjing party at the Charles River {|Country Club. Transportation by j | Dus will be provided, and will leave || Walker Memorial at 1:00 PM. Dur-"
+  - vol: 67
+    issue: 6
+    year: 1947
+    date: "1947-02-28"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v67-i6
+    snippet: "James L, Burns, ’47, delivered a report on the operations of the Outing Club and entered a request for recognition of the Club as a. permanent Class A activity. <A committee was appointed to investigate this matter,"
+    longer: true
+  - vol: 67
+    issue: 7
+    year: 1947
+    date: "1947-03-07"
+    pages: [2, 4]
+    n: 5
+    id: mit_the_tech_newspaper-v67-i7
+    snippet: "...ection 3; John M. Stein, Section 5; Harry D. Storer, Section 8. IT DOESN'T [THERE'S A ®35 REWARD ACCUSE]} THE OUTING CLUB HAS oR-]| | |GANIZED_A SEARCHING PARTY. | | THA i sis by dave grossman WAS LAUNCHED FROM | T PROBABLY EXPLAINS All-Tech Sing (Continued fr..."
+  - vol: 67
+    issue: 10
+    year: 1947
+    date: "1947-03-28"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v67-i10
+    snippet: "Officers for the coming year were elected at the annual meeting of the M.1.T. Outing Club last Thursday. The new officers are: President, Oiva Anderson; Secretary, Jack Rowe; Treasurer, Mort Cooper; Trips Director, Joe Murphy; Publicity Manager, Dave..."
+  - vol: 67
+    issue: 14
+    year: 1947
+    date: "1947-05-02"
+    pages: [4]
+    n: 3
+    id: mit_the_tech_newspaper-v67-i14
+    snippet: "Yesterday the Outing Club presented the first of a proposed series of group sings in Litchfield Lounge. This first “Lauletaan,” which is roughly translated from the Finnish as “A Night of Singing,” featured entertainment by Al Smith, Walt Lob, Willa..."
+  - vol: 67
+    issue: 16
+    year: 1947
+    date: "1947-05-16"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v67-i16
+    snippet: "...n Association which aids the students in ways too diverse to mention here, of T.E.N., the §:15 Club, the Outing Club, and of that superlative newspaper, The Tech. Other student activities have their offices on the third floor of Walker. Among these a..."
+    longer: true
+  - vol: 67
+    issue: 19
+    year: 1947
+    date: "1947-10-03"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v67-i19
+    snippet: "m Activity plans got under way at Bihe MULT. Outing Club this week, as club leaders made arrangements for the first outing of the season. unday, October 12, is the date set mor the “Blue Hills Circus,” a full may outing to be held atop Great"
+    longer: true
+  - vol: 67
+    issue: 23
+    year: 1947
+    date: "1947-10-31"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v67-i23
+    snippet: "The long awaited ski seminar of the Outing Club is approaching realization. It will consist of about six lectures on such topics as equipment, snow conditions, ski technique, safety, waxes and lacquers and where to ski. All of these lectures will inc..."
+    longer: true
+  - vol: 67
+    issue: 25
+    year: 1947
+    date: "1947-11-07"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v67-i25
+    snippet: "vee a no) OUTING CLUB The Outing Club is sponsoring a series of ski lectures every Wednesday at 5:00 p.m. in Huntington Hall, 10-250, from November 12 to December 17. The classes will include movies and slides as well as informative lectures, and dem..."
+  - vol: 67
+    issue: 27
+    year: 1947
+    date: "1947-11-18"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v67-i27
+    snippet: "...election of new members for this the opening rally. Sponsored by the term during the course of this|y; 7 Outing Club: the: siteam Week, it was announced by William | poasts a half dozen veterans of R. Zimmerman, president. the last winter seasaon, wh..."
+    longer: true
+  - vol: 67
+    issue: 28
+    year: 1947
+    date: "1947-11-21"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v67-i28
+    snippet: "...kwell Stephens, presented the second ski lecture in the current series being presented by the Technology Outing Club. President of Ski Sport, a nationally known manufacturer of ski equipment, Mr. Stephens spoke on taking care of ski gear and on some..."
+    longer: true
+  - vol: 67
+    issue: 32
+    year: 1947
+    date: "1947-12-12"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v67-i32
+    snippet: "The last in the series of lectures on skiing sponsored by the Outing Club was given last Wednesday in Room 10-250, featuring Jim Klein’s talk on “Where to Go Skiing.”"
+  - vol: 68
+    issue: 1
+    year: 1948
+    date: "1948-01-09"
+    pages: [4, 5]
+    n: 3
+    id: mit_the_tech_newspaper-v68-i1
+    snippet: "OUTING CLUB uw The M.LT.OC, is conducting two trips this weekend: a ski trip on YOURSELF A WINNER Sunday and an excursion to Tech ~ Cabin on Saturday and Sunday, f] The latter affair is being held in Lo"
+    longer: true
+  - vol: 68
+    issue: 2
+    year: 1948
+    date: "1948-01-13"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v68-i2
+    snippet: "...quarters will house the station |} equipment and the business office || 8:30-—On Wings of Song 8:55—News 9:00—Outing Club Lauletaen Walker Memorial 9:30—Concert Hall 10:00-—Swingtime 10:30—Latin-American Rhythms 16:55—News 11:00—Music Immorta] 5 see WHITING’S..."
+  - vol: 68
+    issue: 3
+    year: 1948
+    date: "1948-01-16"
+    pages: [3]
+    n: 2
+    id: mit_the_tech_newspaper-v68-i3
+    snippet: "This Sunday the Intercollegiate Outing Club is again sponsoring a ski trip. Busses will leave Harvard Square at seven-thirty in the morning, and will return at four-thirty in the evening. The round trip cost is $3.00."
+  - vol: 68
+    issue: 7
+    year: 1948
+    date: "1948-02-20"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v68-i7
+    snippet: "However, they believe such a cabin should be sponsored by a more related student activity, as the outing club. The difficulty here. is that it is presently costing the TCA about $1.35 for each couple that uses the cabin."
+  - vol: 68
+    issue: 8
+    year: 1948
+    date: "1948-02-27"
+    pages: [2]
+    n: 3
+    id: mit_the_tech_newspaper-v68-i8
+    snippet: "Among other activities planned for the near future by the Outing Club are the Square Dance which will take place tonight at the Cambridge Y.M.C.A., and the Lauletaan (song fest), which is scheduled for Monday, March 1."
+    longer: true
+  - vol: 68
+    issue: 12
+    year: 1948
+    date: "1948-03-12"
+    pages: [1]
+    n: 2
+    id: mit_the_tech_newspaper-v68-i12
+    snippet: "New Business: M.S.P. (W.M.C.): that the changes in the by-laws of the M.I.T. Outing Club Inc. be approved. M.LS.P. (W.M.C.)}; that the continuation in office of Alan Smith as genera) manager of the"
+    longer: true
+  - vol: 68
+    issue: 19
+    year: 1948
+    date: "1948-04-06"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v68-i19
+    snippet: "...titute Comm Litchfield Lounge, 5:00 P.M.; Pi Tau Sigma, Faculty Lounge, 7:00 Techtet, Ware, 8:00 P.M. April 8~Outing Club, Faculty Lounge, 7:30 P.M.; American Fc Policy Forum, Room 6-120, 8:00 P.M: April 9—Freshman Council, Faculty Lounge, 5:60 P.M.; Asset | W..."
+  - vol: 68
+    issue: 22
+    year: 1948
+    date: "1948-04-28"
+    pages: [3, 4]
+    n: 5
+    id: mit_the_tech_newspaper-v68-i22
+    snippet: "Candidate for president. Activity Record: Racing skipper of Nautical Association; Publicity’ Chairman of Catholic Club; Outing Club; Hobby Shop; Intramural bowling, volleyball, softball."
+  - vol: 68
+    issue: 23
+    year: 1948
+    date: "1948-04-27"
+    pages: [1, 2]
+    n: 3
+    id: mit_the_tech_newspaper-v68-i23
+    snippet: "...olum-| another debate this time with bia Broadcasting System, Princeton University. At the same time the Outing Club will be host..."
+    longer: true
+  - vol: 68
+    issue: 24
+    year: 1948
+    date: "1948-04-30"
+    pages: [2, 7]
+    n: 7
+    id: mit_the_tech_newspaper-v68-i24
+    snippet: "ing Club members have been invited for a trip to the Smith college cabin. ; At ptesent the Outing Club is making arrangements that Freshmen may get credit for hikes with the Outing Club as part of compulsory athletic program for frosh. For next Septe..."
+    longer: true
+  - vol: 68
+    issue: 35
+    year: 1948
+    date: "1948-10-15"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v68-i35
+    snippet: "...rtmouth, Coast Guard, Harvard, and M.LT. Sailing Pavilion, 10:00 a.m. ing Club. Annual Blue Hills Circus. See Outing Club bulletin board. All are welcome. Omega. Meeting in Ware Lounge, 2:30 p.m. All men interested in joining are invited. , MONDAY, OCTOBER 18..."
+  - vol: 68
+    issue: 39
+    year: 1948
+    date: "1948-10-29"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v68-i39
+    snippet: "Outing Club. First of series of ski lectures. “How to Select Equipment.” Moving pictures. Everyone welcome. Room 10-250, 5:00 p.m."
+  - vol: 68
+    issue: 44
+    year: 1948
+    date: "1948-11-19"
+    pages: [2, 5]
+    n: 4
+    id: mit_the_tech_newspaper-v68-i44
+    snippet: "Folk songs, hoe-downs, and girls from nearby colleges will take over Faculty Lounge on Monday, November 22, at 7:30 pm. The M.LT. Outing Club is presenting a Lauletaan (let’s sing) with local ballad and folk-song specialists featured."
+  - vol: 68
+    issue: 47
+    year: 1948
+    date: "1948-12-03"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v68-i47
+    snippet: "Outing Club. Fourth of series of ski lectures. “Snow Conditions and Waxing.” Moving pictures. Everyone welcome. Room 10-250. 5:00 p.m."
+  - vol: 69
+    issue: 6
+    year: 1949
+    date: "1949-02-18"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v69-i6
+    snippet: "neighboring colleges {n collaboration with the Boston Council Intercollegiate Outing Club Association for weekly treks into the mountains of New Hampshire. The first of these ski trips, slated for Sunday, February 20, will begin at 7:30 a.m. at which..."
+  - vol: 69
+    issue: 9
+    year: 1949
+    date: "1949-03-01"
+    pages: [2, 5]
+    n: 3
+    id: mit_the_tech_newspaper-v69-i9
+    snippet: "Over a hundred people participated in the Intercollegiate Outing Club Assoctation’s Winter Carnival held last Saturday and “Sunday. Both days were marked by several types of recreation, offering a wide variety of entertainment."
+    longer: true
+  - vol: 69
+    issue: 18
+    year: 1949
+    date: "1949-04-08"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v69-i18
+    snippet: "...g Secretary; Dorm. Comm.; Constitutional Comm. of Dorm. Comm.; Frosh Swim Team; Asst. Field Day Mgr. 49: Outing Club; Nautical Assn.; Mathemathies Society; Physics Society...."
+  - vol: 69
+    issue: 19
+    year: 1949
+    date: "1949-04-12"
+    pages: [2]
+    n: 3
+    id: mit_the_tech_newspaper-v69-i19
+    snippet: "Present members of the M.LT. Outing Club as in any of its activities are invited to attend the General Meeting this Wednesday at 5:00 in the Faculty Lounge of Walker,"
+  - vol: 69
+    issue: 24
+    year: 1949
+    date: "1949-04-29"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v69-i24
+    snippet: "...recently recoghe part of the students. nized the worth of the General Engineer; they new often specially ask Outing Club Plans Big Circus Sunday for Course IX graduates. Bachelors can expect about $260 per month as On Blue Hilis Site This weekend the Outing C..."
+    longer: true
+  - vol: 69
+    issue: 32
+    year: 1949
+    date: "1949-09-23"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v69-i32
+    snippet: "The Tarzan Type Exhibition pictured abeve took place on Tuesday afternoon in the sedate lobhy of Building 10 as part of the Outing Club membership drive. Although the descent was made successiully from the sec-"
+    longer: true
+  - vol: 69
+    issue: 44
+    year: 1949
+    date: "1949-11-04"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v69-i44
+    snippet: "The Outing Club is planning a trip to Eldon’s Cave near Pittsfield, Massachusetts this weekend as one of its major outings of the current season. Traveling in an ROTC bus, the club will be accompanied by those members of the ROTC who are interested i..."
+    longer: true
+  - vol: 70
+    issue: 1
+    year: 1950
+    date: "1950-01-10"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v70-i1
+    snippet: "...ichard G, Mills, 53 in News; Robert (Continued on Page 2) we . mY At PE A SS streets in Boston and also at th Outing Club office. —~ 5 Now when there’s snow all over the place, these areas all have good skiing for the beginner. Most of the big areas have a cha..."
+    longer: true
+  - vol: 70
+    issue: 7
+    year: 1950
+    date: "1950-02-21"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v70-i7
+    snippet: "Outing Club. Square Dance. Buckingham School, Buckingham Street, Cambridge, 8:30 p.m. Beginners are welcome 2nd will be given in-"
+  - vol: 70
+    issue: 18
+    year: 1950
+    date: "1950-04-11"
+    pages: [1, 2]
+    n: 2
+    id: mit_the_tech_newspaper-v70-i18
+    snippet: "...licity Clubs; TCA; Baton Society; Tech-|Comm., Pi Tau Sigma; Tau Beta tet; Nautical Assn. Pi; M.LT.A.A.; Outing Club. Andrew C. Price, Cum. 3.39; Gen-! Joseph S. Gottlieb, Cum. 3.78: eral Mer, Business Mgr., Advertis- ; Tech Show; Mzr,, ing Mgr., Voo..."
+  - vol: 70
+    issue: 24
+    year: 1950
+    date: "1950-05-02"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v70-i24
+    snippet: "...One of 2 series of lectures by Professor Hans Kopfermann, University |# of Goettingen. Room 4-231, 4:30 p.m. Outing Club. Lauletaan—ballads and folk songs. Tyler Lounge, Walker : Memorial, §:60 p.m. TUESDAY, MAY 9 : Biology Department. Colloquium: “Metabolica..."
+  - vol: 70
+    issue: 41
+    year: 1950
+    date: "1950-10-31"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v70-i41
+    snippet: "MONDAY, NOVEMBER 6 Outing Club. Lauletaan—bailads and folk songs. Musie Lounge, Charles Hayden Memorial Library, $:30 p.m."
+  - vol: 70
+    issue: 48
+    year: 1950
+    date: "1950-11-28"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v70-i48
+    snippet: "...udent Branch. “Methods of Probability in Weather Forecasting.” Dr. George P. Wadsworth. Room 3-370, 7:38 p.m. Outing Club. Lauletaan Song-Fest. Tyler Lounge, Walker Memorial, 8:66 p.m. : TUESDAY, DECEMBER 5 ; Varsity Hockey Team. Match with Harvard University...."
+  - vol: 71
+    issue: 12
+    year: 1951
+    date: "1951-03-13"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v71-i12
+    snippet: "...ries Committee. Subscription Series Lecture: “Minorities in a Demecracy.” Max Lerner. Room 10-250, 5:00 p.m. ‘Outing Club. General Meeting. Room 10-275, 5:00 p.m. FRIDAY, MARCH 16 Technology Christian Association. Red Cross Bicod Drive. Tyler and | Hitchfield..."
+  - vol: 71
+    issue: 17
+    year: 1951
+    date: "1951-04-06"
+    pages: [5]
+    n: 1
+    id: mit_the_tech_newspaper-v71-i17
+    snippet: "The following officers were approved for the M.L.T. Outing Club: President, Bruce B. Hanshaw °53; Secretary - Treasurer, J. Charles Daw ’53; News Co-Editors, Gardiner Perry 63 and Edmund M. Passmore ‘63; Trips Director, Paul W. Pomeroy ‘53; and Equip..."
+  - vol: 71
+    issue: 34
+    year: 1951
+    date: "1951-10-09"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v71-i34
+    snippet: "Outing Club. Meeting and discussion of future trips. Room 18-007, 5:00 p.m. Everyone is welcome. Symphony Orchestra. Rehearsal, Walker Memorial, 7:30 p.m."
+  - vol: 71
+    issue: 37
+    year: 1951
+    date: "1951-10-23"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v71-i37
+    snippet: "Passing to a smaller and yet highly important organization, we find that the Outing Club has several events planned for each weekend. The Religious Organizations usually divide their programs into Services, Forums, Dances, and General Meetings."
+    longer: true
+  - vol: 71
+    issue: 52
+    year: 1951
+    date: "1952-01-08"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v71-i52
+    snippet: ".... His undergraduate work was done at McGill University, where he managed football, and was active in the Outing Club in..."
+    longer: true
+  - vol: 72
+    issue: 6
+    year: 1952
+    date: "1952-02-26"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v72-i6
+    snippet: "...e do all that we want to do. Take heart, almost everybody on the FSSP committee has “outside” imterests: Outing Club, WMIT, Debating Society, LSC, Freshmen Council, cic. Gne more word: this is an independent organization; we are financially on our ow..."
+    longer: true
+  - vol: 72
+    issue: 8
+    year: 1952
+    date: "1952-03-04"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v72-i8
+    snippet: "...Soc., Eta Kappa Nu, Hindustan Assn., Management Assn., Pershing Rifles, Agenda, WMIT, Five-Fifteen Club, Outing Club, TEN, Lecture Series Comm...."
+  - vol: 72
+    issue: 12
+    year: 1952
+    date: "1952-03-18"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v72-i12
+    snippet: "MILT. Outing Club enthusiasts are the proud owners of a new fleet of six hearses—-those utility vehicles that can’ be bought second hand so cheaply, about $200, and are never too worn from use. Sporting such names as Albert, Pogo, Venus, and Paradoxi..."
+    longer: true
+    story: hearses-1952
+  - vol: 72
+    issue: 13
+    year: 1952
+    date: "1952-04-01"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v72-i13
+    snippet: "... Class A provisional. The Combined Professional Societies Association was given Class B status, arid the Outing Club was dropped from Class A to Class B status. The Hobby Shop will retain its Class B status. The Women Students’ Association was raised..."
+  - vol: 72
+    issue: 22
+    year: 1952
+    date: "1952-05-02"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v72-i22
+    snippet: "...table exhibit ain exhibit Fifteen Club Neeness -Open house to guesis ing Club--Private Plane ©. Briggs Field Outing Club — Exhibition of camping equipment and techTHQUES oie is Sa sa tien ....Lawn, between Bldgs. 6 & 14 Public Relations Committee . Ne eee Tae..."
+  - vol: 72
+    issue: 35
+    year: 1952
+    date: "1952-10-28"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v72-i35
+    snippet: "...9 WINTER JACKETS and HOODED PARKAS for DRESS REAL WARM WINTER WEAR AT LOWEST PRICES WAR SURPLUS EQUIPMENT FOR OUTING CLUB MEMBERS, SKI ENTHUSIASTS AND MOUNTAIN CLIMBERS AT GREAT SAVINGS Cat ibeasatons: oe BOOTS—Army reissue $6.95 SKIS—New, Army $12.95 . Worth..."
+  - vol: 72
+    issue: 43
+    year: 1952
+    date: "1952-12-02"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v72-i43
+    snippet: "WAR SURPLUS “#QUIPMENT FOR OUTING CLUB MEMBERS, SKI ENTHUSIASTS AND MOUNTAIN CLIMBERS AT GREAT SAVIN NGs BOOTS—Army reissue 56.95 SKIS—-New, Army $12.95"
+  - vol: 72
+    issue: 48
+    year: 1952
+    date: "1953-01-06"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v72-i48
+    snippet: "WAR SURPLUS EQUIPMENT FOR OUTING CLUB MEMBERS, SKI ENTHUSIASTS AND MOUNTAIN CLIMBERS AT GREAT SAVINGS BOOTS—Army reissue"
+  - vol: 72
+    issue: 50
+    year: 1952
+    date: "1953-01-13"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v72-i50
+    snippet: "...where it got the name “Harvard St. Coop.” Some of the older nembers would tell how the members of the Subsig Outing Club would go on hammering till 3:00 a.m. while tryservice. Students who are within than any other profession. He emfour | Phasized that no col..."
+  - vol: 73
+    issue: 5
+    year: 1953
+    date: "1953-02-27"
+    pages: [2, 5]
+    n: 2
+    id: mit_the_tech_newspaper-v73-i5
+    snippet: "Raymond D’Arcy—-Years two and three; business manager, treasurer, and circulation manager of T. E. N., Outing Club. Years one and three; track. Year two; Field Day Relay. Year one; 5:15 Club and Glider Club."
+  - vol: 73
+    issue: 31
+    year: 1953
+    date: "1953-10-06"
+    pages: [1, 2]
+    n: 5
+    id: mit_the_tech_newspaper-v73-i31
+    snippet: "The trip is sponsored annually by the R.P.I. Outing Club and there are usually 400 to 500 people in attendance. The rostev includes such schools as Cornell, Syracuse, Maine, N. H., Vermont, Penn. State, Vassar, Mt. Holyoke as well as the Boston area...."
+    longer: true
+  - vol: 73
+    issue: 34
+    year: 1953
+    date: "1953-10-20"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v73-i34
+    snippet: "...e Aeronautical Sciences, New York. Room 35-225, 4:00 p-m. Refreshments in the duPont Room from 3:30-4:00 p.m. Outing Club. Meeting. Discussion of Mt. Katahdin trip. Room 18-007, 5:00 mM, Sompliony Orchestra. Rehearsal. Morss Hall, Walker Memorial, 7:30 p.m. TU..."
+  - vol: 73
+    issue: 37
+    year: 1953
+    date: "1953-10-30"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v73-i37
+    snippet: "...JACKETS and HOODED PARKAS for DRESS | REAL WARM WINTER WEAR AT LOWEST PRICES ; | 1 WAR-SURPLUS EQUIPMENT FOR OUTING CLUB 23% Discount | | MEMBERS, SKI ENTHUSIASTS AND MOUNTAIN \" : CLIMBERS AT GREAT SAVINGS BOOTS—Army Reissue $6.95 RUCKSACKS.—Army Reissue $4.9..."
+  - vol: 73
+    issue: 38
+    year: 1953
+    date: "1953-11-03"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v73-i38
+    snippet: "...litary Science Department. Smoker for Advanced Course ROTC Cadets. Emma Rogers Room, 4:00-6:00 p.m. ; me Outing Club, Meeting and lecture: “Food Problems in the Antarctic.” Room 3-370, 5:00 p.m. JUESDAY, NOVEMBER 10 Christian Science Organization. Su..."
+  - vol: 73
+    issue: 44
+    year: 1953
+    date: "1953-11-24"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v73-i44
+    snippet: "...04B 15” ee $159.00 $99.50 ee, Altec-Lansing 603B 15” speaker... 75.00 ° 39.50\" WAR SURPLUS EQUIPMENT FOR OUTING CLUB the remarks attributed to the Profes-|@ Altec-Lansing 400B 8” speaker...... 22.50 14.50 MEMBERS, SKI ENTHUSIASTS AND MOUNTAIN sor. I..."
+  - vol: 73
+    issue: 45
+    year: 1953
+    date: "1953-12-01"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v73-i45
+    snippet: "...WINTER JACKETS and HOODED PARKAS for DRESS REAL WARM WINTER WEAR AT LOWEST PRICES & WAR SURPLUS EQUIPMENT FOR OUTING CLUB MEMBERS, SKI ENTHUSIASTS AND MOUNTAIN CLIMBERS AT GREAT SAVINGS BOOTS—Army Reissue: RUCKSACKS—Army Reissue $6.95 $4.95 ALL THIS AT. CENTRA..."
+  - vol: 74
+    issue: 17
+    year: 1954
+    date: "1954-04-23"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v74-i17
+    snippet: "Stanley Hart \"56. one of the leaders of | Zhe Tech reporter, tell them he has the Outing Club bicycle trip, photographs} returned, 4 little worse for wear, but"
+    longer: true
+  - vol: 74
+    issue: 21
+    year: 1954
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v74-i21
+    snippet: "sailing pavilion, and the Outing Club} WMIT is planning on broadcastin will have an exhibition of camping| the performance of the Concert Band,"
+    longer: true
+  - vol: 74
+    issue: 32
+    year: 1954
+    date: "1954-10-15"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v74-i32
+    snippet: "SIMMONS COLLEGE—The Outing Club {of Simmons} will sponsor a square dance mixer tonight from 8 to 12. Swing your partner in Alumnae Hall. Ernie Anderson will be the caller. Only 50¢ for an evening of fun."
+    longer: true
+  - vol: 74
+    issue: 42
+    year: 1954
+    date: "1954-11-23"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v74-i42
+    snippet: "...9 WINTER JACKETS and HOODED PARKAS for DRESS REAL WARM WINTER WEAR AT LOWEST PRICES WAR SURPLUS EQUIPMENT FOR OUTING CLUB MEMBERS, SKI ENTHUSIASTS AND MOUNTAIN CLIMBERS AT GREAT SAVINGS BOOTS—Army Reissue RUCKSACKS—-Army Reissue $6.95 $4.95 ALL THIS AT CENTRAL..."
+  - vol: 74
+    issue: 45
+    year: 1954
+    date: "1954-12-07"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v74-i45
+    snippet: "HARVARD—The Outing Club is out for @ square dance in Memorial Hall, “Hahv'd.\" Swing that girl right off her feet from 8 on and on."
+    longer: true
+  - vol: 75
+    issue: 8
+    year: 1955
+    date: "1955-03-04"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v75-i8
+    snippet: "Three candidates are listed: Alan Budreau '57 of the Rocket Research Society, Hebby Shop, and Outing Club, Philip N. Gallagher UI, ’5%, Vice-President of the Young Republicans Club, and James D. Robertson ’56, President of the ScienceFiction Society."
+  - vol: 75
+    issue: 14
+    year: 1955
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v75-i14
+    snippet: "...ch time the committee will discuss the forthcoming Leadership Council. Relocation (Continued from page i) the Outing Club, which built in ‘some cabinets to hold their equipment, The Glider Club moved to Bedford Airport, while Drama Shop secured space in the Au..."
+    longer: true
+  - vol: 75
+    issue: 49
+    year: 1955
+    date: "1955-12-16"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v75-i49
+    snippet: "$3 Inst. tute Committee has approved a #00 loan to the Outing Club. The jan, passed last Wednesday, will be ‘@ wed \"to purchase skis and ski boots i jy rental purposes."
+    longer: true
+    story: skiloan-1955
+  - vol: 75
+    issue: 50
+    year: 1955
+    date: "1956-01-06"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v75-i50
+    snippet: "5. Social Activities Alpha Phi Omega Armenian Club Bridge Club Chinese Students Club Club Latino DeMolay Five-Fifteen Club Outing Club Philosophical Society Technicon Young Republican Club"
+  - vol: 76
+    issue: 29
+    year: 1956
+    date: "1956-09-18"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v76-i29
+    snippet: "The MIT Outing Club is planning its first expedition of the year, a rock climbing expedition at the Quincy Quarries on Sunday, Sept. 23. Beginners are welcome as this is mainly an instruction frip. Bring sneakers and a lunch. Sign up at the Building..."
+    longer: true
+    story: quincy-1956
+  - vol: 77
+    issue: 8
+    year: 1957
+    date: "1957-03-08"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v77-i8
+    snippet: "...eymar ’58 Phi Gam. The Confidential Magazine Award for best man in the key-hole—Warren Goodnow ’59 Betas. The Outing Club Award for wildest player—Davey Crockett ’59 EC. The Audabon Society Award for the best ballhawk—Chuck Ingraham 58 Phi Gam, The MIT Coed Aw..."
+  - vol: 77
+    issue: 13
+    year: 1957
+    date: "1957-04-05"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v77-i13
+    snippet: "MIT Outing Club. Beginners’ Rock Climb to Quincy | Quarries. Instruction by experienced climbers. Trans | portation: 25 cents. Sign up at bulletin board in"
+  - vol: 77
+    issue: 14
+    year: 1957
+    date: "1957-04-09"
+    pages: [1]
+    n: 3
+    id: mit_the_tech_newspaper-v77-i14
+    snippet: "...vinsky, Debussy, Roussel, and Harris. Admission free. KRESGE AUDITORIUM, 8:30 p.m. | SATURDAY, APRIL 13 t MIT Outing Club. Beginner mountain climb to Mt. Chocorua, New Hampshire. Details and “sign-up” { at bulletin board in Building 2. WALKER MEMORIAL LOBBY, 1..."
+  - vol: 77
+    issue: 19
+    year: 1957
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v77-i19
+    snippet: "...Formal Dance, with Pat Dorn and | f his Orchestra. HOTEL STATLER, 9 p.m.-i am. | | SATURDAY, MAY 4 f MIT Outing Club. Bicycle trip to Martha's Vineyard. Sign up on Building 2 bulletin board. : WALKER MEMORIAL, 7:30 a.m. Dormitory Weekend. Jazz concer..."
+  - vol: 78
+    issue: 10
+    year: 1958
+    date: "1958-03-14"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v78-i10
+    snippet: "For the rugged Charlie Brown there is skiing and rock climbing by the Outing Club. He might even take his Wellesley girl along."
+    longer: true
+  - vol: 78
+    issue: 23
+    year: 1958
+    date: "1958-05-09"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v78-i23
+    snippet: "...0-5:00 Exhibit: Three Problems— Three Designers (Wright, Picasso, LeCorbuisier) Hayden Gallery $:00-5:00 Outing Club—booth «and display Bldg. 9:00-5:00 WTBS—student radio station—live broadeasting from lobby Bldg. 10 9:00-5:00 The Teci—student newspa..."
+  - vol: 78
+    issue: 34
+    year: 1958
+    date: "1958-10-10"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v78-i34
+    snippet: "The Outing Club is running a trip te Chocorra this weekend, For he whose banner bears that strange device “Excelsior” —- Climb a mountain!"
+  - vol: 78
+    issue: 48
+    year: 1958
+    date: "1958-12-05"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v78-i48
+    snippet: "...he apartment. During the interlude, if they so desire, they can sell their apartment and get back the equity. Outing Club Injury On Katadin Climb Takes Long Rescue Tragedy marred MIT Outing Club’s annual Thanksgiving climb at Mt. Katahdin, Maine, when Biil Mis..."
+  - vol: 79
+    issue: 1
+    year: 1959
+    date: "1959-02-13"
+    pages: [3]
+    n: 4
+    id: mit_the_tech_newspaper-v79-i1
+    snippet: "The MIT Outing Club is centering a number of activities around its recently completed cabin at Intervale, New Hampshire. Numerous trips are based from the cabin and various social functions are scheduled in it."
+    longer: true
+    story: intervale-1959
+  - vol: 79
+    issue: 17
+    year: 1959
+    date: "1959-05-05"
+    pages: []
+    n: 7
+    id: mit_the_tech_newspaper-v79-i17
+    snippet: "One of the reasons the MIT Outing Club thinks it deserves class “A” tating is the activity they are sponsoring this week-end, the Spring Circus. Open to everyone, it includes a Square dance Saturday night, and on Sunday such diverse activities as hik..."
+    longer: true
+  - vol: 79
+    issue: 45
+    year: 1959
+    date: "1959-12-08"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v79-i45
+    snippet: "...s the power to make loans and grants. In the minutes above the Tech Show loan is mentioned. Recently the Outing Club was granted $600 for the construction of a ski ledge. This falls under the FinBoard by-laws as grant “... to be a benefit to the unde..."
+    longer: true
+    story: skilodge-1959
+  - vol: 81
+    issue: 7
+    year: 1961
+    date: "1961-03-22"
+    pages: [9]
+    n: 1
+    id: mit_the_tech_newspaper-v81-i7
+    snippet: "...chaefer. For first beer pleasure, every beer through, always make it Schaefer, all around! ait Herveard - ii; Outing Club it} Presents This Year's Last - | Square Dance } Saturday Night | | itin “Memorial Hall 4 [iStag or Drag ee 8:00: p.m.# . 8 th . Clean, co..."
+  - vol: 81
+    issue: 24
+    year: 1961
+    date: "1961-11-21"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v81-i24
+    snippet: "...rgy in Applied Field.\"' T. Nagamiya, Professor of Physics, Osaka University, Japan. Room 6-120, 4:00 p.m. MIT OUTING CLUB.* Meeting. Walker Memorial, Room 306, 5; 18 p.m. MIT HILLEL SOCIETY Study group: Gemara ‘class. 317 Mernorial Drive, 7:00 p.m. CHORAL SOCI..."
+  - vol: 81
+    issue: 25
+    year: 1961
+    date: "1961-12-06"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v81-i25
+    snippet: "...CTURE SERIES.* Lecture: “Latin America and The New Frontier.” Mr. Edmundo Flores, ‘ Room 7-435, 4:30 P.M. MIT OUTING CLUB* Meeting. Walker Memorial, Room 306, 5:15 P.M. CHORAL SOCIETY. Rehearsal. Kresge Auditorium, 7:30 p.m. MIT HILLEL SOCIETY, Study Groups: ...."
+  - vol: 81
+    issue: 28
+    year: 1961
+    date: "1962-01-10"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v81-i28
+    snippet: "...3:60 p.m. MIT Hittel Society. Study ,group: “Judaism and Modern $<ience. &y 80 p. m. 347 Memoriai Brive. MIT OUTING CLUB.* Meeting Walker Memorial, Room 306, 5:5 p.m. MIT HILLEL SOCIETY.* Study group: Gemara class. 347 Memoria! Drive, 7:06 p.m. CHORAL SOCIETY..."
+  - vol: 82
+    issue: 1
+    year: 1962
+    date: "1962-02-07"
+    pages: [13]
+    n: 1
+    id: mit_the_tech_newspaper-v82-i1
+    snippet: "...8, 4:00 p MIT HILLEL “SOCIETY. Study group: “Judaism and Modern Science,\" 317 Memoria! Drive, 4:00 p.m. . MIT OUTING CLUB.* Meeting. Walker> Memorial, Room 306, 5:15 p.m. MIT HILLEL SOCIETY. Study group: Gemara class. 317 Memorial Drive, 7:00 p.m, CHORAL SOCIE..."
+  - vol: 82
+    issue: 6
+    year: 1962
+    date: "1962-03-14"
+    pages: [9]
+    n: 1
+    id: mit_the_tech_newspaper-v82-i6
+    snippet: "...oratory for Technical Physics, Tech 3 nische Hochschule, Munich, Building NW-12, 138 Albany St., 4:00 pm, MIT OUTING CLUB.* Meeting. . WalkerMemorial, Room 306, 5:15 p.m. if Please turn to Page 11) needs RESEARCH | ENGINEERS | Qualified speciafists and recent..."
+  - vol: 82
+    issue: 17
+    year: 1962
+    date: "1962-10-03"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v82-i17
+    snippet: "There’s also going to be an Outing Club square dance at Wellesley Saturday night: Alumnae Hail, 8 P.M., $.75 admission. The Wellesley Weekly Bulletin states that “all members of the college community and their friends are invited.’”’ If you feel frie..."
+  - vol: 82
+    issue: 22
+    year: 1962
+    date: "1962-11-07"
+    pages: [10]
+    n: 1
+    id: mit_the_tech_newspaper-v82-i22
+    snippet: "...rhaps one or two other commercial units; there will also be storage space for the Coop, the IFC, and the Outing Club on this level, as well as the bowling alley and a Jarge kitchen...."
+    longer: true
+  - vol: 83
+    issue: 2
+    year: 1963
+    date: "1963-02-13"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v83-i2
+    snippet: "...refreshments: sponsored by the Holy Trinity Russian Orthodox Cathedral of Boston; $1.50 donation. Wellesley— Outing Club square dance, Alumnae Hall, Friday, 8:00 p.m.; 75 cents. Government: How Much? 50 Colleges To Be Represented At Conference Here “The Feder..."
+  - vol: 84
+    issue: 10
+    year: 1964
+    date: "1964-04-22"
+    pages: [1]
+    n: 2
+    id: mit_the_tech_newspaper-v84-i10
+    snippet: "The MIT Outing Club will sponsor another Spring Circus of trips for members and non-members this weekend. Those interested in a trip may sign their name on the bulletin"
+  - vol: 84
+    issue: 19
+    year: 1964
+    date: "1964-10-14"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v84-i19
+    snippet: "...Show, Lecture Series Committee, Social Services Committee, Combined Musical Clubs and the Baton Society, Outing Club, and the combined religious..."
+  - vol: 85
+    issue: 11
+    year: 1965
+    date: "1965-04-28"
+    pages: [7]
+    n: 2
+    id: mit_the_tech_newspaper-v85-i11
+    snippet: "...Thurs, and Sat. 2:30 “e SHOUBER: The Roar Greasepaint, Ale Smeli of the Grow. 5 8:30, Th.-Sat. 2:30 mat. MIT Outing Club sponsors trips A ‘Spring Circus’ of trips will be presented by the MIT Outing Club this Sunday. There will be beginning rockclimbing, cano..."
+  - vol: 85
+    issue: 17
+    year: 1965
+    date: "1965-09-29"
+    pages: [2]
+    n: 2
+    id: mit_the_tech_newspaper-v85-i17
+    snippet: "... Center, free. Vannevar Bush Room, 10-105: 5 pm —MIT Concert Band rehearsal, Kresge Auditorium; 5 pm—MIT Outing Club meeting, Walker Memorial, Rm. 308; 7:30 pm—Choral Seciety rehearsal, Kresge Auditorium...."
+  - vol: 85
+    issue: 18
+    year: 1965
+    date: "1965-10-06"
+    pages: [12]
+    n: 1
+    id: mit_the_tech_newspaper-v85-i18
+    snippet: "...tures. The Student Center, the Green Room. 5:00 pm—MIT Concert Band rehearsal. Kresge Auditorium. 5:06 pm—MIT Outing Club meeting. Walker Memorial, Room 3068. 7:00 pm—MIT Gilbert & Sullivan. Seciety rehearsal. Rehearsal Room B and the .Main Auditorium, Kresge..."
+  - vol: 85
+    issue: 19
+    year: 1965
+    date: "1965-10-13"
+    pages: [11, 13]
+    n: 2
+    id: mit_the_tech_newspaper-v85-i19
+    snippet: "...RASASTSRESHARKREREKASASSAARSERAASAe Rea sKnAceRAAa The Bulletin Board Compiled by the Public Rela5:00 pm—-MIT Outing Club meet- |§ ing. Student Center, Room 491. /f * tions Committee of Inscomm, The Bulletin Board is a weekly service 5:05 pm— Arnold Air Societ..."
+  - vol: 85
+    issue: 20
+    year: 1965
+    date: "1965-10-20"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v85-i20
+    snippet: ".... 7:00 pm—-IFCY: PMC Mesting. Student Center, Room 407. 7:30 pm—-APO meeting. The Student Center. 8:00 pm.MIT Outing Club. Lecture: introduction to Winter Mountaineering. Room 4-270. Thursday, October 21 4:00 pm—JV Soccer: MIT Stonehill. Briggs Field. 5:00 pm—..."
+  - vol: 85
+    issue: 21
+    year: 1965
+    date: "1965-10-27"
+    pages: [9]
+    n: 2
+    id: mit_the_tech_newspaper-v85-i21
+    snippet: "...:15 pm—tL.$.C. Movie: How to Stuff a Wild Bikini. Admission: 50c. Roam 26-100. 7:30 pm—tL.S.C. Movie. 7:30 pm—Outing Club: Wellesley Square Dance. Admission: Free. Alumni Hall, Wellesley College. 8:00 pm——Phi Delta Theta semiformal open bid party. No admission..."
+  - vol: 85
+    issue: 22
+    year: 1965
+    date: "1965-11-03"
+    pages: [16]
+    n: 1
+    id: mit_the_tech_newspaper-v85-i22
+    snippet: "...-250. Admission: 50. Monday, November & 5:00 pm-—MIT Concert Band rehearsal. Kresge Auditorium. 5:00 pm-—-MIT Outing Club meeting. Student Center, Room 491. 5:00 pm-—Gilbert & Sullivan Society rehearsal. Kresge Auditorium. 7:30 pm-——Dramashop tryouts for major..."
+  - vol: 85
+    issue: 23
+    year: 1965
+    date: "1965-11-10"
+    pages: [3, 7, 12]
+    n: 3
+    id: mit_the_tech_newspaper-v85-i23
+    snippet: "...ditorium. = Monday, Nevember 15 ® 5:00 pm—MIT Cencert Band rena hearsal, Kresge Auditorium. §:00 pm—-MIT Outing Club meet-..."
+  - vol: 85
+    issue: 24
+    year: 1965
+    date: "1965-11-17"
+    pages: [4]
+    n: 3
+    id: mit_the_tech_newspaper-v85-i24
+    snippet: "On Nov. 25-27 MITOC will conduct its annual “Turkey-inaTent.” Winter - mountaineering, climbing, and Thanksgiving dinner on Mt. Katahdin, Baxter State Park, Maine, highlight the event. Information is posted on the Building 2 Bulletin Board or may be..."
+    longer: true
+    story: turkey-1965
+  - vol: 85
+    issue: 26
+    year: 1965
+    pages: [10]
+    n: 7
+    id: mit_the_tech_newspaper-v85-i26
+    snippet: "...eautiful Swedish dance, and club president, Shelby Hildebrand ’66, invites all interested to come to the MITOC room in the student center...."
+    longer: true
+  - vol: 85
+    issue: 27
+    year: 1965
+    date: "1965-12-08"
+    pages: [8, 14]
+    n: 3
+    id: mit_the_tech_newspaper-v85-i27
+    snippet: "...epartment of Humanities for sponsoring it, and hope they will bring us equal entertainment in the future. MIT Outing Club to show tour slides The MIT Outing Club will pre sent a slide show in the Bush Room (10-105) Wednesday, Dec. _.. cember 8, at 8 pm. (Opp...."
+  - vol: 85
+    issue: 28
+    year: 1965
+    date: "1965-12-14"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v85-i28
+    snippet: "...l: MIT vs Bowdoin, Rockwell Cage. 7:00 pm—Freshman Hockey: MIT vs St. Sebastian's. MIT Ice Rink. 7:00 pm-—MIT Outing Club: Folk Dancing. . Student Center, Sala de Puerto Rico. 7:30 pm—APO Meeting. Student Center, Room 491. Evening—Voo Doo: Lit. Deadline and Ma..."
+  - vol: 85
+    issue: 29
+    year: 1965
+    date: "1966-01-04"
+    pages: [6]
+    n: 1
+    id: mit_the_tech_newspaper-v85-i29
+    snippet: "...MIT Concert Band rehearsal. Kresge Auditorium. 5:00 pm—MIT Glee Club rehearsal. Kresge Auditorium. 7:00 pm —- Outing Club. Folk Dancing. Student Center, level 5. 7:00 pm—tTech. Show rehearsal. Kresge Auditorium. 7:00 pm—JV Basketball, MIT vs. Wentworth. Rockwe..."
+  - vol: 85
+    issue: 30
+    year: 1965
+    date: "1966-01-07"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v85-i30
+    snippet: "...dent Center, Room 467, Monday, January 10 5:00 pm -— MIT Concert Band rehearsal. Kresge Auditorium. 5:00 pm — Outing Club meeting. Student Center, Room 491. 7:30 pm—-Choral Society rehearsal. Kresge Auditorium. 8:00 pm — MIT Mathematics Club lecture: Categorie..."
+  - vol: 85
+    issue: 31
+    year: 1965
+    date: "1966-01-31"
+    pages: [9]
+    n: 1
+    id: mit_the_tech_newspaper-v85-i31
+    snippet: "...MIT Concert Band reearsal, Kresge Auditorium. 5:00 pm——MIT Glee Club rehearsal, Kresge Auditorium. 7:00 pm-——Outing Club folk daneing. Instruction provided. Student Center. 7:00 pm—L.S.C. Free Movies: BBC and Vsia Films of MIT. Kresge Auditorium, 7:00 pm—MIT..."
+  - vol: 86
+    issue: 1
+    year: 1966
+    date: "1966-02-08"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i1
+    snippet: "...RATIVE SOCIETY iN THE NEW M.1.T. STUDENT CENTER Square dance hested FB] joins search for missing soph, by MIT Outing Club boy's father closes shop to assist The MIF Cutting Club will hold : a square pai in the Sala de Attorney General Nicholas KatFred’s father..."
+  - vol: 86
+    issue: 2
+    year: 1966
+    date: "1966-02-11"
+    pages: [10]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i2
+    snippet: "The MIT Outing Club will pre sent Mr. Nathan G. Pond, manager of Parachutes Incorporated, in &@ one hour lecture on the sport of parachuting Monday. The talk will be during the regular 5 p.m. meeting of the club im room 491 of the Student Center. Mr...."
+  - vol: 86
+    issue: 3
+    year: 1966
+    date: "1966-02-15"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i3
+    snippet: "...Pu—MIT Glee Chub Rehaaroy MIT Glas Club Rehear Always At Your Service sal. Student Center, Rm. 44i. : 5:00 pm—Outing Club: Songfest, A 7 5:00 pm—Tangent Meeting. Stu- @ CLEANING pte phi Bldg, 2 bulletin dent Center, Rm. 485. @ PRESSING Board. The Rec Hall, Wel..."
+  - vol: 86
+    issue: 8
+    year: 1966
+    date: "1966-03-04"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i8
+    snippet: "Menday, March 7 5:00 pm — Outing Club meeting. Student Center, Rm. 473. §:06 pm — Concert Band rehearsal. Kresge. 7:00 pm —~ United Christian Fellowship meeting. Student Center, Rm."
+  - vol: 86
+    issue: 10
+    year: 1966
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i10
+    snippet: "...West; admission 50; Room fionday, Mareh i4 5:00 pm — L.S.C. General Meeting, Student Center, Rm. 407 5:90 pm—Outing Club meeting. Siudent Center, Rm. 473 5:00 pm ~— MIT Concert Band rehearsal. Kresge 7:00 pm — MIT Lutheran Studies Program: Man in a Bell Jar...."
+  - vol: 86
+    issue: 11
+    year: 1966
+    date: "1966-03-15"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i11
+    snippet: "...ce. MIT Chapei. 5:00 P.M. MIT Concert Band Rehearsal. Kresge. P.M. MIT Glee Ciub Rekearsal. Kresge. 7:00 P.M. Outing Club: Folk _Dancing. S.C., Sala de Puerto Rico. 7:00 P.M. Gilbert & Sullivan Society. Rm. 491. Rm. International Studeni’s Week: india & Pakist..."
+  - vol: 86
+    issue: 22
+    year: 1966
+    date: "1966-04-29"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i22
+    snippet: "...ibrary. $.C., Mezzanine Lounge. 6:00 pm-—LSC Movie: The Longest Oay. Admission 50. Fem. 10-250. 8:00 pm — MIT Outing Club: Square Danee. Sala de Puerto Rico. 8:00 pm — Spring Weekend: The Beach Boys Concert. Crane’s Beach. 8:00 pm—LSC Movie. Rm. 26-100, 8:30 p..."
+  - vol: 86
+    issue: 30
+    year: 1966
+    date: "1966-09-20"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i30
+    snippet: "+ Outing Club. Rock Quincy Quarries. | vosh and Varsity SwimMeeting, Alumni Pool. 5:00 P. INNISFREE: Organizational Meeting. Student Center, East Lounge (nd floor). 5:00 P.M. M.I.T. Glee Club: Rehearsal. Kresge Auditorium."
+  - vol: 86
+    issue: 35
+    year: 1966
+    date: "1966-10-07"
+    pages: [6, 7]
+    n: 2
+    id: mit_the_tech_newspaper-v86-i35
+    snippet: "...tic Center, 1:40 PM Strategic Student Center, 3. 1:00 PM Chess mun Meeting. Student Center, Roo §&:60 PM Outing Club & Folk Dance Group present the Pinewoods Morris Men. East Campus, Lawn. 7:00 PM LSC M Where_ the Spies are. Admission: 50c. Room..."
+  - vol: 86
+    issue: 41
+    year: 1966
+    date: "1966-10-28"
+    pages: [10]
+    n: 1
+    id: mit_the_tech_newspaper-v86-i41
+    snippet: "...7. 8:00\" PR. LSC Classic Movie. “To Die In Madrid.\"’ Admission: .50. Rm. 10-259. Monday, Octehber 31 §:90 PM. Outing Club, Student Center, Rm. 491. 7:00 PM. Gilbert & Sullivan Society. Student Center, Rm. 473. 8:00 PM. Library Concert. Viclin— Piano Concert, S..."
+  - vol: 87
+    issue: 30
+    year: 1967
+    date: "1967-09-22"
+    pages: [1, 3]
+    n: 2
+    id: mit_the_tech_newspaper-v87-i30
+    snippet: "...r Jaffrey, New sa sag is d ® Se ae ae SPECTACULAR SAVINGS! Faculty Club, MITAA, ° IEC, : zz = : Do , Inscomm, MITOC, and f E ce MT satvitte Tt is ar] PONDEROSAS | SPORT SHIRTS | | THE TECH coop vival of the three-year tradition SUEDES-CORDUROYS-DENIMS | TREMEN..."
+  - vol: 87
+    issue: 32
+    year: 1967
+    date: "1967-09-29"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v87-i32
+    snippet: "...tudent Staff Acquaintance Hike,” and is planned for Columbus Day. The sponsors are the MIT Faculty Club, MITOC, MITAA, Inscomm, IFC, Dorm Council, etc. The UAP, however, says that the only thing he knows about it was from an obscure letter last sprin..."
+  - vol: 87
+    issue: 46
+    year: 1967
+    date: "1967-11-17"
+    pages: [11]
+    n: 2
+    id: mit_the_tech_newspaper-v87-i46
+    snippet: "The Outing Club has announced their trip schedule for the coming weekend. People interested should contact the trip leader at the indicated telephone numbers or sign up on ithe Building 2 bulletin board."
+  - vol: 88
+    issue: 42
+    year: 1968
+    date: "1968-11-05"
+    pages: [9]
+    n: 2
+    id: mit_the_tech_newspaper-v88-i42
+    snippet: "...ame teams will be unable te hold bo titles, Tech will send a young team t three membess being sophomores. MIT Outing Club has become 2 | Skiers Association. This Association is } a union of college ski clubs in the & Boston area. Ski weekends to the 2 cabin or..."
+    longer: true
+  - vol: 88
+    issue: 52
+    year: 1968
+    date: "1968-12-13"
+    pages: [4]
+    n: 2
+    id: mit_the_tech_newspaper-v88-i52
+    snippet: "® The Outing club will present a lecture and slide show on white water canoeing by Ed Mettison of the White Water Club at its meeting Monday, at 5:30 pm in W20-407. At its Jamuary 6 meeting, MITOC will present a lecture and dide show on mrowuntaimeer..."
+  - vol: 89
+    issue: 1
+    year: 1969
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v89-i1
+    snippet: "5. More musical rooms occured over intersession as the Outing Club moved into the APO office, APO moved into the small activities office, and the small activities were shunted (as small things tend to be) into the Outing Club office, losing several d..."
+    longer: true
+  - vol: 89
+    issue: 11
+    year: 1969
+    date: "1969-03-18"
+    pages: [4, 7]
+    n: 4
+    id: mit_the_tech_newspaper-v89-i11
+    snippet: "...Saturday, March 22 Bus and lift - $14.00 t Tickets on sale this week in Building Ten x2866 or 869-8750, f or MITOC, x2988 | For information, call Dwight Davis 4, sponsored by MITOC g § ] 4 | t f 3 2 5 r | t q 3 ‘ ' 8 i ‘ ‘ ‘ i 5 i i 5 1 og 4 t 1 | e A { 4 t 8..."
+  - vol: 89
+    issue: 21
+    year: 1969
+    date: "1969-05-02"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v89-i21
+    snippet: "aH) Park in Brookline. Beginners are particularily welcome. See the Outing Club jj i bulletin board in Bldg. 7 (opposite the Medical Dept.) for further details."
+  - vol: 90
+    issue: 7
+    year: 1970
+    date: "1970-03-03"
+    pages: [2]
+    n: 1
+    id: mit_the_tech_newspaper-v90-i7
+    snippet: "... in going to see the total eclipse of the sun Saturday, March 7, (including those who already signed the MITOC Sign-up sheet} should come to a meeting at 4 PM on Thursday, March 5, at the MITOC office (461 Student Center), At that time we will match..."
+  - vol: 91
+    issue: 51
+    year: 1971
+    date: "1971-11-30"
+    pages: [3]
+    n: 3
+    id: mit_the_tech_newspaper-v91-i51
+    snippet: ".. pm, at Room. W20-46S5. (Student ‘Center. : : . Name your prices (2% MITOC service charge). Ski Safe only on Thurs., Dec. 9, 1!"
+  - vol: 92
+    issue: 25
+    year: 1972
+    date: "1972-05-12"
+    pages: [5]
+    n: 1
+    id: mit_the_tech_newspaper-v92-i25
+    snippet: "...eted in the IM cycling race held last Sunday. The top four (and only) finishers were: 1) Peter Bras, MIT Outing Club, 2 hr 29 min 58 sec; 2) David Zimmerman, PKA, 3:26:04; 3) Richard Palm, Baker House, 4:30:26; and 4) James Clark, BSU, 4:37:40...."
+  - vol: 92
+    issue: 27
+    year: 1972
+    date: "1972-05-19"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v92-i27
+    snippet: "...chairman of Nominations Committee of the Undergraduate Assembly, and recently | was President of the MIT Outing Club — by some standamds a respectable member of the MEF community. Yet I clearly identify myself with these charged; I spent the night at..."
+    longer: true
+  - vol: 92
+    issue: 34
+    year: 1972
+    date: "1972-09-26"
+    pages: [6]
+    n: 1
+    id: mit_the_tech_newspaper-v92-i34
+    snippet: "On Friday Longair left Baston on an MIT Outing Club trip he had been involved in for some time, and which he said had somewhat preoccupied hirn. At that time, he said, the Discipline Committee hearings appeared far enough off that he did not think th..."
+    longer: true
+  - vol: 93
+    issue: 35
+    year: 1973
+    date: "1973-10-02"
+    pages: [1]
+    n: 7
+    id: mit_the_tech_newspaper-v93-i35
+    snippet: "The Outing Club promotes outdoor activities by sponsoring several outings in the New England area each weekend. These are planned and led completely by students."
+    longer: true
+  - vol: 94
+    issue: 14
+    year: 1974
+    date: "1974-04-02"
+    pages: [8]
+    n: 1
+    id: mit_the_tech_newspaper-v94-i14
+    snippet: "...WTBS remote broadcast * * Concert Jazz Band «x Auto Club Exhibit * Pinball Championship * Gospel Choir * Outing Club demonstrations x Yo-Yo *Shove-it Contest..."
+  - vol: 94
+    issue: 18
+    year: 1974
+    date: "1974-04-19"
+    pages: [7, 9]
+    n: 2
+    id: mit_the_tech_newspaper-v94-i18
+    snippet: "if vou watch the side of the Student Center at 2:30 on Friday, you will see Outing Club members _rapelling down the walls. It will certainly be something to catch,-but don’t stand too close. The world famous MIT Tiddlywinks Team will show off their s..."
+  - vol: 95
+    issue: 38
+    year: 1975
+    date: "1975-10-07"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v95-i38
+    snippet: "...he New Hampshire White Mountains when he apparently fell down a gully. ‘“We don’t have all the details,” Outing Club President Rob Milne ’78, said, “‘all we know is that somehow a rock fell on him,”’..."
+    longer: true
+  - vol: 96
+    issue: 22
+    year: 1976
+    date: "1976-04-30"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v96-i22
+    snippet: "i:ge Toss; Briggs Field, Area A. See Field Dav. IF Repelling demonstration: front face of the Stud: Center. MIT Outing Club."
+  - vol: 98
+    issue: 41
+    year: 1978
+    date: "1978-09-26"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v98-i41
+    snippet: "Picking, who was majoring in electrical engineering, was active in the Shakespeare Ensemble as an actor, as well as in the MIT Outing Club."
+    longer: true
+  - vol: 98
+    issue: 50
+    year: 1978
+    date: "1978-10-31"
+    pages: [8]
+    n: 1
+    id: mit_the_tech_newspaper-v98-i50
+    snippet: "Join A new type of Winter Outing Club. Ski-Bob Club of Boston — $10.00 Membership Fee Ski sitting down.on a Ski-Bob Fast, Exciting, Safe “Fun"
+  - vol: 99
+    issue: 35
+    year: 1979
+    date: "1979-09-28"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v99-i35
+    snippet: "Happily at MIT, there is no lack of respect for nature and art. Our Outing Club and Science Fiction Society are famous, the latter internationally so. Wellsupported are. our Symphony Orchestra and “Shakespeare Ensemble, not to mention our weekend fil..."
+    longer: true
+  - vol: 100
+    issue: 42
+    year: 1980
+    date: "1980-10-21"
+    pages: [15]
+    n: 4
+    id: mit_the_tech_newspaper-v100-i42
+    snippet: "The ‘propriety, if not the legality, of a disbursement made by Associate Dean for Student Affairs Robert Holden has-been questioned by a number of student government members following a $10,000 grant to the MIT Outing Club."
+    longer: true
+    story: grant-1980
+  - vol: 100
+    issue: 43
+    year: 1980
+    date: "1980-10-24"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v100-i43
+    snippet: "...be stored without fuss or muss until the § next Ice Age. He. doesn't seem ‘to think about what he sit SKIERS! OUTING CLUB jj Sponsored Trips } Come to the Student Center, Rm 461, Oct. 27 at 5:00pm: or call Janet at x5-8323. COWBOY BOOTS a TONY LAMA ACME USTIN..."
+  - vol: 100
+    issue: 49
+    year: 1980
+    date: "1980-11-18"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v100-i49
+    snippet: "...asement of Walker Memorial) if that building is turned into a graduate student center or if the number of MIT OUTING CLUB SKI TRIP 4am CALL KEN 497-1431(eves) participants continues to increase. CSA is considering the possibility of Institute housing in Kendal..."
+    longer: true
+  - vol: 101
+    issue: 18
+    year: 1981
+    date: "1981-04-14"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v101-i18
+    snippet: "Wanted Summer Caretakers for the MIT Outing Club Cabins in N.H. Small compensation, call Janet 4948360 for interview, mornings."
+  - vol: 102
+    issue: 51
+    year: 1982
+    date: "1982-11-09"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v102-i51
+    snippet: "...sical Theatre Guild National Society of BlackEngineers Nichiren Shoshu Buddhist Group Objectivist Study Group Outing Club Peoples’ Environmental Awareness Pershing Rifles Tech Model Aircrafters Tech Model Railroad Ciub Tech Squares Technique Technology Communi..."
+  - vol: 103
+    issue: 7
+    year: 1983
+    date: "1983-02-25"
+    pages: [16]
+    n: 8
+    id: mit_the_tech_newspaper-v103-i7
+    snippet: "...the memory of Everett Moore Baker” and “serve as an instrument for advancing his ideals and objectives.” MITOC based its request on the premise that Baker was an avid outdoorsman...."
+    longer: true
+  - vol: 104
+    issue: 1
+    year: 1984
+    date: "1984-02-07"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v104-i1
+    snippet: "Space alotted to student activites is another instance where the Institute’s help would be needed. It would not be a good thing to throw the MIT Outing Club out of its offices. It is a good thing for student activities to be convienently placed. Per-"
+    longer: true
+  - vol: 104
+    issue: 31
+    year: 1984
+    date: "1984-07-31"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v104-i31
+    snippet: "The Dean’s Office denied permission to the MIT Outing Club to take freshmen to a trip to Vermont before R/O Week, according to Eisenmann. “The idea was great, but the Outing Club was not able to work out problems with liability insurance. It is conce..."
+    longer: true
+  - vol: 105
+    issue: 7
+    year: 1985
+    date: "1985-03-01"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v105-i7
+    snippet: "...propensity to hike in the winter Constitutes a “hiking problem” which MIT staff must report. In- - Stead, the Outing Club teaches People how to do it safely. My friends who use ‘drugs do | ave a problem, but not a drug Problem. Since the drugs are il- © legal,..."
+    longer: true
+  - vol: 105
+    issue: 18
+    year: 1985
+    date: "1985-04-19"
+    pages: [12]
+    n: 1
+    id: mit_the_tech_newspaper-v105-i18
+    snippet: "...e Students Association Korean Graduate Student Association Lebanese Club MIT Association of Nigerian Students Outing Club MIT Graduate Rowing Club MIT Rugby Club Sangam Science Fiction Society Society of Naval Architechts and Marine Engineers Strategic Games S..."
+  - vol: 109
+    issue: 43
+    year: 1989
+    date: "1989-10-17"
+    pages: [3]
+    n: 1
+    id: mit_the_tech_newspaper-v109-i43
+    snippet: "some clubs have rooms in bath Walker and Stratton, almost. half of Walker’s activity space is actually on the negotiating table right now. So are about 8000 square feet in Building E20 currently occupied by the Outing Club and"
+    longer: true
+  - vol: 110
+    issue: 54
+    year: 1990
+    date: "1990-11-30"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v110-i54
+    snippet: "The MIT Outing Club holds office hours every Monday and Thurday from 5:30 to 6:30pm in W20-461. Stop by and help plan, lead or particpate in trips ranging"
+  - vol: 110
+    issue: 57
+    year: 1990
+    date: "1990-12-11"
+    pages: [1]
+    n: 1
+    id: mit_the_tech_newspaper-v110-i57
+    snippet: "The MET Outing Club holds office hours every Monday and Thurday from 5:30 to 6:30pm in W20-461. Stop by and help plan, lead or particpate in trips ranging from one day outings to month long treks. The club is especially active in rock climbing, kayak..."
+  - vol: 111
+    issue: 8
+    year: 1991
+    date: "1991-02-26"
+    pages: [14]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i8
+    snippet: "...Beginners are wel- -. COMe; No partner is needed. Cail 253-3655 (FOLK) for more information. * x *x 2 The MIT Outing Club holds office ‘hours . ~ every Monday and Thurday from 5:30 to Stop by and heip ‘ 6:30pm in W20-46!. plan, lead or particpate in trips rang..."
+  - vol: 111
+    issue: 25
+    year: 1991
+    date: "1991-05-07"
+    pages: [14]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i25
+    snippet: "...huge suc- -“This -is the: largest 1 ‘number - “of teams. Safaris. has ever mman- “aes, a sored said. The MIT Outing Club holds: office hours _ every Monday” and Thursday’ from 5:306:30 pm in W20-461. Stop” by and help plan, .lead or participate in trips rangi..."
+  - vol: 111
+    issue: 27
+    year: 1991
+    date: "1991-06-03"
+    pages: [25]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i27
+    snippet: "...ad Club meets every Saturday at 6 pm in 20E-214. Visitors are always welcome. For info, call x3-3269. The MIT Outing Club holds office hours every Monday and Thursday from 5;306:30 pm in W20461. Stop by. and help - plan, lead or participate in trips ranging fr..."
+  - vol: 111
+    issue: 31
+    year: 1991
+    date: "1991-09-03"
+    pages: [6]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i31
+    snippet: "The MIT Outing Club ‘holds ‘offive ‘hours every Monday and ‘Thursday: from 5: 306:30 pm in W20-461. ‘Stop. ‘by ‘and help” plan,, lead of participate: in trips ranging “ from one day ¢ outings to month-long treks. “ The club is especially, active inst..."
+  - vol: 111
+    issue: 32
+    year: 1991
+    date: "1991-09-06"
+    pages: [11]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i32
+    snippet: "The MIT Outing Club holds office hours every Monday and Thursday from 5:306:30 pm in W20-461. Stop by and help plan, lead or participate in trips ranging from one day outings to month long treks. The club is especially active in rock climbing, kayaki..."
+  - vol: 111
+    issue: 39
+    year: 1991
+    date: "1991-10-01"
+    pages: [5]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i39
+    snippet: "...0 pm. Beginners are welcome; no partner is needed. Call 253-3655 (FOLK) for more information. * * * * The MIT Outing Club hoids office hours every Monday and Thursday from 5:306:30 pm in W20461. Stop by and help 4 SERVICING, 0 notices | from one day outings to..."
+  - vol: 111
+    issue: 44
+    year: 1991
+    date: "1991-10-22"
+    pages: [4]
+    n: 3
+    id: mit_the_tech_newspaper-v111-i44
+    snippet: "...spéct-.. able -gentlefolk. —-when he assured ‘ine. -that.the “Fall Circus” trip. planned by the... ‘MIT. Outing Club in conjunction-with. the...."
+    longer: true
+  - vol: 111
+    issue: 50
+    year: 1991
+    date: "1991-11-12"
+    pages: [13]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i50
+    snippet: "The MIF Outing Club holds office hours every Monday and Thursday from 5:306:30 pm in W20-461. Stop by and help plan, lead or participate in trips ranging from one day outings to month long treks. The club is especially active in rock climbing, kayaki..."
+  - vol: 111
+    issue: 52
+    year: 1991
+    date: "1991-11-19"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v111-i52
+    snippet: "The Outing Club currently plans to build a “temporary structure in place of the cabin to last throughout the winter. “Hopefully, we will be rebuilding in ‘the summer or fall of next year,”"
+    longer: true
+    story: fire-1991
+  - vol: 111
+    issue: 53
+    year: 1991
+    date: "1991-11-22"
+    pages: [10]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i53
+    snippet: "The MIT Outing Club holds office hours every Monday and Thursday from 45:306:30 pm in W20461. Stop by and help plan, lead or participate in trips ranging from one day outings to: month long treks. The club is especially active in rock climbing, kayak..."
+  - vol: 111
+    issue: 56
+    year: 1991
+    date: "1991-12-06"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v111-i56
+    snippet: "By Josh Hartmann A mistake by Delta Upsilon’s current pledge class may have led to the Nov. 12 fire that de_stroyed an MIT Outing Club cab-"
+    longer: true
+  - vol: 111
+    issue: 59
+    year: 1991
+    date: "1992-01-15"
+    pages: []
+    n: 2
+    id: mit_the_tech_newspaper-v111-i59
+    snippet: "\"Maltz had Said: ‘that the. Outing Club: wanted . to build a tempo- -Tary: structure in place of the cab-. in-to last throughout. the winter."
+    longer: true
+  - vol: 111
+    issue: 60
+    year: 1991
+    date: "1992-01-22"
+    pages: [15]
+    n: 1
+    id: mit_the_tech_newspaper-v111-i60
+    snippet: "The MIT Outing Club presents a talk and slide show by Rick Wilcox, leader of the successful 1991 New England Everest Expedition. Rick’s slides and talk detail both the hardship and the beauty of his trip up the classic South Ridge route. Room 10250 a..."
+  - vol: 111
+    issue: 61
+    year: 1991
+    date: "1992-01-31"
+    pages: [9]
+    n: 4
+    id: mit_the_tech_newspaper-v111-i61
+    snippet: "Three Outing Club members built the cabin in 1980 on land the club owned, replacing a cabin that had burned down on that site. Maltz said it is “tough to say” what the value of the cabin was, although the materials cost $20,000 10 years ago. The cabi..."
+    longer: true
+    story: firecause-1992
+  - vol: 112
+    issue: 20
+    year: 1992
+    date: "1992-04-14"
+    pages: [10]
+    n: 7
+    id: mit_the_tech_newspaper-v112-i20
+    snippet: "...help people ‘get away’ from MIT. ... Our main goals are to make trips convenient, inexpensive, and fun.” MITOC has approximately 200 members, about 50 of whom are active, with a third taking the role of..."
+    longer: true
+    story: feature-1992
+  - vol: 112
+    issue: 61
+    year: 1992
+    date: "1992-12-01"
+    pages: [10]
+    n: 1
+    id: mit_the_tech_newspaper-v112-i61
+    snippet: "The MIT Outing Club holds office hours every Monday and Thursday from 5:306:30 pm in W20-461. Stop by and help plan, lead or participate in trips ranging from one day outings to month long treks. The club is especiaily active in rock climbing, kayaki..."
+  - vol: 118
+    issue: 40
+    year: 1998
+    date: "1998-09-11"
+    pages: [21]
+    n: 1
+    id: mit_the_tech_newspaper-v118-i40
+    snippet: "9:00 a.m. — Freshman Hike. Get away from campus and check out the finest hiking trails within subway range. About eight miles hike in rough terrain. Student Center, Room 461. Sponsor: Outing Club."
+  - vol: 119
+    issue: 5
+    year: 1999
+    date: "1999-02-16"
+    pages: [5]
+    n: 3
+    id: mit_the_tech_newspaper-v119-i5
+    snippet: "Like many MIT student groups, the MIT Outing Club holds events throughout the year, the most recent being Winter School, held each year during IAP. The class included on-campus lectures on topics such as safety,"
+    longer: true
+  - vol: 119
+    issue: 28
+    year: 1999
+    date: "1999-06-11"
+    pages: [14]
+    n: 1
+    id: mit_the_tech_newspaper-v119-i28
+    snippet: "To mention just a few of the over 300 MIT student groups that are active during the summer, the MIT Outing Club, the Undergraduate Association, Technique, The Tech, the Society for Creative Anachronism, the Assassin’s Guild and the Lecture Series Com..."
+  - vol: 119
+    issue: 66
+    year: 1999
+    date: "2000-01-05"
+    pages: []
+    n: 3
+    id: mit_the_tech_newspaper-v119-i66
+    snippet: "the MIT Outing Club mailing list, Libova, a member of MITOC, was among three killed on the mountain from the party of six climbers. The other two dead, Vladimir Smirnov and Ilya Krasik, were apparently not affiliated with MIT. Smirnov, 29, was Libova..."
+    longer: true
+  - vol: 119
+    issue: 70
+    year: 1999
+    pages: [12]
+    n: 1
+    id: mit_the_tech_newspaper-v119-i70
+    snippet: "Irina Libova’s fiancee, Vladimir, named the outing club he founded “Black Alpinist” after a fallen mountaineer from Russion folklore who was killed when his climbing partner cut the rope linking them. The blackclad alpinist, legend = says, haunts mou..."
+    longer: true
+  - vol: 120
+    issue: 37
+    year: 2000
+    date: "2000-08-29"
+    pages: [11]
+    n: 3
+    id: mit_the_tech_newspaper-v120-i37
+    snippet: "...ircus on Columbus day weekend. You can get more information by visiting our website: <http://web.mit.edu/mitoc/www> Our office is located in the student center (W20-461); we have weekly office hours on Monday 5-6 p.m. and Thursdays 8-9 p.m. You also..."
+  - vol: 120
+    issue: 38
+    year: 2000
+    date: "2000-08-30"
+    pages: [6]
+    n: 1
+    id: mit_the_tech_newspaper-v120-i38
+    snippet: "Members of the MIT Outing Club noted that their booth was packed with potential members. Robert C. Jagnow G said that this year’s attendees were “a very enthusiastic group of first year [graduate and undergraduate] students.”"
+    longer: true
+  - vol: 120
+    issue: 55
+    year: 2000
+    date: "2000-11-03"
+    pages: [10]
+    n: 1
+    id: mit_the_tech_newspaper-v120-i55
+    snippet: "...d; ticket does not Qquarantee warrenmiller.com admission; come early! BROUGHT TO YOU BY SONY. Bye THE M..I.T. OUTING CLUB AND WM.1.T. ALPINE SKI TEAM November 3, 2000 You Have the Power Jyoti Tibrewala The 2000 presidential campaign seems like it has been goin..."
+  - vol: 120
+    issue: 64
+    year: 2000
+    date: "2000-12-12"
+    pages: [25]
+    n: 1
+    id: mit_the_tech_newspaper-v120-i64
+    snippet: "... and was active in Amnesty International. During her short time at MIT, Brunskill has been active in the outing club and rowed with the Sloan rowing club...."
+    longer: true
+  - vol: 120
+    issue: 66
+    year: 2000
+    date: "2001-01-17"
+    pages: [15]
+    n: 1
+    id: mit_the_tech_newspaper-v120-i66
+    snippet: "...e in Management Science?: A Panel Discussion for Course 15 Undergraduates (to 08:00 p.m.) 3-270 6:30 p.m. MIT Outing Club Winter School: Technical and Above Treeline (to 09:30 p.m.) 35-225 7:00 p.m. Astrology Readings/Fundamentals (to 08:00 p.m.) TBA Athena Mi..."
+  - vol: 120
+    issue: 67
+    year: 2000
+    date: "2001-01-24"
+    pages: [14]
+    n: 1
+    id: mit_the_tech_newspaper-v120-i67
+    snippet: "...to 07:30 p.m.) BPL Islamic Doctrine (to 07:15 p.m.) 1-132 06:30 p.m. Chainmail Workshop (to 07:30 p.m.) 3 MIT Outing Club Winter School: Advanced Winter Travel (to 09:30 p.m.) 35-225 Asvolog fe Ey Reedings /Fundementale (to 08:00 p.m.) TBA Athena Minicourse: S..."
+  - vol: 120
+    issue: 68
+    year: 2000
+    date: "2001-01-31"
+    pages: [8]
+    n: 1
+    id: mit_the_tech_newspaper-v120-i68
+    snippet: "...ne (to 07:15PM) 1-132 06:30 PM Crash and Burn Courses: Crash and Burn Java Programming (to 08:30PM) 4-370 MIT Outing Club Winter School (to 09:30 PM) 35-225 IAP Guide 07:00 PM Advanced internet Topics (to 09:00PM) 4231 Amoid Dreyblatt: Lectures and Concert: Co..."
+  - vol: 121
+    issue: 33
+    year: 2001
+    date: "2001-08-24"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v121-i33
+    snippet: "... Varsity and IM soccer, volleyball, and squash; many ethnic groups and organizations on campus, cooking; MITOC excursions; smoking, wearing tight black pants, and all the other standard eurotrashy stuff...."
+    longer: true
+  - vol: 121
+    issue: 69
+    year: 2001
+    date: "2002-01-23"
+    pages: [23]
+    n: 2
+    id: mit_the_tech_newspaper-v121-i69
+    snippet: "Miles Colman '05 climbs ice for the first time under the instruction the MIT Outing Club. MITOC taught ice climbing, snowshoeing, and other winter activities at their annual Winter School in Flume Gorge, New Hampshire, last Saturday."
+    longer: true
+  - vol: 123
+    issue: 39
+    year: 2003
+    date: "2003-09-12"
+    pages: [8]
+    n: 3
+    id: mit_the_tech_newspaper-v123-i39
+    snippet: "6:00 p.m. - 12:00 p.m. — Intro Circus. This is the Outing Club's annual kick-off the year trip. We'll be going up to our cabin in New Hampshire on Friday night, and then on Saturday and Sunday having all sorts of fun trips (including hiking and rock..."
+  - vol: 125
+    issue: 29
+    year: 2005
+    date: "2005-07-06"
+    pages: [15]
+    n: 1
+    id: mit_the_tech_newspaper-v125-i29
+    snippet: "ture Series Committee and Outing Club, which have offices in the affected corner, were not returned. Technique, which also has an office near ESP on the fourth floor, was not affected, said member Colin Dillard 06."
+    longer: true
+  - vol: 125
+    issue: 48
+    year: 2005
+    date: "2005-10-21"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v125-i48
+    snippet: "...fe, but that the best way to improve campus life is to break it up into smaller organizations, like LSC, MITOC, etc., that connect with people in a localized, more targeted manner, and, as an overall effect, improve campus life. This means giving the..."
+    longer: true
+  - vol: 125
+    issue: 56
+    year: 2005
+    date: "2005-11-22"
+    pages: [15]
+    n: 1
+    id: mit_the_tech_newspaper-v125-i56
+    snippet: "...ion (MIT DMC) MIT Debate Team MIT Greens MIT Lion Dance MIT Marching Band MIT Technique Musical Theatre Guild Outing Club Panhel Sangam Strategic Games Society The MIT Gilbert and Sullivan Players The Tech The Thistle Voo Doo MIT Undergraduate Research Journal..."
+  - vol: 125
+    issue: 61
+    year: 2005
+    date: "2005-12-13"
+    pages: [13]
+    n: 1
+    id: mit_the_tech_newspaper-v125-i61
+    snippet: "Bangladeshi Students : ee Graduate Student Council 50-020, 50-220 Outing Club 461, 463 Association Black Graduate Students z ae 50-304 Hawaii Club locker Panhellenic 450 Association enter ; ‘ Persian Students Black Students’ Union 50-105 Hindu Studen..."
+  - vol: 126
+    issue: 26
+    year: 2006
+    date: "2006-05-16"
+    pages: [8]
+    n: 1
+    id: mit_the_tech_newspaper-v126-i26
+    snippet: "...Marching Band Musical Theatre Guild Next Act Next House Next House Executive Committee Nightmarket Comm. 2005 Outing Club Panhellenic Association Phi Kappa Theta Prajnopaya, the Buddhist Community at MIT Shannon Nees Sophie Rapoport Lyel Resner Christopher J...."
+  - vol: 126
+    issue: 47
+    year: 2006
+    date: "2006-10-20"
+    pages: [15]
+    n: 1
+    id: mit_the_tech_newspaper-v126-i47
+    snippet: "The MIT Outing Club won the first ever intercollegiate Presidential Range Relay Race, a 22-mile race across Mount Washington and the Presidential Range in New Hampshire’s White Mountains last weekend."
+    longer: true
+    story: relay-2006
+  - vol: 129
+    issue: 33
+    year: 2009
+    date: "2009-09-04"
+    pages: [23]
+    n: 1
+    id: mit_the_tech_newspaper-v129-i33
+    snippet: "...kan Club Folk Dance > 4:30 Mocha Moves Dance Squad Club 4:39 African Students Association Tech Squares — Outing Club 4:46 Chinese Ensemble Roadkill! {Musical 4:52 Casino Rueda Group Ballroom |_| Buffet! |Thbatre Guild 5:00 Shakespeare Ensemble Dance..."
+  - vol: 129
+    issue: 43
+    year: 2009
+    date: "2009-10-09"
+    pages: [15]
+    n: 2
+    id: mit_the_tech_newspaper-v129-i43
+    snippet: "The MIT Outing Club won the 4th annual intercollegiate Presidential Range Relay Race, a 19-mile race across New Hampshire’s rugged White Mountains last weekend."
+    longer: true
+    link: https://thetech.com/2009/10/09/running-v129-n43
+  - vol: 129
+    issue: 58
+    year: 2009
+    date: "2009-12-04"
+    pages: [11]
+    n: 2
+    id: mit_the_tech_newspaper-v129-i58
+    snippet: "...mates : SANDIEGO tissue samples for analysis. Marching Band Energy Club h : 4 Ai % h 1 9 may be swapped) MITOC European Club Researc ers at UCSD are dissecting the , A computer recording each sample African Students MITSFS Folk Dance Club brain of am..."
+  - vol: 132
+    issue: 19
+    year: 2012
+    date: "2012-04-20"
+    pages: [11]
+    n: 1
+    id: mit_the_tech_newspaper-v132-i19
+    snippet: "If you decide to attend MIT, are there activities you’d like to join? I’m interested in joining sailing or the MIT Outing Club."
+    longer: true
+  - vol: 133
+    issue: 3
+    year: 2013
+    date: "2013-02-12"
+    pages: [8]
+    n: 3
+    id: mit_the_tech_newspaper-v133-i3
+    snippet: "... in snow gear rentals during the storm. “We ran out of skis!” said David Lawrence ’14, vice president of MITOC. A number of students picked up snowshoes and cross country skis for some urban exploration during Nemo. Thursday night, MITOC’s office hou..."
+    longer: true
+  - vol: 133
+    issue: 15
+    year: 2013
+    date: "2013-04-02"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v133-i15
+    snippet: "(6:30 p.m. — 8:00 p.m.) Climber Yoga hosted by MIT Outing Club and the Office of the Dean for Graduate Education — 50-258"
+  - vol: 133
+    issue: 20
+    year: 2013
+    date: "2013-04-23"
+    pages: [6]
+    n: 2
+    id: mit_the_tech_newspaper-v133-i20
+    snippet: "Michele Pratusevich ’'13, who made friends with Collier through his membership in the MIT Outing Club, stayed awake late Thursday night monitoring the events with friends. When they heard that the injured officer had passed away, they quickly began t..."
+    longer: true
+    link: https://thetech.com/2013/04/23/memorials-v133-n20
+  - vol: 133
+    issue: 21
+    year: 2013
+    date: "2013-04-26"
+    pages: [8]
+    n: 2
+    id: mit_the_tech_newspaper-v133-i21
+    snippet: "problems,’ and earning students’ trust by going hiking with the MIT Outing Club (MITOC), learning swing dancing, and being the same person in uniform that he was out of uniform."
+    longer: true
+  - vol: 133
+    issue: 39
+    year: 2013
+    date: "2013-09-20"
+    pages: [11]
+    n: 1
+    id: mit_the_tech_newspaper-v133-i39
+    snippet: "...ist in spite of a free market, it exists thanks to it. PSS SEPT. 20 — SEPT. 26 FRIDAY (7:30 p.m. - 9:00 p.m.) MITOC and LSC present Radical Reels, short films about outdoor sports — 26-100 (All Week) RSVP for Fantasies from Verdi's Operas by La Scala Chamber O..."
+  - vol: 133
+    issue: 42
+    year: 2013
+    date: "2013-10-01"
+    pages: [5]
+    n: 1
+    id: mit_the_tech_newspaper-v133-i42
+    snippet: "...lel, Muslim Students Association), departmental student organizations (e.g. WHOI, GA3), and others (e.g. Outing Club, Rainbow Coffeehouse, Thirsty Ear Pub)...."
+  - vol: 134
+    issue: 18
+    year: 2014
+    date: "2014-04-11"
+    pages: [7]
+    n: 1
+    id: mit_the_tech_newspaper-v134-i18
+    snippet: "...ectly,’ said Kris Brewer, the webmaster for MIT’s School of Engineering, who met Collier when he joined MIT’s Outing Club, a group of outdoor enthusiasts. “He was a bit of a techno geek, too... He fit into [MIT’s] technology culture. He was working on websites..."
+    longer: true
+  - vol: 134
+    issue: 55
+    year: 2014
+    date: "2014-11-18"
+    pages: [15]
+    n: 1
+    id: mit_the_tech_newspaper-v134-i55
+    snippet: "...er raced mountain bikes before, and many didn’t own bikes of their own — nearly half rented from the MIT Outing Club...."
+    longer: true
+  - vol: 136
+    issue: 11
+    year: 2016
+    date: "2016-04-08"
+    pages: [17]
+    n: 4
+    id: mit_the_tech_newspaper-v136-i11
+    snippet: "... members] who encouraged us to travel to other countries,” Matthew noted. “In fact, we are still part of MITOC. We were working on climbing the highest points of each state. We finished in 2012. That is when we started thinking seriously about going..."
+    longer: true
+  - vol: 137
+    issue: 7
+    year: 2017
+    date: "2017-03-23"
+    pages: [10]
+    n: 2
+    id: mit_the_tech_newspaper-v137-i7
+    snippet: "This past weekend, the MIT Outing Club hosted SumMIT (=MIT), its annual bouldering competition, at the MIT climbing wall in Walker Memorial. There were 75 competitors across the recreational, intermediate, and advanced men’s and women’s divisions. Th..."
+    longer: true
+    link: https://thetech.com/2017/03/23/mit-hosts-summit
+  - vol: 142
+    issue: 3
+    year: 2022
+    date: "2022-03-03"
+    pages: [4]
+    n: 1
+    id: mit_the_tech_newspaper-v142-i3
+    snippet: "A final note: 12 years ago, a group of climbers from the MIT Outing Club did a new ice climbing route in the Solu Khumbu region of Nepal and named it Ukrainian Strength."
+    longer: true
+    link: https://thetech.com/2022/03/03/open-letter-ukraine-war
+  - vol: 142
+    issue: 21
+    year: 2022
+    date: "2022-10-06"
+    pages: []
+    n: 1
+    id: mit_the_tech_newspaper-v142-i21
+    snippet: "MAXWELL YUN—THE TECH Members of the MIT Outing Club hike up Mt. Cannon in New Hampshire to some incredible views, Sunday."

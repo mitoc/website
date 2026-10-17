@@ -1,0 +1,74 @@
+---
+layout: base
+---
+{% comment %}
+  Layout for articles transcribed from a scanned newspaper
+  (_pages/about/gnarmpfsk/articles/). Front matter: title, date
+  ("YYYY-MM-DD"), source, type; optional subtitle, author, volume, issue,
+  page, archive_id (the archive.org item, which becomes the link to the
+  original scan), note (an editorial note shown above the text), caption (the
+  original photo caption) and clipping (an image of the clipping itself).
+{% endcomment %}
+<article class="story">
+    <p class="story-back"><a href="/about/gnarmpfsk">&larr; Back to GNARMPFSK</a></p>
+    <header class="page-header">
+        <h1>{{ page.title }}</h1>
+        {% if page.subtitle %}<p class="story-subtitle">{{ page.subtitle }}</p>{% endif %}
+        <p class="story-meta">
+            {% if page.author %}By {{ page.author }} &middot; {% endif %}
+            <em>{{ page.source }}</em>{% if page.volume %}, Vol. {{ page.volume }}, No. {{ page.issue }}{% endif %}
+            {%- if page.page %}, page {{ page.page }}{% endif %}
+            &middot; {% if page.date_display %}{{ page.date_display }}{% else %}{{ page.date | date: "%B %-d, %Y" }}{% endif %}
+        </p>
+        {% if page.archive_id %}
+        <p class="article-original"><a href="https://archive.org/details/{{ page.archive_id }}" target="_blank" rel="noopener">Read the original issue on archive.org &rarr;</a></p>
+        {% endif %}
+    </header>
+    {% if page.original_headline or page.note %}
+    <p class="article-note">
+        {%- if page.original_headline %}This is the part of a longer piece that concerns the Outing Club. It ran under the headline &ldquo;{{ page.original_headline }}.&rdquo;{% endif %}
+        {%- if page.note %} {{ page.note }}{% endif %}
+    </p>
+    {% endif %}
+    {% if page.clipping %}
+    <figure class="article-clipping">
+        <a href="{{ page.clipping }}" data-lightbox="story" data-caption="{{ page.title | escape }}">
+            <img src="{{ page.clipping }}" alt="The article as it appeared in print" loading="lazy">
+        </a>
+        {% if page.caption %}<figcaption>{{ page.caption }}</figcaption>{% endif %}
+    </figure>
+    {% elsif page.caption %}
+    <p class="article-caption"><strong>Photo caption:</strong> {{ page.caption }}</p>
+    {% endif %}
+    <div class="story-body">
+        {{ content }}
+    </div>
+    <footer class="article-source">
+        <p>Transcribed from the original scan, linked at the top. Obvious
+        typesetting errors have been left as printed.</p>
+        <p><a href="/about/gnarmpfsk/tech-archive">See every issue of The Tech that mentions MITOC &rarr;</a></p>
+    </footer>
+</article>
+
+<style>
+    .story { max-width: 1000px; margin: 0 auto; }
+    .story-back { margin-top: 20px; }
+    .story-subtitle { font-size: 20px; color: #555; margin: 10px 0 0; }
+    .story-meta { color: #777; margin: 8px 0 0; }
+    .article-original { margin: 6px 0 0; font-size: 15px; }
+    .story-body { font-size: 18px; line-height: 1.7; }
+    .story-body p { margin-bottom: 1.2em; }
+    /* Bold run-in lines stand in for the paper's mid-article subheads. */
+    .story-body strong { font-size: 19px; }
+    .article-note, .article-caption {
+        font-size: 15px; color: #555; background: #f6f6f6;
+        border-left: 3px solid #ddd; padding: 10px 14px; margin: 20px 0;
+    }
+    .article-clipping { margin: 20px 0; }
+    .article-clipping img { display: block; width: 100%; max-width: 700px; border: 1px solid #ddd; }
+    .article-clipping figcaption { color: #777; font-size: 14px; margin-top: 6px; }
+    .article-source { margin: 30px 0 40px; padding-top: 14px; border-top: 1px solid #eee; color: #777; font-size: 14px; }
+    .article-source p { margin-bottom: 6px; }
+</style>
+
+{% include lightbox.html %}
