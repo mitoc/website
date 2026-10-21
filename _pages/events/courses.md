@@ -8,7 +8,7 @@
       - /images/courses/pic4.jpg
 ---
 
-MITOC organizes various courses throughout the year. We recommend joining the mitoc-announce mailing list and the appropriate activity [mailing list](/mailing-lists) to stay informed. Some courses come with a subsidy if you have led a certain number of trips; see bottom of page for more.
+MITOC organizes various courses throughout the year. We recommend joining the mitoc-announce mailing list and the appropriate activity [mailing list](/mailing-lists) to stay informed. Leaders can receive a $100 subsidy for every 2 trips led in the past year; see bottom of page for more.
 
 ### Wilderness First Aid
 
@@ -44,27 +44,15 @@ Glaciers are a common medium necessary to climb some of the bigger peaks in the 
 ### Subsidies
 
 MITOC provides course subsidies to help offset the cost of learning outdoor safety skills.
-**To be eligible for a subsidy, one must lead (or co-lead) two MITOC trips within +/- 1 year of the course**. The same trip cannot count for multiple subsidies. Subsidies are as follows.
 
-#### WFA: 
-+ **MIT student leaders (undergrad and grad)**: Course is subsidized to cost **$100** (difference is reimbursed)
-
-+ **All other active leaders**: Course is subsidized to cost **$150** (difference is reimbursed)
-
-#### WFR recert:
-
-+ WFR recert organized by MITOC has the same student/non-student leader caps as WFA.
-+ External WFR recert courses have the same cap if course fees are at most the cost of MITOC's course and are reimbursable up to the maximum reimbursement for that season (for WFA recert or WFA depending on what MITOC is offering that season) for the corresponding student/non-student cap otherwise.
-
-#### All other safety courses (WFR, AIARE, Rock Rescue, Glacier Travel, etc):
-+ All active MITOC leaders receive $100 off the full price of the course. Eligible for one subsidy per course.
+**As of October 19, 2026, the leader subsidy is $100 toward a safety course for every 2 MITOC trips (of any kind) you have led or co-led in the past year.** The same trip cannot count for multiple subsidies. Safety courses include WFA, WFR, WFR recert, AIARE, rock rescue, glacier travel, swiftwater rescue, etc.
 
 #### Desk credit
 [Desk credit](/get-involved/become-desk-worker) can be used to pay (get reimbursed) for any safety course. Safety courses do not have to be mitoc organized. If there is ambiguity as to whether your safety course would qualify (not direclty listed on this webpage), contact the [leader coordinator](/about/officers). 
 
 #### How to get reimbursed
-Unless stated otherwise on a trip website, pay the course cost to the provider in full, and request reimbursement for the subsidy amount within a year of the course date. 
+Unless stated otherwise on a trip website, pay the course cost to the provider in full, then request reimbursement for the subsidy amount using the form on [get reimbursed](/about/get-reimbursed). **You must request reimbursement after completing the course, but before the [60-day reimbursement deadline](/about/get-reimbursed) is up.** Late requests may be delayed or denied.
 
-To request a subsidy, complete the instructions under *Course Subsidies or course desk credit payment* on [get reimbursed](/about/get-reimbursed). You can combine desk credit and leader subsidies for the same course. But you may only request one reimbursement per course, so wait until you fulfill the criteria for both.
+You can combine desk credit and leader subsidies for the same course. But you may only request one reimbursement per course, so wait until you fulfill the criteria for both (while still meeting the 60-day deadline).
 
 Course subsidies are non-transferable -- your leader subsidy and desk credit can only be used to pay for courses you take.

@@ -19,7 +19,7 @@ Winter leaders form the backbone of the course by conducting these lectures and 
 ### What are the leader benefits?
 
 *   Free gear rental from MITOC for trips led
-*   Course subsidy for your Wilderness First Aid certification (WFA, WAFA, WFR, WEMT)
+*   [Safety course subsidy](/events/courses#subsidies) (e.g., WFA, WAFA, WFR, WEMT): $100 for every 2 trips (of any kind) led in the past year, as of October 19, 2026. Request reimbursement after the course, but within the [60-day reimbursement deadline](/about/get-reimbursed).
 
 ### How do I become a leader?
 
@@ -54,7 +54,7 @@ Prospective leaders are encouraged to renew or obtain a Wilderness First Aid (WF
 
 Each year, there is a leader retreat at MITOC's Camelot cabin in early December. New Winter School leaders are particularly encouraged to attend.
 
-No minimum trip commitment is necessary to become a winter leader (unless seeking WFA subsidy), though most conduct a total of 2-4 trips on dates of their choosing over the course of January.
+No minimum trip commitment is necessary to become a winter leader (unless seeking a course subsidy), though most conduct a total of 2-4 trips on dates of their choosing over the course of January.
 
 Any prospective leader is also strongly encouraged to become a keyholder for one of MITOC's cabins, so the leader can use that cabin during winter school.
 

@@ -12,7 +12,7 @@ Self rescue is strongly recommended for climbing leaders. Priority is given to p
 
 ### Costs
 
-If you become a MITOC Climbing Leader, MITOC will subsidize your self rescue course. In order to obtain the subsidy, you MUST lead at least TWO trips. Last year, the costs were $100 (Subsidized $50). Expect that this year's costs will be similar.
+MITOC leaders can receive a $100 subsidy toward this course for every 2 MITOC trips (of any kind) led in the past year (as of October 19, 2026). Request reimbursement after the course, but before the [60-day reimbursement deadline](/about/get-reimbursed) is up. See [course subsidies](/events/courses#subsidies) for details. Last year, the course cost $100. Expect that this year's costs will be similar.
 
 ### What
 

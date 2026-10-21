@@ -24,7 +24,7 @@ The goal of the MITOC Paddling Leader Program is to provide the proper training 
 
 *   Opportunity to further develop paddling and leadership skills.
 *   Free paddling gear rental from MITOC for the current paddling season.
-*   Course subsidy for ACA Swift Water Rescue Course (whitewater leaders only).
+*   [Safety course subsidy](/events/courses#subsidies) (e.g., ACA Swift Water Rescue): $100 for every 2 trips (of any kind) led in the past year, as of October 19, 2026. Request reimbursement after the course, but within the [60-day reimbursement deadline](/about/get-reimbursed).
 *   Discounts on paddling gear purchases.
 
 ### How do I become a leader?
