@@ -23,8 +23,7 @@ Climbing is inherently dangerous. We want to make sure our leaders are prepared 
 ### What are the leader benefits?
 
 *   Free gear rental from MITOC for trips they lead, including ropes, quick draws, belay devices, and bouldering pads.
-*   Course subsidy for your Wilderness First Aid certification (WFA, WAFA, WFR, WEMT) for every 2 trips led
-*   Course subsidy for a Self Rescue course for every 2 trips led
+*   [Safety course subsidy](/events/courses#subsidies) (e.g., WFA, WAFA, WFR, WEMT, Self Rescue): $100 for every 2 trips (of any kind) led in the past year, as of October 19, 2026. Request reimbursement after the course, but within the [60-day reimbursement deadline](/about/get-reimbursed).
 
 **Note:**Trips must be announced (on the mailing list) as well as posted to the [MITOC Trips website](https://mitoc-trips.mit.edu/) at minimum 4 days before the trip in order to be eligible for reimbursement. The climbing chair must be notified of any trips lead as well as the number of participants.
 
