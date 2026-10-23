@@ -9,7 +9,7 @@ Desk workers are volunteers who staff rental office hours, field rental-related 
 
 ### Who can become a desk worker?
 
-Because desk workers are entrusted with significant power and responsibility, we look for people who are invested in MITOC beyond the rental desk. People who have participated in many MITOC trips/events will be considered. Most (but not all) desk workers are also trip leaders, boathouse keyholders, cabin keyholders, or club officers. Desk workers should also have rented gear from MITOC before and be familiar with the process.
+Because desk workers are entrusted with significant power and responsibility, we look for people who are invested in MITOC beyond the rental desk. People who have participated in many MITOC trips/events will be considered. Most (but not all) desk workers are also trip leaders, boathouse keyholders, cabin keyholders, or club organizers. Desk workers should also have rented gear from MITOC before and be familiar with the process.
 
 ### What are the benefits of being a desk worker?
 
