@@ -26,7 +26,7 @@ The website content is located in the following directories:
 - [`docs`](/docs) for other static files (e.g. PDF documents)
 - [`_data`](/_data) for structured data used by the website. This includes:
   - [Menu items](_data/menu.yml)
-  - Club [positions](_data/positions.yml) and [officers](_data/officers.yml)
+  - Club [positions](_data/positions.yml) and [organizers](_data/organizers.yml)
   - [Trip fees](_data/trip_fees.yml)
   - [Gear rental prices and deposit](_data/gear_prices.yml)
     - _Note that this file is not connected to the gear database, and that prices updates must separately be applied there._

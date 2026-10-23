@@ -21,7 +21,7 @@
 2.  **Make sure your [liability waiver](/join) is up to date.** To rent gear or go on official MITOC trips, you must electronically sign a liability waiver, which is valid for one year.
 3.  **Get approval if renting restricted gear.**
 
-    Certain climbing and watersports items require a safety review and permission from the appropriate MITOC officer before you can rent them. These items are highlighted red in the [price list](/rentals/prices).
+    Certain climbing and watersports items require a safety review and permission from the appropriate MITOC organizer before you can rent them. These items are highlighted red in the [price list](/rentals/prices).
 
     You can get approval by emailing the address listed next to the gear 24 hours ahead of time. Be sure to include exactly what restricted gear you want to check out, what dates you'll have it, how and where it will be used, and your level of experience with the activity.
 
@@ -155,7 +155,7 @@ No. We have cross-country, touring, telemark, and AT ski equipment, but not reso
 
 #### Are you making a profit off this?
 
-No. MITOC is a student-run organization. Our officers, desk workers, and trip leaders are all volunteers. Our rental prices are designed to break even on the purchase cost over the lifetime of the equipment.
+No. MITOC is a student-run organization. Our organizers, desk workers, and trip leaders are all volunteers. Our rental prices are designed to break even on the purchase cost over the lifetime of the equipment.
 
 </div>
 
