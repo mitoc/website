@@ -1,6 +1,6 @@
 # Leader pictures
 
-This folder contains the pictures used on the /about/organizers page.
+This folder contains the pictures used on the /about/board-of-directors page.
 
 ## Guidelines
 

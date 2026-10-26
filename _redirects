@@ -3,3 +3,6 @@ https://mitoc.org/* https://mitoc.mit.edu/:splat 301!
 
 # Redirect default Netlify subdomain to primary domain
 https://mitoc.netlify.com/* https://mitoc.mit.edu/:splat 301!
+
+# Renamed pages
+/about/officers /about/board-of-directors 301

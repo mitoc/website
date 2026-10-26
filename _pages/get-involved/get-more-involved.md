@@ -38,4 +38,4 @@ Do you want to give back to the MITOC community beyond leading trips and working
 
 We have elections for positions each year, generally in late spring. Nevertheless, anyone excited about committing time and passion to the club is welcome at any time. BOD is not a fixed size or a closed club, but a fluctuating group of fun folks, constantly looking for more people to get excited and integrated into the MITOC family. Keep an eye on the email lists for announcements of monthly meetings, which are open to all MITOC members. If you have a specific idea you want to spearhead, email [mitoc-owner@mit.edu](mailto:mitoc-owner@mit.edu).
 
-You can check out the current list positions on the [Club Organizers page](/about/organizers).
+You can check out the current list positions on the [Board of Directors page](/about/board-of-directors).
