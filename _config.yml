@@ -8,12 +8,14 @@ include: ['_pages', '_redirects']
 
 plugins:
   - jekyll-jolt
+  - jekyll-sitemap
   - jekyll-target-blank
 
 exclude:
   - README.md
   - .circleci
   - vendor
+  - tools
 
 defaults:
   -
