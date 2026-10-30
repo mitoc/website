@@ -48,7 +48,7 @@ MITOC provides course subsidies to help offset the cost of learning outdoor safe
 **As of October 19, 2026, the leader subsidy is $100 toward a safety course for every 2 MITOC trips (of any kind) you have led or co-led in the past year.** The same trip cannot count for multiple subsidies. Safety courses include WFA, WFR, WFR recert, AIARE, rock rescue, glacier travel, swiftwater rescue, etc.
 
 #### Desk credit
-[Desk credit](/get-involved/become-desk-worker) can be used to pay (get reimbursed) for any safety course. Safety courses do not have to be mitoc organized. If there is ambiguity as to whether your safety course would qualify (not direclty listed on this webpage), contact the [leader coordinator](/about/officers). 
+[Desk credit](/get-involved/become-desk-worker) can be used to pay (get reimbursed) for any safety course. Safety courses do not have to be mitoc organized. If there is ambiguity as to whether your safety course would qualify (not direclty listed on this webpage), contact the [leader coordinator](/about/board-of-directors). 
 
 #### How to get reimbursed
 Unless stated otherwise on a trip website, pay the course cost to the provider in full, then request reimbursement for the subsidy amount using the form on [get reimbursed](/about/get-reimbursed). **You must request reimbursement after completing the course, but before the [60-day reimbursement deadline](/about/get-reimbursed) is up.** Late requests may be delayed or denied.

@@ -1,24 +1,26 @@
-- title: Executive Board
+- title: Club Officers
   positions:
     - title: President
       description: Schedules, organizes, and moderates meetings; represents the club in the ASA
-      officers:
+      members:
         - HannahSchlueter
     - title: Vice President
       description: Records meeting minutes; responds to public inquiries; manages mailing lists
-      officers:
+      members:
         - NathalieVerlinde
     - title: Treasurer
       description: Manages reimbursements and requisitions from the club; prepares annual financial report
-      officers:
+      members:
         - DavidCharatan
     - title: Bursar
       description: Manages club revenue
-      officers:
+      members:
         - MariiaSmyk
+- title: Other Executive Board Members
+  positions:
     - title: Member-at-Large
       description: Spearheads larger club efforts; assists officers as needed
-      officers:
+      members:
         - CharlotteFolinus
         - LucasEhinger
         - PaulNicknish
@@ -29,172 +31,175 @@
     - title: Camelot Manager
       description: Maintains Camelot cabin and grounds; trains cabin keyholders
       email: camelot-mgr@mit.edu
-      officers:
+      members:
         - JamesDouberley
     - title: Intervale Manager
       description: Maintains Intervale cabin and grounds; trains cabin keyholders and property users
       email: intervale-mgr@mit.edu
-      officers:
+      members:
         - JaneyFarina
         - CollinMay
     - title: Boathouse Manager
       description: Maintains boathouse; trains boathouse keyholders; manages boat rentals
       email: boathouse-mgr@mit.edu
-      officers:
+      members:
         - CatArase
     - title: Climbing Wall Manager
       description: Maintains climbing wall; organizes annual climbing competition
-      officers:
+      members:
         - MarlowTracy
         - CalderRussell
         - ElizabethCable
     - title: Gear Manager
       description: Maintains gear used for club trips and personal rental
-      officers:
+      members:
         - AliBrodeur
         - KyleBertram
     - title: Gear Repair Chair
       description: Repair the MITOC rental gear
-      officers:
+      members:
         - SophiaSyritsyna
         - AliBackour
     - title: Desk Captain
-      description: Schedules office hours; provides notices about overdue gear rentals; trains desk workers
-      officers:
+      description: Manages MITOC office access; schedules office hours; provides notices about overdue gear rentals; trains desk workers
+      members:
         - CarolinaWarneryd
+    - title: Desk Manager
+      description: Schedules office hours; provides notices about overdue gear rentals; trains desk workers
+      members:
         - AaronJohnson
     - title: Leader Coordinator
       description: Manages Winter School gear orders and other incentives for trip leaders
-      officers:
+      members:
         - AaronJohnson
     - title: Webmaster
       description: Maintains club website and databases
-      officers:
+      members:
         - DavidCain
         - FlorianPagnoux
         - MichelePratusevich
     - title: Librarian
       description:
-      officers:
+      members:
         - AlexWang
     # - title: Historian
     #   description:
-    #   officers:
+    #   members:
     #     - Vacant
     # - title: Alumni Liaison
     #   description: Acts as the liaison between the club and the MITOC Alumni Board
-    #   officers:
+    #   members:
     #     - Vacant
     - title: Student Recruitment
-      officers:
+      members:
         - SophiaSyritsyna
         - YizhouChen
     - title: Social Media Chair
       description: Handles MITOC's social media presence
-      officers:
+      members:
         - SunheeBae
 
 - title: Event Chairs
   positions:
     - title: Winter School Chair
       description: Organizes annual Winter School
-      officers:
+      members:
         - JuliaAllen
         - CollinMay
         - JolienVanNieuwenhuizen
       email: ws-chair@mit.edu
     - title: Circus Chair
       description: Organizes monthly Circus (April to October)
-      officers:
+      members:
         - TomBody
         - TamaraRossy
         - AlexWang
       email: circus-chair@mit.edu
     - title: Social Chair
       description: Organizes monthly social events
-      officers:
+      members:
         - SophiaSyritsyna
         - RebeccaKestin
     - title: Acadia Chair
       description: Organizes yearly Acadia trip
-      officers:
+      members:
         - AshaParkCarter
 - title: Activity Chairs
   positions:
     - title: 3-Season Hiking Chair
       description: Recruits, trains, and approves 3-season hiking leaders
-      officers:
+      members:
         - CharlotteFolinus
     - title: Climbing Chair
       description: Recruits, trains, and approves climbing leaders; organizes School of Rock, climbing courses, and technical review sessions
-      officers:
+      members:
         - MarkSimon
         - FlorianPagnoux
         - GraceEvans
     - title: Backcountry Skiing Chair
       description: Recruits winter leaders for backcountry skiing; maintains backcountry skiing gear
-      officers:
+      members:
         - TamaraRossy
         - DavidCharatan
     - title: XC Skiing Chair
       description: Recruits winter leaders for XC skiing; maintains XC ski gear.
-      officers:
+      members:
         - TianOng
         - SusanKing
     - title: Backpacking Chair
       description: Organizes backpacking trips and courses
-      officers:
+      members:
         - MonikaOShea
     - title: Sea Kayaking Chair
       description: Leads sea kayaking trips; maintains sea kayaks
-      officers:
+      members:
         - LucasEhinger
     - title: Whitewater Chair
       description: Leads whitewater paddling trips; maintains whitewater boats; organizes rolling clinics
-      officers:
+      members:
         - LorenzoShaikewitz
     - title: Canoe Chair
       description: Leads canoeing trips; maintains canoe fleet
-      officers:
+      members:
         - ShonMackie
     - title: Biking Chair
       description: Leads biking trips; maintains bikes
-      officers:
+      members:
         - JacksonMooreOtto
     - title: Trail Running Chair
       description: Leads trail running trips
-      officers:
+      members:
         - NathalieVerlinde
     - title: Surfing Chair
       description: Leads surfing trips
-      officers:
+      members:
         - BloxieBloxham
         - TarynJohnson
     - title: Paddleboarding Chair
-      officers:
+      members:
         - NathanaelJenkins
     - title: Film Chair
       description: Organizes film screenings
-      officers:
+      members:
         - AaronJohnson
         # - title: Community Service Chair
         #   description: Raises awareness of and organizes participation in outdoor service opportunities
-        #   officers:
+        #   members:
         #     - Vacant
         # - title: Yoga Chair
         #   description: Coordinates weekly MITOC Yoga sessions
-        #   officers:
+        #   members:
         # - Vacant
 - title: Committee Chairs
   positions:
     - title: Collier Committee
       description: Leads the committee that selects Collier Adventure Grant recipients
-      officers:
+      members:
         - SunheeBae
         - CharlotteFolinus
         - DanielYang
     - title: Mediation Chair
       description: Leads committee that resolves conflicts
-      officers:
+      members:
         - LucyNguyen
         - CarolinaWarneryd

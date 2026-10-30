@@ -14,7 +14,7 @@ Security deposits vary by individual item. The deposit amounts below are average
 
 ### Restricted Gear
 
-Items highlighted in <span style="color: red">red</span> require a safety review and permission from the appropriate MITOC officer before you can rent them. You can get approval by emailing [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) 24 hours ahead of time (**EXCEPT** for alpine touring equipment, which needs 5 days prior approval- see below for details). Be sure to include exactly what restricted gear you want to check out, what dates you'll have it, how and where it will be used, and your level of experience with the activity.
+Items highlighted in <span style="color: red">red</span> require a safety review and approval before you can rent them. You can get approval by emailing [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) 24 hours ahead of time (**EXCEPT** for alpine touring equipment, which needs 5 days prior approval- see below for details). Be sure to include exactly what restricted gear you want to check out, what dates you'll have it, how and where it will be used, and your level of experience with the activity.
 
 ### Financial aid
 
