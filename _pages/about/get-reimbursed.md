@@ -23,7 +23,7 @@ All spending (with the exception of discretionary spending, see below) must be a
 
 <h3 style="font-size: 1.25em">Discretionary Spending</h3>
 
-Each Advisory Board position (ski chair, desk captain, etc.) oversees up to $100 of discretionary spending per month. If a position is shared between multiple people, they share a single spending cap. Discretionary spending may be used for incidentals like spare parts, repair tape, etc. The Treasurer approves discretionary spending. If you are unsure whether something is valid discretionary spending, email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) to ask.
+Each Executive Board and Advisory Board position (ski chair, desk captain, etc.) oversees up to $100 of discretionary spending per month. If a position is shared between multiple people, they share a single spending cap. Discretionary spending may be used for incidentals like spare parts, repair tape, etc. The Treasurer approves discretionary spending. If you are unsure whether something is valid discretionary spending, email [mitoc-trez@mit.edu](mailto:mitoc-trez@mit.edu) to ask.
 
 <h2 style="font-size: 1.5em">2. Purchasing</h2>
 
@@ -59,6 +59,8 @@ Be as frugal as possible with MITOC's money. This means:
 <h2 style="font-size: 1.5em">3. Recording Purchases (and Getting Reimbursed)</h2>
 
 All purchases—even those that do not require reimbursement—must be recorded using [this form](https://forms.gle/D7LGDWsXBa17aSH38). To get reimbursed, submit your purchase to MITOC using the form.
+
+**Deadline:** MIT requires that all RFPs (requests for payment) be submitted within 60 working days of purchase. Late submissions may result in delays or denial of reimbursement. Please record your purchases promptly so the Treasurer has time to submit them.
 
 <p style="font-size: 0.9em; color: #777; margin-top: 2em;" markdown="1">
 Looking for the old reimbursement form? Please use the updated form, even for expenses from before July 1, 2026.

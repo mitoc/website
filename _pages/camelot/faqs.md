@@ -58,8 +58,9 @@ Yes, it is possible to donate by check!  Please make your check payable to MIT F
 >Boston, MA 02241-2926
 
 ### When will construction start?
+It already has! In spring of 2025, we successfully completed the construction of the new parking lot, access trail, and bridge. 
 
-We signed the contract for site preparation, including construction of the new parking lot and access trail, in December 2023. This construction started in summer 2024 and wrapped  in spring 2025. For the next phase, more funding is needed. Funding permitting, the bunkhouse structure itself will be erected starting in summer 2027.
+For the final phase---construction of the bunkhouse---more fundraising is needed. Funding permitting, the bunkhouse structure itself will be erected in summer 2027.
 
 ### How long will construction take?
 

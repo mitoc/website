@@ -24,10 +24,11 @@
   category: trip
 - name: "Camelot Circus (Non-student, non-leader): $30"
   price: 30
+  category: trip
 - name: "Intervale Circus (Student or leader): $10"
   price: 10
   category: trip
-- name: "Intervale Circus (Non-student, non-leader): 20"
+- name: "Intervale Circus (Non-student, non-leader): $20"
   price: 20
   category: trip
 - name: "Intervale exclusive rental: $250"
@@ -45,7 +46,7 @@
 - name: "Sea Kayak Trip: $15"
   price: 15
   category: trip
-- name: "Surfing trip: $30"
+- name: "Surfing trip: $20"
   price: 20
   category: trip
 - name: "White-water Trip: $15"
@@ -54,11 +55,17 @@
 - name: "Windsurfing Trip: $15"
   price: 15
   category: trip
-- name: "WFA (full)"
-  price: 250
+- name: "WFA (Full Price) -- $185"
+  price: 185
   category: trip
-- name: "WFA (subsidized)"
-  price: 150
+- name: "WFA (Subsidized) -- $85"
+  price: 85
+  category: trip
+- name: "WFA+CPR (Full Price) -- $230"
+  price: 230
+  category: trip
+- name: "WFA+CPR (Subsidized) -- $130"
+  price: 130
   category: trip
 - name: "Sport climbing trip fee: $10"
   price: 10

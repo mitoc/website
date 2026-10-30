@@ -59,7 +59,7 @@ Guidelines for leading three season hikes are [here](/docs/MITOC_3SeasonHiking.p
 
 *   Early signup for Circuses
 *   Free gear rental from MITOC for official trips led
-*   Course subsidy for your Wilderness First Aid certification (WFA, WAFA, WFR, WEMT)
+*   [Safety course subsidy](/events/courses#subsidies) (e.g., WFA, WAFA, WFR, WEMT): $100 for every 2 trips (of any kind) led in the past year, as of October 19, 2026. Request reimbursement after the course, but within the [60-day reimbursement deadline](/about/get-reimbursed).
 
 ### Can I lead a hike outside of circuses?
 
