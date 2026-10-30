@@ -89,7 +89,7 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
 {% assign docs = data.documents | concat: pages | sort: "date" | reverse %}
 
 <form class="archive-controls" onsubmit="return false">
-  <label for="archive-search">Search <small class="text-muted">(inside the scans too)</small></label>
+  <label for="archive-search">Search <small class="text-muted">(inside the full text too)</small></label>
   <div class="archive-search-row">
     <input type="search" id="archive-search" class="form-control" placeholder="Intervale, hearse, Katahdin&hellip;" autocomplete="off">
     <button type="button" class="btn btn-default" id="archive-advanced-toggle" aria-expanded="false" aria-controls="archive-advanced">
@@ -141,16 +141,70 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
 <p id="archive-count" class="text-muted">{{ docs.size }} documents</p>
 <p id="archive-search-note" class="text-muted archive-search-status" hidden></p>
 
+{% comment %}
+  Card data for every document. The first `card_limit` are rendered as HTML
+  below for a fast first paint and a no-JS fallback; the rest live only in
+  this JSON blob until the sentinel at the bottom of the list scrolls into
+  view. Any field present in a card below (image, excerpt, thumbs, etc.)
+  must be emitted here too, or the JS-rendered version will not match.
+{% endcomment %}
+{% assign card_limit = 16 %}
+{%- capture archive_data_json -%}
+[
+{%- for doc in docs -%}
+  {%- if forloop.index > 1 -%},{%- endif -%}
+  {%- if doc.drive -%}{%- capture d_url -%}https://drive.google.com/file/d/{{ doc.drive }}/view{%- endcapture -%}
+  {%- elsif doc.link -%}{%- assign d_url = doc.link -%}
+  {%- else -%}{%- assign d_url = doc.url -%}{%- endif -%}
+  {%- assign card_image = doc.clipping -%}
+  {%- if doc.image -%}{%- assign card_image = doc.image -%}{%- endif -%}
+  {%- unless card_image -%}
+    {%- assign after_img = doc.content | split: '<img ' -%}
+    {%- if after_img.size > 1 -%}
+      {%- assign after_src = after_img[1] | split: 'src="' -%}
+      {%- if after_src.size > 1 -%}{%- assign card_image = after_src[1] | split: '"' | first -%}{%- endif -%}
+    {%- endif -%}
+  {%- endunless -%}
+  {%- capture excerpt -%}{%- unless doc.drive or doc.link or doc.thumbnails -%}{{ doc.content | markdownify | strip_html | truncatewords: 70 }}{%- endunless -%}{%- endcapture -%}
+  {%- capture haystack -%}{{ doc.title }} {{ doc.author }} {{ doc.source }} {{ doc.summary }} {{ doc.note }} {{ doc.date_display }} {{ doc.type }}{%- endcapture -%}
+  {"title":{{ doc.title | jsonify }},"url":{{ d_url | strip | jsonify }},"search":{{ haystack | strip_newlines | strip | downcase | jsonify }}
+  {%- if doc.date -%},"date":{{ doc.date | date: "%Y-%m-%d" | jsonify }}{%- endif -%}
+  {%- if doc.date_display -%},"display":{{ doc.date_display | jsonify }}{%- endif -%}
+  {%- if doc.type -%},"type":{{ doc.type | jsonify }}{%- endif -%}
+  {%- if doc.author -%},"author":{{ doc.author | jsonify }}{%- endif -%}
+  {%- if doc.source -%},"source":{{ doc.source | jsonify }}{%- endif -%}
+  {%- if doc.summary -%},"summary":{{ doc.summary | jsonify }}{%- endif -%}
+  {%- if doc.note -%},"note":{{ doc.note | jsonify }}{%- endif -%}
+  {%- if card_image -%},"image":{{ card_image | jsonify }}{%- endif -%}
+  {%- if doc.drive -%},"drive":{{ doc.drive | jsonify }}{%- endif -%}
+  {%- if doc.link -%},"link":true{%- endif -%}
+  {%- unless doc.drive or doc.link -%}{%- if doc.url -%},"page":{{ doc.url | jsonify }}{%- endif -%}{%- endunless -%}
+  {%- if doc.thumbnails -%},"thumbs":{{ doc.thumbnails | jsonify }}{%- endif -%}
+  {%- if excerpt != "" -%},"excerpt":{{ excerpt | jsonify }}{%- endif -%}
+  }
+{%- endfor -%}
+]
+{%- endcapture -%}
+{%- comment -%}
+  Any `</` inside the JSON (e.g. an OCR'd fragment that lands on a slash
+  after an angle-bracket) would otherwise close the <script> tag early.
+  Rewriting it to `<\/` keeps JSON.parse happy -- `\/` is a valid escape
+  for `/` -- while hiding the sequence from the HTML tokenizer.
+{%- endcomment -%}
+<script id="archive-data" type="application/json">{{ archive_data_json | replace: '</', '<\/' }}</script>
+
 <div class="archive-list" id="archive-list">
-  {% for doc in docs %}
+  {% for doc in docs limit: card_limit %}
   {% if doc.drive %}{% assign url = "https://drive.google.com/file/d/" | append: doc.drive | append: "/view" %}{% elsif doc.link %}{% assign url = doc.link %}{% else %}{% assign url = doc.url %}{% endif %}
   {% comment %}
-    Everything a search should match: the card's own text plus, for pages we
-    host, the whole transcription or story.
+    What the card itself answers for. The full text of transcribed articles
+    and stories is not inlined here; the search script fetches it from
+    search/gnarmpfsk-pages.json once someone actually types a query, keyed
+    off `data-page` below.
   {% endcomment %}
-  {% capture haystack %}{{ doc.title }} {{ doc.author }} {{ doc.source }} {{ doc.summary }} {{ doc.note }} {{ doc.date_display }} {{ doc.type }} {{ doc.content | markdownify | strip_html }}{% endcapture %}
+  {% capture haystack %}{{ doc.title }} {{ doc.author }} {{ doc.source }} {{ doc.summary }} {{ doc.note }} {{ doc.date_display }} {{ doc.type }}{% endcapture %}
   <div class="archive-doc col-xs-12 col-md-6" data-date="{{ doc.date }}" data-type="{{ doc.type }}" data-title="{{ doc.title | escape }}"
-       {% if doc.drive %}data-drive="{{ doc.drive }}" {% endif %}data-search="{{ haystack | strip_newlines | downcase | escape }}">
+       {% if doc.drive %}data-drive="{{ doc.drive }}" {% elsif doc.url %}data-page="{{ doc.url }}" {% endif %}data-search="{{ haystack | strip_newlines | downcase | escape }}">
     <h4><a href="{{ url }}"{% if doc.link or doc.drive %} target="_blank" rel="noopener"{% endif %}>{{ doc.title }}</a></h4>
     <div class="archive-meta">
       {% if doc.date %}Published {% endif %}{% if doc.date_display %}{{ doc.date_display }}{% else %}{{ doc.date | date: "%b. %-d, %Y" }}{% endif %}
@@ -208,6 +262,14 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   {% endfor %}
 </div>
 
+{% comment %}
+  Entering the viewport triggers the next batch of cards to materialize --
+  see the sentinel observer in the script below. One pixel is enough to
+  intersect; keeping it in flow (rather than `hidden`) is what lets the
+  observer fire at all.
+{% endcomment %}
+<div id="archive-sentinel" aria-hidden="true" style="height: 1px"></div>
+
 <p id="archive-empty" class="text-muted" style="display: none">No documents match these filters.</p>
 
 {% comment %}
@@ -224,7 +286,9 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
 <script>
 (function () {
   var list = document.getElementById('archive-list');
-  var docs = Array.prototype.slice.call(list.children);
+  var sentinel = document.getElementById('archive-sentinel');
+  var dataScript = document.getElementById('archive-data');
+  var cards = dataScript ? JSON.parse(dataScript.textContent) : [];
   var buttons = document.querySelectorAll('#archive-types .btn');
   var yearFrom = document.getElementById('archive-year-from');
   var yearTo = document.getElementById('archive-year-to');
@@ -236,10 +300,31 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
   // Empty means no filter.
   var selected = '';
 
-  // The scanned documents are OCR'd into search/gnarmpfsk-index.json: one
-  // entry per Google Drive file, holding the text of each of its pages. It is
-  // about a megabyte, so it is fetched only once someone actually searches,
-  // and the card filters keep working on their own if it never arrives.
+  // The first `card_limit` cards are rendered as HTML by Liquid and the rest
+  // live only in `cards` until the sentinel scrolls into view. The DOM then
+  // grows monotonically: once a card is materialized it stays in the tree and
+  // is just toggled with `display:none`, so its Drive iframe does not have to
+  // be torn down and remounted on every filter change.
+  var BATCH_SIZE = 16;
+  var visibleCount = BATCH_SIZE;
+  var renderedByIdx = {};
+  // Hydrate from the HTML Liquid drew. The HTML order matches `cards` because
+  // both loops run over the same `docs` list on the server.
+  Array.prototype.forEach.call(list.children, function (el, i) {
+    el.setAttribute('data-idx', i);
+    renderedByIdx[i] = el;
+  });
+
+  // Two text indexes, fetched on first search and merged into one map:
+  //   - search/gnarmpfsk-index.json: one entry per Google Drive file, holding
+  //     the OCR'd text of each page (so hits can name a page number). ~1 MB.
+  //   - search/gnarmpfsk-pages.json: one entry per transcribed article or
+  //     story URL, holding the whole body as a single blob. ~50 KB, written
+  //     by the gnarmpfsk_pages_index plugin at build time so the archive
+  //     page's HTML stays small.
+  // Both share the same shape here: a per-key array of page strings, with
+  // transcribed pages treated as a one-page document. If either file never
+  // arrives, the card filters still work on their own.
   var index = null, lowered = null, indexState = 'idle';
 
   // Drive's preview is a whole application per document, not an image. Several
@@ -306,8 +391,9 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     }
   }
 
+  var io = null;
   if ('IntersectionObserver' in window) {
-    var io = new IntersectionObserver(function (entries) {
+    io = new IntersectionObserver(function (entries) {
       entries.forEach(function (e) { if (e.isIntersecting) mount(e.target); });
     }, { rootMargin: '600px 0px' });
     Array.prototype.forEach.call(document.querySelectorAll('.archive-embed'), function (b) {
@@ -322,17 +408,44 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     });
   }
 
+  // The sentinel is the one-pixel row that sits just after the archive-list.
+  // When it drifts into view we grow the window of visible cards by a batch
+  // and re-run update(), which calls createCard() for any new ones.
+  if ('IntersectionObserver' in window && sentinel) {
+    var sentinelObs = new IntersectionObserver(function (entries) {
+      if (entries[0].isIntersecting) {
+        visibleCount += BATCH_SIZE;
+        update();
+      }
+    }, { rootMargin: '400px 0px' });
+    sentinelObs.observe(sentinel);
+  }
+
   function loadIndex() {
     indexState = 'loading';
-    fetch('/search/gnarmpfsk-index.json')
-      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-      .then(function (json) {
-        index = json.docs;
+    function get(url) {
+      return fetch(url).then(function (r) {
+        if (!r.ok) throw new Error(r.status);
+        return r.json();
+      });
+    }
+    Promise.all([get('/search/gnarmpfsk-index.json'), get('/search/gnarmpfsk-pages.json')])
+      .then(function (results) {
+        index = {};
         // A lowercase copy to search, so the stored text keeps its capitals
         // for display in the snippets.
         lowered = {};
-        Object.keys(index).forEach(function (id) {
-          lowered[id] = index[id].map(function (p) { return p.toLowerCase(); });
+        var ocr = results[0].docs;
+        Object.keys(ocr).forEach(function (id) {
+          index[id] = ocr[id];
+          lowered[id] = ocr[id].map(function (p) { return p.toLowerCase(); });
+        });
+        // Transcribed pages are a single blob; wrap each as a one-page
+        // document so findHits treats them the same way.
+        var pageText = results[1].pages;
+        Object.keys(pageText).forEach(function (url) {
+          index[url] = [pageText[url]];
+          lowered[url] = [pageText[url].toLowerCase()];
         });
         indexState = 'ready';
         update();
@@ -342,12 +455,27 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
 
   function escapeRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
   function escapeHtml(s) {
-    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    return (s == null ? '' : String(s))
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+  function escapeAttr(s) { return escapeHtml(s).replace(/"/g, '&quot;'); }
+
+  // Dates in the data array are ISO ("1942-05-15"). The HTML Liquid produced
+  // for the first batch uses `%b. %-d, %Y` ("May. 15, 1942"), so match that
+  // for cards built on the client -- or the two look like different pages.
+  var MONTHS = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May.', 'Jun.', 'Jul.',
+                'Aug.', 'Sep.', 'Oct.', 'Nov.', 'Dec.'];
+  function formatDate(iso) {
+    if (!iso) return '';
+    var p = iso.split('-');
+    if (p.length !== 3) return iso;
+    var m = +p[1] - 1;
+    if (m < 0 || m > 11) return iso;
+    return MONTHS[m] + ' ' + +p[2] + ', ' + p[0];
   }
 
   // -> {pages: [1-based page numbers], text: page containing the first hit}
-  function findHits(el, query) {
-    var id = el.getAttribute('data-drive');
+  function findHitsForId(id, query) {
     if (!id || !lowered || !lowered[id]) return null;
     var pages = [], text = null;
     for (var i = 0; i < lowered[id].length; i++) {
@@ -357,6 +485,80 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
       }
     }
     return pages.length ? { pages: pages, text: text, total: lowered[id].length } : null;
+  }
+
+  // The markup here has to stay in step with the Liquid loop a few hundred
+  // lines up that renders the first batch of cards. When a card is built
+  // on the client, filtering, iframe mounting and the hit snippets all
+  // have to find the same DOM shape as a Liquid-rendered one.
+  function createCard(d, idx) {
+    var el = document.createElement('div');
+    el.className = 'archive-doc col-xs-12 col-md-6';
+    el.setAttribute('data-date', d.date || '');
+    el.setAttribute('data-type', d.type || '');
+    el.setAttribute('data-title', d.title || '');
+    if (d.drive) el.setAttribute('data-drive', d.drive);
+    if (d.page) el.setAttribute('data-page', d.page);
+    el.setAttribute('data-search', d.search || '');
+    el.setAttribute('data-idx', idx);
+
+    var external = !!(d.drive || d.link);
+    var html = '<h4><a href="' + escapeAttr(d.url) + '"' +
+               (external ? ' target="_blank" rel="noopener"' : '') + '>' +
+               escapeHtml(d.title) + '</a></h4>';
+    html += '<div class="archive-meta">';
+    if (d.date) html += 'Published ';
+    html += escapeHtml(d.display || formatDate(d.date));
+    if (d.type) html += ' <span class="label label-primary">' + escapeHtml(d.type) + '</span>';
+    html += '</div>';
+    html += '<div class="archive-hits" hidden></div>';
+
+    if (d.drive) {
+      html += '<div class="embed-responsive archive-embed" style="padding-bottom: 129%" data-drive="' +
+              escapeAttr(d.drive) + '" data-title="' + escapeAttr(d.title) + '">' +
+              '<span class="archive-embed-idle">' + escapeHtml(d.title) + '</span></div>' +
+              '<a href="' + escapeAttr(d.url) + '" target="_blank" rel="noopener">Open full size</a>';
+    } else if (d.link) {
+      if (d.image) {
+        html += '<a class="archive-article" href="' + escapeAttr(d.url) + '" target="_blank" rel="noopener">' +
+                '<img src="' + escapeAttr(d.image) + '" alt="" loading="lazy"></a>';
+      }
+      html += '<p class="archive-excerpt">';
+      if (d.source) {
+        html += '<em>' + escapeHtml(d.source) +
+                (d.author ? ', by ' + escapeHtml(d.author) : '') + '.</em> ';
+      }
+      html += escapeHtml(d.summary || '') + '</p>';
+      html += '<a href="' + escapeAttr(d.url) + '" target="_blank" rel="noopener">' +
+              'Read the full article on ' + escapeHtml(d.source || 'the web') + ' &rarr;</a>';
+      if (d.note) html += '<p class="archive-note text-muted"><small>' + escapeHtml(d.note) + '</small></p>';
+    } else if (d.thumbs) {
+      html += '<a class="archive-thumbs" href="' + escapeAttr(d.url) + '">';
+      d.thumbs.forEach(function (t) { html += '<img src="' + escapeAttr(t) + '" alt="" loading="lazy">'; });
+      html += '</a><a href="' + escapeAttr(d.url) + '">View all photos &rarr;</a>';
+    } else {
+      if (d.image) {
+        html += '<a class="archive-article" href="' + escapeAttr(d.url) + '">' +
+                '<img src="' + escapeAttr(d.image) + '" alt="" loading="lazy"></a>';
+      }
+      html += '<p class="archive-excerpt">';
+      if (d.source) {
+        html += '<em>' + escapeHtml(d.source) +
+                (d.author ? ', by ' + escapeHtml(d.author) : '') + '.</em> ';
+      } else if (d.author) {
+        html += '<em>By ' + escapeHtml(d.author) + '.</em> ';
+      }
+      html += escapeHtml(d.excerpt || '') + '</p>';
+      html += '<a href="' + escapeAttr(d.url) + '">' +
+              (d.source ? 'Read local transcription &rarr;' : 'Read the full story &rarr;') + '</a>';
+    }
+
+    el.innerHTML = html;
+    if (io && d.drive) {
+      var embed = el.querySelector('.archive-embed');
+      if (embed) io.observe(embed);
+    }
+    return el;
   }
 
   function listPages(pages) {
@@ -447,7 +649,6 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
       .catch(function () { galleryState = 'failed'; update(); });
   }
 
-  function escapeAttr(s) { return escapeHtml(s).replace(/"/g, '&quot;'); }
   function galleryUrl(id) { return /^\d+$/.test(id) ? gallery.base + id + '.html' : '#'; }
 
   function galleryCard(a, query) {
@@ -528,11 +729,9 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     return counts;
   }
 
-  function typeOf(el) { return el.getAttribute('data-type') || ''; }
-  function matchesType(el) { return !selected || typeOf(el) === selected; }
-  // Undated documents (empty data-date) always sort last.
+  // Undated documents (empty `date`) always sort last.
   function byDateDesc(a, b) {
-    var da = a.getAttribute('data-date'), db = b.getAttribute('data-date');
+    var da = cards[a].date, db = cards[b].date;
     if (!da || !db) return !da - !db;
     return db.localeCompare(da);
   }
@@ -586,6 +785,7 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
     // viewers, and the histogram counts albums instead.
     var galleryOnly = scope === 'gallery';
     list.style.display = galleryOnly ? 'none' : '';
+    if (sentinel) sentinel.style.display = galleryOnly ? 'none' : '';
     document.getElementById('archive-count').hidden = galleryOnly;
     if (galleryOnly) {
       live.slice().forEach(unmount);
@@ -594,59 +794,88 @@ For other cool stories, also check out the [Sean A. Collier Adventure Grant](htt
       drawHist(updateGallery(query, from, to, sort) || {}, from, to, 'album');
       return;
     }
-    var sorted = docs.slice().sort(function (a, b) {
+
+    // Walk indices into `cards` in the chosen sort order. The sort is over
+    // the whole archive, not just what has been rendered, so the first batch
+    // always maps to the first N of the sorted set.
+    var order = cards.map(function (_, i) { return i; }).sort(function (a, b) {
       if (sort === 'date-asc') {
-        if (!a.getAttribute('data-date') || !b.getAttribute('data-date')) return byDateDesc(a, b);
+        if (!cards[a].date || !cards[b].date) return byDateDesc(a, b);
         return -byDateDesc(a, b);
       }
       if (sort === 'type') {
-        return typeOf(a).localeCompare(typeOf(b)) || byDateDesc(a, b);
+        var cmp = (cards[a].type || '').localeCompare(cards[b].type || '');
+        if (cmp) return cmp;
       }
       return byDateDesc(a, b);
     });
     if (query && indexState === 'idle') loadIndex();
-    var shown = 0, inText = 0, counts = {};
-    // Reorder with CSS `order` rather than moving nodes, which would reload the iframes.
-    sorted.forEach(function (el, i) {
-      var year = el.getAttribute('data-date').slice(0, 4);
+
+    // Decide which cards match the current filter + search. The bars answer
+    // "which years would this search find", so they count what matches
+    // everything except the year range itself.
+    var matches = [], counts = {};
+    order.forEach(function (idx) {
+      var c = cards[idx];
+      var year = c.date ? c.date.slice(0, 4) : '';
       var inRange = year ? +year >= from && +year <= to : from === minYear && to === maxYear;
-      var onCard = !query || (el.getAttribute('data-search') || '').indexOf(query) >= 0;
-      var hits = query ? findHits(el, query) : null;
-      var match = matchesType(el) && inRange && (onCard || !!hits);
-      // The bars answer "which years would this search find", so they count
-      // what matches everything except the year range itself.
-      if (year && matchesType(el) && (onCard || !!hits)) {
-        counts[year] = (counts[year] || 0) + 1;
+      var typeOk = !selected || c.type === selected;
+      var onCard = !query || (c.search || '').indexOf(query) >= 0;
+      var id = c.drive || c.page;
+      var hits = query && id ? findHitsForId(id, query) : null;
+      var textOk = onCard || !!hits;
+      if (year && typeOk && textOk) counts[year] = (counts[year] || 0) + 1;
+      if (typeOk && inRange && textOk) matches.push({ idx: idx, hits: hits });
+    });
+
+    // Render only the first `visibleCount` matches; the rest wait for the
+    // sentinel to pull them in. Reorder with CSS `order` so already-mounted
+    // iframes stay where they are.
+    var toShow = matches.slice(0, visibleCount);
+    toShow.forEach(function (m, pos) {
+      var el = renderedByIdx[m.idx];
+      if (!el) {
+        el = createCard(cards[m.idx], m.idx);
+        renderedByIdx[m.idx] = el;
+        list.appendChild(el);
       }
+      el.style.display = '';
+      el.style.order = pos;
       // The snippet is worth showing even when the title already matched, so
       // long as the document is actually on screen.
-      renderHits(el, match ? hits : null, query);
-      if (match && hits && !onCard) inText++;
-      el.style.display = match ? '' : 'none';
-      // A card the filters just hid must give its viewer back, or the live
-      // slots fill up with documents nobody can see.
-      if (!match) {
-        var hiddenBox = el.querySelector('.archive-embed');
-        if (hiddenBox) unmount(hiddenBox);
-      }
-      el.style.order = i;
-      if (match) shown++;
+      renderHits(el, m.hits, query);
     });
+    // Hide every rendered card not in the current window, and give its iframe
+    // back so active slots can go to visible cards.
+    var shownIdx = {};
+    toShow.forEach(function (m) { shownIdx[m.idx] = true; });
+    Object.keys(renderedByIdx).forEach(function (idx) {
+      if (shownIdx[idx]) return;
+      var el = renderedByIdx[idx];
+      el.style.display = 'none';
+      var hiddenBox = el.querySelector('.archive-embed');
+      if (hiddenBox) unmount(hiddenBox);
+    });
+
     drawHist(counts, from, to);
     sweep();
     // Showing a snippet changes a card's height, which moves everything below
     // it; look again once that has settled.
     requestAnimationFrame(sweep);
-    document.getElementById('archive-count').textContent =
-      shown === docs.length ? docs.length + ' documents' : 'Showing ' + shown + ' of ' + docs.length + ' documents';
-    document.getElementById('archive-empty').style.display = shown ? 'none' : '';
+    var countEl = document.getElementById('archive-count');
+    if (matches.length === cards.length) {
+      countEl.textContent = cards.length + ' documents';
+    } else {
+      countEl.textContent = 'Showing ' + matches.length + ' of ' + cards.length + ' documents';
+    }
+    document.getElementById('archive-empty').style.display = matches.length ? 'none' : '';
+    // Fold the sentinel away when there is nothing left for it to reveal, so
+    // the observer stops firing until a filter widens the match set again.
+    if (sentinel) sentinel.style.display = toShow.length < matches.length ? '' : 'none';
 
     var message = '';
     if (query && indexState === 'loading') message = 'Searching the scanned pages…';
     else if (query && indexState === 'failed') message = 'The scanned pages could not be searched just now — showing title matches only.';
-    else if (query && inText) message = inText === 1
-      ? 'One of these was found by the text inside the scan, not its title.'
-      : inText + ' of these were found by the text inside the scans, not their titles.';
     note.textContent = message;
     note.hidden = !message;
     updateGallery(query, from, to, sort);

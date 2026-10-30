@@ -8,6 +8,7 @@ include: ['_pages', '_redirects']
 
 plugins:
   - jekyll-jolt
+  - jekyll-sitemap
   - jekyll-target-blank
 
 exclude:
