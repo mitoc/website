@@ -39,15 +39,17 @@ If the boats were used in saltwater, please rinse them off before returning them
         <th>Approver<br>
         (email boathouse-mgr@mit.edu)</th>
     </tr>
-    <tr>
+    <tr class="danger">
         <td>Flatwater canoe (inc. 2 paddles &amp; PFDs)</td>
         <td>$1000</td>
         <td>$12</td>
+        <td>Canoe chair</td>
     </tr>
-    <tr>
+    <tr class="danger">
         <td>Flatwater kayak (inc. 1 paddle &amp; PFD)</td>
         <td>$1000</td>
         <td>$12</td>
+        <td>Canoe chair</td>
     </tr>
     <tr class="danger">
         <td>Whitewater canoe (inc. 1 paddle, PFD, &amp; helmet)</td>
