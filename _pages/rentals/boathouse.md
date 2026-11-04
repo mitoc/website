@@ -15,8 +15,7 @@ To rent from the boathouse you must be a boathouse keyholder and have deposit ch
 
 ### Approval Process for Rentals
 1. To rent restricted gear, email the activity chairs ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu)) as early as possible. Include where you want to go, any prior relevant experience, and your method of transportation. Some activities also require you fill out a float plan:
-   1. All sea kayak trips and canoe trips which include transportation by car: [float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfphwLNGRzg6e_8CIA_WcPSr7tzmsM69MkmcFHqfUyMzrwP3A/viewform).
-   2. Surfing trips: [surfing float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfq2dPflqOhqm1Mx2BidpcMTupy9lQolC72kjGcPlB4M2NztQ/viewform).
+   1. Surfing trips: [surfing float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfq2dPflqOhqm1Mx2BidpcMTupy9lQolC72kjGcPlB4M2NztQ/viewform).
 2. Once approved by the activity chairs, make an [online pre-payment](/pay) for your equipment and send your receipt to the boathouse manager at the same email ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu)). The boathouse manager will check your deposit checks and provide access to the boathouse lockbox. *The boathouse can only be accessed by non-MIT affiliates on weekdays 6am to 7pm*.
 
 As with other MITOC gear, each member can rent gear only for herself and one other person. Boathouse keyholders may borrow more than two boats so long as there is at least one MITOC member in the group for every two boats rented. Official MITOC trips also take precedence over individual rentals, so check that there are no conflicting trips scheduled on the MITOC [trip page](https://mitoc-trips.mit.edu/trips/). If you end up NOT taking out your boat because of “prohibitive weather conditions”, let the chairs know as soon as possible, and you will be able to use the payment made for any future MITOC rentals (NO refunds will be processed).
