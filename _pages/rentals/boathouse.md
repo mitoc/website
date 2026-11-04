@@ -13,6 +13,8 @@ MITOC's boathouse ([building N52](https://maps.app.goo.gl/TN4WHr7x9p8Lb5uH7)) ha
 ### Boathouse Training
 To rent from the boathouse you must be a boathouse keyholder and have deposit checks ([frequent flyer](https://mitoc.mit.edu/rentals#renting-gear)) at the MITOC office. The Boathouse Manager offers boathouse keyholder training monthly during the warmer months, announced on the [paddle listserv](http://mailman.mit.edu/mailman/listinfo/paddle). Keyholders must be MITOC members and must provide one hour of service to the boathouse once a year to maintain active keyholder status. If you became a keyholder last year, you can rent boats up to May before renewing your keyholder training. Boathouse training is not required for official MITOC trips.
 
+**You do not need to be boathouse trained to rent boats stored in the office (surfboards and paddleboards in warmer months).**
+
 ### Approval Process for Rentals
 1. To rent restricted gear, email the activity chairs ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu)) as early as possible. Include where you want to go, any prior relevant experience, and your method of transportation. Some activities also require you fill out a float plan:
    1. Surfing trips: [surfing float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfq2dPflqOhqm1Mx2BidpcMTupy9lQolC72kjGcPlB4M2NztQ/viewform).
@@ -117,7 +119,7 @@ Two VHF radios, marine flares, and hand bilge pumps are also available with sea 
 
 ### Surfing
 
-For surfing gear rented from the office, you only need to fill out a [surfing float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfq2dPflqOhqm1Mx2BidpcMTupy9lQolC72kjGcPlB4M2NztQ/viewform) and you do not need to be boathouse trained. If you are renting from the boathouse, fill out the form and also send an email to ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu)) for boathouse access.
+For surfing gear rented from the office, you only need to fill out a [surfing float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfq2dPflqOhqm1Mx2BidpcMTupy9lQolC72kjGcPlB4M2NztQ/viewform) and follow the [office rental procedure](https://mitoc.mit.edu/rentals). If you are renting from the boathouse, fill out the form and also send an email to ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu)) for boathouse access.
 
 {% include price-table.html category = site.data.gear_prices.surfing %}
 
