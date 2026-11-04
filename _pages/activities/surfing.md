@@ -22,9 +22,9 @@ MITOC has several 8ft soft-top surfboards available for rental with approval fro
 To rent surfboards on your own:
 
 1. **Be a MITOC member.** Check that your [membership](https://mitoc-trips.mit.edu/) is active and your liability waiver is up to date.
-2. **Be a boathouse keyholder.** In order to access the boathouse, you will need to attend boathouse keyholder training. Check the [upcoming trips page](https://mitoc-trips.mit.edu/trips/) or email the [boat chairs](mailto:boathouse-mgr@mit.edu) to find out when the next training is scheduled.
-3. **Have deposit checks on file.** In order to rent gear, you need deposit checks on file to cover any damage or theft of boathouse equipment. Drop off deposit checks at MITOC office during [MITOC office hours](https://mitoc.mit.edu/calendar), prior to your trip. You will need two deposit checks ($300 and $700 in value). These checks are kept for one year, and you can rent (any MITOC gear) as often as you like without writing more checks.
-4. **E-mail the [surf chair](mailto:boathouse-mgr@mit.edu)** to check for board availability and fill out a [surfing float plan form.](https://forms.gle/A4WZEaHvCCeYMTe39) 
+2. **Have deposit checks on file.** In order to rent gear, you need deposit checks on file to cover any damage or theft of boathouse equipment. Drop off deposit checks at MITOC office during [MITOC office hours](https://mitoc.mit.edu/calendar), prior to your trip. You will need two deposit checks ($300 and $700 in value). These checks are kept for one year, and you can rent (any MITOC gear) as often as you like without writing more checks.
+3. **Fill out a [surfing float plan form](https://forms.gle/A4WZEaHvCCeYMTe39)**. Email the [surf chair](mailto:boathouse-mgr@mit.edu) if you do not get a response within a few days.
+4. Once approved, pick up your gear! If you are renting from the office, follow the [office rental procedure](/rentals). If you are renting from the boathouse, follow the [boathouse rental procedure](/rentals/boathouse) (you must be a boathouse keyholder).
 5. **After your trip:** a brief report to the surf chair would be appreciated about any issues with the gear as well as any comments of interest about your experience. *Please rinse wetsuits with clean, fresh water after use and hang to dry. Please only return wetsuit gear to the boathouse when it is dry and clean.*
 
 For more detailed information about renting surfboards, see the [boathouse rental page.](https://mitoc.mit.edu/rentals/boathouse)
@@ -58,4 +58,4 @@ Please see the [boathouse rental information](https://mitoc.mit.edu/rentals/boat
 * [New England Spot Guide](https://www.surfline.com/surf-reports-forecasts-cams/united-states/massachusetts/6254926)
 
 ### Questions?
-Contact the [surf chair.](mailto:boathouse-mgr@mit.edu)
+Contact the [surf chair](mailto:boathouse-mgr@mit.edu).
