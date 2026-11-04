@@ -16,8 +16,4 @@ The [sea kayak chair](mailto:boathouse-mgr@mit.edu) aims to organize beginner an
 
 MITOC owns a variety of sea kayaks that are for rental. These include several singles and two tandems. The club also has the related gear of spray skirts, life jackets and paddles. Any other gear must be supplied by the user.
 
-For information about renting sea kayaks, see the [boathouse rental page](/rentals/boathouse).
-
-You should be able to swim and know the basics of paddling, wet exit, self rescue, and how to use and care for the boats. If the North Atlantic is the destination, be aware that the water is cold and conditions can change quickly, so be experienced and prepared.
-
-Please make your arrangements with the sea kayak chair at least a day before you will check out the boathouse key, to be sure the chair can be contacted and the procedure can be completed. You will check out the boathouse key and leave the appropriate deposit during office hours.
+For information about renting sea kayaks, see the [boathouse rental page](/rentals/boathouse). You should be able to swim and know the basics of paddling, wet exit, self rescue, and how to use and care for the boats. If the North Atlantic is the destination, be aware that the water is cold and conditions can change quickly, so be experienced and prepared.
