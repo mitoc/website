@@ -117,13 +117,13 @@ Two VHF radios, marine flares, and hand bilge pumps are also available with sea 
 
 ### Surfing
 
-Approver is the Surfing chair for the appropriate gear ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu))
+For surfing gear rented from the office, you only need to fill out a [surfing float plan form](https://docs.google.com/forms/d/e/1FAIpQLSfq2dPflqOhqm1Mx2BidpcMTupy9lQolC72kjGcPlB4M2NztQ/viewform) and you do not need to be boathouse trained. If you are renting from the boathouse, fill out the form and also send an email to ([boathouse-mgr@mit.edu](mailto:boathouse-mgr@mit.edu)) for boathouse access.
 
 {% include price-table.html category = site.data.gear_prices.surfing %}
 
 
 ### Paddleboarding
 
-The inflatable stand-up paddleboards and PFDs can be found in the MITOC office, and one does not need to complete the boathouse keyholder training to rent them. For approval to rent the paddleboards, email the Paddleboarding chair via [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) with details of the planned paddling trip.
+The inflatable stand-up paddleboards and PFDs can be found in the MITOC office during the warmer months, and one does not need to complete the boathouse keyholder training to rent them. For approval to rent the paddleboards, email the Paddleboarding chair via [mitoc-approval@mit.edu](mailto:mitoc-approval@mit.edu) with details of the planned paddling trip.
 
 {% include price-table.html category = site.data.gear_prices.sup %}
