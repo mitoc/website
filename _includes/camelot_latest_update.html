@@ -1,0 +1,10 @@
+{%- comment -%}
+  Home's "Latest update" slot: the newest file in _camelot_updates/.
+  Shows nothing if there are none.
+{%- endcomment -%}
+{%- if site.camelot_updates and site.camelot_updates.size > 0 -%}
+{%- assign latest = site.camelot_updates | sort: 'date' | last -%}
+<h2>Latest update</h2>
+<p><strong>{{ latest.date | date: "%B %Y" }}</strong> &middot; <a href="{{ latest.url }}">{{ latest.title }}</a>{% if latest.summary %}<br>{{ latest.summary }}{% endif %}</p>
+<p><a href="/camelot/updates">All updates &rarr;</a></p>
+{%- endif -%}

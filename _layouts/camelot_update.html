@@ -1,0 +1,15 @@
+---
+layout: bunkhouse
+---
+{% comment %}
+  One Camelot bunkhouse update (a file in _camelot_updates/). The bunkhouse layout
+  shows the title as the page heading. Front matter fields are listed in
+  _camelot_updates/how-to-add-a-bunkhouse-update.md.
+{% endcomment %}
+<p class="camelot-update-meta">
+  {{ page.date | date: "%B %Y" }}{% if page.raised %} &middot; Raised so far: <strong>${{ page.raised | thousands_separated }}</strong>{% endif %}
+</p>
+
+{{ content }}
+
+<p class="camelot-update-back"><a href="/camelot/updates">&larr; All updates</a></p>
