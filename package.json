@@ -1,0 +1,7 @@
+{
+  "name": "mitoc-website",
+  "private": true,
+  "dependencies": {
+    "stripe": "^16.0.0"
+  }
+}
