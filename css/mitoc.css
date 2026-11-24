@@ -1144,3 +1144,118 @@ details[open] summary::before {
     aspect-ratio: auto;
   }
 }
+
+/* Camelot documents: a card per PDF. The first page sits at the left of the title,
+   summary and buttons; on phones the summary and buttons run full width below. */
+.bunkhouse-doc-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 30px;
+}
+.bunkhouse-container .bunkhouse-doc-list > li.bunkhouse-doc {
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  grid-template-rows: auto auto 1fr;
+  column-gap: 24px;
+  padding: 24px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.bunkhouse-doc-thumb {
+  grid-column: 1;
+  grid-row: 1 / span 3;
+  align-self: start;
+}
+.bunkhouse-doc-head,
+.bunkhouse-container p.bunkhouse-doc-summary,
+.bunkhouse-container p.bunkhouse-doc-actions {
+  grid-column: 2;
+}
+.bunkhouse-doc-thumb img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.bunkhouse-doc-thumb:hover img {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+}
+.bunkhouse-container .bunkhouse-doc-list h2:not(.faq-group-heading) {
+  margin-top: 0;
+}
+.bunkhouse-container .bunkhouse-doc-list h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+.bunkhouse-container .bunkhouse-doc-list h2 a:hover,
+.bunkhouse-container .bunkhouse-doc-list h2 a:focus {
+  text-decoration: underline;
+}
+.bunkhouse-body .bunkhouse-container p.bunkhouse-doc-kicker {
+  margin: 0 0 8px;
+  color: #666;
+  font-size: medium;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.bunkhouse-body .bunkhouse-container p.bunkhouse-doc-details {
+  margin: -4px 0 12px;
+  color: var(--bunkhouse-muted);
+  font-size: medium;
+}
+.bunkhouse-body .bunkhouse-container p.bunkhouse-doc-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-self: start;
+  gap: 10px;
+  margin: 6px 0 0;
+}
+.bunkhouse-container a.bunkhouse-doc-button {
+  display: inline-block;
+  padding: 6px 22px;
+  border-radius: 40px;
+  border: 2px solid var(--bunkhouse-primary);
+  background: var(--bunkhouse-primary);
+  color: var(--bunkhouse-page);
+  font-weight: bold;
+  text-decoration: none;
+}
+.bunkhouse-container a.bunkhouse-doc-button:hover,
+.bunkhouse-container a.bunkhouse-doc-button:focus {
+  border-color: var(--bunkhouse-primary-dark);
+  background: var(--bunkhouse-primary-dark);
+  color: var(--bunkhouse-accent);
+}
+.bunkhouse-container a.bunkhouse-doc-button-outline {
+  background: transparent;
+  color: var(--bunkhouse-primary);
+}
+@media (max-width: 600px) {
+  .bunkhouse-container .bunkhouse-doc-list > li.bunkhouse-doc {
+    grid-template-columns: 100px minmax(0, 1fr);
+    grid-template-rows: auto;
+    column-gap: 16px;
+  }
+  .bunkhouse-doc-thumb {
+    grid-row: 1;
+  }
+  .bunkhouse-container .bunkhouse-doc-list h2:not(.faq-group-heading) {
+    font-size: 24px;
+  }
+  .bunkhouse-container p.bunkhouse-doc-summary,
+  .bunkhouse-container p.bunkhouse-doc-actions {
+    grid-column: 1 / -1;
+  }
+  .bunkhouse-container p.bunkhouse-doc-summary {
+    margin-top: 14px;
+  }
+  .bunkhouse-container a.bunkhouse-doc-button {
+    flex: 1;
+    text-align: center;
+  }
+}
