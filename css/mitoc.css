@@ -1406,7 +1406,7 @@ details[open] summary::before {
 }
 
 /* Bunkhouse photos and drawings lift and cast a deeper shadow on hover, like the
-   handout thumbnails. Clicking a figure's image opens it full size with its
+   Resources page thumbnails. Clicking a figure's image opens it full size with its
    caption (_includes/lightbox.html). The hero is a background, so it's left out. */
 .bunkhouse-figure img,
 .camelot-update-thumb img {

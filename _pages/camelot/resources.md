@@ -1,8 +1,8 @@
 ---
-permalink: /camelot/handouts
+permalink: /camelot/resources
 layout: bunkhouse
-title: Handouts
-description: "Printable handouts about the Camelot bunkhouse and the MIT Outing Club."
+title: Resources
+description: "Printable resources about the Camelot bunkhouse and the MIT Outing Club."
 # One card per document, in this order.
 #   file:     the PDF, under /docs/camelot/
 #   download: file name used when someone clicks Download
