@@ -33,11 +33,7 @@
         <div>
             {{ content }}
         </div>
-        <footer class="bunkhouse-footer">
-            <div class="container">
-                &copy; {{ site.time | date: '%Y' }} <a href="/">MITOC</a>
-            </div>
-        </footer>
+        {% include footer.html %}
     </body>
 
 </html>

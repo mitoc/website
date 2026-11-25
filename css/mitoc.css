@@ -133,23 +133,36 @@ p img {
   font-size: large;
 }
 
-/* Footer on bunkhouse pages: copyright on the left, linking back to the main site */
-.bunkhouse-footer {
+/* Shared footer (main and bunkhouse sites): copyright on the left, Accessibility on the right */
+.site-footer {
   margin-top: 30px;
   padding: 20px 0;
   border-top: 1px solid rgba(0, 0, 0, 0.12);
-  background: var(--bunkhouse-page);
+  /* No background: each site's body color shows through */
   color: #555;
   font-size: 1.4rem;
 }
 
-.bunkhouse-footer a,
-.bunkhouse-footer a:hover,
-.bunkhouse-footer a:focus {
+.site-footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px 20px;
+}
+
+/* Bootstrap's clearfix pseudo-elements would become flex items and break space-between */
+.site-footer-inner::before,
+.site-footer-inner::after {
+  display: none;
+}
+
+.site-footer a,
+.site-footer a:hover,
+.site-footer a:focus {
   color: inherit;
 }
 
-.bunkhouse-footer a:focus-visible {
+.site-footer a:focus-visible {
   outline: 3px solid var(--bunkhouse-secondary);
   outline-offset: 2px;
 }
