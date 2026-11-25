@@ -37,8 +37,8 @@ Succinct overview documents. For more detailed answers and additional questions,
     </div>
     <p class="bunkhouse-doc-summary">{{ doc.summary }}</p>
     <p class="bunkhouse-doc-actions">
-      <a href="{{ doc.file }}" class="bunkhouse-doc-button" target="_blank" rel="noopener">View PDF</a>
-      <a href="{{ doc.file }}" class="bunkhouse-doc-button bunkhouse-doc-button-outline" download="{{ doc.download }}">Download</a>
+      <a href="{{ doc.file }}" class="bunkhouse-pill" target="_blank" rel="noopener">View PDF</a>
+      <a href="{{ doc.file }}" class="bunkhouse-pill bunkhouse-pill-outline" download="{{ doc.download }}">Download</a>
     </p>
   </li>
 {% endfor %}

@@ -3,9 +3,13 @@
   data-lightbox="group-name": clicking one opens it full screen, and the arrows
   (or arrow keys / swipe) move between photos with the same group name.
   An optional data-caption="..." is shown under the photo.
+
+  Bunkhouse pages: every <img> in a <figure class="bunkhouse-figure"> joins one
+  "bunkhouse" group automatically, no link needed, and its <figcaption> is used
+  as the caption. Images inside a link (like the update thumbnails) are skipped.
 {% endcomment %}
 <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo viewer" hidden>
-  <button type="button" class="lightbox-close" aria-label="Close">&times;</button>
+  <button type="button" class="lightbox-close" aria-label="Close"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><path d="M5 5 L19 19 M19 5 L5 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg></button>
   <button type="button" class="lightbox-nav lightbox-prev" aria-label="Previous photo">&#8249;</button>
   <figure>
     <img alt="">
@@ -18,11 +22,13 @@
   .lightbox { position: fixed; inset: 0; z-index: 2000; display: flex; align-items: center; justify-content: center; background: rgba(0, 0, 0, 0.96); }
   .lightbox[hidden] { display: none; }
   .lightbox figure { margin: 0; max-width: calc(100vw - 140px); text-align: center; }
-  .lightbox img { max-width: 100%; max-height: calc(100vh - 90px); object-fit: contain; }
+  .lightbox img { max-width: 100%; max-height: calc(100vh - 90px); object-fit: contain; background: #fff; }
+  /* white behind the photo: drawings with see-through backgrounds would otherwise show the black viewer through them */
   .lightbox figcaption { color: #ddd; margin-top: 10px; font-size: 15px; }
   .lightbox button { position: absolute; border: 0; background: rgba(255, 255, 255, 0.12); color: #fff; line-height: 1; }
   .lightbox button:hover, .lightbox button:focus-visible { background: rgba(255, 255, 255, 0.3); }
-  .lightbox-close { top: 12px; right: 12px; width: 44px; height: 44px; border-radius: 22px; font-size: 32px; }
+  .lightbox-close { top: 12px; right: 12px; width: 44px; height: 44px; border-radius: 22px; display: flex; align-items: center; justify-content: center; padding: 0; }
+  .lightbox-close svg { display: block; }
   .lightbox-nav { top: 50%; width: 52px; height: 72px; margin-top: -36px; border-radius: 6px; font-size: 48px; }
   .lightbox-prev { left: 12px; }
   .lightbox-next { right: 12px; }
@@ -42,18 +48,39 @@
   var next = box.querySelector('.lightbox-next');
   var items = [], index = 0, opener = null, touchX = null;
 
+  // Bunkhouse figures: the image itself is the trigger, so make it focusable
+  // and keyboard-operable like a link.
+  Array.prototype.forEach.call(document.querySelectorAll('.bunkhouse-figure img'), function (photo) {
+    if (photo.closest('a, [data-lightbox]')) return;
+    photo.setAttribute('data-lightbox', 'bunkhouse');
+    photo.setAttribute('tabindex', '0');
+    photo.setAttribute('role', 'button');
+    photo.setAttribute('aria-haspopup', 'dialog');
+  });
+
+  // A trigger is either a link to the full-size photo or the photo itself.
+  function fullSrc(item) {
+    return item.tagName === 'IMG' ? (item.currentSrc || item.src) : item.getAttribute('href');
+  }
+  function captionFor(item) {
+    if (item.hasAttribute('data-caption')) return item.getAttribute('data-caption');
+    var figure = item.closest('figure');
+    var figcaption = figure && figure.querySelector('figcaption');
+    return figcaption ? figcaption.textContent.trim() : '';
+  }
+
   function show(i) {
     index = i;
-    var link = items[i];
-    var thumb = link.querySelector('img');
-    img.src = link.getAttribute('href');
+    var item = items[i];
+    var thumb = item.tagName === 'IMG' ? item : item.querySelector('img');
+    img.src = fullSrc(item);
     img.alt = thumb ? thumb.alt : '';
-    caption.textContent = link.getAttribute('data-caption') || '';
+    caption.textContent = captionFor(item);
     caption.hidden = !caption.textContent;
     prev.disabled = i === 0;
     next.disabled = i === items.length - 1;
     // Preload neighbours so arrowing feels instant.
-    [i - 1, i + 1].forEach(function (j) { if (items[j]) new Image().src = items[j].getAttribute('href'); });
+    [i - 1, i + 1].forEach(function (j) { if (items[j]) new Image().src = fullSrc(items[j]); });
   }
 
   function open(link) {
@@ -86,7 +113,12 @@
   box.querySelector('.lightbox-close').addEventListener('click', close);
   box.addEventListener('click', function (e) { if (e.target === box || e.target.tagName === 'FIGURE') close(); });
   document.addEventListener('keydown', function (e) {
-    if (box.hidden) return;
+    if (box.hidden) {
+      // Enter/Space on a focused bunkhouse photo opens it (links already open on Enter).
+      var photo = e.target.closest && e.target.closest('img[data-lightbox]');
+      if (photo && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); open(photo); }
+      return;
+    }
     if (e.key === 'Escape') close();
     else if (e.key === 'ArrowLeft') step(-1);
     else if (e.key === 'ArrowRight') step(1);

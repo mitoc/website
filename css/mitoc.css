@@ -246,7 +246,7 @@ p img {
 .bunkhouse-banner-full h2,
 .bunkhouse-banner-full h3 {
   background: none;
-  color: #fff;
+  color: var(--bunkhouse-page);
   padding: 0;
 }
 
@@ -507,7 +507,7 @@ p img {
 .bunkhouse-banner-compact h1,
 .bunkhouse-banner-compact h2 {
   background: none;
-  color: #fff;
+  color: var(--bunkhouse-page);
   padding-left: 0;
 }
 
@@ -748,37 +748,71 @@ p img {
   margin: 0 0 30px;
 }
 
+/* Pill buttons (everything except Donate), in two styles that share one size and one
+   set of states:
+     .bunkhouse-pill                          solid: forest green fill, cream text
+     .bunkhouse-pill.bunkhouse-pill-outline   outline: forest green border and text
+   The jump-list links (Markdown can't put classes on them) are styled as outline pills.
+   Hover, press, and keyboard focus look the same for both styles: darker green fill
+   with bright green text. Keyboard focus adds the blue ring that text links use.
+   Focus from a mouse click shows nothing, so a clicked pill doesn't stay lit. */
+.bunkhouse-container a.bunkhouse-pill,
 .bunkhouse-container .faq-jump-list a {
   display: inline-block;
-  font-weight: normal;
-  padding: 10px 16px; /* ~44px tall tap target */
-  border: 1px solid var(--bunkhouse-primary);
-  border-radius: 30px;
-  background: white;
-  color: var(--bunkhouse-primary);
+  padding: 9px 18px; /* ~44px tall tap target */
+  border: 2px solid var(--bunkhouse-primary);
+  border-radius: 999px;
+  background: var(--bunkhouse-primary);
+  color: var(--bunkhouse-page);
   font-size: large;
+  font-weight: bold;
   line-height: 1.3;
+  text-align: center;
   text-decoration: none;
 }
 
+.bunkhouse-container a.bunkhouse-pill-outline,
+.bunkhouse-container .faq-jump-list a {
+  background: var(--bunkhouse-page);
+  color: var(--bunkhouse-primary);
+}
+
+.bunkhouse-container a.bunkhouse-pill:visited {
+  color: var(--bunkhouse-page);
+}
+.bunkhouse-container a.bunkhouse-pill-outline:visited,
 .bunkhouse-container .faq-jump-list a:visited {
   color: var(--bunkhouse-primary);
 }
 
+.bunkhouse-container a.bunkhouse-pill:focus:not(:focus-visible),
+.bunkhouse-container .faq-jump-list a:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.bunkhouse-container a.bunkhouse-pill:hover,
+.bunkhouse-container a.bunkhouse-pill:active,
+.bunkhouse-container a.bunkhouse-pill:focus-visible,
 .bunkhouse-container .faq-jump-list a:hover,
-.bunkhouse-container .faq-jump-list a:focus,
-.bunkhouse-container .faq-jump-list a:active {
-  background: var(--bunkhouse-primary);
-  border-color: var(--bunkhouse-primary);
-  color: white;
+.bunkhouse-container .faq-jump-list a:active,
+.bunkhouse-container .faq-jump-list a:focus-visible {
+  border-color: var(--bunkhouse-primary-dark);
+  background: var(--bunkhouse-primary-dark);
+  color: var(--bunkhouse-accent);
   text-decoration: none;
+}
+
+.bunkhouse-container a.bunkhouse-pill:focus-visible,
+.bunkhouse-container .faq-jump-list a:focus-visible {
+  outline: 3px solid var(--bunkhouse-secondary);
+  outline-offset: 2px;
 }
 
 .faq-group-heading {
   margin: 56px 0 8px;
   padding: 10px 14px;
   background: var(--bunkhouse-primary);
-  color: white;
+  color: var(--bunkhouse-page);
   font-size: 3rem;
   font-weight: 700;
   border-radius: 4px;
@@ -1087,7 +1121,6 @@ details[open] summary::before {
   width: 200px;
   height: 150px;
   object-fit: cover;
-  border-radius: 4px;
 }
 .bunkhouse-body .bunkhouse-container p.camelot-update-meta {
   margin: 0 0 8px;
@@ -1105,7 +1138,6 @@ details[open] summary::before {
 .camelot-update-photos .bunkhouse-figure img,
 .camelot-update-photo-wide img {
   width: 100%;
-  border-radius: 4px;
 }
 .camelot-update-photo-wide {
   max-width: 780px;
@@ -1176,7 +1208,6 @@ details[open] summary::before {
   height: auto;
   background: #fff;
   border: 1px solid #ddd;
-  border-radius: 2px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
@@ -1186,14 +1217,6 @@ details[open] summary::before {
 }
 .bunkhouse-container .bunkhouse-doc-list h2:not(.faq-group-heading) {
   margin-top: 0;
-}
-.bunkhouse-container .bunkhouse-doc-list h2 a {
-  color: inherit;
-  text-decoration: none;
-}
-.bunkhouse-container .bunkhouse-doc-list h2 a:hover,
-.bunkhouse-container .bunkhouse-doc-list h2 a:focus {
-  text-decoration: underline;
 }
 .bunkhouse-body .bunkhouse-container p.bunkhouse-doc-kicker {
   margin: 0 0 8px;
@@ -1215,26 +1238,6 @@ details[open] summary::before {
   gap: 10px;
   margin: 6px 0 0;
 }
-.bunkhouse-container a.bunkhouse-doc-button {
-  display: inline-block;
-  padding: 6px 22px;
-  border-radius: 40px;
-  border: 2px solid var(--bunkhouse-primary);
-  background: var(--bunkhouse-primary);
-  color: var(--bunkhouse-page);
-  font-weight: bold;
-  text-decoration: none;
-}
-.bunkhouse-container a.bunkhouse-doc-button:hover,
-.bunkhouse-container a.bunkhouse-doc-button:focus {
-  border-color: var(--bunkhouse-primary-dark);
-  background: var(--bunkhouse-primary-dark);
-  color: var(--bunkhouse-accent);
-}
-.bunkhouse-container a.bunkhouse-doc-button-outline {
-  background: transparent;
-  color: var(--bunkhouse-primary);
-}
 @media (max-width: 600px) {
   .bunkhouse-container .bunkhouse-doc-list > li.bunkhouse-doc {
     grid-template-columns: 100px minmax(0, 1fr);
@@ -1254,8 +1257,39 @@ details[open] summary::before {
   .bunkhouse-container p.bunkhouse-doc-summary {
     margin-top: 14px;
   }
-  .bunkhouse-container a.bunkhouse-doc-button {
+  .bunkhouse-container .bunkhouse-doc-actions a.bunkhouse-pill {
     flex: 1;
-    text-align: center;
+  }
+}
+
+/* Bunkhouse photos and drawings lift and cast a deeper shadow on hover, like the
+   handout thumbnails. Clicking a figure's image opens it full size with its
+   caption (_includes/lightbox.html). The hero is a background, so it's left out. */
+.bunkhouse-figure img,
+.camelot-update-thumb img {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.bunkhouse-figure img:hover,
+.bunkhouse-figure img:focus-visible,
+.camelot-update-thumb:hover img {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+}
+.bunkhouse-figure img[tabindex] {
+  cursor: zoom-in;
+}
+.bunkhouse-figure img:focus-visible {
+  outline: 3px solid var(--bunkhouse-secondary);
+  outline-offset: 2px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .bunkhouse-figure img,
+  .camelot-update-thumb img {
+    transition: none;
+  }
+  .bunkhouse-figure img:hover,
+  .bunkhouse-figure img:focus-visible,
+  .camelot-update-thumb:hover img {
+    transform: none;
   }
 }
