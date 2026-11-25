@@ -294,8 +294,10 @@ p img {
 /* The fundraising card: goal, a two-part bar drawn to scale, a column for
    each phase, the Donate button, and the running total in small print. These
    rules are Home's tall version; .donations-card-compact (below, with the
-   compact strip) shrinks it for every other page. */
-.bunkhouse-banner .donations-card {
+   compact strip) shrinks it for every other page. The main-site banner
+   (.camelot-banner) uses the tall version too. */
+.bunkhouse-banner .donations-card,
+.camelot-banner .donations-card {
   --phase-gap: 4px;  /* between the bar's two parts, and between the phase columns */
   width: 100%;
   background: var(--bunkhouse-page);
@@ -394,7 +396,8 @@ p img {
   line-height: 1.25;
 }
 
-.bunkhouse-banner-full .bunkhouse-donate-button {
+.bunkhouse-banner-full .bunkhouse-donate-button,
+.camelot-banner .donations-card .bunkhouse-donate-button {
   display: block;
   width: 100%;
   margin: 0 0 8px;
@@ -456,7 +459,8 @@ p img {
   .bunkhouse-banner-full .donations-card {
     padding: 20px 20px 12px;
   }
-  .bunkhouse-banner-full .bunkhouse-donate-button {
+  .bunkhouse-banner-full .bunkhouse-donate-button,
+  .camelot-banner .donations-card .bunkhouse-donate-button {
     font-size: 2.6rem;
   }
 }
@@ -867,71 +871,67 @@ p img {
   font-size: medium;
 }
 
+/* Main-site Camelot banner, in the bunkhouse colors: a pale-green band (the empty
+   part of the bunkhouse fundraising bar) with forest-green text. These override
+   Bootstrap's .alert-info blue. */
 .camelot-banner-wrapper {
   cursor: pointer;
   padding: 0;
+  border: none;
+  border-radius: 0;
+  background-color: var(--bunkhouse-primary-tint);
+  color: var(--bunkhouse-primary);
 }
 
+.camelot-banner-wrapper h3 {
+  color: var(--bunkhouse-primary);
+  font-weight: 700;
+}
+
+/* Bottom only: top padding would make the heading jump down on expanding, and
+   side padding would squeeze the fixed-width .container and push the margin
+   arrows off-screen on tablets */
 .camelot-banner-wrapper.expanded {
-  padding: 15px;
+  padding: 0 0 15px;
 }
 
-.camelot-banner-collapsible {
-  overflow: hidden;
-  max-height: min(20vh, 120px);
-  position: relative;
-}
-
-@media (min-width: 768px) {
-  .camelot-banner-collapsible {
-    max-height: min(20vh, 200px);
-  }
-}
-
-.camelot-banner-wrapper:not(.expanded) .camelot-banner-collapsible::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 60px;
-  background: linear-gradient(transparent, #d9edf7);
-  pointer-events: none;
-}
-
-.camelot-banner-wrapper.expanded .camelot-banner-collapsible {
-  max-height: none;
+/* Collapsed, the banner is just the heading and the footer (arrows and buttons);
+   the drawing and text appear when it's expanded. */
+.camelot-banner-wrapper:not(.expanded) .camelot-banner-body {
+  display: none;
 }
 
 @media (max-width: 767px) {
-  .camelot-banner-wrapper:not(.expanded) .camelot-banner-img {
-    display: none;
-  }
-  .camelot-banner-text h3 {
+  .camelot-banner-heading {
     font-size: 22px;
   }
 }
 
+/* Footer (a .container): just the buttons, on narrower screens while the banner
+   is collapsed. It hides when expanded (the buttons are under the text then) and
+   on wide screens (they're beside the heading). */
 .camelot-banner-footer {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  gap: 12px;
   margin-top: 4px;
-  padding: 0 15px;
 }
 
-.camelot-banner-donate-small {
-  padding: 4px 16px;
+.camelot-banner-wrapper.expanded .camelot-banner-footer {
+  display: none;
 }
 
-@media (max-width: 767px) {
-  .camelot-banner-donate-small {
-    max-width: 150px;
-    width: 100%;
-    text-align: center;
-    font-size: 1.5rem;
+@media (min-width: 992px) {
+  .camelot-banner-footer {
+    display: none;
   }
+}
+
+/* Bootstrap's .container clearfix pseudo-elements would become flex items */
+.camelot-banner-footer:before,
+.camelot-banner-footer:after {
+  display: none;
 }
 
 .bunkhouse-figure {
@@ -953,75 +953,208 @@ p img {
 .camelot-banner-actions {
   display: flex;
   align-items: center;
-  gap: 20px;
+  justify-content: flex-start;
+  gap: 12px;
   margin-bottom: 10px;
 }
 
-.camelot-banner-actions .bunkhouse-donate-button {
-  margin-bottom: 0;
+/* Main-site banner buttons: the bunkhouse pill pair, as on the bunkhouse pages:
+     .camelot-banner-button (with .bunkhouse-donate-button)   solid: forest-green fill, cream text
+     .camelot-banner-button.camelot-banner-button-outline     outline: forest-green border and text
+   One size for both, about a line of text tall. Hover and focus: darker green fill
+   with bright green text. Keyboard focus adds the blue ring that bunkhouse links use. */
+.camelot-banner-wrapper .camelot-banner-button,
+.camelot-banner-wrapper .camelot-banner-button:visited {
+  display: inline-block;
+  width: auto;
+  min-width: 120px;
+  margin: 0;
+  padding: 5px 20px;
+  border: 2px solid var(--bunkhouse-primary);
+  border-radius: 999px;
+  background: var(--bunkhouse-primary);
+  color: var(--bunkhouse-page);
+  font-size: 1.6rem;
+  font-weight: bold;
+  line-height: 1.3;
+  text-align: center;
+  text-decoration: none;
 }
 
-/* Donate buttons in the main-site banner: dark blue with white text */
-.camelot-banner-wrapper .bunkhouse-donate-button,
-.camelot-banner-wrapper .bunkhouse-donate-button:visited {
-  background: #002896;
-  border-bottom-color: #001a66;
-  color: white;
+.camelot-banner-wrapper .camelot-banner-button-outline,
+.camelot-banner-wrapper .camelot-banner-button-outline:visited {
+  background: transparent;
+  color: var(--bunkhouse-primary);
 }
 
-.camelot-banner-wrapper .bunkhouse-donate-button:hover,
-.camelot-banner-wrapper .bunkhouse-donate-button:focus {
-  background: #001a66;
-  color: white;
+.camelot-banner-wrapper .camelot-banner-button:hover,
+.camelot-banner-wrapper .camelot-banner-button:focus {
+  border-color: var(--bunkhouse-primary-dark);
+  background: var(--bunkhouse-primary-dark);
+  color: var(--bunkhouse-accent);
+  text-decoration: none;
 }
 
-.camelot-banner-learn-more {
-  font-size: 2rem;
-  font-weight: 600;
-  color: #31708f;
-  text-decoration: underline;
+.camelot-banner-wrapper .camelot-banner-button:focus-visible {
+  outline: 3px solid var(--bunkhouse-secondary);
+  outline-offset: 2px;
 }
 
 @media (max-width: 767px) {
-  .camelot-banner-learn-more {
-    font-size: 1.5rem;
-  }
-  .camelot-banner-actions .camelot-banner-donate-small {
-    width: 120px;
+  .camelot-banner-actions .camelot-banner-button {
+    min-width: 100px;
+    padding: 4px 14px;
+    font-size: 1.4rem;
   }
 }
 
-.camelot-banner-wrapper.expanded .camelot-banner-actions {
-  display: none;
-}
-
+/* Expand arrows: one in each side margin, level with the heading row. They sit
+   just outside the text's edges, in the page margin on wider screens and in the
+   container's 15px padding on phones. Positioned with top (not a transform),
+   because the script sets transform to rotate them. */
 .camelot-banner-toggle {
-  font-size: 1.2rem;
-  color: #31708f;
+  position: absolute;
+  top: calc(50% - 0.8rem);
+  width: 1.6rem;  /* square, so the rotated arrow stays inside its box */
+  height: 1.6rem;
+  font-size: 1.6rem;
+  line-height: 1;
+  text-align: center;
+  color: var(--bunkhouse-primary);
   user-select: none;
   transform: rotate(90deg);
-  display: inline-block;
   transition: transform 0.2s ease;
 }
 
-.camelot-banner {
+/* Phones have no page margin, so the heading row is indented a little and the
+   arrows sit in the container's 15px padding, clear of the title and the
+   screen edge. */
+.camelot-banner-toggle-left {
+  left: -12px;
+}
+
+.camelot-banner-toggle-right {
+  right: -12px;
+}
+
+@media (max-width: 767px) {
+  .camelot-banner-header {
+    padding: 0 10px;
+  }
+  .camelot-banner-toggle-left {
+    left: -10px;
+  }
+  .camelot-banner-toggle-right {
+    right: -10px;
+  }
+}
+
+/* Wider screens: in the page margin. The margin plus padding is only 24px at
+   768px and 26px at 992px, so 21px out keeps the 16px arrow on screen. */
+@media (min-width: 768px) {
+  .camelot-banner-toggle-left {
+    left: -21px;
+  }
+  .camelot-banner-toggle-right {
+    right: -21px;
+  }
+}
+
+/* The heading spans the container, left-aligned. Below it, on phones and
+   tablets: the drawing, the fundraising card, then the text, stacked. On wide
+   screens: the card and drawing side by side, then the text full-width. */
+.camelot-banner-header {
+  position: relative; /* for the expand arrows */
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: 20px 0 12px;
+}
+
+.camelot-banner-heading {
+  margin: 0;
+  text-align: left;
+}
+
+/* Which copy of the buttons shows:
+     wide screens, collapsed:    beside the heading
+     wide screens, expanded:     under the fundraising card
+     narrower screens:           the footer (collapsed) or under the text (expanded)
+   The others hide. */
+.camelot-banner-header-actions,
+.camelot-banner-goal-actions {
+  display: none;
+  align-items: center;
+  gap: 12px;
+}
+
+@media (min-width: 992px) {
+  .camelot-banner-wrapper:not(.expanded) .camelot-banner-header-actions,
+  .camelot-banner-wrapper.expanded .camelot-banner-goal-actions {
+    display: flex;
+  }
+  .camelot-banner-footer .camelot-banner-actions,
+  .camelot-banner-wrapper .camelot-banner .links-box {
+    display: none;
+  }
+}
+
+.camelot-banner-body {
   display: flex;
   flex-direction: column;
+  gap: 15px;
 }
-@media (min-width: 768px) {
-  .camelot-banner {
-    flex-direction: row;
-  }
-  .camelot-banner-text {
-    max-width: 55%;
-  }
-}
+
 .camelot-banner img {
+  display: block;
   max-width: 100%;
 }
 
-.camelot-banner-img {
-  margin-right: 2rem;
+.camelot-banner-side {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 600px;
+}
+
+/* In the main-site banner the card is white like the main site's pages (on the
+   bunkhouse pages it's cream), and it has no button, so the phase labels need
+   a little room above the donor note instead. */
+.camelot-banner .donations-card {
+  background: #fff;
+}
+
+.camelot-banner .donations-card .phase-columns {
+  margin-bottom: 8px;
+}
+
+/* Wide screens: the fundraising card with the buttons under it (left) and the
+   drawing (right) share a row across the full width, with the text full-width
+   below them. The card comes after the drawing in the markup (it's below it on
+   narrower screens), so `order` moves it first. */
+@media (min-width: 992px) {
+  .camelot-banner-side {
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    max-width: none;
+  }
+  .camelot-banner-goal {
+    order: -1;
+    flex: 0 0 38%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  /* The buttons under the card are centered on it */
+  .camelot-banner-goal-actions {
+    justify-content: center;
+  }
+  .camelot-banner-side img {
+    flex: 1 1 0;
+    min-width: 0;
+    height: auto;
+  }
 }
 
 details summary {
@@ -1094,15 +1227,12 @@ details[open] summary::before {
 }
 
 .camelot-banner .links-box {
-  text-align: center;
-}
-
-@media (min-width: 768px) {
-  .camelot-banner .links-box {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  margin-bottom: 10px;
 }
 
 /* Camelot updates: the index list, the date line, and photo layouts in posts */

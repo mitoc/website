@@ -1,61 +1,76 @@
 <div class="alert alert-info camelot-banner-wrapper" id="camelot-banner-wrapper" style="margin-top: -10px">
   <div class="camelot-banner-collapsible">
     <div class="container camelot-banner">
-      <div class="camelot-banner-img cbox">
-        <img
-          src="/images/bunkhouse/bunkhouse-exterior-rendering.jpg"
-          alt="Drawing of the future cabin"
-        />
+      {% comment %}
+        The buttons appear in one of four places. Wide screens: beside the
+        heading when collapsed, under the fundraising card when expanded.
+        Narrower screens: in the footer when collapsed, under the text when
+        expanded. The CSS shows the right copy.
+      {% endcomment %}
+      <div class="camelot-banner-header">
+        <div class="camelot-banner-toggle camelot-banner-toggle-left" aria-hidden="true">&#10095;</div>
+        <div class="camelot-banner-toggle camelot-banner-toggle-right" aria-hidden="true">&#10095;</div>
+        <h3 class="camelot-banner-heading">Help us build the Camelot bunkhouse!</h3>
+        <div class="camelot-banner-header-actions">
+          <a href="{{site.data.bunkhouse_settings.donate_page}}" class="bunkhouse-donate-button camelot-banner-button">Donate</a>
+          <a href="/camelot" class="camelot-banner-button camelot-banner-button-outline">Learn more</a>
+        </div>
       </div>
-      <div class="camelot-banner-text">
-        <h3>Camelot Bunkhouse Fundraising</h3>
-        <p>
-          {% include bunkhouse_summary.html part='what_is_camelot' %}
-          The cabin was built in the 1970s on a shoestring budget, and
-          it's nearing the end of its life as a place to sleep. We're
-          now building a new bunkhouse on the property, with safe, modern
-          sleeping space for {{ site.data.bunkhouse_settings.facts.bunkhouse_capacity }} people, so that Camelot can keep serving MITOC
-          for decades to come.
-        </p>
+      <div class="camelot-banner-body">
+        <div class="camelot-banner-side">
+          <img
+            src="/images/bunkhouse/bunkhouse-exterior-rendering.jpg"
+            alt="Drawing of the planned Camelot bunkhouse"
+          />
+          <div class="camelot-banner-goal">
+            {% include bunkhouse_donations_card.html button=false %}
+            <div class="camelot-banner-goal-actions">
+              <a href="{{site.data.bunkhouse_settings.donate_page}}" class="bunkhouse-donate-button camelot-banner-button">Donate</a>
+              <a href="/camelot" class="camelot-banner-button camelot-banner-button-outline">Learn more</a>
+            </div>
+          </div>
+        </div>
+        <div class="camelot-banner-text">
+          <p>
+            Camelot, MITOC's cabin near Rumney, NH, has been the club's home base
+            for over 50 years. Camelot sees over 1000 person-nights each year and
+            is where many members take their first MITOC trip. The cabin was built in 1973, largely by MIT undergrads, and
+            won't stay safe to sleep in much longer.
+          </p>
 
-        <p>
-          MITOC partnered with Maclay Architects to design a new bunkhouse for
-          Camelot, which will be located {{ site.data.bunkhouse_settings.facts.distance_to_bunkhouse }} from the
-          existing cabin. The new bunkhouse will contain {{ site.data.bunkhouse_settings.facts.room_count }}
-          bedrooms (sleeping {{ site.data.bunkhouse_settings.facts.room_size }} people each), a large
-          central hallway, and a covered deck. The whole project will cost
-          {{ site.data.bunkhouse_settings.facts.total_cost }}.
-        </p>
+          <p>
+            We're building a new bunkhouse with safe, heated sleeping space for
+            {{ site.data.bunkhouse_settings.facts.bunkhouse_capacity }} people.
+            Phase 1 (design, a new parking lot, bridge, and access trail) finished
+            in 2025.
+            Construction can start in
+            {{ site.data.bunkhouse_settings.facts.groundbreaking }} once we reach
+            the full goal.
+          </p>
 
-        <p>
-          Phase 1 (a new parking lot, bridge, and access trail) was completed in
-          2025. We're now raising the rest of the
-          {{ site.data.bunkhouse_settings.facts.total_cost }} so we can break ground in
-          {{ site.data.bunkhouse_settings.facts.groundbreaking }} and finish the bunkhouse in
-          {{ site.data.bunkhouse_settings.facts.completion }}. If you are able, please consider
-          donating. This project will ensure we can fulfill our mission for the next
-          generation of MITOCers.
-        </p>
-        <div class="links-box" style="justify-content: space-around">
-          <a
-            href="{{site.data.bunkhouse_settings.donate_page}}"
-            class="bunkhouse-donate-button"
-            >Donate</a
-          >
-          <a href="/camelot" style="font-size: 2rem; text-decoration: underline"
-            >Learn more</a
-          >
+          <p>
+            Gifts of every size count. Donate today to help us build the future
+            of Camelot!
+          </p>
+          <div class="links-box">
+            <a
+              href="{{site.data.bunkhouse_settings.donate_page}}"
+              class="bunkhouse-donate-button camelot-banner-button"
+              >Donate</a
+            >
+            <a href="/camelot" class="camelot-banner-button camelot-banner-button-outline"
+              >Learn more</a
+            >
+          </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="camelot-banner-footer">
-    <div class="camelot-banner-toggle">&#10095;</div>
+  <div class="container camelot-banner-footer">
     <div class="camelot-banner-actions">
-      <a href="/camelot" class="camelot-banner-learn-more">Learn more</a>
-      <a href="{{site.data.bunkhouse_settings.donate_page}}" class="bunkhouse-donate-button camelot-banner-donate-small">Donate</a>
+      <a href="{{site.data.bunkhouse_settings.donate_page}}" class="bunkhouse-donate-button camelot-banner-button">Donate</a>
+      <a href="/camelot" class="camelot-banner-button camelot-banner-button-outline">Learn more</a>
     </div>
-    <div class="camelot-banner-toggle">&#10095;</div>
   </div>
 </div>
 <script>

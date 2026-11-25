@@ -3,6 +3,15 @@ donate_link: https://giving.mit.edu/form/?fundId=3892696&amount=500
 # Where every Donate button and the menu item go. That page's "Give online" button
 # opens donate_link (MIT's form).
 donate_page: &donate_page /camelot/donate
+# Main-site pages that show the Camelot fundraising banner above the navbar
+# (_includes/camelot_banner.html). Use each page's permalink exactly as written
+# in its front matter; "/" is the homepage.
+main_site_banner_pages:
+  - /
+  - /pay
+  - /rentals/cabins
+  - /rentals/camelot
+  - /rentals/intervale
 # Thermometer: the whole campaign (Phases 1 and 2), including pledges.
 # Update donations_as_of whenever the amounts change.
 donations_amount: 468000

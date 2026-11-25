@@ -20,7 +20,9 @@
   </head>
 
   <body>
-    {% include camelot_banner.html %}
+    {% if site.data.bunkhouse_settings.main_site_banner_pages contains page.url %}
+      {% include camelot_banner.html %}
+    {% endif %}
     {% include navbar.html menu=site.data.menu %}
     <div id="main" class="container">{{ content }}</div>
     {% include footer.html %}
