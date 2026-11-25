@@ -13,14 +13,14 @@ documents:
     file: /docs/camelot/bunkhouse_faq.pdf
     download: MITOC Bunkhouse FAQ.pdf
     thumb: /images/bunkhouse/documents/bunkhouse-faq.jpg
-    details: 2 pages · PDF · 2.2 MB
+    details: 2 pages · PDF · 2.1 MB
     summary: "A two-page handout on the motivation, history, and future of the bunkhouse project: why Camelot needs it, what it will include, what it costs, and how to help."
   - title: MITOC Updates
     kicker: A decade in review, 2016–2025
     file: /docs/camelot/mitoc_updates.pdf
     download: MITOC Updates.pdf
     thumb: /images/bunkhouse/documents/mitoc-updates.jpg
-    details: 1 page · PDF · 1.1 MB
+    details: 1 page · PDF · 938 KB
     summary: "The club by the numbers over the past decade. News on paddling, circuses, the student financial aid program, Winter School, School of Rock, the Collier Adventure Grant, and so much more!"
 ---
 
