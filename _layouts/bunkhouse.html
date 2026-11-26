@@ -2,41 +2,58 @@
 layout: bunkhouse_base
 ---
 
-<div class="bunkhouse-banner">
-  <h1>Camelot bunkhouse</h1>
-  <h2>Coming 2027</h2>
-  <h3>Site construction has started!</h3>
-  <div class="donations-block">
-    <strong class="donations-amount"
-      >${{site.data.bunkhouse_settings.donations_amount | thousands_separated
-      }}</strong
-    ><br />
-    <p>RAISED BY <strong>{{site.data.bunkhouse_settings.number_donors}}</strong> PEOPLE</p>
-    <div class="thermometer">
-      {% assign goal_float = site.data.bunkhouse_settings.donations_goal | times: 1.0 %}
-      {% assign total_donations_float = site.data.bunkhouse_settings.donations_amount | times: 1.0 %}
-      {% assign progress_total = total_donations_float | divided_by: goal_float | times: 100 %}
-      {% assign percent_account_balance = site.data.bunkhouse_settings.donations_account_balance | divided_by: total_donations_float | times: 100 %}
-      <div
-        class="thermometer donation-progress-pledges"
-        style="width: {{progress_total | round: 2}}%"
-      >
-        <div class="thermometer donation-progress" style="width: {{percent_account_balance | round: 2}}%"></div>
-      </div>
-    </div>
-    <p class="text-right">Goal: <strong>${{site.data.bunkhouse_settings.donations_goal | thousands_separated}}</strong></p>
-    <a
-      href="{{site.data.bunkhouse_settings.donate_link}}"
-      class="bunkouse-donate-button"
-      >Donate</a
-    >
+{% assign settings = site.data.bunkhouse_settings %}
+{% assign on_donate_page = false %}
+{% assign current_url = page.url | remove: '.html' %}
+{% if current_url == settings.donate_page %}{% assign on_donate_page = true %}{% endif %}
+{% comment %}
+  Pages with `hero: full` in their front matter (the overview) get the large
+  hero. Every other page gets a compact strip with the same fundraising card
+  in a shorter form.
+  The inner .container lines the titles up with the navbar brand above.
+  The full hero splits in two: the title, subtitle, and fundraising card on
+  green at the left, and the drawing filling the rest of the screen at the
+  right, the full height of the hero.
+{% endcomment %}
+<div class="bunkhouse-banner {% if page.hero == 'full' %}bunkhouse-banner-full{% else %}bunkhouse-banner-compact{% endif %}">
+  <div class="container bunkhouse-banner-inner">
+  <div class="bunkhouse-banner-titles">
+    <h1>{{ settings.hero_title }}</h1>
+    <h2>{{ settings.hero_subtitle }}</h2>
   </div>
+  {% comment %}
+    The fundraising card (_includes/bunkhouse_donations_card.html). Home stacks
+    it all in a tall card; every other page gets a compact version with the
+    button at the right (below the bar on small phones). On the Donate page the
+    button goes straight to MIT's form.
+  {% endcomment %}
+  {% if on_donate_page %}
+    {% include bunkhouse_donations_card.html compact=true button_href=settings.donate_link button_label="Give online" %}
+  {% elsif page.hero == 'full' %}
+    {% include bunkhouse_donations_card.html %}
+  {% else %}
+    {% include bunkhouse_donations_card.html compact=true button_label="Donate" %}
+  {% endif %}
+  </div>
+  {% if page.hero == 'full' %}
+  <div class="bunkhouse-hero-image" role="img" aria-label="Drawing of the new Camelot bunkhouse"></div>
+  {% endif %}
 </div>
 <div class="container bunkhouse-wrapper">
   <div class="bunkhouse-container">
+    {% if page.title and page.hero != 'full' %}<h1 class="bunkhouse-page-title">{{ page.title }}</h1>{% endif %}
     {{content}}
+    {% comment %} Home and the Donate page have their own Donate button at the bottom. {% endcomment %}
+    {% unless on_donate_page or page.hero == 'full' %}
     <div class="cbox small-screen-only">
-      <button class="bunkouse-donate-button">Donate</button>
+      <a
+        href="{{ settings.donate_page }}"
+        class="bunkhouse-donate-button"
+        >Donate</a
+      >
     </div>
+    {% endunless %}
   </div>
 </div>
+{% comment %} Click a figure's image to see it full screen with its caption. {% endcomment %}
+{% include lightbox.html %}

@@ -1,6 +1,13 @@
+{% comment %}
+  With highlight_active, the link to the current page gets class="active".
+  The comparison ignores a trailing ".html" or "/" on the page URL.
+{% endcomment %}
+{% assign current_url = page.url | remove: '.html' | remove_first: '/index' %}
 {% if include.item.href %}
-    <li><a data-toggle="collapse" data-target=".navbar-collapse.in" href="{{ include.item.href }}">{{ include.item.title }}</a></li>
+    {% assign link_url = include.item.href %}
+    {% assign link_title = include.item.title %}
 {% else %}
-    {% assign title = site.data.cache.title_by_url[include.item] | default: 'No title found' %}
-    <li><a data-toggle="collapse" data-target=".navbar-collapse.in" href="{{ include.item }}">{{ title }}</a></li>
+    {% assign link_url = include.item %}
+    {% assign link_title = site.data.cache.title_by_url[include.item] | default: 'No title found' %}
 {% endif %}
+<li{% if include.highlight_active and link_url == current_url %} class="active"{% endif %}><a data-toggle="collapse" data-target=".navbar-collapse.in" href="{{ link_url }}">{{ link_title }}</a></li>

@@ -1,16 +1,74 @@
-donate_link: &donate_link https://giving.mit.edu/form/?fundId=3892696&amount=1000
-donations_amount: 342,830
-donations_account_balance: 316,830
-donations_goal: 500000
-number_donors: 265
+# The fundId in donate_link must match facts.fund_number below.
+donate_link: https://giving.mit.edu/form/?fundId=3892696&amount=500
+# Where every Donate button and the menu item go. That page's "Give online" button
+# opens donate_link (MIT's form).
+donate_page: &donate_page /camelot/donate
+# Main-site pages that show the Camelot fundraising banner above the navbar
+# (_includes/camelot_banner.html). Use each page's permalink exactly as written
+# in its front matter; "/" is the homepage.
+main_site_banner_pages:
+  - /
+  - /pay
+  - /rentals/cabins
+  - /rentals/camelot
+  - /rentals/intervale
+# Thermometer: the whole campaign (Phases 1 and 2), including pledges.
+# Update donations_as_of whenever the amounts change.
+donations_amount: 468000
+donations_as_of: November 2026
+# Must match facts.total_cost below.
+donations_goal: 1300000
+# Where the thermometer splits into Phase 1 and Phase 2 (Phase 2 is the rest of
+# donations_goal). Must match facts.phase1_raised and facts.phase2_cost below.
+phase1_goal: 400000
+# Key project facts, written once and inserted everywhere they appear:
+#   pages and includes:  {{ site.data.bunkhouse_settings.facts.total_cost }}
+#   bunkhouse_faqs.yml:  %total_cost%  (Liquid doesn't run inside data files)
+# Values are strings so they print exactly as written.
+# Agreed with the bunkhouse committee, November 2026.
+facts:
+  total_cost: "$1.3 million"
+  bunkhouse_capacity: "50"
+  room_count: "five"
+  room_size: "10"
+  capacity_now: "about 30"
+  distance_to_bunkhouse: "about 200 meters"
+  walk_from_parking: "about 200 meters"
+  parking_spaces: "20"
+  groundbreaking: "late Spring 2027"
+  completion: "Fall 2027"
+  phase1_raised: "about $400,000"
+  phase2_cost: "about $900,000"
+  fund_number: "3892696"
+  drive_time: "about 2.5 hours"
+  nightly_fee: "about $10"
+number_donors: 314
+# Wording taken from the committee's own text. Shown on Home, About and (what_is_camelot)
+# the homepage banner. Write facts as %key% (see facts: above). Insert with:
+#   {% include bunkhouse_summary.html part='what_is_camelot' %}
+#   {% include bunkhouse_summary.html part='why' %}
+summary:
+  what_is_camelot: "For over 50 years, the MIT Outing Club's Camelot cabin has been a vital resource and center of the club's activities. Set on about 20 acres near Rumney, NH, Camelot hosts official club circuses, open cabins, and social events and is a base camp for individual club members using the cabin for personal adventures. Camelot sees over 1000 person-nights each year, and many MITOC members are first introduced to outdoor recreation and the club community through Camelot-based events."
+  why: "The existing cabin is nearing the end of its usable life. Camelot was built in 1973, largely by MIT undergrads, and will not remain safe to sleep in for much longer. The new bunkhouse will give MITOC safe, comfortable sleeping space for %bunkhouse_capacity% people."
+# Hero text shown at the top of every /camelot page.
+hero_title: Camelot bunkhouse
+hero_subtitle: Coming 2027
+# The line under each phase in Home's fundraising card.
+phase1_status: Built 2025
+phase2_status: Fundraising now
+# Shown in link previews (Slack, email, social posts) and often under the page
+# in search results. A page can override it with `description:` in its front matter.
+share_description: "MITOC is building a new bunkhouse at Camelot, its cabin near Rumney, NH. Phase 1 is complete; help us raise the rest to build in 2027."
 menu:
-  - title: Camelot Bunkhouse
-    href: /camelot
-  # - title: History
-  #   href: /camelot/history
-  - title: Project Details
+  - title: About
+    href: /camelot/about
+  - title: Updates
+    href: /camelot/updates
+  - title: Project details
     href: /camelot/project
   - title: FAQs
     href: /camelot/faqs
+  - title: Resources
+    href: /camelot/resources
   - title: Donate
-    href: *donate_link
+    href: *donate_page

@@ -1,0 +1,148 @@
+# Camelot bunkhouse FAQs, rendered by _pages/camelot/faqs.md
+#
+# Each group becomes a section with an entry in the jump list at the top of the page.
+#   id:        URL anchor for the group (e.g. /camelot/faqs#donating)
+#   title:     group heading
+#   questions: list of question/answer pairs
+#     old_ids:  (optional) anchor IDs this question had before its wording
+#               changed, so old links like /camelot/faqs#old-id still land here
+#
+# Answers are Markdown. Liquid tags like {{ }} don't work inside data files, so use
+# placeholders instead, in questions or answers:
+#   %donate_link%   the donation URL from bunkhouse_settings.yml (MIT's giving form)
+#   %donate_page%   the site's Donate page, /camelot/donate
+#   %total_cost%    any key under `facts:` in bunkhouse_settings.yml, written as %key%
+
+- id: why
+  title: Why a bunkhouse?
+  questions:
+    - question: What is the long-term vision for the Camelot property?
+      answer: |
+        The long-term vision is for Camelot to host groups of up to %bunkhouse_capacity% people using two structures on the property: a sleeping cabin (the new bunkhouse), and a kitchen/lounge building (the existing cabin, or its future replacement). This gives us more flexibility to accommodate different groups on the property, and ensures that Camelot will remain available even while one of the two structures is closed for repair or replacement.
+
+    - question: Why does MITOC need the bunkhouse?
+      answer: |
+        Building a new structure at Camelot is the best way to ensure that the MITOC cabin experience will remain available to future generations of MIT students. The existing cabin is nearing the end of its usable life as a place to sleep. Its loft had to be closed recently because it did not meet modern safety standards, and it reopened only after a major repair effort by the cabin managers. Patches like this can only go so far. Today the cabin sleeps %capacity_now% people across the loft, living room, and kitchen, and within a few years it will no longer be safe to sleep in. We will rely on the new bunkhouse to provide safe and comfortable sleeping space for %bunkhouse_capacity% Outing Club members.
+
+    - question: How does the bunkhouse support MITOC’s mission?
+      answer: |
+        The core of MITOC’s mission is to make outdoor recreation accessible to all, with a special focus on new students who do not have previous outdoors experience. For this reason, it is important to have a place where MITOC members can sleep in all seasons which is inexpensive and does not require experience nor special equipment.
+
+    - question: Why doesn’t the bunkhouse include a kitchen or lounge area?
+      answer: |
+        We would prefer to have our sleeping space and living space in separate structures, which will improve the cabin experience for large groups with varied schedules. We believe that the existing cabin will continue to provide a serviceable kitchen and lounge for another 10-20 years, even once it's no longer used for sleeping, and having the bunkhouse in operation will ease the impact of its future replacement.
+
+    - question: Can the existing cabin be brought up to code?
+      answer: |
+        Not as sleeping space for a large group. Making the existing cabin sleep %bunkhouse_capacity% people would mean bringing it up to current code for lodging, with sprinklers, fire-rated sleeping rooms, and emergency exits. The Camelot managers and the town of Groton found no viable way to do that, and building new is the more cost-effective option. With ongoing repairs and improvements, the existing cabin will remain suitable for use as a cooking and gathering space.
+
+    - question: Why not buy a house instead?
+      answer: |
+        The safety requirements for a structure that can legally sleep %bunkhouse_capacity% people are quite different from the safety requirements for a single-family residence. The cost of the necessary modifications to a typical house would be a large fraction of the cost of building a new bunkhouse. We also want to preserve the special outdoor space and rustic atmosphere of MITOC cabins.
+
+    - question: Why not use prefab structures, tiny houses, or yurts?
+      answer: |
+        Yurts and prefab buildings cost much less up front, but they don't meet our long-term club needs. Our main concerns are durability, codes/safety, and heating, as well as our experience at Intervale, which has a (non-heated) yurt.
+
+        While yurts and prefab buildings are significantly cheaper, they don’t last nearly as long, especially under heavy use through harsh New England winters. Based on our experience with yurts at Intervale, we expect a yurt to last a decade or two at most. Building and maintaining a yurt village at Camelot would require a new construction project every several years. Instead, we want to make a generational investment through a permanent structure that better meets club needs and lasts a century or more.
+
+        Building new sleeping space for %bunkhouse_capacity% club members requires meeting modern building codes and MIT's standards for facilities which house students. These have come a long way since 1973!
+
+        Additionally, yurts are hard to keep warm (inefficient and poorly insulated) and usually rely on wood stoves if heated. This means keyholders need fire safety training, which is a current pain point with the current Camelot cabin, as well as an ongoing risk of fire. Because the bunkhouse will be well-insulated and energy efficient, it won't require much electric heat to stay warm when in use, and use won't require fire safety training.
+
+        We have also found that the Intervale yurt sees relatively little use. Given the choice, most people would rather sleep in the cabin, even in the summer when heating is not a priority.
+
+    - question: Why not buy new land for a bunkhouse somewhere else?
+      answer: |
+        The current Camelot property meets the needs of the club. Although it is about an hour away from the higher peaks of the White Mountains, this distance does not pose difficulty for running hiking trips out of Camelot. We do not wish to give up on the existing improvements to Camelot nor our working relationship with the local authorities. And, we like the neighborhood, including the Rumney cliffs, Sculptured Rocks, and the wonderful new Green Woodlands preserve.
+
+- id: cost
+  title: Cost and funding
+  questions:
+    - question: How much will the new bunkhouse cost?
+      answer: |
+        The bunkhouse project will cost %total_cost% in total. That covers Phase 1 (the new parking lot, bridge, and access trail, and the final construction drawings, completed in 2025) and Phase 2 (construction of the bunkhouse itself). We updated this estimate in 2026, using initial quotes from general contractors based on the finished construction drawings.
+
+    - question: What does the %total_cost% cover?
+      old_ids: [what-expenses-are-not-included-in-the-13-million-estimated-cost]
+      answer: |
+        The %total_cost% covers the whole project:
+        * Construction of the new parking lot, which the town of Groton requested as a condition for granting our zoning exemption for the property.
+        * Construction of the access trail and bridge to the bunkhouse site.
+        * Initial site preparation.
+        * Construction of the bunkhouse itself.
+        * Design and project support from architects, structural and geotechnical engineers, MIT Facilities, and others.
+
+        The initial design work with Maclay Architects (Phase 0, 2019–2021) was funded and completed before the fundraising campaign launched, so it isn't part of the %total_cost%.
+
+    - question: How will the bunkhouse be funded?
+      answer: |
+        Construction of the bunkhouse will be fully funded by donations. Once completed, ongoing maintenance of the bunkhouse will be funded by user fees, in accordance with MITOC’s current practices. We anticipate charging %nightly_fee% per person per night, in line with the current cabin fee.
+
+        Camelot sees roughly 1,000 person-nights of use each year, about half of them from circuses alone. Spread over a 100-year lifespan, a $1 million bunkhouse works out to about $10 per person per night: the same as today’s cabin fee, and well below a bunk at a White Mountains hostel (from about $40) or a Randolph Mountain Club cabin ($30–$50). Unlike those, the bunkhouse will be reserved for the MITOC community.
+
+- id: donating
+  title: How to donate
+  questions:
+    - question: How can I donate?
+      old_ids: [is-my-donation-to-the-camelot-bunkhouse-tax-deductible, can-i-donate-to-the-bunkhouse-project-by-check]
+      answer: |
+        See our **[Donate page](%donate_page%)** for every way to give: online, by check, with employer matching, or with stock, an IRA, or a donor-advised fund. It also answers whether your gift is tax deductible.
+
+- id: timeline
+  title: Timeline and construction
+  questions:
+    - question: What are the phases of the project?
+      answer: |
+        * **Phase 0: design (2019--2021).** MITOC worked with Maclay Architects on the initial bunkhouse design. This was funded and completed before the fundraising campaign launched.
+        * **Phase 1: site work (2022--2025).** Fundraising from 2022 to 2024 raised %phase1_raised%. In 2024 and 2025 we built the new parking lot, bridge, and access trail, and completed the final construction drawings for the bunkhouse.
+        * **Phase 2: the bunkhouse (2026--2027).** We're raising %phase2_cost% to build the bunkhouse itself, breaking ground in %groundbreaking% and finishing in %completion%.
+
+    - question: When will construction start?
+      answer: |
+        It already has! In Spring 2025, we completed Phase 1: the new parking lot, access trail, and bridge.
+
+        For Phase 2, construction of the bunkhouse itself, more fundraising is needed. We plan to break ground in %groundbreaking%, once the full %total_cost% has been raised.
+
+    - question: How long will construction take?
+      answer: |
+        The bunkhouse can be built in a single construction season, from about May to November. If we break ground in %groundbreaking% as planned, the bunkhouse will be complete in %completion%.
+
+    - question: What construction method will be used for the bunkhouse?
+      answer: |
+        The bunkhouse will be an above-grade wooden structure with exterior rigid insulation and back-ventilated cladding, supported by concrete piers and with a small concrete basement to house the fire sprinkler tank and toilet composters below the frost line.
+
+    - question: Will students be involved in construction? Alums?
+      answer: |
+        The new bunkhouse will be built by a professional general contractor, and their legal requirements for the worksite will require MITOC member participation to be structured and premeditated. Nevertheless, where possible, we plan to involve MITOC members in the construction process.
+
+- id: building
+  title: Building and site
+  questions:
+    - question: Will the bunkhouse be heated?
+      answer: |
+        The bunkhouse will be tightly insulated with modern building materials, and our calculations indicate that heating will not be required to maintain a comfortable temperature overnight. That said, the bunkhouse will be equipped with electric heat to assist with initial heat-up when the first occupants arrive on the coldest nights.
+
+    - question: How long will the bunkhouse last?
+      answer: |
+        We expect the bunkhouse to last about 100 years, allowing it to serve MITOC members for many generations to come. The design has been optimized for robustness in many different aspects: exterior rigid insulation (to maintain structural members at a controlled temperature and humidity), generous roof overhangs, and durable cladding materials, to name a few.
+
+    - question: What about parking?
+      answer: |
+        At the request of the town of Groton, we built a new gravel off-street parking lot with room for %parking_spaces% cars as part of Phase 1, in 2024--25. While this added some construction cost, it improved our relationship with our neighbors and gives Camelot visitors a better place to park.
+
+    - question: Will there be vehicle access to the bunkhouse?
+      answer: |
+        Regular property users will continue to park their vehicles near North Groton Road and hike in %walk_from_parking% to reach the Camelot buildings.  The bunkhouse access trail has steep grades and a loose surface, but seasonal access by construction vehicles may be possible.
+
+- id: people
+  title: Who's involved
+  questions:
+    - question: Who's running the project?
+      old_ids: [who-designed-the-new-bunkhouse, who-is-managing-this-project]
+      answer: |
+        The project is led by volunteers from the MITOC community, with active participation from MIT Facilities and the MIT Division of Student Life. The design is by Maclay Architects. For names and roles, see [Bunkhouse team](/camelot/about#leaders) on the About page.
+
+    - question: Who should I contact with a different question?
+      answer: |
+        Please email mitoc-bunkhouse@mit.edu.

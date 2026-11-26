@@ -1,3 +1,13 @@
 *.swp
 _site
 .DS_Store
+
+# Full-size originals of the bunkhouse photos and drawings. Web copies are in
+# images/bunkhouse/compressed/ (see _camelot_updates/how-to-add-a-bunkhouse-update.md).
+images/bunkhouse/Images and assets/
+
+# Local working files for the bunkhouse project (Word drafts, agendas)
+_bunkhouse_resources/
+
+# Local working notes (not part of the site)
+_notes/

@@ -6,3 +6,10 @@ https://mitoc.netlify.com/* https://mitoc.mit.edu/:splat 301!
 
 # Renamed pages
 /about/officers /about/board-of-directors 301
+
+# Camelot bunkhouse aliases
+/bunkhouse /camelot 301
+/bunkhouse/* /camelot 301
+/camelot/give /camelot/donate 301
+/camelot/overview /camelot/about 301
+/camelot/handouts /camelot/resources 301

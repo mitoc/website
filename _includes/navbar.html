@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
             </button>
             {% unless include.hide_root %}
-                <a class="navbar-brand" href="/">{{ site.title }}</a>
+                <a class="navbar-brand" href="{{ include.brand_href | default: '/' }}">{{ include.brand_title | default: site.title }}</a>
             {% endunless %}
         </div>
         <div class="collapse navbar-collapse">
@@ -24,19 +24,19 @@
                                         <li class="dropdown-header">{{ item.title }}</li>
                                     {% endif %}
                                     {% for sub_item in item.items %}
-                                        {% include menu-link.html item = sub_item %}
+                                        {% include menu-link.html item = sub_item highlight_active = include.highlight_active %}
                                     {% endfor %}
                                     {% if forloop.last == false %}
                                         <li class="divider"></li>
                                     {% endif %}
                                 {% else %}
-                                    {% include menu-link.html item = item %}
+                                    {% include menu-link.html item = item highlight_active = include.highlight_active %}
                                 {% endif %}
                             {% endfor %}
                         </ul>
                     </li>
                 {% else %}
-                    {% include menu-link.html item = tab %}
+                    {% include menu-link.html item = tab highlight_active = include.highlight_active %}
                 {% endif %}
             {% endfor %}
             </ul>
