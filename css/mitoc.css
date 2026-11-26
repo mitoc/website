@@ -1076,6 +1076,15 @@ p img {
   text-align: left;
 }
 
+/* Keyboard focus ring for the heading, which acts as the banner's expand/collapse
+   button. Mouse users don't see this; clicks anywhere on the wrapper still toggle. */
+.camelot-banner-heading:focus { outline: none; }
+.camelot-banner-heading:focus-visible {
+  outline: 2px solid #31708f;
+  outline-offset: 4px;
+  border-radius: 3px;
+}
+
 /* Which copy of the buttons shows:
      wide screens, collapsed:    beside the heading
      wide screens, expanded:     under the fundraising card

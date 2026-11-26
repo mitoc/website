@@ -2,6 +2,7 @@
 permalink: /camelot/project
 layout: bunkhouse
 title: Project details
+description: "Design details for the new Camelot bunkhouse: location, floor plan, composting toilets, heating, structure, and fire safety."
 ---
 
 * [Location](#location-on-the-property)

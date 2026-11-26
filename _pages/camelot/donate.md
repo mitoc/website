@@ -2,6 +2,7 @@
 permalink: /camelot/donate
 layout: bunkhouse
 title: Ways to give
+description: "How to give to the Camelot bunkhouse: online, by check, through employer matching, with stock, donor-advised funds, IRA gifts, or multi-year pledges."
 ---
 
 [Give online]({{ site.data.bunkhouse_settings.donate_link }}){: .bunkhouse-give-button}

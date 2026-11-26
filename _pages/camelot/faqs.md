@@ -2,6 +2,7 @@
 permalink: /camelot/faqs
 layout: bunkhouse
 title: Frequently asked questions
+description: "Answers to common questions about the Camelot bunkhouse: motivation, design, cost, funding, construction timeline, and future use."
 ---
 {% comment %}
   Questions and answers live in _data/bunkhouse_faqs.yml.

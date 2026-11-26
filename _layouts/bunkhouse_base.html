@@ -8,7 +8,7 @@
         <title>{% if page.title %}{{ page.title }} · {% endif %}Camelot bunkhouse · MITOC</title>
         {% capture share_title %}{% if page.title %}{{ page.title }} · {% endif %}Camelot bunkhouse · MITOC{% endcapture %}
         {% assign share_text = page.description | default: site.data.bunkhouse_settings.share_description %}
-        {% assign share_image = site.url | append: '/images/bunkhouse/bunkhouse-exterior-rendering.jpg' %}
+        {% assign share_image = site.url | append: '/images/bunkhouse/bunkhouse-exterior-rendering-share.jpg' %}
         <meta name="description" content="{{ share_text | escape }}">
         <meta property="og:type" content="website">
         <meta property="og:site_name" content="MITOC">
@@ -16,8 +16,8 @@
         <meta property="og:description" content="{{ share_text | escape }}">
         <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '.html' }}">
         <meta property="og:image" content="{{ share_image }}">
-        <meta property="og:image:width" content="2000">
-        <meta property="og:image:height" content="1123">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="674">
         <meta property="og:image:alt" content="Architect's drawing of the new Camelot bunkhouse">
         <meta name="twitter:card" content="summary_large_image">
         <link rel="shortcut icon" type="image/png" href="/images/favicon.ico">

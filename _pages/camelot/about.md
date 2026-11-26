@@ -2,6 +2,7 @@
 permalink: /camelot/about
 layout: bunkhouse
 title: About
+description: "Why MITOC is building a new bunkhouse at Camelot, what it will include, the project timeline, and who is leading the effort."
 ---
 
 ## Camelot today
