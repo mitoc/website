@@ -11,10 +11,10 @@ Construction began on the new parking lot, access trail, and bridge. This requir
 <div class="camelot-update-photos">
   <figure class="bunkhouse-figure">
     <img src="/images/bunkhouse/compressed/2024-11-phase-1-groundbreaking/groundbreaking-bridge.jpg" alt="The new bridge's concrete deck on stone abutments, beside the old wooden footbridge over the brook" loading="lazy">
-    <figcaption><!-- CAPTION NEEDED: web maintainer to write --></figcaption>
+    <figcaption>The new bridge's concrete deck rests on stone abutments, beside the old wooden footbridge over the brook.</figcaption>
   </figure>
   <figure class="bunkhouse-figure">
     <img src="/images/bunkhouse/compressed/2024-11-phase-1-groundbreaking/groundbreaking-trail.jpg" alt="The widened access trail through bare autumn woods, marked with string, with the Camelot cabin in the distance" loading="lazy">
-    <figcaption><!-- CAPTION NEEDED: web maintainer to write --></figcaption>
+    <figcaption>The widened access trail winds through the autumn woods, with the Camelot cabin visible in the distance.</figcaption>
   </figure>
 </div>
